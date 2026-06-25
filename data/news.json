@@ -3,7 +3,7 @@
     "source": "El Pitazo",
     "section": "Venezuela",
     "date": "2026-06-25",
-    "img": "",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-25-at-7.00.09-PM.jpeg",
     "titleEs": "Terremotos: policías se suman como voluntarios a las labores de rescate en el este de La Guaira",
     "titleEn": "Terremotos: policías se suman como voluntarios a las labores de rescate en el este de La Guaira",
     "url": "https://elpitazo.net/regiones/terremotos-policias-se-suman-como-voluntarios-a-las-labores-de-rescate-en-el-este-de-la-guaira/"
@@ -72,39 +72,30 @@
     "url": "https://efectococuyo.com/la-humanidad/reportan-saqueos-comercios-la-guaira-tras-dos-terremotos/"
   },
   {
-    "source": "Tal Cual",
+    "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-06-25",
-    "img": "https://talcualdigital.com/wp-content/uploads/2026/06/San-Bernardino-terremoto-25-junio-2026.jpg",
-    "titleEs": "Más de 15 países envían rescatistas y ayuda a Venezuela tras los terremotos",
-    "titleEn": "Más de 15 países envían rescatistas y ayuda a Venezuela tras los terremotos",
-    "url": "https://talcualdigital.com/mas-de-15-paises-envian-rescatistas-y-ayuda-a-venezuela-tras-los-terremotos/"
+    "img": "https://runrun.es/wp-content/uploads/2026/06/CENTROS-DE-ACOPIO.jpg",
+    "titleEs": "Se activan centros de acopio para ayudar a las víctimas de los terremotos",
+    "titleEn": "Se activan centros de acopio para ayudar a las víctimas de los terremotos",
+    "url": "https://runrun.es/noticias/612449/se-activan-centros-de-acopio-para-ayudar-a-las-victimas-de-los-terremotos/"
   },
   {
-    "source": "Tal Cual",
+    "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-06-25",
-    "img": "https://talcualdigital.com/wp-content/uploads/2026/06/Buscador-banner-1024x341.png",
-    "titleEs": "BUSCADOR | Reporta y encuentra a personas desaparecidas en los terremotos de Venezuela",
-    "titleEn": "BUSCADOR | Reporta y encuentra a personas desaparecidas en los terremotos de Venezuela",
-    "url": "https://talcualdigital.com/buscador-reporta-y-encuentra-a-personas-desaparecidas-en-los-terremotos-de-venezuela/"
+    "img": "https://runrun.es/wp-content/uploads/2026/06/aa651098-9a67-4dc2-8dba-913ad975b709.jpg",
+    "titleEs": "¿Cómo brindar primeros auxilios psicológicos en las primeras 24 horas tras un terremoto?",
+    "titleEn": "¿Cómo brindar primeros auxilios psicológicos en las primeras 24 horas tras un terremoto?",
+    "url": "https://runrun.es/noticias/612421/como-brindar-primeros-auxilios-psicologicos-en-las-primeras-24-horas-tras-un-terremoto/"
   },
   {
-    "source": "Tal Cual",
+    "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-06-25",
-    "img": "https://talcualdigital.com/wp-content/uploads/2026/06/terremotos-El-Carabobeno-2026.jpg",
-    "titleEs": "En el interior del país también se cuentan muertos y daños por los terremotos",
-    "titleEn": "En el interior del país también se cuentan muertos y daños por los terremotos",
-    "url": "https://talcualdigital.com/en-el-interior-del-pais-tambien-se-cuentan-muertos-y-danos-por-los-terremotos/"
-  },
-  {
-    "source": "Tal Cual",
-    "section": "Venezuela",
-    "date": "2026-06-25",
-    "img": "https://talcualdigital.com/wp-content/uploads/2026/06/El-carabobeno-terremotos-carabobo-2026.jpg",
-    "titleEs": "Terremotos dejan al menos 14 muertos y 67 heridos en el estado Carabobo",
-    "titleEn": "Terremotos dejan al menos 14 muertos y 67 heridos en el estado Carabobo",
-    "url": "https://talcualdigital.com/terremotos-dejan-al-menos-14-muertos-y-67-heridos-en-el-estado-carabobo/"
+    "img": "https://runrun.es/wp-content/uploads/2026/06/sanbernaridno.jpg",
+    "titleEs": "Doble terremoto en Venezuela: el peor evento sísmico en más de un siglo",
+    "titleEn": "Doble terremoto en Venezuela: el peor evento sísmico en más de un siglo",
+    "url": "https://runrun.es/noticias/612389/doble-terremoto-en-venezuela-el-peor-evento-sismico-en-mas-de-un-siglo/"
   }
 ]

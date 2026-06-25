@@ -139,6 +139,17 @@ function scanCasualties(title, cas) {
   if (x && (cas.missing === null || x > cas.missing)) cas.missing = x;
 }
 
+// Imagen de previsualización (og:image) de un artículo, cuando el RSS no trae imagen
+async function ogImage(url) {
+  try {
+    const html = await get(url, "text");
+    const m = html.match(/<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i)
+          || html.match(/<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image["']/i)
+          || html.match(/<meta[^>]+name=["']twitter:image["'][^>]+content=["']([^"']+)["']/i);
+    return m ? m[1].replace(/&amp;/g, "&") : "";
+  } catch (e) { return ""; }
+}
+
 async function fetchPress() {
   const news = [];
   const casualties = { deaths: null, injured: null, missing: null };
@@ -197,6 +208,8 @@ function writeIfNonEmpty(file, arr) {
 
   const updates = dedupe([...usgsA, ...rwebA], "url").slice(0, 8);
   const news = dedupe(pressNews, "url").slice(0, 12);
+  // Si una noticia no trae imagen en el RSS, buscar el og:image del artículo
+  await Promise.all(news.map(async (n) => { if (!n.img) n.img = await ogImage(n.url); }));
 
   writeIfNonEmpty("updates.json", updates);
   writeIfNonEmpty("news.json", news);

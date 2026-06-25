@@ -951,6 +951,27 @@ function copyLink(btn){
   (navigator.clipboard?navigator.clipboard.writeText(url):Promise.reject()).then(ok).catch(ok);
 }
 
+/* Analytics: push valuable interactions to dataLayer (consumed by GTM/GA4) */
+(function(){
+  window.dataLayer = window.dataLayer || [];
+  var push = function(o){ window.dataLayer.push(o); };
+  document.addEventListener('click', function(e){
+    var a = e.target.closest('a, button'); if(!a) return;
+    var href = a.getAttribute('href') || '';
+    var txt = (a.textContent || '').replace(/\s+/g,' ').trim();
+    if(a.closest('.lang')){ push({event:'language_switch', language:txt}); return; }
+    if(a.closest('.share')){ push({event:'share_click', method:txt.replace(/\s*↗/,'')}); return; }
+    if(href.indexOf('tel:')===0){ push({event:'emergency_call', phone:href.replace('tel:','')}); return; }
+    if(a.classList.contains('donate') && a.closest('#orgs')){
+      var card=a.closest('.card'); var h=card?card.querySelector('h3'):null;
+      push({event:'donate_click', organization:(h?h.textContent.trim():''), link_url:href}); return;
+    }
+    if(a.closest('#family')){ push({event:'family_reunification_click', link_url:href}); return; }
+    if(a.closest('#donde-ir')){ push({event:'find_help_click', link_url:href}); return; }
+    if(a.closest('#acopio')){ push({event:'acopio_click', link_url:href}); return; }
+  }, true);
+})();
+
 /* Optional refresh: when served over HTTP, pull fresh data/*.json (the hourly job writes these).
    If the files are missing or fail to load, the embedded seed above is used. */
 async function loadData(){

@@ -1,12 +1,19 @@
 {
-  "updatedAt": "2026-06-25T17:00:00.000Z",
+  "updatedAt": "2026-06-25T20:09:45.744Z",
   "stats": {
     "maxMagnitude": 7.5,
-    "aftershocks": 20,
+    "aftershocks": 4,
     "deaths": 188,
     "injured": 1520,
     "missing": 157
   },
-  "sources": { "usgs": 0, "reliefweb": 0, "press": 0 },
-  "counts": { "updates": 5, "news": 4 }
+  "sources": {
+    "usgs": 3,
+    "reliefweb": 0,
+    "press": 11
+  },
+  "counts": {
+    "updates": 3,
+    "news": 11
+  }
 }

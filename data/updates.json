@@ -1,57 +1,53 @@
 [
   {
-    "sourceEs": "USGS", "sourceEn": "USGS", "date": "2026-06-24",
-    "titleEs": "Doblete sísmico M7.2 + M7.5 en el centro-norte de Venezuela",
-    "titleEn": "M7.2 + M7.5 earthquake doublet in north-central Venezuela",
-    "sumEs": "El USGS confirma una réplica inicial M7.2 a 28 km al NO de Montalbán seguida ~40 s después por el sismo principal M7.5 a 23 km al SE de Yumare, a profundidad somera. El más fuerte en Venezuela en más de un siglo.",
-    "sumEn": "USGS confirms an initial M7.2 foreshock 28 km NW of Montalbán followed ~40s later by the M7.5 mainshock 23 km SE of Yumare, at shallow depth. The strongest in Venezuela in over a century.",
-    "areas": ["Yaracuy", "Carabobo", "Montalbán"],
-    "needsEs": ["Evaluación de daños", "Búsqueda y rescate"],
-    "needsEn": ["Damage assessment", "Search & rescue"],
+    "sourceEs": "USGS",
+    "sourceEn": "USGS",
+    "date": "2026-06-24",
+    "titleEs": "Sismo M7.5: 28 km SE of Yumare, Venezuela",
+    "titleEn": "M7.5 earthquake: 28 km SE of Yumare, Venezuela",
+    "sumEs": "El USGS reporta un sismo de magnitud 7.5. 28 km SE of Yumare, Venezuela.",
+    "sumEn": "USGS reports a magnitude 7.5 earthquake. 28 km SE of Yumare, Venezuela.",
+    "areas": [],
+    "needsEs": [
+      "Evaluación de daños"
+    ],
+    "needsEn": [
+      "Damage assessment"
+    ],
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7zp"
   },
   {
-    "sourceEs": "UN News / OCHA", "sourceEn": "UN News / OCHA", "date": "2026-06-25",
-    "titleEs": "La ONU pide un esfuerzo colectivo; despliegue rápido de equipos USAR",
-    "titleEn": "UN urges collective effort; rapid deployment of USAR teams",
-    "sumEs": "OCHA anuncia el despliegue rápido de equipos de búsqueda y rescate urbano a través de INSARAG. Naciones de la región y otros países ofrecen ayuda y rescatistas.",
-    "sumEn": "OCHA announces rapid deployment of urban search-and-rescue teams via INSARAG. Regional nations and others offer aid and rescuers.",
-    "areas": ["La Guaira", "Gran Caracas"],
-    "needsEs": ["Búsqueda y rescate", "Coordinación"],
-    "needsEn": ["Search & rescue", "Coordination"],
-    "url": "https://news.un.org/en/story/2026/06/1167805"
+    "sourceEs": "USGS",
+    "sourceEn": "USGS",
+    "date": "2026-06-24",
+    "titleEs": "Sismo M7.2: 23 km SE of Yumare, Venezuela",
+    "titleEn": "M7.2 earthquake: 23 km SE of Yumare, Venezuela",
+    "sumEs": "El USGS reporta un sismo de magnitud 7.2. 23 km SE of Yumare, Venezuela.",
+    "sumEn": "USGS reports a magnitude 7.2 earthquake. 23 km SE of Yumare, Venezuela.",
+    "areas": [],
+    "needsEs": [
+      "Evaluación de daños"
+    ],
+    "needsEn": [
+      "Damage assessment"
+    ],
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7zc"
   },
   {
-    "sourceEs": "IFRC / Cruz Roja Venezolana", "sourceEn": "IFRC / Venezuelan Red Cross", "date": "2026-06-25",
-    "titleEs": "La Cruz Roja responde a medida que surgen necesidades",
-    "titleEn": "Red Cross responds as needs emerge",
-    "sumEs": "La Cruz Roja Venezolana moviliza voluntarios para primeros auxilios, apoyo psicosocial y evaluación de necesidades en las zonas más afectadas.",
-    "sumEn": "The Venezuelan Red Cross mobilizes volunteers for first aid, psychosocial support, and needs assessment in the worst-hit areas.",
-    "areas": ["La Guaira", "Carabobo"],
-    "needsEs": ["Atención médica", "Apoyo psicosocial", "Agua y saneamiento"],
-    "needsEn": ["Medical care", "Psychosocial support", "Water & sanitation"],
-    "url": "https://www.ifrc.org/press-release/venezuela-red-cross-responds-needs-emerge-aftermath-powerful-back-back-earthquakes"
-  },
-  {
-    "sourceEs": "Direct Relief", "sourceEn": "Direct Relief", "date": "2026-06-25",
-    "titleEs": "Direct Relief moviliza ayuda médica para necesidades regionales",
-    "titleEn": "Direct Relief mobilizes medical aid for regional needs",
-    "sumEs": "Direct Relief se comunica con proveedores de salud y prepara entregas de medicinas de emergencia: manejo de heridas, insumos quirúrgicos, antibióticos y paquetes para médicos de campo.",
-    "sumEn": "Direct Relief is in contact with health providers and preparing emergency medicine deliveries: wound care, surgical supplies, antibiotics, and field-medic packs.",
-    "areas": ["Gran Caracas"],
-    "needsEs": ["Medicinas", "Insumos quirúrgicos"],
-    "needsEn": ["Medicines", "Surgical supplies"],
-    "url": "https://www.directrelief.org/2026/06/venezuela-earthquake-caracas-damage/"
-  },
-  {
-    "sourceEs": "Global Empowerment Mission", "sourceEn": "Global Empowerment Mission", "date": "2026-06-25",
-    "titleEs": "GEM e I Love Venezuela despliegan equipos de reconocimiento",
-    "titleEn": "GEM and I Love Venezuela deploy recon teams",
-    "sumEs": "GEM, junto a su socio local I Love Venezuela, moviliza equipos de reconocimiento y respuesta de emergencia para evaluar y entregar ayuda directa en el terreno.",
-    "sumEn": "GEM, with local partner I Love Venezuela, mobilizes recon and emergency-response teams to assess and deliver direct aid on the ground.",
-    "areas": ["La Guaira", "Gran Caracas"],
-    "needsEs": ["Logística", "Refugio", "Alimentos"],
-    "needsEn": ["Logistics", "Shelter", "Food"],
-    "url": "https://www.globalempowermentmission.org/mission/venezuela-earthquake/"
+    "sourceEs": "USGS",
+    "sourceEn": "USGS",
+    "date": "2026-06-24",
+    "titleEs": "Sismo M4.5: 13 km N of Caucagüito, Venezuela",
+    "titleEn": "M4.5 earthquake: 13 km N of Caucagüito, Venezuela",
+    "sumEs": "El USGS reporta un sismo de magnitud 4.5. 13 km N of Caucagüito, Venezuela.",
+    "sumEn": "USGS reports a magnitude 4.5 earthquake. 13 km N of Caucagüito, Venezuela.",
+    "areas": [],
+    "needsEs": [
+      "Evaluación de daños"
+    ],
+    "needsEn": [
+      "Damage assessment"
+    ],
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t80d"
   }
 ]

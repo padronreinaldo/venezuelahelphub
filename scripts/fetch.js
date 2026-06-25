@@ -21,9 +21,15 @@ const UA = "venezuela-relief-hub/1.0 (+https://venezuelareliefhub.org)";
 const KEYWORDS = /(sismo|terremoto|earthquake|réplica|replica|temblor)/i;
 
 const get = async (url, type = "json") => {
-  const r = await fetch(url, { headers: { "User-Agent": UA, Accept: "*/*" } });
-  if (!r.ok) throw new Error(`${r.status} ${url}`);
-  return type === "json" ? r.json() : r.text();
+  const ctrl = new AbortController();
+  const timer = setTimeout(() => ctrl.abort(), 15000); // 15s por fuente
+  try {
+    const r = await fetch(url, { headers: { "User-Agent": UA, Accept: "*/*" }, signal: ctrl.signal });
+    if (!r.ok) throw new Error(`${r.status} ${url}`);
+    return type === "json" ? await r.json() : await r.text();
+  } finally {
+    clearTimeout(timer);
+  }
 };
 
 /* ---------- 1) USGS: sismos recientes cerca de Venezuela ---------- */
@@ -73,46 +79,93 @@ async function fetchReliefWeb() {
 }
 
 /* ---------- 3) Prensa venezolana por RSS (El Pitazo) ---------- */
-const RSS_FEEDS = [{ name: "El Pitazo", url: "https://elpitazo.net/feed/" }];
+const RSS_FEEDS = [
+  { name: "El Pitazo", url: "https://elpitazo.net/feed/" },
+  { name: "Efecto Cocuyo", url: "https://efectococuyo.com/feed/" },
+  { name: "Tal Cual", url: "https://talcualdigital.com/feed/" },
+  { name: "Runrun.es", url: "https://runrun.es/feed/" }
+];
+
+// Decodifica entidades HTML comunes en los titulares (&#124; «» etc.)
+const decode = (s) => (s || "")
+  .replace(/&#(\d+);/g, (_, n) => String.fromCharCode(+n))
+  .replace(/&#x([0-9a-fA-F]+);/g, (_, n) => String.fromCharCode(parseInt(n, 16)))
+  .replace(/&amp;/g, "&").replace(/&quot;/g, '"').replace(/&#39;|&apos;/g, "'")
+  .replace(/&nbsp;/g, " ").replace(/&laquo;/g, "«").replace(/&raquo;/g, "»")
+  .replace(/&hellip;/g, "…").replace(/&ndash;/g, "–").replace(/&mdash;/g, "—");
 
 function parseRssItems(xml) {
   return [...xml.matchAll(/<item>([\s\S]*?)<\/item>/g)].map((m) => {
     const b = m[1];
     const pick = (re) => (b.match(re) || [, ""])[1].trim();
     const cdata = (s) => s.replace(/^<!\[CDATA\[/, "").replace(/\]\]>$/, "").trim();
-    const title = cdata(pick(/<title>([\s\S]*?)<\/title>/));
+    const title = decode(cdata(pick(/<title>([\s\S]*?)<\/title>/)));
     const link = cdata(pick(/<link>([\s\S]*?)<\/link>/));
     const date = pick(/<pubDate>([\s\S]*?)<\/pubDate>/);
     const content = pick(/<content:encoded>([\s\S]*?)<\/content:encoded>/);
     let img =
       pick(/<media:content[^>]*url="([^"]+)"/) ||
+      pick(/<media:thumbnail[^>]*url="([^"]+)"/) ||
       pick(/<enclosure[^>]*url="([^"]+)"/) ||
       (content.match(/<img[^>]*src="([^"]+)"/) || [, ""])[1];
     return { title, link, date, img };
   });
 }
 
+// USGS: estadísticas sísmicas (magnitud máxima y número de réplicas, últimos 7 días)
+async function fetchSeismicStats() {
+  const start = new Date(Date.now() - 7 * 864e5).toISOString().slice(0, 10);
+  const url =
+    "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson" +
+    "&latitude=10.5&longitude=-68.5&maxradiuskm=400&minmagnitude=2.5" +
+    `&starttime=${start}&orderby=magnitude`;
+  const j = await get(url);
+  const mags = (j.features || []).map((f) => f.properties.mag).filter((m) => typeof m === "number");
+  if (!mags.length) return {};
+  const maxMagnitude = Math.max(...mags);
+  const aftershocks = mags.filter((m) => m < maxMagnitude).length; // todo menos el sismo mayor
+  return { maxMagnitude: Number(maxMagnitude.toFixed(1)), aftershocks };
+}
+
+// Extrae cifras de víctimas de un titular ("188 muertos, 1.520 heridos y 157 desaparecidos")
+const toInt = (s) => parseInt(String(s).replace(/[.\s]/g, ""), 10);
+function scanCasualties(title, cas) {
+  const grab = (re) => { const m = title.match(re); return m ? toInt(m[1]) : null; };
+  const d = grab(/([\d][\d.\s]{0,9}\d|\d)\s*(?:muertos|fallecidos|decesos|muertes)/i);
+  const h = grab(/([\d][\d.\s]{0,9}\d|\d)\s*heridos/i);
+  const x = grab(/([\d][\d.\s]{0,9}\d|\d)\s*desaparecidos/i);
+  if (d && (cas.deaths === null || d > cas.deaths)) cas.deaths = d;
+  if (h && (cas.injured === null || h > cas.injured)) cas.injured = h;
+  if (x && (cas.missing === null || x > cas.missing)) cas.missing = x;
+}
+
 async function fetchPress() {
-  const out = [];
+  const news = [];
+  const casualties = { deaths: null, injured: null, missing: null };
   for (const feed of RSS_FEEDS) {
     try {
+      const origin = new URL(feed.url).origin;
       const xml = await get(feed.url, "text");
+      let added = 0;
       for (const it of parseRssItems(xml)) {
         if (!it.title || !KEYWORDS.test(it.title)) continue;
-        out.push({
-          source: feed.name, section: "Venezuela",
-          date: it.date ? new Date(it.date).toISOString().slice(0, 10) : "",
-          img: it.img || "",
-          titleEs: it.title, titleEn: it.title,
-          url: it.link,
-        });
-        if (out.length >= 8) break;
+        scanCasualties(it.title, casualties); // siempre escanea el balance de víctimas
+        if (added < 4) {                        // guarda solo 4 por medio para el carrusel
+          news.push({
+            source: feed.name, section: "Venezuela",
+            date: it.date ? new Date(it.date).toISOString().slice(0, 10) : "",
+            img: it.img ? new URL(it.img, origin).href : "",
+            titleEs: it.title, titleEn: it.title,
+            url: it.link,
+          });
+          added++;
+        }
       }
     } catch (e) {
       console.warn(`RSS ${feed.name} falló:`, e.message);
     }
   }
-  return out;
+  return { news, casualties };
 }
 
 /* ---------- utilidades ---------- */
@@ -131,15 +184,42 @@ function writeIfNonEmpty(file, arr) {
 }
 
 (async () => {
-  const settled = async (p) => { try { return await p; } catch (e) { console.warn(e.message); return []; } };
+  const settled = async (p) => { try { return await p; } catch (e) { console.warn(e.message); return null; } };
 
-  const [usgs, rweb, press] = await Promise.all([
-    settled(fetchUSGS()), settled(fetchReliefWeb()), settled(fetchPress()),
+  const [usgs, rweb, pressRes, seismicRes] = await Promise.all([
+    settled(fetchUSGS()), settled(fetchReliefWeb()), settled(fetchPress()), settled(fetchSeismicStats()),
   ]);
 
-  const updates = dedupe([...usgs, ...rweb], "url").slice(0, 8);
-  const news = dedupe(press, "url").slice(0, 8);
+  const usgsA = usgs || [], rwebA = rweb || [];
+  const pressNews = (pressRes && pressRes.news) || [];
+  const casualties = (pressRes && pressRes.casualties) || {};
+  const seismic = seismicRes || {};
+
+  const updates = dedupe([...usgsA, ...rwebA], "url").slice(0, 8);
+  const news = dedupe(pressNews, "url").slice(0, 12);
 
   writeIfNonEmpty("updates.json", updates);
   writeIfNonEmpty("news.json", news);
+
+  // Carry-forward: si esta corrida no obtuvo un dato, conserva el anterior (nunca regresa a vacío)
+  let prev = {};
+  try { prev = (JSON.parse(fs.readFileSync(path.join(OUT_DIR, "meta.json"), "utf8")).stats) || {}; } catch (e) {}
+  const pick = (a, b) => (a === undefined || a === null ? (b === undefined ? null : b) : a);
+  const stats = {
+    maxMagnitude: pick(seismic.maxMagnitude, prev.maxMagnitude),
+    aftershocks: pick(seismic.aftershocks, prev.aftershocks),
+    deaths: pick(casualties.deaths, prev.deaths),
+    injured: pick(casualties.injured, prev.injured),
+    missing: pick(casualties.missing, prev.missing),
+  };
+
+  const meta = {
+    updatedAt: new Date().toISOString(),
+    stats,
+    sources: { usgs: usgsA.length, reliefweb: rwebA.length, press: pressNews.length },
+    counts: { updates: updates.length, news: news.length }
+  };
+  fs.mkdirSync(OUT_DIR, { recursive: true });
+  fs.writeFileSync(path.join(OUT_DIR, "meta.json"), JSON.stringify(meta, null, 2) + "\n");
+  console.log("✓ meta.json:", meta.updatedAt, "| stats:", JSON.stringify(stats));
 })();

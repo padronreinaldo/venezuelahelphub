@@ -2,7 +2,9 @@ name: Actualizar datos cada hora
 
 on:
   schedule:
-    - cron: "0 * * * *"      # cada hora, minuto 0 (UTC). Cada 30 min: "0,30 * * * *"
+    # Cada 30 min (UTC). El cron de GitHub Actions es best-effort y a veces se salta
+    # corridas bajo carga; 30 min reduce el tiempo que el sitio se ve desactualizado.
+    - cron: "*/30 * * * *"
   workflow_dispatch: {}       # permite ejecutarlo a mano desde la pestaña Actions
 
 permissions:

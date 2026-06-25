@@ -49,5 +49,75 @@
       "Damage assessment"
     ],
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t80d"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-06-25",
+    "conf": "med",
+    "titleEs": "Terremotos: policías se suman como voluntarios a las labores de rescate en el este de La Guaira",
+    "titleEn": "Terremotos: policías se suman como voluntarios a las labores de rescate en el este de La Guaira",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/regiones/terremotos-policias-se-suman-como-voluntarios-a-las-labores-de-rescate-en-el-este-de-la-guaira/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-06-25",
+    "conf": "med",
+    "titleEs": "Bomberos de la ULA viajan a Caracas para apoyar a afectados por terremotos",
+    "titleEn": "Bomberos de la ULA viajan a Caracas para apoyar a afectados por terremotos",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/regiones/bomberos-de-la-ula-viajan-a-caracas-para-apoyar-a-afectados-por-terremotos/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-06-25",
+    "conf": "med",
+    "titleEs": "«Lo único que imaginé fue que el edificio se desplomaría»: el miedo que dejó el doble terremoto en Aragua",
+    "titleEn": "«Lo único que imaginé fue que el edificio se desplomaría»: el miedo que dejó el doble terremoto en Aragua",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/regiones/centro/lo-unico-que-imagine-fue-que-el-edificio-se-desplomaria-el-miedo-que-dejo-el-doble-terremoto-en-aragua/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-06-25",
+    "conf": "med",
+    "titleEs": "Terremoto en Venezuela | EE. UU. envía un equipo de respuesta de desastres y destina $150 millones",
+    "titleEn": "Terremoto en Venezuela | EE. UU. envía un equipo de respuesta de desastres y destina $150 millones",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/regiones/gran-caracas/terremoto-en-venezuela-ee-uu-envia-un-equipo-de-respuesta-de-desastres-y-destina-150-millones/"
+  },
+  {
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
+    "date": "2026-06-25",
+    "conf": "med",
+    "titleEs": "Guía psicológica para reducir el impacto emocional de un terremoto",
+    "titleEn": "Guía psicológica para reducir el impacto emocional de un terremoto",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://efectococuyo.com/la-humanidad/guia-psicologica-para-reducir-impacto-emocional-terremoto/"
   }
 ]

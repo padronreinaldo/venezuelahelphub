@@ -100,6 +100,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   .stat{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:16px;box-shadow:var(--shadow)}
   .stat .n{font-size:26px;font-weight:800;letter-spacing:-.5px;color:var(--brand)}
   .stat .l{font-size:13px;color:var(--muted);margin-top:2px}
+  .stat .prov{font-size:11px;line-height:1.3;color:var(--muted);margin-top:8px;padding-top:6px;border-top:1px solid var(--line);opacity:.85}
+  .stat .prov a{color:var(--brand);text-decoration:none;font-weight:600}
+  .stat .prov.stale{color:#b45309;font-style:italic}
 
   .panel{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:18px 18px;box-shadow:var(--shadow)}
   .grid-2{display:grid;gap:14px}
@@ -854,18 +857,40 @@ let NEWS = [
 
 /* Hero stats (auto-updated from data/meta.json: magnitud, réplicas, víctimas) */
 let STATS = { maxMagnitude:7.5, aftershocks:20, deaths:188, injured:1520, missing:157 };
+let PROV = {}; // procedencia por dato: { clave: {seenAt, source, url} }
+// Tiempo relativo real ("hace 12 min", "hace 2 d") a partir de un ISO
+function relTime(iso){
+  const ms=Date.now()-new Date(iso).getTime();
+  if(isNaN(ms)) return null;
+  const en=document.documentElement.lang==='en';
+  const min=Math.round(ms/60000);
+  if(min<1)  return en?'just now':'recién';
+  if(min<60) return en?`${min} min ago`:`hace ${min} min`;
+  const h=Math.round(min/60); if(h<24) return en?`${h} h ago`:`hace ${h} h`;
+  const d=Math.round(h/24);   return en?`${d} d ago`:`hace ${d} d`;
+}
+// Línea de procedencia bajo cada cifra: cuándo se confirmó y desde qué fuente (con enlace)
+function provLine(key){
+  const p=PROV[key], en=document.documentElement.lang==='en';
+  if(!p||!p.seenAt) return '<div class="prov stale">'+t('sin confirmación reciente','no recent confirmation')+'</div>';
+  const abs=new Date(p.seenAt).toLocaleString(en?'en-US':'es-VE',{day:'numeric',month:'short',hour:'2-digit',minute:'2-digit',timeZone:'America/Caracas'});
+  const when=(en?'Checked ':'Consultado ')+relTime(p.seenAt);
+  const src=p.source?(en?'Source: ':'Fuente: ')+p.source:'';
+  const tail=src?(p.url?' · <a href="'+p.url+'" target="_blank" rel="noopener">'+src+' ↗</a>':' · '+src):'';
+  return '<div class="prov" title="'+abs+' (hora Venezuela)">'+when+tail+'</div>';
+}
 function renderStats(){
   const el=document.getElementById('stats'); if(!el) return;
   const en=document.documentElement.lang==='en';
   const num=(n)=>Number(n).toLocaleString(en?'en-US':'es-VE');
   const cards=[];
-  if(STATS.maxMagnitude!=null) cards.push([STATS.maxMagnitude, t('Magnitud máxima (USGS)','Peak magnitude (USGS)')]);
-  if(STATS.aftershocks!=null)  cards.push([num(STATS.aftershocks), t('Réplicas (USGS · 7 días)','Aftershocks (USGS · 7 days)')]);
-  if(STATS.deaths!=null)       cards.push([num(STATS.deaths), t('Fallecidos*','Deaths*')]);
-  if(STATS.injured!=null)      cards.push([num(STATS.injured), t('Heridos*','Injured*')]);
-  if(STATS.missing!=null)      cards.push([num(STATS.missing), t('Desaparecidos*','Missing*')]);
-  cards.push([ORGS.length, t('Organizaciones verificadas','Verified organizations')]);
-  el.innerHTML = cards.map(c=>'<div class="stat"><div class="n">'+c[0]+'</div><div class="l">'+c[1]+'</div></div>').join('');
+  if(STATS.maxMagnitude!=null) cards.push(['maxMagnitude', STATS.maxMagnitude, t('Magnitud máxima (USGS)','Peak magnitude (USGS)')]);
+  if(STATS.aftershocks!=null)  cards.push(['aftershocks', num(STATS.aftershocks), t('Réplicas (USGS · 7 días)','Aftershocks (USGS · 7 days)')]);
+  if(STATS.deaths!=null)       cards.push(['deaths', num(STATS.deaths), t('Fallecidos*','Deaths*')]);
+  if(STATS.injured!=null)      cards.push(['injured', num(STATS.injured), t('Heridos*','Injured*')]);
+  if(STATS.missing!=null)      cards.push(['missing', num(STATS.missing), t('Desaparecidos*','Missing*')]);
+  cards.push([null, ORGS.length, t('Organizaciones verificadas','Verified organizations')]);
+  el.innerHTML = cards.map(c=>'<div class="stat"><div class="n">'+c[1]+'</div><div class="l">'+c[2]+'</div>'+(c[0]?provLine(c[0]):'')+'</div>').join('');
 }
 function renderNews(){
   const el=document.getElementById('news-carousel'); if(!el) return; el.innerHTML='';
@@ -996,7 +1021,9 @@ async function loadData(){
     ]);
     if(Array.isArray(u)&&u.length){UPDATES=u; renderFeed();}
     if(Array.isArray(n)&&n.length){NEWS=n; renderNews();}
-    if(m&&m.stats){for(const k in m.stats){if(m.stats[k]!=null)STATS[k]=m.stats[k];} renderStats();}
+    if(m&&m.stats){for(const k in m.stats){if(m.stats[k]!=null)STATS[k]=m.stats[k];}}
+    if(m&&m.prov){PROV=m.prov;}
+    if(m&&(m.stats||m.prov)){renderStats();}
     if(m&&m.updatedAt){LAST_UPDATED=m.updatedAt; stampDate();}
   }catch(e){/* keep embedded seed */}
 }

@@ -55,10 +55,16 @@ async function fetchUSGS() {
   });
 }
 
-/* ---------- 2) ReliefWeb / OCHA ---------- */
+/* ---------- 2) ReliefWeb / OCHA ----------
+ * NOTA: la API v1 fue decomisionada (HTTP 410) y la v2 exige un `appname` APROBADO
+ * por ReliefWeb (de lo contrario responde 403). Solicita el tuyo aquí y reemplázalo:
+ *   https://apidoc.reliefweb.int/parameters#appname
+ * Mientras el appname no esté aprobado, esta fuente devuelve 403 y simplemente no
+ * aporta ítems (el feed "Actualizaciones" se nutre de USGS + prensa, ver más abajo). */
+const RW_APPNAME = process.env.RELIEFWEB_APPNAME || "venezuela-relief-hub";
 async function fetchReliefWeb() {
   const url =
-    "https://api.reliefweb.int/v1/reports?appname=venezuela-relief-hub" +
+    `https://api.reliefweb.int/v2/reports?appname=${encodeURIComponent(RW_APPNAME)}` +
     "&query[value]=Venezuela%20earthquake&query[operator]=AND" +
     "&sort[]=date:desc&limit=6" +
     "&fields[include][]=title&fields[include][]=url_alias&fields[include][]=source.name&fields[include][]=date.created";
@@ -103,12 +109,14 @@ function parseRssItems(xml) {
     const link = cdata(pick(/<link>([\s\S]*?)<\/link>/));
     const date = pick(/<pubDate>([\s\S]*?)<\/pubDate>/);
     const content = pick(/<content:encoded>([\s\S]*?)<\/content:encoded>/);
+    // Resumen del feed: útil para extraer cifras de víctimas cuando no están en el título
+    const desc = decode(cdata(pick(/<description>([\s\S]*?)<\/description>/))).replace(/<[^>]+>/g, " ");
     let img =
       pick(/<media:content[^>]*url="([^"]+)"/) ||
       pick(/<media:thumbnail[^>]*url="([^"]+)"/) ||
       pick(/<enclosure[^>]*url="([^"]+)"/) ||
       (content.match(/<img[^>]*src="([^"]+)"/) || [, ""])[1];
-    return { title, link, date, img };
+    return { title, link, date, img, desc };
   });
 }
 
@@ -124,19 +132,23 @@ async function fetchSeismicStats() {
   if (!mags.length) return {};
   const maxMagnitude = Math.max(...mags);
   const aftershocks = mags.filter((m) => m < maxMagnitude).length; // todo menos el sismo mayor
-  return { maxMagnitude: Number(maxMagnitude.toFixed(1)), aftershocks };
+  // URL del evento de mayor magnitud, para citar la fuente USGS exacta
+  const biggest = (j.features || []).find((f) => f.properties.mag === maxMagnitude);
+  const eventUrl = biggest?.properties?.url || "https://earthquake.usgs.gov/earthquakes/map/";
+  return { maxMagnitude: Number(maxMagnitude.toFixed(1)), aftershocks, url: eventUrl };
 }
 
-// Extrae cifras de víctimas de un titular ("188 muertos, 1.520 heridos y 157 desaparecidos")
+// Extrae cifras de víctimas de un texto ("188 muertos, 1.520 heridos y 157 desaparecidos")
+// y registra de QUÉ fuente y URL salió cada cifra, para mostrar procedencia en el sitio.
 const toInt = (s) => parseInt(String(s).replace(/[.\s]/g, ""), 10);
-function scanCasualties(title, cas) {
-  const grab = (re) => { const m = title.match(re); return m ? toInt(m[1]) : null; };
+function scanCasualties(text, cas, source, url) {
+  const grab = (re) => { const m = text.match(re); return m ? toInt(m[1]) : null; };
   const d = grab(/([\d][\d.\s]{0,9}\d|\d)\s*(?:muertos|fallecidos|decesos|muertes)/i);
   const h = grab(/([\d][\d.\s]{0,9}\d|\d)\s*heridos/i);
   const x = grab(/([\d][\d.\s]{0,9}\d|\d)\s*desaparecidos/i);
-  if (d && (cas.deaths === null || d > cas.deaths)) cas.deaths = d;
-  if (h && (cas.injured === null || h > cas.injured)) cas.injured = h;
-  if (x && (cas.missing === null || x > cas.missing)) cas.missing = x;
+  // Guarda el valor mayor visto en esta corrida junto con su fuente/URL
+  const set = (key, v) => { if (v != null && (cas[key].value == null || v > cas[key].value)) cas[key] = { value: v, source, url }; };
+  set("deaths", d); set("injured", h); set("missing", x);
 }
 
 // Imagen de previsualización (og:image) de un artículo, cuando el RSS no trae imagen
@@ -152,7 +164,11 @@ async function ogImage(url) {
 
 async function fetchPress() {
   const news = [];
-  const casualties = { deaths: null, injured: null, missing: null };
+  const casualties = {
+    deaths:  { value: null, source: null, url: null },
+    injured: { value: null, source: null, url: null },
+    missing: { value: null, source: null, url: null },
+  };
   for (const feed of RSS_FEEDS) {
     try {
       const origin = new URL(feed.url).origin;
@@ -160,7 +176,8 @@ async function fetchPress() {
       let added = 0;
       for (const it of parseRssItems(xml)) {
         if (!it.title || !KEYWORDS.test(it.title)) continue;
-        scanCasualties(it.title, casualties); // siempre escanea el balance de víctimas
+        // escanea título + resumen del feed y recuerda fuente/URL de cada cifra
+        scanCasualties(`${it.title} ${it.desc || ""}`, casualties, feed.name, it.link);
         if (added < 4) {                        // guarda solo 4 por medio para el carrusel
           news.push({
             source: feed.name, section: "Venezuela",
@@ -177,6 +194,30 @@ async function fetchPress() {
     }
   }
   return { news, casualties };
+}
+
+/* ---------- 4) Wikipedia (ES): balance oficial estructurado ----------
+ * El infobox del artículo trae el campo |víctimas con muertos/heridos citando el parte
+ * oficial. Es una fuente estructurada y parseable (a diferencia del raspado de titulares).
+ * Usamos la versión ES a propósito: la EN ha llegado a mostrar cifras anómalas (p.ej. miles
+ * de "desaparecidos" confundidos con desplazados). Aun así aplicamos guardas de cordura. */
+const WIKI_PAGE = "Terremotos_de_Venezuela_de_2026";
+const WIKI_URL = `https://es.wikipedia.org/wiki/${WIKI_PAGE}`;
+async function fetchWikipediaCasualties() {
+  const api = `https://es.wikipedia.org/w/api.php?action=parse&page=${WIKI_PAGE}&prop=wikitext&format=json&formatversion=2`;
+  const j = await get(api);
+  const wt = j?.parse?.wikitext || "";
+  const m = wt.match(/\|\s*v[íi]ctimas\s*=\s*([\s\S]*?)(?=\n\s*\|\s*\w|\n\}\})/i);
+  const field = m ? m[1] : "";
+  if (!field) return {};
+  const grab = (re) => { const x = field.match(re); return x ? toInt(x[1]) : null; };
+  const pos = (n) => (typeof n === "number" && n > 0 ? n : null); // descarta 0/None
+  return {
+    deaths:  pos(grab(/\+?\s*([\d][\d.\s,]*\d|\d)\s*(?:muertos|fallecidos|muertes|decesos)/i)),
+    injured: pos(grab(/\+?\s*([\d][\d.\s,]*\d|\d)\s*heridos/i)),
+    missing: pos(grab(/\+?\s*([\d][\d.\s,]*\d|\d)\s*desaparecidos/i)),
+    source: "Wikipedia (ES)", url: WIKI_URL,
+  };
 }
 
 /* ---------- utilidades ---------- */
@@ -197,16 +238,42 @@ function writeIfNonEmpty(file, arr) {
 (async () => {
   const settled = async (p) => { try { return await p; } catch (e) { console.warn(e.message); return null; } };
 
-  const [usgs, rweb, pressRes, seismicRes] = await Promise.all([
-    settled(fetchUSGS()), settled(fetchReliefWeb()), settled(fetchPress()), settled(fetchSeismicStats()),
+  const [usgs, rweb, pressRes, seismicRes, wikiRes] = await Promise.all([
+    settled(fetchUSGS()), settled(fetchReliefWeb()), settled(fetchPress()),
+    settled(fetchSeismicStats()), settled(fetchWikipediaCasualties()),
   ]);
 
   const usgsA = usgs || [], rwebA = rweb || [];
   const pressNews = (pressRes && pressRes.news) || [];
-  const casualties = (pressRes && pressRes.casualties) || {};
+  const press = (pressRes && pressRes.casualties) || {};
   const seismic = seismicRes || {};
+  const wiki = wikiRes || {};
 
-  const updates = dedupe([...usgsA, ...rwebA], "url").slice(0, 8);
+  // Cifras de víctimas: prioridad a la fuente ESTRUCTURADA (Wikipedia, que cita el parte
+  // oficial); si una cifra no está ahí, se usa el raspado de prensa como respaldo.
+  const fromWiki = (key) =>
+    wiki[key] != null ? { value: wiki[key], source: wiki.source, url: wiki.url, official: true } : null;
+  const casualties = {
+    deaths:  fromWiki("deaths")  || press.deaths  || { value: null, source: null, url: null },
+    injured: fromWiki("injured") || press.injured || { value: null, source: null, url: null },
+    missing: fromWiki("missing") || press.missing || { value: null, source: null, url: null },
+  };
+
+  // El feed "Actualizaciones" combina USGS + ReliefWeb (institucional) y, para que no
+  // se congele cuando esas fuentes no traen nada nuevo, lo completa con prensa reciente.
+  const pressToUpdate = (n) => ({
+    sourceEs: n.source, sourceEn: n.source,
+    date: n.date, conf: "med",
+    titleEs: n.titleEs, titleEn: n.titleEn,
+    sumEs: `Cobertura de ${n.source} sobre el sismo. Lee la nota completa en la fuente original.`,
+    sumEn: `Coverage from ${n.source} about the earthquake. Read the full story at the original source.`,
+    areas: [], needsEs: [], needsEn: [],
+    url: n.url,
+  });
+  const updates = dedupe(
+    [...usgsA, ...rwebA, ...pressNews.map(pressToUpdate)],
+    "url"
+  ).slice(0, 8);
   const news = dedupe(pressNews, "url").slice(0, 12);
   // Si una noticia no trae imagen en el RSS, buscar el og:image del artículo
   await Promise.all(news.map(async (n) => { if (!n.img) n.img = await ogImage(n.url); }));
@@ -214,22 +281,59 @@ function writeIfNonEmpty(file, arr) {
   writeIfNonEmpty("updates.json", updates);
   writeIfNonEmpty("news.json", news);
 
-  // Carry-forward: si esta corrida no obtuvo un dato, conserva el anterior (nunca regresa a vacío)
-  let prev = {};
-  try { prev = (JSON.parse(fs.readFileSync(path.join(OUT_DIR, "meta.json"), "utf8")).stats) || {}; } catch (e) {}
-  const pick = (a, b) => (a === undefined || a === null ? (b === undefined ? null : b) : a);
-  const stats = {
-    maxMagnitude: pick(seismic.maxMagnitude, prev.maxMagnitude),
-    aftershocks: pick(seismic.aftershocks, prev.aftershocks),
-    deaths: pick(casualties.deaths, prev.deaths),
-    injured: pick(casualties.injured, prev.injured),
-    missing: pick(casualties.missing, prev.missing),
+  // Procedencia por dato: cada cifra recuerda CUÁNDO se confirmó por última vez desde una
+  // fuente real (seenAt) y DE QUÉ fuente (source + url). Si esta corrida no la confirma,
+  // se conserva el valor anterior CON su hora real (no se finge que es de ahora).
+  const now = new Date().toISOString();
+  let prev = {}, prevProv = {};
+  try {
+    const pm = JSON.parse(fs.readFileSync(path.join(OUT_DIR, "meta.json"), "utf8"));
+    prev = pm.stats || {}; prevProv = pm.prov || {};
+  } catch (e) {}
+
+  // Lo OBSERVADO en esta corrida (o null si la fuente no lo trajo)
+  const usgsUrl = seismic.url || "https://earthquake.usgs.gov/earthquakes/map/";
+  const obs = {
+    maxMagnitude: seismic.maxMagnitude != null ? { value: seismic.maxMagnitude, source: "USGS", url: usgsUrl } : null,
+    aftershocks:  seismic.aftershocks  != null ? { value: seismic.aftershocks,  source: "USGS", url: usgsUrl } : null,
+    deaths:  casualties.deaths?.value  != null ? casualties.deaths  : null, // puede traer .official
+    injured: casualties.injured?.value != null ? casualties.injured : null,
+    missing: casualties.missing?.value != null ? casualties.missing : null,
   };
 
+  // Muertos/heridos solo crecen: si el dato nuevo es menor que el vigente, se ignora (no retrocede).
+  const MONOTONIC = new Set(["deaths", "injured"]);
+  const CASUALTY = new Set(["deaths", "injured", "missing"]);
+  // Guarda anti-vandalismo: descarta un salto absurdo (>20x) sobre un valor ya consolidado.
+  const plausible = (key, val, pv) =>
+    !(CASUALTY.has(key) && typeof pv === "number" && pv >= 50 && val > pv * 20);
+  const stats = {}, prov = {};
+  for (const key of ["maxMagnitude", "aftershocks", "deaths", "injured", "missing"]) {
+    const cur = obs[key];                 // {value,source,url} observado ahora, o null
+    const pv = prev[key];                 // valor anterior (número o null)
+    const pp = prevProv[key] || {};       // procedencia anterior
+    if (cur && !plausible(key, cur.value, pv)) {
+      console.warn(`⚠ ${key}=${cur.value} descartado por salto improbable (previo ${pv}, fuente ${cur.source}).`);
+    }
+    // Una fuente oficial estructurada (cur.official) puede corregir hacia arriba o abajo;
+    // la prensa, en cambio, es monótona para muertos/heridos (un titular viejo no baja la cifra).
+    if (cur && plausible(key, cur.value, pv) && (cur.official || !MONOTONIC.has(key) || pv == null || cur.value >= pv)) {
+      stats[key] = cur.value;             // confirmado AHORA por una fuente
+      prov[key] = { seenAt: now, source: cur.source, url: cur.url };
+    } else if (pv != null) {
+      stats[key] = pv;                    // no se confirmó ahora: conserva valor y su hora real
+      prov[key] = { seenAt: pp.seenAt || null, source: pp.source || null, url: pp.url || null };
+    } else {
+      stats[key] = null;
+      prov[key] = {};
+    }
+  }
+
   const meta = {
-    updatedAt: new Date().toISOString(),
+    updatedAt: now,
     stats,
-    sources: { usgs: usgsA.length, reliefweb: rwebA.length, press: pressNews.length },
+    prov,
+    sources: { usgs: usgsA.length, reliefweb: rwebA.length, press: pressNews.length, wikipedia: wiki.deaths != null || wiki.injured != null ? 1 : 0 },
     counts: { updates: updates.length, news: news.length }
   };
   fs.mkdirSync(OUT_DIR, { recursive: true });

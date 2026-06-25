@@ -73,15 +73,26 @@ El dominio `helpvenezuela.info` está registrado en **GoDaddy**. DNS configurado
 El **workflow** `.github/workflows/fetch.yml` corre con cron `0 * * * *` (cada hora, UTC) y también a mano (*Actions → Run workflow*):
 
 1. Ejecuta `node scripts/fetch.js`.
-2. `fetch.js` consulta **solo fuentes legítimas**: USGS (sismos y réplicas), y prensa venezolana por RSS (El Pitazo, Efecto Cocuyo, Tal Cual, Runrun.es). Para cada noticia sin imagen, toma el `og:image` del artículo.
-3. Escribe `data/updates.json`, `data/news.json` y `data/meta.json`. Si una fuente falla, **conserva los datos anteriores** (nunca deja la web vacía).
+2. Consulta **solo fuentes legítimas**:
+   - **USGS** — sismos cerca de Venezuela (feed de actualizaciones) y la magnitud máxima + nº de réplicas de los últimos 7 días.
+   - **Prensa venezolana (RSS)** — El Pitazo, Efecto Cocuyo, Tal Cual, Runrun.es (titulares con imagen). Para cada noticia sin imagen toma el `og:image` del artículo.
+   - **Wikipedia (ES)** — balance de víctimas estructurado (campo `víctimas` del infobox, que cita el parte oficial); es la fuente principal de las cifras.
+   - **ReliefWeb / OCHA** — requiere un `appname` aprobado por ReliefWeb; mientras no lo esté, responde 403 y esa fuente no aporta ítems (se configura en la variable de entorno `RELIEFWEB_APPNAME`).
+3. Escribe `data/updates.json`, `data/news.json` y `data/meta.json`. Si una fuente falla o no trae nada, **conserva los datos anteriores** (nunca deja la web vacía).
 4. Hace commit y push de los `data/*.json` → GitHub Pages redespliega.
 
 **Sin aprobación humana:** si viene de una fuente de la lista, entra; siempre con enlace a la fuente original.
 
+### Cifras de víctimas (fallecidos / heridos / desaparecidos)
+Prioriza la fuente **estructurada** (Wikipedia ES, que cita el balance oficial) y usa el raspado de titulares de prensa como respaldo, con salvaguardas:
+- **Monótonas:** fallecidos y heridos solo suben (un titular viejo no baja la cifra); una fuente oficial estructurada sí puede corregir hacia abajo.
+- **Anti-vandalismo:** descarta saltos absurdos (>20×) sobre un valor ya consolidado.
+- **Procedencia:** cada cifra guarda en `meta.json → prov` de qué fuente salió, su URL y **cuándo se confirmó por última vez** (no se finge que es de ahora si no se reconfirmó en la corrida).
+
 ### Datos dinámicos en la web (`data/meta.json`)
 - **`updatedAt`** → la web muestra la **hora exacta** de la última actualización ("Última actualización… hora de Venezuela"). Se reescribe en cada corrida.
 - **`stats`** → las tarjetas del hero (magnitud máxima, réplicas, fallecidos, heridos, desaparecidos) se actualizan solas desde aquí.
+- **`prov`** → fuente, URL y hora de confirmación de cada cifra.
 
 `index.html` carga estos JSON al abrir; si no existen o fallan, usa los datos embebidos de respaldo.
 

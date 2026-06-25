@@ -77,15 +77,20 @@
   .updated{margin-top:16px;font-size:12.5px;color:#a9c4cf}
 
   /* Hero seismograph art */
-  .hero{position:relative;overflow:hidden}
-  .hero .wrap{position:relative;z-index:2}
-  .hero-art{position:absolute;inset:0;width:100%;height:100%;pointer-events:none;z-index:1}
-  .hero-art .seis-a{fill:none;stroke:#8fd6e6;stroke-width:2.5;opacity:.4}
-  .hero-art .seis-b{fill:none;stroke:#bfe6ef;stroke-width:1.5;opacity:.16}
-  .hero-art .grid{stroke:rgba(255,255,255,.05);stroke-width:1}
+  .hero{position:relative;overflow:hidden;isolation:isolate;padding-bottom:150px}
+  .hero::before{content:"";position:absolute;z-index:0;top:-25%;left:-8%;width:65%;height:120%;
+    background:radial-gradient(closest-side,rgba(45,170,190,.42),rgba(45,170,190,0) 70%);pointer-events:none}
+  .hero .wrap{position:relative;z-index:3}
+  .hero-art{position:absolute;left:0;right:0;bottom:0;width:100%;height:200px;pointer-events:none;z-index:1}
+  .hero-art .seis-a{fill:none;stroke:#9fe0ee;stroke-width:2.5;opacity:.9;filter:drop-shadow(0 0 6px rgba(143,214,230,.5))}
+  .hero-art .seis-b{fill:none;stroke:#bfe6ef;stroke-width:1.5;opacity:.22}
+  .hero-art .grid{stroke:rgba(255,255,255,.06);stroke-width:1}
+  .hero-art .base{stroke:rgba(255,255,255,.16);stroke-width:1}
   .hero-art .epi-core{fill:#ff6b5e}
-  .hero-art .epi-lbl{fill:#ffd2cc;font:700 16px -apple-system,Segoe UI,Roboto,sans-serif;letter-spacing:.04em}
-  @media(max-width:680px){.hero-art{opacity:.7}}
+  .hero-art .epi-lbl{fill:#ffd2cc;font:800 17px -apple-system,Segoe UI,Roboto,sans-serif;letter-spacing:.06em}
+  .hero-fade{position:absolute;left:0;right:0;bottom:0;height:70px;z-index:2;pointer-events:none;background:linear-gradient(180deg,rgba(13,58,82,0),rgba(13,58,82,.6))}
+  .hero h1{font-size:clamp(26px,5.6vw,46px)}
+  @media(min-width:760px){.hero-art{height:240px}.hero{padding-bottom:170px}}
 
   /* Sections */
   section{padding:42px 0}
@@ -155,6 +160,10 @@
   .conf.hi{background:var(--ok-bg);color:var(--ok)}.conf.med{background:var(--warn-bg);color:var(--warn)}
   .rev{display:inline-flex;align-items:center;gap:5px;font-size:11.5px;font-weight:700;color:var(--ok)}
   .update .foot{display:flex;flex-wrap:wrap;gap:12px;align-items:center;justify-content:space-between;border-top:1px solid var(--line);padding-top:10px}
+
+  /* Line icons (serious, no emoji) */
+  .needlist .ic svg{width:14px;height:14px;stroke:var(--brand);fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+  .notice .ico svg{width:20px;height:20px;stroke:currentColor;fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;display:block}
 
   /* News carousel */
   .news-wrap{position:relative}
@@ -233,30 +242,31 @@
 <a id="top"></a>
 <!-- HERO -->
 <section class="hero" style="padding-top:30px">
-  <svg class="hero-art" viewBox="0 0 1200 360" preserveAspectRatio="xMidYMid slice" aria-hidden="true" focusable="false">
+  <svg class="hero-art" viewBox="0 0 1200 200" preserveAspectRatio="none" aria-hidden="true" focusable="false">
     <g class="grid">
-      <line x1="120" y1="0" x2="120" y2="360"/><line x1="240" y1="0" x2="240" y2="360"/>
-      <line x1="360" y1="0" x2="360" y2="360"/><line x1="480" y1="0" x2="480" y2="360"/>
-      <line x1="600" y1="0" x2="600" y2="360"/><line x1="720" y1="0" x2="720" y2="360"/>
-      <line x1="840" y1="0" x2="840" y2="360"/><line x1="960" y1="0" x2="960" y2="360"/>
-      <line x1="1080" y1="0" x2="1080" y2="360"/>
-      <line x1="0" y1="180" x2="1200" y2="180"/>
+      <line x1="120" y1="0" x2="120" y2="200"/><line x1="240" y1="0" x2="240" y2="200"/>
+      <line x1="360" y1="0" x2="360" y2="200"/><line x1="480" y1="0" x2="480" y2="200"/>
+      <line x1="600" y1="0" x2="600" y2="200"/><line x1="720" y1="0" x2="720" y2="200"/>
+      <line x1="840" y1="0" x2="840" y2="200"/><line x1="960" y1="0" x2="960" y2="200"/>
+      <line x1="1080" y1="0" x2="1080" y2="200"/>
     </g>
-    <polyline class="seis-b" points="0,230 60,229 120,231 180,228 240,232 300,229 360,231 420,226 470,246 500,208 525,256 550,198 575,252 600,214 640,236 700,229 780,231 860,229 940,231 1020,230 1120,230 1200,230"/>
-    <polyline class="seis-a" points="0,180 50,178 100,182 150,179 200,181 250,177 300,183 350,176 400,184 450,168 490,205 520,146 545,238 565,92 585,262 605,66 625,278 645,102 665,252 685,138 710,212 740,178 780,182 820,179 870,181 920,179 970,181 1020,180 1080,180 1140,180 1200,180"/>
+    <line class="base" x1="0" y1="120" x2="1200" y2="120"/>
+    <polyline class="seis-b" points="0,150 80,149 160,151 240,148 320,152 400,149 470,160 510,140 540,166 570,138 600,162 640,146 700,151 800,149 900,151 1000,150 1100,150 1200,150"/>
+    <polyline class="seis-a" points="0,120 40,118 80,122 120,119 160,121 200,118 240,122 280,117 320,123 360,118 400,122 440,116 480,128 510,150 530,58 550,172 568,38 586,180 604,32 622,184 640,68 660,158 682,98 705,135 730,118 770,122 810,119 850,121 900,119 950,121 1000,120 1060,120 1120,120 1200,120"/>
     <g>
-      <circle class="epi-core" cx="605" cy="180" r="6"/>
-      <circle cx="605" cy="180" r="6" fill="none" stroke="#ff6b5e" stroke-width="2">
-        <animate attributeName="r" values="6;72" dur="2.8s" repeatCount="indefinite"/>
+      <circle class="epi-core" cx="604" cy="120" r="6"/>
+      <circle cx="604" cy="120" r="6" fill="none" stroke="#ff6b5e" stroke-width="2.5">
+        <animate attributeName="r" values="6;58" dur="2.8s" repeatCount="indefinite"/>
         <animate attributeName="opacity" values="0.85;0" dur="2.8s" repeatCount="indefinite"/>
       </circle>
-      <circle cx="605" cy="180" r="6" fill="none" stroke="#ff6b5e" stroke-width="2">
-        <animate attributeName="r" values="6;72" dur="2.8s" begin="1.4s" repeatCount="indefinite"/>
+      <circle cx="604" cy="120" r="6" fill="none" stroke="#ff6b5e" stroke-width="2.5">
+        <animate attributeName="r" values="6;58" dur="2.8s" begin="1.4s" repeatCount="indefinite"/>
         <animate attributeName="opacity" values="0.85;0" dur="2.8s" begin="1.4s" repeatCount="indefinite"/>
       </circle>
-      <text class="epi-lbl" x="624" y="158">M 7.5</text>
+      <text class="epi-lbl" x="624" y="96">M 7.5</text>
     </g>
   </svg>
+  <div class="hero-fade"></div>
   <div class="wrap">
     <span class="pill"><span class="dot"></span>
       <span data-es>Respuesta de emergencia activa · Terremotos del 24 de junio de 2026</span>
@@ -307,10 +317,10 @@
       <div class="panel">
         <div class="eyebrow"><span data-es>Necesidades urgentes</span><span data-en>Urgent needs</span></div>
         <ul class="needlist">
-          <li><span class="ic">🏥</span><span data-es><b>Médicas:</b> insumos quirúrgicos, manejo de heridas, antibióticos, equipos para primeros respondientes.</span><span data-en><b>Medical:</b> surgical supplies, wound care, antibiotics, first-responder field kits.</span></li>
-          <li><span class="ic">🏠</span><span data-es><b>Refugio:</b> alojamiento temporal para familias desplazadas por colapsos de edificios.</span><span data-en><b>Shelter:</b> temporary housing for families displaced by building collapses.</span></li>
-          <li><span class="ic">💧</span><span data-es><b>Agua y alimentos:</b> agua potable, kits de alimentos y saneamiento.</span><span data-en><b>Food &amp; water:</b> clean water, food kits, and sanitation.</span></li>
-          <li><span class="ic">⛑️</span><span data-es><b>Búsqueda y rescate:</b> equipos USAR internacionales desplegados vía OCHA/INSARAG.</span><span data-en><b>Search &amp; rescue:</b> international USAR teams deployed via OCHA/INSARAG.</span></li>
+          <li><span class="ic"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 6v12M6 12h12"/></svg></span><span data-es><b>Médicas:</b> insumos quirúrgicos, manejo de heridas, antibióticos, equipos para primeros respondientes.</span><span data-en><b>Medical:</b> surgical supplies, wound care, antibiotics, first-responder field kits.</span></li>
+          <li><span class="ic"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 11l8-6 8 6M6 10v9h12v-9"/></svg></span><span data-es><b>Refugio:</b> alojamiento temporal para familias desplazadas por colapsos de edificios.</span><span data-en><b>Shelter:</b> temporary housing for families displaced by building collapses.</span></li>
+          <li><span class="ic"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3s6 6.6 6 10.2A6 6 0 0 1 6 13.2C6 9.6 12 3 12 3z"/></svg></span><span data-es><b>Agua y alimentos:</b> agua potable, kits de alimentos y saneamiento.</span><span data-en><b>Food &amp; water:</b> clean water, food kits, and sanitation.</span></li>
+          <li><span class="ic"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="8"/><circle cx="12" cy="12" r="2.5"/></svg></span><span data-es><b>Búsqueda y rescate:</b> equipos USAR internacionales desplegados vía OCHA/INSARAG.</span><span data-en><b>Search &amp; rescue:</b> international USAR teams deployed via OCHA/INSARAG.</span></li>
         </ul>
       </div>
       <div class="panel">
@@ -371,7 +381,7 @@
     </div>
 
     <div class="notice" style="background:#fbf2dd;border-color:#e9d39a;border-left-color:var(--warn);color:#6b4e00">
-      <span class="ico">ℹ️</span>
+      <span class="ico"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 11v5"/><path d="M12 7.5h.01"/></svg></span>
       <div><span data-es><b>Antes de donar bienes:</b> enviar artículos al exterior es costoso y lento; muchas organizaciones priorizan dinero para comprar lo necesario en el terreno. Si donas en especie, hazlo con un grupo verificado y entrega artículos nuevos o en buen estado.</span>
            <span data-en><b>Before donating goods:</b> shipping items abroad is costly and slow; many organizations prefer cash to buy what's needed locally. If you give in-kind, use a verified group and donate new or good-condition items.</span></div>
     </div>
@@ -480,7 +490,7 @@
     </div>
 
     <div class="notice">
-      <span class="ico">⚠️</span>
+      <span class="ico"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 4l9 16H3z"/><path d="M12 10v4"/><path d="M12 17h.01"/></svg></span>
       <div>
         <b><span data-es>Esta plataforma no es un servicio de emergencia.</span><span data-en>This platform is not an emergency service.</span></b>
         <span data-es> Ante una emergencia inmediata, contacta a los servicios de emergencia locales y a Protección Civil. No almacenamos ni publicamos reportes de personas desaparecidas: te conectamos directamente con el sistema oficial de Restablecimiento del Contacto entre Familiares (RCF), que sí puede buscar y actuar sobre tu reporte.</span>
@@ -825,7 +835,7 @@ function renderFeed(){
   const el=document.getElementById('feed'); el.innerHTML='';
   UPDATES.forEach(u=>{
     const tags=t(u.needsEs,u.needsEn).map(n=>'<span class="tag">'+n+'</span>').join('')+
-               u.areas.map(a=>'<span class="tag">📍 '+a+'</span>').join('');
+               u.areas.map(a=>'<span class="tag">'+a+'</span>').join('');
     const d=document.createElement('article'); d.className='update';
     d.innerHTML =
       '<div class="top"><span class="src-name">'+t(u.sourceEs,u.sourceEn)+'</span> · <span>'+u.date+'</span></div>'+

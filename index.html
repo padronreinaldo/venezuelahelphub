@@ -76,23 +76,8 @@
   .btn-ghost:hover{background:rgba(255,255,255,.1)}
   .updated{margin-top:16px;font-size:12.5px;color:#a9c4cf}
 
-  /* Hero seismograph art */
-  .hero{position:relative;overflow:hidden;isolation:isolate;padding-bottom:150px}
-  .hero::before{content:"";position:absolute;z-index:0;top:-25%;left:-8%;width:65%;height:120%;
-    background:radial-gradient(closest-side,rgba(45,170,190,.42),rgba(45,170,190,0) 70%);pointer-events:none}
-  .hero .wrap{position:relative;z-index:3}
-  .hero-art{position:absolute;left:0;right:0;bottom:0;width:100%;height:200px;pointer-events:none;z-index:1}
-  .hero-art .seis-a{fill:none;stroke:#9fe0ee;stroke-width:2.5;opacity:.9;filter:drop-shadow(0 0 6px rgba(143,214,230,.5))}
-  .hero-art .seis-b{fill:none;stroke:#bfe6ef;stroke-width:1.5;opacity:.22}
-  .hero-art .grid{stroke:rgba(255,255,255,.06);stroke-width:1}
-  .hero-art .base{stroke:rgba(255,255,255,.16);stroke-width:1}
-  .hero-art .epi-core{fill:#ff6b5e}
-  .hero-art .epi-lbl{fill:#ffd2cc;font:800 17px -apple-system,Segoe UI,Roboto,sans-serif;letter-spacing:.06em}
-  .hero-fade{position:absolute;left:0;right:0;bottom:0;height:70px;z-index:2;pointer-events:none;background:linear-gradient(180deg,rgba(13,58,82,0),rgba(13,58,82,.6))}
+  /* Hero (minimal) */
   .hero h1{font-size:clamp(26px,5.6vw,46px)}
-  @media(min-width:760px){.hero-art{height:240px}.hero{padding-bottom:170px}}
-  @media(max-width:680px){.hero-art .pulse{display:none}}
-  @media(prefers-reduced-motion:reduce){.hero-art .pulse{display:none}}
 
   /* Sections */
   section{padding:42px 0}
@@ -244,31 +229,6 @@
 <a id="top"></a>
 <!-- HERO -->
 <section class="hero" style="padding-top:30px">
-  <svg class="hero-art" viewBox="0 0 1200 200" preserveAspectRatio="none" aria-hidden="true" focusable="false">
-    <g class="grid">
-      <line x1="120" y1="0" x2="120" y2="200"/><line x1="240" y1="0" x2="240" y2="200"/>
-      <line x1="360" y1="0" x2="360" y2="200"/><line x1="480" y1="0" x2="480" y2="200"/>
-      <line x1="600" y1="0" x2="600" y2="200"/><line x1="720" y1="0" x2="720" y2="200"/>
-      <line x1="840" y1="0" x2="840" y2="200"/><line x1="960" y1="0" x2="960" y2="200"/>
-      <line x1="1080" y1="0" x2="1080" y2="200"/>
-    </g>
-    <line class="base" x1="0" y1="120" x2="1200" y2="120"/>
-    <polyline class="seis-b" points="0,150 80,149 160,151 240,148 320,152 400,149 470,160 510,140 540,166 570,138 600,162 640,146 700,151 800,149 900,151 1000,150 1100,150 1200,150"/>
-    <polyline class="seis-a" points="0,120 40,118 80,122 120,119 160,121 200,118 240,122 280,117 320,123 360,118 400,122 440,116 480,128 510,150 530,58 550,172 568,38 586,180 604,32 622,184 640,68 660,158 682,98 705,135 730,118 770,122 810,119 850,121 900,119 950,121 1000,120 1060,120 1120,120 1200,120"/>
-    <g>
-      <circle class="epi-core" cx="604" cy="120" r="6"/>
-      <circle class="pulse" cx="604" cy="120" r="6" fill="none" stroke="#ff6b5e" stroke-width="2.5">
-        <animate attributeName="r" values="6;58" dur="2.8s" repeatCount="indefinite"/>
-        <animate attributeName="opacity" values="0.85;0" dur="2.8s" repeatCount="indefinite"/>
-      </circle>
-      <circle class="pulse" cx="604" cy="120" r="6" fill="none" stroke="#ff6b5e" stroke-width="2.5">
-        <animate attributeName="r" values="6;58" dur="2.8s" begin="1.4s" repeatCount="indefinite"/>
-        <animate attributeName="opacity" values="0.85;0" dur="2.8s" begin="1.4s" repeatCount="indefinite"/>
-      </circle>
-      <text class="epi-lbl" x="624" y="96">M 7.5</text>
-    </g>
-  </svg>
-  <div class="hero-fade"></div>
   <div class="wrap">
     <span class="pill"><span class="dot"></span>
       <span data-es>Respuesta de emergencia activa · Terremotos del 24 de junio de 2026</span>
@@ -551,7 +511,6 @@
           <li><span data-es>Entra al canal oficial de la Cruz Roja (botones arriba).</span><span data-en>Open the official Red Cross channel (buttons above).</span></li>
           <li><span data-es>Registra a la persona buscada con sus datos básicos.</span><span data-en>Register the person sought with their basic details.</span></li>
           <li><span data-es>La Cruz Roja coordina la búsqueda y restablece el contacto.</span><span data-en>The Red Cross coordinates the search and restores contact.</span></li>
-          <li><span data-es>Desconfía de quien pida dinero por “encontrar” a alguien: es estafa.</span><span data-en>Beware of anyone asking for money to “find” someone — it's a scam.</span></li>
         </ol>
       </div>
     </div>

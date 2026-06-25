@@ -12,3 +12,6 @@ npm-debug.log*
 # Temporales
 *.tmp
 *.log
+
+# Secretos / scripts con credenciales (no subir)
+godaddy-dns.ps1

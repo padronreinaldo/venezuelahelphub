@@ -152,6 +152,12 @@
   .needlist .ic svg{width:14px;height:14px;stroke:var(--brand);fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
   .notice .ico svg{width:20px;height:20px;stroke:currentColor;fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;display:block}
 
+  /* Share buttons */
+  .share{display:flex;flex-wrap:wrap;gap:10px}
+  .share a,.share button{display:inline-flex;align-items:center;gap:8px;border:1px solid var(--line);background:#fff;border-radius:10px;padding:10px 14px;font-size:14px;font-weight:700;color:var(--ink);text-decoration:none;cursor:pointer;font-family:inherit}
+  .share a:hover,.share button:hover{background:var(--review-bg);border-color:var(--brand-2)}
+  .share svg{width:18px;height:18px;stroke:var(--brand);fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+
   /* News carousel */
   .news-wrap{position:relative}
   .carousel{display:flex;gap:14px;overflow-x:auto;scroll-snap-type:x mandatory;-webkit-overflow-scrolling:touch;padding:4px 2px 12px;scrollbar-width:none}
@@ -212,6 +218,7 @@
       <span>Venezuela&nbsp;Relief&nbsp;Hub</span></a>
     <nav class="main" aria-label="Principal">
       <a href="#crisis"><span data-es>Crisis</span><span data-en>Crisis</span></a>
+      <a href="#donde-ir"><span data-es>Dónde ir</span><span data-en>Where to go</span></a>
       <a href="#orgs"><span data-es>Organizaciones</span><span data-en>Organizations</span></a>
       <a href="#acopio"><span data-es>Acopio</span><span data-en>Goods</span></a>
       <a href="#updates"><span data-es>Actualizaciones</span><span data-en>Updates</span></a>
@@ -304,6 +311,82 @@
     <p style="font-size:12px;color:var(--muted);margin-top:10px">
       <span data-es>*Cifras preliminares y cambiantes según fuentes oficiales; pueden aumentar a medida que avanza el rescate. Ver fuentes en cada actualización.</span>
       <span data-en>*Preliminary, changing figures per official sources; may rise as rescue continues. See sources in each update.</span>
+    </p>
+  </div>
+</section>
+
+<!-- WHERE TO GO -->
+<section id="donde-ir">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="eyebrow"><span data-es>Para personas afectadas</span><span data-en>For people affected</span></div>
+      <h2><span data-es>Dónde ir: refugios y atención</span><span data-en>Where to go: shelters &amp; care</span></h2>
+      <p><span data-es>Si tu vivienda resultó dañada o estás en riesgo, acude a un punto oficial. Ante una emergencia médica o de rescate, llama primero al 171.</span>
+         <span data-en>If your home was damaged or you're at risk, go to an official point. In a medical or rescue emergency, call 171 first.</span></p>
+    </div>
+
+    <div class="panel">
+      <div class="eyebrow"><span data-es>Teléfonos de emergencia · Venezuela</span><span data-en>Emergency numbers · Venezuela</span></div>
+      <div class="areas" style="margin-top:8px">
+        <a class="chip" href="tel:171" style="text-decoration:none"><b>171</b> · <span data-es>Emergencias (CANTV)</span><span data-en>Emergencies (CANTV)</span></a>
+        <span class="chip"><b>*1</b> · Movilnet</span>
+        <a class="chip" href="tel:112" style="text-decoration:none"><b>112</b> · Digitel</a>
+        <a class="chip" href="tel:911" style="text-decoration:none"><b>911</b> · Movistar</a>
+        <a class="chip" href="tel:08005588427" style="text-decoration:none"><b>0800-5588427</b> · <span data-es>Protección Civil</span><span data-en>Civil Protection</span></a>
+        <a class="chip" href="tel:04123362122" style="text-decoration:none"><b>0412-336-2122</b> · Baruta</a>
+      </div>
+    </div>
+
+    <div class="cards" style="margin-top:16px">
+      <div class="card">
+        <span class="badge public"><span data-es>Caracas · Mun. Libertador</span><span data-en>Caracas · Libertador</span></span>
+        <h3><span data-es>Refugios de emergencia</span><span data-en>Emergency shelters</span></h3>
+        <div class="focus"><span data-es>Cuatro centros de resguardo temporal habilitados por la Alcaldía para familias con viviendas dañadas o en riesgo.</span>
+          <span data-en>Four temporary shelters opened by the city for families with damaged or at-risk homes.</span></div>
+        <div class="meta">
+          <span><b>San Bernardino:</b> Complejo Cultural y Deportivo Guayana Esequiba</span>
+          <span><b>23 de Enero:</b> Estadio Chato Candela</span>
+          <span><b>El Paraíso:</b> <span data-es>Sede del Instituto Nacional de Deportes (IND)</span><span data-en>Instituto Nacional de Deportes (IND)</span></span>
+          <span><b>San Juan:</b> <span data-es>Sede de Ipostel</span><span data-en>Ipostel HQ</span></span>
+          <span class="src"><span data-es>Fuente</span><span data-en>Source</span>: <a href="https://elestimulo.com/terremoto-en-venezuela/2026-06-25/alcaldia-de-caracas-habilita-cuatro-refugios-de-emergencia-terremoto/" target="_blank" rel="noopener">El Estímulo</a></span>
+        </div>
+      </div>
+
+      <div class="card">
+        <span class="badge public">La Guaira</span>
+        <h3><span data-es>Refugio y atención a heridos</span><span data-en>Shelter &amp; injured care</span></h3>
+        <div class="focus"><span data-es>El mayor recinto deportivo del estado fue habilitado como refugio temporal y centro de atención a heridos en la zona declarada de desastre.</span>
+          <span data-en>The state's largest sports venue was set up as a temporary shelter and injured-care center in the declared disaster zone.</span></div>
+        <div class="meta">
+          <span><b><span data-es>Estadio</span><span data-en>Stadium</span>:</b> José Luis García Carneiro</span>
+          <span class="src"><span data-es>Fuente</span><span data-en>Source</span>: <a href="https://www.mundiario.com/articulo/sociedad/deslave-1999-terremotos-2026-guaira-enfrenta-nuevo-catastrofe/20260625134527391796.html" target="_blank" rel="noopener">Mundiario</a></span>
+        </div>
+      </div>
+
+      <div class="card">
+        <span class="badge public"><span data-es>Caracas · Chacao</span><span data-en>Caracas · Chacao</span></span>
+        <h3><span data-es>Puntos de atención y encuentro</span><span data-en>Care &amp; meeting points</span></h3>
+        <div class="focus"><span data-es>Plazas habilitadas con hidratación, asistencia médica, paramédicos y servicios sanitarios; también como punto de encuentro para familias incomunicadas.</span>
+          <span data-en>Plazas with hydration, medical aid, paramedics, and sanitation; also a meeting point for families out of contact.</span></div>
+        <div class="meta">
+          <span><b><span data-es>Plazas</span><span data-en>Plazas</span>:</b> Los Palos Grandes · Altamira</span>
+          <span class="src"><span data-es>Fuente</span><span data-en>Source</span>: <a href="https://elpitazo.net/regiones/gran-caracas/sismo-alcalde-de-chacao-reporta-dos-edificios-colapsados-y-18-personas-rescatadas-con-vida/" target="_blank" rel="noopener">El Pitazo</a></span>
+        </div>
+      </div>
+
+      <div class="card">
+        <span class="badge public"><span data-es>Todo el país</span><span data-en>Nationwide</span></span>
+        <h3><span data-es>Centros de salud · Cruz Roja</span><span data-en>Health centers · Red Cross</span></h3>
+        <div class="focus"><span data-es>La Cruz Roja Venezolana tiene hospitales y ambulatorios en todos los estados. Busca el más cercano para atención médica.</span>
+          <span data-en>The Venezuelan Red Cross has hospitals and clinics in every state. Find the nearest one for medical care.</span></div>
+        <div class="meta"><span class="src"><span data-es>Caracas: Hospital Carlos J. Bello, Av. Andrés Bello, San Bernardino.</span><span data-en>Caracas: Hospital Carlos J. Bello, Av. Andrés Bello, San Bernardino.</span></span></div>
+        <a class="donate" style="background:var(--brand)" href="https://cruzroja.ve/nuestra-presencia/" target="_blank" rel="noopener"><span data-es>Buscar el centro más cercano ↗</span><span data-en>Find the nearest center ↗</span></a>
+      </div>
+    </div>
+
+    <p style="font-size:12.5px;color:var(--muted);margin-top:14px">
+      <span data-es>La situación cambia rápido. Confirma siempre con Protección Civil (0800-5588427) o llamando al 171 antes de trasladarte. Esta información es de utilidad pública y se basa en reportes oficiales y de prensa.</span>
+      <span data-en>The situation changes fast. Always confirm with Civil Protection (0800-5588427) or by calling 171 before traveling. This is public-interest information based on official and press reports.</span>
     </p>
   </div>
 </section>
@@ -562,6 +645,25 @@
     </div>
   </div>
 </section>
+<!-- SHARE -->
+<section id="compartir" style="background:#eef2f6">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="eyebrow"><span data-es>Difunde</span><span data-en>Spread the word</span></div>
+      <h2><span data-es>Ayuda a difundir información verificada</span><span data-en>Help spread verified information</span></h2>
+      <p><span data-es>Compartir el sitio ayuda a que más personas encuentren formas seguras de donar y a desplazar las cadenas falsas y las estafas.</span>
+         <span data-en>Sharing this site helps more people find safe ways to give and pushes back against fake chains and scams.</span></p>
+    </div>
+    <div class="share">
+      <a href="https://wa.me/?text=Formas%20verificadas%20de%20ayudar%20a%20Venezuela%20tras%20los%20terremotos%20del%2024%20de%20junio%3A%20https%3A%2F%2Fpadronreinaldo.github.io%2Fvenezuelahelphub%2F" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 4h3l2 5-2 1a10 10 0 0 0 5 5l1-2 5 2v3a2 2 0 0 1-2 2A14 14 0 0 1 3 6a2 2 0 0 1 2-2z"/></svg>WhatsApp</a>
+      <a href="https://twitter.com/intent/tweet?text=Formas%20verificadas%20de%20ayudar%20a%20Venezuela%20tras%20los%20terremotos%20del%2024%20de%20junio&url=https%3A%2F%2Fpadronreinaldo.github.io%2Fvenezuelahelphub%2F" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 5l14 14M19 5L5 19"/></svg>X</a>
+      <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fpadronreinaldo.github.io%2Fvenezuelahelphub%2F" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 12v7a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-7"/><path d="M16 6l-4-4-4 4"/><path d="M12 2v13"/></svg>Facebook</a>
+      <a href="https://t.me/share/url?url=https%3A%2F%2Fpadronreinaldo.github.io%2Fvenezuelahelphub%2F&text=Formas%20verificadas%20de%20ayudar%20a%20Venezuela" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M22 3L2 11l6 2 2 6 3-4 5 4z"/></svg>Telegram</a>
+      <button type="button" onclick="copyLink(this)"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 14a5 5 0 0 0 7 0l2-2a5 5 0 0 0-7-7l-1 1"/><path d="M14 10a5 5 0 0 0-7 0l-2 2a5 5 0 0 0 7 7l1-1"/></svg><span class="copylbl"><span data-es>Copiar enlace</span><span data-en>Copy link</span></span></button>
+    </div>
+  </div>
+</section>
+
 </main>
 
 <footer class="site">
@@ -573,6 +675,7 @@
           <span data-en>Temporary internal name. Neutral platform, no direct fundraising, no custody of funds. Humanitarian, public-interest information.</span></p>
       </div>
       <div style="display:grid;gap:6px;font-weight:600">
+        <a href="#donde-ir"><span data-es>Dónde ir</span><span data-en>Where to go</span></a>
         <a href="#orgs"><span data-es>Organizaciones</span><span data-en>Organizations</span></a>
         <a href="#acopio"><span data-es>Centros de acopio</span><span data-en>Drop-off drives</span></a>
         <a href="#noticias"><span data-es>Noticias locales</span><span data-en>Local news</span></a>
@@ -830,6 +933,13 @@ function stampDate(){
 }
 
 renderOrgs('all'); renderFeed(); renderNews(); stampDate();
+
+function copyLink(btn){
+  const url='https://padronreinaldo.github.io/venezuelahelphub/';
+  const span=btn.querySelector('.copylbl'); const orig=span.innerHTML;
+  const ok=()=>{span.textContent=(document.documentElement.lang==='en'?'Copied ✓':'¡Copiado! ✓');setTimeout(()=>{span.innerHTML=orig;},1700);};
+  (navigator.clipboard?navigator.clipboard.writeText(url):Promise.reject()).then(ok).catch(ok);
+}
 
 /* Optional refresh: when served over HTTP, pull fresh data/*.json (the hourly job writes these).
    If the files are missing or fail to load, the embedded seed above is used. */

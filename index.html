@@ -1,0 +1,853 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Venezuela Relief Hub — Formas verificadas de ayudar</title>
+<meta name="description" content="Centro neutral de información humanitaria para la respuesta al terremoto de Venezuela. Donaciones directas a organizaciones verificadas. No custodiamos fondos." />
+<style>
+  :root{
+    --bg:#f7f8fa; --surface:#ffffff; --ink:#1a2230; --muted:#5b6577;
+    --line:#e3e7ee; --brand:#0b4f6c; --brand-2:#1d7a8c; --accent:#b3261e;
+    --ok:#1f7a4d; --ok-bg:#e7f4ed; --warn:#8a6100; --warn-bg:#fbf2dd;
+    --review:#5b6577; --review-bg:#eef1f5; --shadow:0 1px 2px rgba(16,24,40,.06),0 1px 3px rgba(16,24,40,.1);
+    --radius:14px; --maxw:1080px;
+  }
+  *{box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    background:var(--bg);color:var(--ink);line-height:1.55;-webkit-font-smoothing:antialiased}
+  a{color:var(--brand-2)}
+  img{max-width:100%}
+  .wrap{max-width:var(--maxw);margin:0 auto;padding:0 18px}
+  .skip{position:absolute;left:-999px}.skip:focus{left:8px;top:8px;background:#fff;padding:8px;z-index:99;border-radius:8px}
+
+  /* Header */
+  header.site{position:sticky;top:0;z-index:50;background:rgba(255,255,255,.92);backdrop-filter:blur(8px);border-bottom:1px solid var(--line)}
+  .bar{display:flex;align-items:center;gap:14px;height:60px}
+  .logo{display:flex;align-items:center;gap:10px;font-weight:800;letter-spacing:-.2px;color:var(--ink);text-decoration:none;font-size:16px}
+  .logo .mark{width:30px;height:30px;border-radius:8px;background:linear-gradient(135deg,var(--brand),var(--brand-2));display:grid;place-items:center;color:#fff;font-weight:800;font-size:13px}
+  nav.main{margin-left:auto;display:flex;gap:6px;align-items:center}
+  nav.main a{display:none;color:var(--muted);text-decoration:none;font-size:14px;padding:8px 10px;border-radius:8px;font-weight:600}
+  nav.main a:hover{color:var(--ink);background:var(--review-bg)}
+  .lang{display:flex;border:1px solid var(--line);border-radius:999px;overflow:hidden;font-size:13px;font-weight:700}
+  .lang button{border:0;background:transparent;padding:6px 12px;cursor:pointer;color:var(--muted)}
+  .lang button.on{background:var(--brand);color:#fff}
+  @media(min-width:860px){nav.main a{display:inline-block}}
+
+  /* Hero */
+  .hero{background:linear-gradient(180deg,#0b4f6c,#0d3a52);color:#eaf2f6;padding:38px 0 30px}
+  .hero h1{font-size:clamp(24px,5.4vw,40px);line-height:1.12;margin:.2em 0 .35em;letter-spacing:-.5px;color:#fff;max-width:18ch}
+  .hero p.lede{font-size:clamp(15px,2.6vw,18px);color:#cfe0e7;max-width:60ch;margin:0 0 18px}
+  .pill{display:inline-flex;align-items:center;gap:8px;background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.22);
+    color:#eaf2f6;padding:6px 12px;border-radius:999px;font-size:12.5px;font-weight:700}
+  .pill .dot{width:8px;height:8px;border-radius:50%;background:#ff6b5e;box-shadow:0 0 0 4px rgba(255,107,94,.25)}
+  .hero .cta{display:flex;flex-wrap:wrap;gap:10px;margin-top:8px}
+  .btn{display:inline-flex;align-items:center;gap:8px;border-radius:10px;padding:12px 18px;font-weight:700;font-size:15px;
+    text-decoration:none;cursor:pointer;border:1px solid transparent}
+  .btn-primary{background:#fff;color:var(--brand)}
+  .btn-primary:hover{background:#eaf2f6}
+  .btn-ghost{background:transparent;color:#fff;border-color:rgba(255,255,255,.35)}
+  .btn-ghost:hover{background:rgba(255,255,255,.1)}
+  .updated{margin-top:16px;font-size:12.5px;color:#a9c4cf}
+
+  /* Hero seismograph art */
+  .hero{position:relative;overflow:hidden}
+  .hero .wrap{position:relative;z-index:2}
+  .hero-art{position:absolute;inset:0;width:100%;height:100%;pointer-events:none;z-index:1}
+  .hero-art .seis-a{fill:none;stroke:#8fd6e6;stroke-width:2.5;opacity:.4}
+  .hero-art .seis-b{fill:none;stroke:#bfe6ef;stroke-width:1.5;opacity:.16}
+  .hero-art .grid{stroke:rgba(255,255,255,.05);stroke-width:1}
+  .hero-art .epi-core{fill:#ff6b5e}
+  .hero-art .epi-lbl{fill:#ffd2cc;font:700 16px -apple-system,Segoe UI,Roboto,sans-serif;letter-spacing:.04em}
+  @media(max-width:680px){.hero-art{opacity:.7}}
+
+  /* Sections */
+  section{padding:42px 0}
+  .sec-head{margin-bottom:18px}
+  .sec-head h2{font-size:clamp(20px,3.6vw,28px);margin:0 0 6px;letter-spacing:-.4px}
+  .sec-head p{margin:0;color:var(--muted);max-width:62ch}
+  .eyebrow{text-transform:uppercase;letter-spacing:.12em;font-size:12px;font-weight:800;color:var(--brand-2);margin-bottom:6px}
+
+  /* Crisis summary cards */
+  .stats{display:grid;grid-template-columns:repeat(2,1fr);gap:12px}
+  @media(min-width:720px){.stats{grid-template-columns:repeat(4,1fr)}}
+  .stat{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:16px;box-shadow:var(--shadow)}
+  .stat .n{font-size:26px;font-weight:800;letter-spacing:-.5px;color:var(--brand)}
+  .stat .l{font-size:13px;color:var(--muted);margin-top:2px}
+
+  .panel{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:18px 18px;box-shadow:var(--shadow)}
+  .grid-2{display:grid;gap:14px}
+  @media(min-width:820px){.grid-2{grid-template-columns:1.3fr 1fr}}
+
+  .needlist{list-style:none;margin:0;padding:0;display:grid;gap:8px}
+  .needlist li{display:flex;gap:10px;align-items:flex-start;font-size:14.5px}
+  .needlist .ic{flex:0 0 auto;width:22px;height:22px;border-radius:6px;background:var(--review-bg);display:grid;place-items:center;font-size:13px}
+  .areas{display:flex;flex-wrap:wrap;gap:8px;margin-top:4px}
+  .chip{background:var(--review-bg);border:1px solid var(--line);border-radius:999px;padding:5px 11px;font-size:13px;font-weight:600;color:var(--ink)}
+  .chip.hot{background:#fdecea;border-color:#f6cfca;color:#9a241c}
+
+  /* Org directory */
+  .filters{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:16px}
+  .filters button{border:1px solid var(--line);background:#fff;border-radius:999px;padding:7px 14px;font-size:13.5px;font-weight:700;color:var(--muted);cursor:pointer}
+  .filters button.on{background:var(--ink);color:#fff;border-color:var(--ink)}
+  .cards{display:grid;gap:14px;grid-template-columns:1fr}
+  @media(min-width:680px){.cards{grid-template-columns:1fr 1fr}}
+  @media(min-width:1000px){.cards{grid-template-columns:1fr 1fr 1fr}}
+  .card{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:16px;box-shadow:var(--shadow);display:flex;flex-direction:column;gap:10px}
+  .card h3{margin:0;font-size:16.5px;letter-spacing:-.2px}
+  .card .sub{font-size:12.5px;color:var(--muted);margin-top:-6px}
+  .badge{display:inline-flex;align-items:center;gap:6px;font-size:11.5px;font-weight:800;padding:4px 9px;border-radius:999px;width:fit-content;text-transform:uppercase;letter-spacing:.04em}
+  .badge.verified{background:var(--ok-bg);color:var(--ok)}
+  .badge.public{background:#e8f0fb;color:#1f5aa8}
+  .badge.review{background:var(--warn-bg);color:var(--warn)}
+  .card .focus{font-size:14px;color:var(--ink)}
+  .meta{font-size:12.5px;color:var(--muted);display:grid;gap:3px;border-top:1px solid var(--line);padding-top:10px;margin-top:auto}
+  .meta b{color:var(--ink);font-weight:700}
+  .card .src{font-size:12px}
+  .donate{margin-top:4px;display:inline-flex;justify-content:center;background:var(--brand);color:#fff;text-decoration:none;font-weight:700;border-radius:9px;padding:10px;font-size:14px}
+  .donate:hover{background:var(--brand-2)}
+
+  /* Tracking dashboard */
+  .track{display:grid;gap:12px;grid-template-columns:repeat(2,1fr)}
+  @media(min-width:820px){.track{grid-template-columns:repeat(4,1fr)}}
+  .tcard{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:16px;box-shadow:var(--shadow)}
+  .tcard .lab{font-size:12px;font-weight:800;text-transform:uppercase;letter-spacing:.05em;color:var(--brand-2)}
+  .tcard .val{font-size:24px;font-weight:800;margin:6px 0 2px}
+  .tcard .note{font-size:12px;color:var(--muted)}
+  .disclaimer{margin-top:14px;background:#fff;border:1px solid var(--line);border-left:4px solid var(--accent);border-radius:10px;padding:14px 16px;font-size:14px;color:var(--ink)}
+
+  /* Updates feed */
+  .feed{display:grid;gap:14px}
+  .update{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:16px;box-shadow:var(--shadow)}
+  .update .top{display:flex;flex-wrap:wrap;gap:8px;align-items:center;font-size:12.5px;color:var(--muted);margin-bottom:6px}
+  .update .src-name{font-weight:800;color:var(--ink)}
+  .update h3{margin:2px 0 6px;font-size:16px}
+  .update p{margin:0 0 10px;font-size:14.5px}
+  .update .tags{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:8px}
+  .tag{font-size:11.5px;background:var(--review-bg);border:1px solid var(--line);border-radius:6px;padding:3px 8px;color:var(--muted);font-weight:600}
+  .conf{display:inline-flex;align-items:center;gap:6px;font-size:11.5px;font-weight:800;padding:3px 9px;border-radius:999px}
+  .conf.hi{background:var(--ok-bg);color:var(--ok)}.conf.med{background:var(--warn-bg);color:var(--warn)}
+  .rev{display:inline-flex;align-items:center;gap:5px;font-size:11.5px;font-weight:700;color:var(--ok)}
+  .update .foot{display:flex;flex-wrap:wrap;gap:12px;align-items:center;justify-content:space-between;border-top:1px solid var(--line);padding-top:10px}
+
+  /* News carousel */
+  .news-wrap{position:relative}
+  .carousel{display:flex;gap:14px;overflow-x:auto;scroll-snap-type:x mandatory;-webkit-overflow-scrolling:touch;padding:4px 2px 12px;scrollbar-width:none}
+  .carousel::-webkit-scrollbar{display:none}
+  .slide{scroll-snap-align:start;flex:0 0 85%;max-width:330px;background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);overflow:hidden;box-shadow:var(--shadow);display:flex;flex-direction:column}
+  @media(min-width:680px){.slide{flex-basis:46%}}
+  @media(min-width:1000px){.slide{flex-basis:31%}}
+  .slide .ph{position:relative;aspect-ratio:16/10;background:linear-gradient(135deg,var(--brand),var(--brand-2));overflow:hidden}
+  .slide .ph img{width:100%;height:100%;object-fit:cover;display:block}
+  .slide .src-tag{position:absolute;top:10px;left:10px;background:rgba(13,58,82,.92);color:#fff;font-size:11px;font-weight:800;padding:4px 9px;border-radius:999px;letter-spacing:.03em}
+  .slide .body{padding:12px 14px 14px;display:flex;flex-direction:column;gap:6px;flex:1}
+  .slide h3{margin:0;font-size:15px;line-height:1.3}
+  .slide .tr{font-size:12px;color:var(--muted)}
+  .slide .read{margin-top:auto;font-size:13px;font-weight:700;text-decoration:none;color:var(--brand-2)}
+  .carousel-nav{display:flex;gap:8px;align-items:center;justify-content:flex-end;margin-top:2px}
+  .carousel-nav button{width:38px;height:38px;border-radius:50%;border:1px solid var(--line);background:#fff;cursor:pointer;font-size:18px;color:var(--ink);line-height:1}
+  .carousel-nav button:hover{background:var(--review-bg)}
+
+  /* Family reunification */
+  .notice{display:flex;gap:12px;align-items:flex-start;background:#fdecea;border:1px solid #f3c9c4;border-left:4px solid var(--accent);
+    border-radius:12px;padding:14px 16px;font-size:14px;color:#7d1c16}
+  .notice .ico{flex:0 0 auto;font-size:20px;line-height:1}
+  .notice b{color:#5e140f}
+  .fam-cards{display:grid;gap:14px;grid-template-columns:1fr;margin-top:16px}
+  @media(min-width:760px){.fam-cards{grid-template-columns:1fr 1fr}}
+  .fam-card{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:18px;box-shadow:var(--shadow);display:flex;flex-direction:column;gap:10px}
+  .fam-card .tag-off{align-self:flex-start;font-size:11px;font-weight:800;text-transform:uppercase;letter-spacing:.05em;background:var(--ok-bg);color:var(--ok);padding:4px 9px;border-radius:999px}
+  .fam-card h3{margin:0;font-size:17px}
+  .fam-card p{margin:0;font-size:14px;color:var(--muted)}
+  .fam-card .free{font-size:12.5px;color:var(--ok);font-weight:700}
+  .steps{margin:0;padding-left:18px;font-size:13.5px;color:var(--ink);display:grid;gap:4px}
+
+  /* Transparency */
+  .trust{display:grid;gap:14px}
+  @media(min-width:820px){.trust{grid-template-columns:1fr 1fr}}
+  .qa h4{margin:0 0 4px;font-size:15.5px}
+  .qa p{margin:0 0 14px;color:var(--muted);font-size:14px}
+  .donts{display:grid;gap:6px;margin:0;padding:0;list-style:none}
+  .donts li{font-size:14px;display:flex;gap:8px}.donts li::before{content:"✕";color:var(--accent);font-weight:800}
+
+  /* Footer */
+  footer.site{background:#0d3a52;color:#cfe0e7;padding:30px 0;margin-top:10px;font-size:13.5px}
+  footer.site a{color:#eaf2f6}
+  footer .row{display:flex;flex-wrap:wrap;gap:18px;justify-content:space-between}
+  .legal{font-size:12px;color:#9bbac6;max-width:60ch;margin-top:10px}
+
+  [data-en]{display:none}
+  html[lang="en"] [data-es]{display:none}
+  html[lang="en"] [data-en]{display:revert}
+</style>
+</head>
+<body>
+<a class="skip" href="#main"><span data-es>Saltar al contenido</span><span data-en>Skip to content</span></a>
+
+<header class="site">
+  <div class="wrap bar">
+    <a class="logo" href="#top"><span class="mark">VR</span>
+      <span>Venezuela&nbsp;Relief&nbsp;Hub</span></a>
+    <nav class="main" aria-label="Principal">
+      <a href="#crisis"><span data-es>Crisis</span><span data-en>Crisis</span></a>
+      <a href="#orgs"><span data-es>Organizaciones</span><span data-en>Organizations</span></a>
+      <a href="#acopio"><span data-es>Acopio</span><span data-en>Goods</span></a>
+      <a href="#updates"><span data-es>Actualizaciones</span><span data-en>Updates</span></a>
+      <a href="#family"><span data-es>Familiares</span><span data-en>Family</span></a>
+      <a href="#transparency"><span data-es>Transparencia</span><span data-en>Transparency</span></a>
+      <div class="lang" role="group" aria-label="Idioma / Language">
+        <button id="es" class="on" onclick="setLang('es')">ES</button>
+        <button id="en" onclick="setLang('en')">EN</button>
+      </div>
+    </nav>
+  </div>
+</header>
+
+<main id="main">
+<a id="top"></a>
+<!-- HERO -->
+<section class="hero" style="padding-top:30px">
+  <svg class="hero-art" viewBox="0 0 1200 360" preserveAspectRatio="xMidYMid slice" aria-hidden="true" focusable="false">
+    <g class="grid">
+      <line x1="120" y1="0" x2="120" y2="360"/><line x1="240" y1="0" x2="240" y2="360"/>
+      <line x1="360" y1="0" x2="360" y2="360"/><line x1="480" y1="0" x2="480" y2="360"/>
+      <line x1="600" y1="0" x2="600" y2="360"/><line x1="720" y1="0" x2="720" y2="360"/>
+      <line x1="840" y1="0" x2="840" y2="360"/><line x1="960" y1="0" x2="960" y2="360"/>
+      <line x1="1080" y1="0" x2="1080" y2="360"/>
+      <line x1="0" y1="180" x2="1200" y2="180"/>
+    </g>
+    <polyline class="seis-b" points="0,230 60,229 120,231 180,228 240,232 300,229 360,231 420,226 470,246 500,208 525,256 550,198 575,252 600,214 640,236 700,229 780,231 860,229 940,231 1020,230 1120,230 1200,230"/>
+    <polyline class="seis-a" points="0,180 50,178 100,182 150,179 200,181 250,177 300,183 350,176 400,184 450,168 490,205 520,146 545,238 565,92 585,262 605,66 625,278 645,102 665,252 685,138 710,212 740,178 780,182 820,179 870,181 920,179 970,181 1020,180 1080,180 1140,180 1200,180"/>
+    <g>
+      <circle class="epi-core" cx="605" cy="180" r="6"/>
+      <circle cx="605" cy="180" r="6" fill="none" stroke="#ff6b5e" stroke-width="2">
+        <animate attributeName="r" values="6;72" dur="2.8s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.85;0" dur="2.8s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="605" cy="180" r="6" fill="none" stroke="#ff6b5e" stroke-width="2">
+        <animate attributeName="r" values="6;72" dur="2.8s" begin="1.4s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.85;0" dur="2.8s" begin="1.4s" repeatCount="indefinite"/>
+      </circle>
+      <text class="epi-lbl" x="624" y="158">M 7.5</text>
+    </g>
+  </svg>
+  <div class="wrap">
+    <span class="pill"><span class="dot"></span>
+      <span data-es>Respuesta de emergencia activa · Terremotos del 24 de junio de 2026</span>
+      <span data-en>Active emergency response · June 24, 2026 earthquakes</span></span>
+    <h1>
+      <span data-es>Un solo lugar para encontrar formas verificadas de ayudar a Venezuela.</span>
+      <span data-en>One place to find verified ways to help Venezuela.</span>
+    </h1>
+    <p class="lede">
+      <span data-es>Centralizamos información verificada, necesidades urgentes y canales de donación confiables. No recaudamos ni procesamos fondos: cada donación va directamente a la organización registrada que tú elijas.</span>
+      <span data-en>We centralize verified information, urgent needs, and trusted donation channels. We do not collect or process funds — every donation goes directly to the registered organization you choose.</span>
+    </p>
+    <div class="cta">
+      <a class="btn btn-primary" href="#orgs">
+        <span data-es>Donar a organizaciones verificadas</span>
+        <span data-en>Donate to verified organizations</span></a>
+      <a class="btn btn-ghost" href="#crisis">
+        <span data-es>Ver resumen de la crisis</span><span data-en>See crisis summary</span></a>
+    </div>
+    <div class="updated">
+      <span data-es>Última actualización:</span><span data-en>Last updated:</span>
+      <strong><span id="updated-ts"></span></strong>
+      · <span data-es>Información de fuentes verificadas</span><span data-en>Information from verified sources</span>
+    </div>
+  </div>
+</section>
+
+<!-- CRISIS SUMMARY -->
+<section id="crisis">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="eyebrow"><span data-es>Qué pasó</span><span data-en>What happened</span></div>
+      <h2><span data-es>Resumen de la crisis</span><span data-en>Crisis summary</span></h2>
+      <p>
+        <span data-es>El 24 de junio de 2026 (~6:04 p.m. hora local), dos terremotos sucesivos sacudieron el centro-norte de Venezuela: una réplica inicial de magnitud 7.2 (28 km al NO de Montalbán) seguida unos 40 segundos después por el sismo principal de magnitud 7.5 (23 km al SE de Yumare). Es el terremoto más fuerte registrado en Venezuela en más de 125 años.</span>
+        <span data-en>On June 24, 2026 (~6:04 p.m. local), two back-to-back earthquakes struck north-central Venezuela: an initial M7.2 foreshock (28 km NW of Montalbán) followed about 40 seconds later by the M7.5 mainshock (23 km SE of Yumare). It is the strongest earthquake recorded in Venezuela in more than 125 years.</span>
+      </p>
+    </div>
+
+    <div class="stats">
+      <div class="stat"><div class="n">7.5</div><div class="l"><span data-es>Magnitud máxima (USGS)</span><span data-en>Peak magnitude (USGS)</span></div></div>
+      <div class="stat"><div class="n">164+</div><div class="l"><span data-es>Fallecidos confirmados*</span><span data-en>Confirmed deaths*</span></div></div>
+      <div class="stat"><div class="n">~1,000</div><div class="l"><span data-es>Heridos reportados*</span><span data-en>Reported injuries*</span></div></div>
+      <div class="stat"><div class="n">6</div><div class="l"><span data-es>Organizaciones verificadas</span><span data-en>Verified organizations</span></div></div>
+    </div>
+
+    <div class="grid-2" style="margin-top:14px">
+      <div class="panel">
+        <div class="eyebrow"><span data-es>Necesidades urgentes</span><span data-en>Urgent needs</span></div>
+        <ul class="needlist">
+          <li><span class="ic">🏥</span><span data-es><b>Médicas:</b> insumos quirúrgicos, manejo de heridas, antibióticos, equipos para primeros respondientes.</span><span data-en><b>Medical:</b> surgical supplies, wound care, antibiotics, first-responder field kits.</span></li>
+          <li><span class="ic">🏠</span><span data-es><b>Refugio:</b> alojamiento temporal para familias desplazadas por colapsos de edificios.</span><span data-en><b>Shelter:</b> temporary housing for families displaced by building collapses.</span></li>
+          <li><span class="ic">💧</span><span data-es><b>Agua y alimentos:</b> agua potable, kits de alimentos y saneamiento.</span><span data-en><b>Food &amp; water:</b> clean water, food kits, and sanitation.</span></li>
+          <li><span class="ic">⛑️</span><span data-es><b>Búsqueda y rescate:</b> equipos USAR internacionales desplegados vía OCHA/INSARAG.</span><span data-en><b>Search &amp; rescue:</b> international USAR teams deployed via OCHA/INSARAG.</span></li>
+        </ul>
+      </div>
+      <div class="panel">
+        <div class="eyebrow"><span data-es>Áreas más afectadas</span><span data-en>Most affected areas</span></div>
+        <div class="areas">
+          <span class="chip hot">La Guaira</span>
+          <span class="chip hot"><span data-es>Gran Caracas</span><span data-en>Greater Caracas</span></span>
+          <span class="chip">Yaracuy (Yumare)</span>
+          <span class="chip">Carabobo (Morón)</span>
+          <span class="chip">Montalbán</span>
+          <span class="chip">Aragua</span>
+        </div>
+        <p style="font-size:13px;color:var(--muted);margin-top:12px">
+          <span data-es>Daños reportados en el Aeropuerto Internacional Simón Bolívar. Aviso de tsunami emitido para Puerto Rico y las Islas Vírgenes de EE. UU. Equipos de rescate internacionales y ayuda de varios países en camino.</span>
+          <span data-en>Damage reported at Simón Bolívar International Airport. Tsunami advisory issued for Puerto Rico and the U.S. Virgin Islands. International rescue teams and aid from multiple countries inbound.</span>
+        </p>
+      </div>
+    </div>
+    <p style="font-size:12px;color:var(--muted);margin-top:10px">
+      <span data-es>*Cifras preliminares y cambiantes según fuentes oficiales; pueden aumentar a medida que avanza el rescate. Ver fuentes en cada actualización.</span>
+      <span data-en>*Preliminary, changing figures per official sources; may rise as rescue continues. See sources in each update.</span>
+    </p>
+  </div>
+</section>
+
+<!-- ORGANIZATIONS -->
+<section id="orgs" style="background:#eef2f6">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="eyebrow"><span data-es>Cuáles son legítimas</span><span data-en>Which are legitimate</span></div>
+      <h2><span data-es>Directorio de organizaciones verificadas</span><span data-en>Verified organizations directory</span></h2>
+      <p><span data-es>Cada tarjeta enlaza directamente al canal oficial de donación de la organización. Nunca pasamos por un intermediario.</span>
+         <span data-en>Each card links directly to the organization's official donation channel. We never act as an intermediary.</span></p>
+    </div>
+    <div class="filters" id="org-filters">
+      <button class="on" data-f="all"><span data-es>Todas</span><span data-en>All</span></button>
+      <button data-f="medical"><span data-es>Médica</span><span data-en>Medical</span></button>
+      <button data-f="shelter"><span data-es>Refugio y familias</span><span data-en>Shelter &amp; families</span></button>
+      <button data-f="local"><span data-es>Local / Venezuela</span><span data-en>Local / Venezuela</span></button>
+    </div>
+    <div class="cards" id="org-cards"></div>
+    <p style="font-size:12.5px;color:var(--muted);margin-top:14px">
+      <span data-es>¿Tu organización debería aparecer o necesita corregir un dato? Escríbenos desde la sección de Transparencia. Los números de registro (EIN) son verificables en el sitio de cada organización y en registros públicos como IRS Tax Exempt Search o Charity Navigator.</span>
+      <span data-en>Should your organization be listed, or need a correction? Contact us via the Transparency section. Registration numbers (EIN) are verifiable on each organization's site and in public registries such as the IRS Tax Exempt Search or Charity Navigator.</span>
+    </p>
+  </div>
+</section>
+
+<!-- TRACKING -->
+<!-- IN-KIND DONATION DRIVES -->
+<section id="acopio">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="eyebrow"><span data-es>Donar en especie</span><span data-en>Donate goods</span></div>
+      <h2><span data-es>Centros de acopio: ropa, calzado y suministros</span><span data-en>Drop-off drives: clothing, footwear &amp; supplies</span></h2>
+      <p><span data-es>Grupos de la diáspora reúnen ropa, calzado, alimentos e insumos para enviarlos a Venezuela. Verifica siempre al organizador antes de entregar o enviar.</span>
+         <span data-en>Diaspora groups collect clothing, footwear, food, and supplies to ship to Venezuela. Always verify the organizer before dropping off or shipping.</span></p>
+    </div>
+
+    <div class="notice" style="background:#fbf2dd;border-color:#e9d39a;border-left-color:var(--warn);color:#6b4e00">
+      <span class="ico">ℹ️</span>
+      <div><span data-es><b>Antes de donar bienes:</b> enviar artículos al exterior es costoso y lento; muchas organizaciones priorizan dinero para comprar lo necesario en el terreno. Si donas en especie, hazlo con un grupo verificado y entrega artículos nuevos o en buen estado.</span>
+           <span data-en><b>Before donating goods:</b> shipping items abroad is costly and slow; many organizations prefer cash to buy what's needed locally. If you give in-kind, use a verified group and donate new or good-condition items.</span></div>
+    </div>
+
+    <div class="cards" style="margin-top:16px">
+      <div class="card">
+        <span class="badge public"><span data-es>Miami · Sur de Florida</span><span data-en>Miami · South Florida</span></span>
+        <h3><span data-es>Puntos de acopio en Doral / Miami</span><span data-en>Drop-off points in Doral / Miami</span></h3>
+        <div class="sub"><span data-es>Operativo coordinado por Global Empowerment Mission</span><span data-en>Effort coordinated by Global Empowerment Mission</span></div>
+        <div class="focus"><span data-es><b>Por ahora piden insumos de emergencia, médicos y alimentos — no ropa.</b> Más solicitado: botiquines, gasas, antisépticos, analgésicos, linternas, baterías, cargadores solares, fórmula para bebé.</span>
+          <span data-en><b>For now they request emergency, medical, and food supplies — not clothing.</b> Most needed: first-aid kits, gauze, antiseptics, pain relievers, flashlights, batteries, solar chargers, baby formula.</span></div>
+        <div class="meta">
+          <span><b>GEM (<span data-es>sede</span><span data-en>HQ</span>):</b> <a href="https://maps.google.com/?q=1850+NW+84th+Ave+Suite+100+Doral+FL+33126" target="_blank" rel="noopener">1850 NW 84th Ave, Suite 100, Doral, FL 33126</a></span>
+          <span><b>Value Store It:</b> <a href="https://maps.google.com/?q=5900+NW+102nd+Ave+Doral+FL+33178" target="_blank" rel="noopener">5900 NW 102nd Ave, Doral, FL 33178</a></span>
+          <span><b>Venezuela Awareness Foundation:</b> <a href="https://maps.google.com/?q=814+NW+126th+Ct+Miami+FL+33182" target="_blank" rel="noopener">814 NW 126th Ct, Miami, FL 33182</a></span>
+          <span class="src"><span data-es>Para ropa, confirma antes con la Venezuela Awareness Foundation. Verifica en </span><span data-en>For clothing, confirm first with the Venezuela Awareness Foundation. Verify at </span><a href="https://www.fdacs.gov/Consumer-Resources/Charities" target="_blank" rel="noopener">FDACS Check-A-Charity</a>. <span data-es>Fuentes</span><span data-en>Sources</span>: NBC6 / Telemundo 51.</span>
+        </div>
+        <a class="donate" href="https://www.globalempowermentmission.org/mission/venezuela-earthquake/" target="_blank" rel="noopener"><span data-es>Donar o ser voluntario (GEM) ↗</span><span data-en>Donate or volunteer (GEM) ↗</span></a>
+      </div>
+
+      <div class="card">
+        <span class="badge public"><span data-es>Bogotá · Colombia</span><span data-en>Bogotá · Colombia</span></span>
+        <h3>Fundación Juntos Se Puede</h3>
+        <div class="sub"><span data-es>Calle 104 #54-31, Suba · 7:00–18:00</span><span data-en>Calle 104 #54-31, Suba · 7am–6pm</span></div>
+        <div class="focus"><span data-es>Centro de acopio de artículos de primera necesidad; coordina transporte terrestre hacia Caracas y otras zonas (según prensa).</span>
+          <span data-en>Collection point for essential items; coordinates ground transport to Caracas and other areas (per press).</span></div>
+        <div class="meta"><span class="src"><span data-es>Fuente</span><span data-en>Source</span>: <a href="https://www.elespectador.com/bogota/asi-puede-ayudar-desde-bogota-a-los-afectados-por-el-terremoto-en-venezuela/" target="_blank" rel="noopener">El Espectador</a></span></div>
+        <a class="donate" href="https://www.elespectador.com/bogota/asi-puede-ayudar-desde-bogota-a-los-afectados-por-el-terremoto-en-venezuela/" target="_blank" rel="noopener"><span data-es>Ver detalles ↗</span><span data-en>See details ↗</span></a>
+      </div>
+
+      <div class="card">
+        <span class="badge public"><span data-es>Dentro de Venezuela</span><span data-en>Inside Venezuela</span></span>
+        <h3><span data-es>Parroquias de Cáritas</span><span data-en>Cáritas parishes</span></h3>
+        <div class="sub"><span data-es>Red nacional de Cáritas de Venezuela</span><span data-en>Cáritas de Venezuela's national network</span></div>
+        <div class="focus"><span data-es>Las parroquias de Cáritas funcionan como puntos de recepción, distribución y refugio. Consulta el punto más cercano y qué reciben.</span>
+          <span data-en>Cáritas parishes serve as reception, distribution, and shelter points. Check your nearest location and what they accept.</span></div>
+        <div class="meta"><span class="src"><span data-es>Opción neutral, no partidista.</span><span data-en>Neutral, non-partisan option.</span></span></div>
+        <a class="donate" href="https://caritasvenezuela.org/contactanos/" target="_blank" rel="noopener"><span data-es>Contactar a Cáritas ↗</span><span data-en>Contact Cáritas ↗</span></a>
+      </div>
+    </div>
+
+    <div class="panel" style="margin-top:16px">
+      <div class="eyebrow"><span data-es>Qué se necesita (artículos)</span><span data-en>What's needed (items)</span></div>
+      <div class="areas" style="margin-top:8px">
+        <span class="chip"><span data-es>Agua potable</span><span data-en>Clean water</span></span>
+        <span class="chip"><span data-es>Alimentos no perecederos</span><span data-en>Non-perishable food</span></span>
+        <span class="chip"><span data-es>Insumos médicos</span><span data-en>Medical supplies</span></span>
+        <span class="chip"><span data-es>Ropa en buen estado</span><span data-en>Good-condition clothing</span></span>
+        <span class="chip"><span data-es>Ropa interior y medias nuevas</span><span data-en>New underwear &amp; socks</span></span>
+        <span class="chip"><span data-es>Calzado cerrado e impermeable</span><span data-en>Closed, waterproof shoes</span></span>
+        <span class="chip"><span data-es>Mantas y cobijas</span><span data-en>Blankets</span></span>
+        <span class="chip"><span data-es>Kits de higiene</span><span data-en>Hygiene kits</span></span>
+        <span class="chip"><span data-es>Limpieza (cloro, detergente, guantes)</span><span data-en>Cleaning (bleach, detergent, gloves)</span></span>
+      </div>
+      <p style="font-size:12px;color:var(--muted);margin:10px 0 0"><span data-es>Nota: en Miami, los organizadores piden por ahora insumos de emergencia, médicos y alimentos antes que ropa. Confirma siempre qué reciben en cada punto.</span><span data-en>Note: in Miami, organizers currently prioritize emergency, medical, and food supplies over clothing. Always confirm what each point accepts.</span></p>
+    </div>
+
+    <p style="font-size:12.5px;color:var(--muted);margin-top:14px">
+      <span data-es>Antes de donar a cualquier grupo o campaña, verifica en <a href="https://www.fdacs.gov/Consumer-Resources/Charities" target="_blank" rel="noopener">FDACS Check-A-Charity</a> (Florida), <a href="https://www.charitynavigator.org/" target="_blank" rel="noopener">Charity Navigator</a> o <a href="https://give.org/" target="_blank" rel="noopener">BBB Give.org</a>. Desconfía de cuentas de GoFundMe sin beneficiarios claros y de quien pida datos bancarios por mensajes no solicitados. Otras ciudades de la diáspora (Madrid, Panamá, Santiago) organizan colectas a través de asociaciones venezolanas y parroquias: confirma siempre quién recibe y a dónde va la ayuda.</span>
+      <span data-en>Before donating to any group or campaign, verify at <a href="https://www.fdacs.gov/Consumer-Resources/Charities" target="_blank" rel="noopener">FDACS Check-A-Charity</a> (Florida), <a href="https://www.charitynavigator.org/" target="_blank" rel="noopener">Charity Navigator</a>, or <a href="https://give.org/" target="_blank" rel="noopener">BBB Give.org</a>. Beware of GoFundMe pages without clear beneficiaries and anyone requesting bank details via unsolicited messages. Other diaspora cities (Madrid, Panama, Santiago) organize drives via Venezuelan associations and parishes: always confirm who receives the aid and where it goes.</span>
+    </p>
+  </div>
+</section>
+
+<!-- LOCAL NEWS CAROUSEL -->
+<section id="noticias">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="eyebrow"><span data-es>Prensa venezolana</span><span data-en>Venezuelan press</span></div>
+      <h2><span data-es>Noticias locales en imágenes</span><span data-en>Local news in pictures</span></h2>
+      <p><span data-es>Titulares de medios venezolanos sobre el terremoto. Cada tarjeta enlaza a la nota original. Desliza o usa las flechas.</span>
+         <span data-en>Headlines from Venezuelan outlets about the earthquake. Each card links to the original article. Swipe or use the arrows.</span></p>
+    </div>
+    <div class="news-wrap">
+      <div class="carousel" id="news-carousel"></div>
+      <div class="carousel-nav">
+        <button type="button" onclick="scrollNews(-1)" aria-label="Anterior">‹</button>
+        <button type="button" onclick="scrollNews(1)" aria-label="Siguiente">›</button>
+      </div>
+    </div>
+    <p style="font-size:12px;color:var(--muted);margin-top:6px"><span data-es>Las imágenes y los titulares pertenecen a sus medios; enlazamos a la fuente original. Fuente: El Pitazo.</span><span data-en>Images and headlines belong to their outlets; we link to the original source. Source: El Pitazo.</span></p>
+  </div>
+</section>
+
+<!-- UPDATES -->
+<section id="updates" style="background:#eef2f6">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="eyebrow"><span data-es>Dónde se necesita ayuda</span><span data-en>Where help is needed</span></div>
+      <h2><span data-es>Actualizaciones de fuentes verificadas</span><span data-en>Updates from verified sources</span></h2>
+      <p><span data-es>Reunimos información de fuentes humanitarias y de prensa legítimas, siempre con enlace a la fuente original. Esta sección es solo informativa: no reemplaza a los medios ni a las autoridades.</span>
+         <span data-en>We gather information from legitimate humanitarian and press sources, always linked to the original. This section is informational only: it does not replace the media or the authorities.</span></p>
+    </div>
+    <div class="feed" id="feed"></div>
+  </div>
+</section>
+
+<!-- FAMILY REUNIFICATION -->
+<section id="family">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="eyebrow"><span data-es>Reunificación familiar</span><span data-en>Family reunification</span></div>
+      <h2><span data-es>¿Buscas a un familiar? Personas desaparecidas</span><span data-en>Looking for a relative? Missing persons</span></h2>
+      <p><span data-es>Si no tienes noticias de un ser querido, el canal seguro, gratuito y confidencial es el de la Cruz Roja. No publiques datos personales en redes ni en sitios no oficiales: te expone a estafas y riesgos.</span>
+         <span data-en>If you've lost contact with a loved one, the safe, free, and confidential channel is the Red Cross. Do not post personal data on social media or unofficial sites — it exposes you to scams and risk.</span></p>
+    </div>
+
+    <div class="notice">
+      <span class="ico">⚠️</span>
+      <div>
+        <b><span data-es>Esta plataforma no es un servicio de emergencia.</span><span data-en>This platform is not an emergency service.</span></b>
+        <span data-es> Ante una emergencia inmediata, contacta a los servicios de emergencia locales y a Protección Civil. No almacenamos ni publicamos reportes de personas desaparecidas: te conectamos directamente con el sistema oficial de Restablecimiento del Contacto entre Familiares (RCF), que sí puede buscar y actuar sobre tu reporte.</span>
+        <span data-en> In an immediate emergency, contact local emergency services and Civil Protection. We do not store or publish missing-person reports — we connect you directly to the official Restoring Family Links (RFL) system, which can actually search and act on your report.</span>
+      </div>
+    </div>
+
+    <div class="panel" style="margin-top:14px">
+      <div class="eyebrow"><span data-es>Teléfonos de emergencia · Venezuela</span><span data-en>Emergency numbers · Venezuela</span></div>
+      <div class="areas" style="margin-top:8px">
+        <a class="chip" href="tel:171" style="text-decoration:none"><b>171</b> · <span data-es>Emergencias (CANTV)</span><span data-en>Emergencies (CANTV)</span></a>
+        <span class="chip"><b>*1</b> · Movilnet</span>
+        <a class="chip" href="tel:112" style="text-decoration:none"><b>112</b> · Digitel</a>
+        <a class="chip" href="tel:911" style="text-decoration:none"><b>911</b> · Movistar</a>
+        <a class="chip" href="tel:08005588427" style="text-decoration:none"><b>0800-5588427</b> · <span data-es>Protección Civil</span><span data-en>Civil Protection</span></a>
+      </div>
+      <p style="font-size:12px;color:var(--muted);margin:10px 0 0">
+        <span data-es>171 es la línea nacional de emergencias; márcala según tu operadora. Ante una emergencia médica o de rescate, llama primero a estos números oficiales.</span>
+        <span data-en>171 is the national emergency line; dial it according to your carrier. For a medical or rescue emergency, call these official numbers first.</span></p>
+    </div>
+
+    <div class="fam-cards">
+      <div class="fam-card">
+        <span class="tag-off"><span data-es>Canal oficial</span><span data-en>Official channel</span></span>
+        <h3>ICRC · Restoring Family Links</h3>
+        <p><span data-es>Sistema mundial del Movimiento de la Cruz Roja para buscar familiares tras desastres. Confidencial y gratuito.</span>
+           <span data-en>The Red Cross Movement's global system to search for relatives after disasters. Confidential and free.</span></p>
+        <span class="free"><span data-es>Gratuito · Confidencial</span><span data-en>Free · Confidential</span></span>
+        <a class="donate" style="background:var(--brand)" href="https://familylinks.icrc.org/organization/venezuelan-red-cross" target="_blank" rel="noopener">
+          <span data-es>Buscar / reportar en el canal oficial ↗</span><span data-en>Search / report on the official channel ↗</span></a>
+      </div>
+
+      <div class="fam-card">
+        <span class="tag-off"><span data-es>En Venezuela</span><span data-en>In Venezuela</span></span>
+        <h3>Cruz Roja Venezolana</h3>
+        <p><span data-es>Activó el servicio de Restablecimiento del Contacto entre Familiares (RCF) y equipos de búsqueda en las zonas afectadas.</span>
+           <span data-en>Activated its Restoring Family Links (RFL) service and search teams in the affected areas.</span></p>
+        <span class="free"><span data-es>Servicio de protección y RCF</span><span data-en>Protection &amp; RFL service</span></span>
+        <a class="donate" style="background:var(--brand)" href="https://cruzroja.ve/nuestro-trabajo-proteccion/" target="_blank" rel="noopener">
+          <span data-es>Ir al sitio de la Cruz Roja Venezolana ↗</span><span data-en>Go to the Venezuelan Red Cross site ↗</span></a>
+      </div>
+
+      <div class="fam-card">
+        <span class="tag-off"><span data-es>Para la diáspora</span><span data-en>For the diaspora</span></span>
+        <h3><span data-es>Desde el exterior</span><span data-en>From abroad</span></h3>
+        <p><span data-es>Las Cruces Rojas de Argentina, Colombia, Ecuador, México y Costa Rica abrieron canales de RCF para quienes buscan a sus seres queridos en Venezuela. Contacta a la Cruz Roja de tu país o usa el directorio oficial.</span>
+           <span data-en>The Red Cross societies of Argentina, Colombia, Ecuador, Mexico, and Costa Rica opened RFL channels for people searching for loved ones in Venezuela. Contact the Red Cross in your country or use the official directory.</span></p>
+        <a class="donate" style="background:var(--brand)" href="https://familylinks.icrc.org/" target="_blank" rel="noopener">
+          <span data-es>Abrir el directorio oficial RCF ↗</span><span data-en>Open the official RFL directory ↗</span></a>
+      </div>
+
+      <div class="fam-card">
+        <span class="tag-off"><span data-es>Cómo funciona</span><span data-en>How it works</span></span>
+        <h3><span data-es>Pasos para reportar</span><span data-en>Steps to report</span></h3>
+        <ol class="steps">
+          <li><span data-es>Entra al canal oficial de la Cruz Roja (botones arriba).</span><span data-en>Open the official Red Cross channel (buttons above).</span></li>
+          <li><span data-es>Registra a la persona buscada con sus datos básicos.</span><span data-en>Register the person sought with their basic details.</span></li>
+          <li><span data-es>La Cruz Roja coordina la búsqueda y restablece el contacto.</span><span data-en>The Red Cross coordinates the search and restores contact.</span></li>
+          <li><span data-es>Desconfía de quien pida dinero por “encontrar” a alguien: es estafa.</span><span data-en>Beware of anyone asking for money to “find” someone — it's a scam.</span></li>
+        </ol>
+      </div>
+    </div>
+
+    <p style="font-size:12.5px;color:var(--muted);margin-top:14px">
+      <span data-es>Por qué no alojamos una lista pública de desaparecidos: una lista sin verificar pone en riesgo a personas vulnerables, atrae estafas y difunde información errónea. Centralizamos los canales oficiales que sí pueden actuar. Fuentes: ICRC familylinks.icrc.org, IFRC, Cruz Roja Venezolana.</span>
+      <span data-en>Why we don't host a public missing-persons list: an unverified list endangers vulnerable people, attracts scams, and spreads misinformation. We centralize the official channels that can actually act. Sources: ICRC familylinks.icrc.org, IFRC, Venezuelan Red Cross.</span>
+    </p>
+  </div>
+</section>
+
+<!-- TRANSPARENCY -->
+<section id="transparency">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="eyebrow"><span data-es>En qué confiar</span><span data-en>What to trust</span></div>
+      <h2><span data-es>Transparencia</span><span data-en>Transparency</span></h2>
+    </div>
+    <div class="trust">
+      <div class="qa panel">
+        <h4><span data-es>Cómo seleccionamos las fuentes</span><span data-en>How we select sources</span></h4>
+        <p><span data-es>Usamos agencias humanitarias y oficiales reconocidas: ReliefWeb/OCHA, IFRC y la Cruz Roja Venezolana, USGS, y ONG con presencia comprobable en el terreno.</span>
+           <span data-en>We use recognized humanitarian and official agencies: ReliefWeb/OCHA, IFRC and the Venezuelan Red Cross, USGS, and NGOs with verifiable on-the-ground presence.</span></p>
+        <h4><span data-es>Cómo verificamos las organizaciones</span><span data-en>How we verify organizations</span></h4>
+        <p><span data-es>Confirmamos registro legal (EIN o equivalente), un anuncio oficial de respuesta al terremoto y un canal de donación directo en su propio dominio. Estado "En revisión" hasta completar estos pasos.</span>
+           <span data-en>We confirm legal registration (EIN or equivalent), an official earthquake-response announcement, and a direct donation channel on the org's own domain. Status stays "Under review" until these are complete.</span></p>
+      </div>
+      <div class="qa panel">
+        <h4><span data-es>Lo que esta plataforma NO hace</span><span data-en>What this platform does NOT do</span></h4>
+        <ul class="donts">
+          <li><span data-es>No recauda ni custodia fondos.</span><span data-en>Does not collect or hold funds.</span></li>
+          <li><span data-es>No reemplaza los servicios de emergencia oficiales.</span><span data-en>Does not replace official emergency services.</span></li>
+          <li><span data-es>No publica cifras sin fuente verificable.</span><span data-en>Does not publish figures without a verifiable source.</span></li>
+          <li><span data-es>No promueve mensajes políticos ni de marca.</span><span data-en>Does not promote political or brand messaging.</span></li>
+          <li><span data-es>No usa urgencia falsa ni manipulación emocional.</span><span data-en>Does not use false urgency or emotional manipulation.</span></li>
+        </ul>
+        <h4 style="margin-top:14px"><span data-es>Limitaciones de los datos</span><span data-en>Data limitations</span></h4>
+        <p><span data-es>Las cifras de víctimas son preliminares y cambian. Esta plataforma es informativa y enlaza siempre a la fuente original; no reemplaza a los medios ni a las autoridades.</span>
+           <span data-en>Casualty figures are preliminary and change. This platform is informational and always links to the original source; it does not replace the media or the authorities.</span></p>
+        <h4 style="margin-top:14px"><span data-es>Corregir un dato</span><span data-en>Report a correction</span></h4>
+        <p style="margin-bottom:10px"><span data-es>Envíanos correcciones o solicitudes de inclusión:</span><span data-en>Send corrections or listing requests:</span></p>
+        <a class="btn btn-primary" style="background:var(--brand);color:#fff" href="mailto:corrections@venezuelareliefhub.org?subject=Correcci%C3%B3n%20%2F%20Correction">
+          <span data-es>Reportar una corrección</span><span data-en>Report a correction</span></a>
+      </div>
+    </div>
+    <div class="disclaimer" style="border-left-color:var(--brand);margin-top:18px">
+      <span data-es>Esta plataforma no reemplaza los servicios de emergencia oficiales. Ayuda a organizar información humanitaria pública y conecta a los donantes directamente con organizaciones verificadas.</span>
+      <span data-en>This platform does not replace official emergency services. It helps organize public humanitarian information and connects donors directly with verified organizations.</span>
+    </div>
+  </div>
+</section>
+</main>
+
+<footer class="site">
+  <div class="wrap">
+    <div class="row">
+      <div>
+        <div class="logo" style="color:#fff"><span class="mark">VR</span> Venezuela Relief Hub</div>
+        <p class="legal"><span data-es>Nombre interno temporal. Plataforma neutral, sin fines de lucro propios, sin custodia de fondos. Información de carácter humanitario y de utilidad pública.</span>
+          <span data-en>Temporary internal name. Neutral platform, no direct fundraising, no custody of funds. Humanitarian, public-interest information.</span></p>
+      </div>
+      <div style="display:grid;gap:6px;font-weight:600">
+        <a href="#orgs"><span data-es>Organizaciones</span><span data-en>Organizations</span></a>
+        <a href="#acopio"><span data-es>Centros de acopio</span><span data-en>Drop-off drives</span></a>
+        <a href="#noticias"><span data-es>Noticias locales</span><span data-en>Local news</span></a>
+        <a href="#updates"><span data-es>Actualizaciones</span><span data-en>Updates</span></a>
+        <a href="#family"><span data-es>Reunificación familiar</span><span data-en>Family reunification</span></a>
+        <a href="#transparency"><span data-es>Transparencia</span><span data-en>Transparency</span></a>      </div>
+    </div>
+    <p class="legal" style="margin-top:18px">
+      <span data-es>Fuentes: USGS, ReliefWeb/OCHA, UN News, IFRC / Cruz Roja Venezolana, International Medical Corps, World Vision, Global Empowerment Mission, Cáritas de Venezuela. Última actualización del contenido: 25 de junio de 2026.</span>
+      <span data-en>Sources: USGS, ReliefWeb/OCHA, UN News, IFRC / Venezuelan Red Cross, International Medical Corps, World Vision, Global Empowerment Mission, Cáritas de Venezuela. Content last updated: June 25, 2026.</span>
+    </p>
+  </div>
+</footer>
+
+<script>
+/* ---------- Data: verified organizations ---------- */
+const ORGS = [
+  {
+    name:"International Medical Corps", country:"USA", ein:"95-3949646",
+    cats:["medical"],
+    focusEs:"Equipo en el país (desde 2019) desplegado a la zona afectada con autoridades y respondientes para atención médica de emergencia.",
+    focusEn:"In-country team (since 2019) deployed to the affected zone with officials and responders for emergency medical care.",
+    status:"public", verified:"2026-06-25",
+    site:"https://internationalmedicalcorps.org/emergency-response/venezuela-earthquakes/",
+    donate:"https://internationalmedicalcorps.org/emergency-response/venezuela-earthquakes/?form=Ven2606",
+    noteEs:"Formulario de donación específico del terremoto de Venezuela. La organización indica que cada $1 desbloquea hasta $30 en insumos.",
+    noteEn:"Venezuela earthquake-specific donation form. The org states each $1 unlocks up to $30 in supplies.",
+    src:"https://internationalmedicalcorps.org/emergency-response/venezuela-earthquakes/",
+    trackEs:"Aún sin total verificado", trackEn:"No verified total yet"
+  },
+  {
+    name:"World Vision", country:"USA", ein:"95-1922279",
+    cats:["shelter","medical"],
+    focusEs:"Respuesta de emergencia enfocada en niños y familias: refugio, agua, alimentos, atención médica y protección infantil.",
+    focusEn:"Emergency response focused on children and families: shelter, water, food, medical care, and child protection.",
+    status:"public", verified:"2026-06-25",
+    site:"https://www.worldvision.org/disaster-relief-news-stories/venezuela-earthquake-latest-updates-fast-facts-and-how-to-help",
+    donate:"https://donate.worldvision.org/give/disaster-relief",
+    noteEs:"Formulario de donación directo (ayuda en desastres). Respuesta al sismo de Venezuela: ver fuente.",
+    noteEn:"Direct donation form (disaster relief). Venezuela earthquake response: see source.",
+    src:"https://www.worldvision.org/disaster-relief-news-stories/venezuela-earthquake-latest-updates-fast-facts-and-how-to-help",
+    trackEs:"Aún sin total verificado", trackEn:"No verified total yet"
+  },
+  {
+    name:"Global Empowerment Mission (GEM)", country:"USA", ein:"45-3782061",
+    cats:["shelter","local"],
+    focusEs:"Misión 'Venezuela Earthquake' activa; con su socio local I Love Venezuela despliega equipos de reconocimiento y respuesta con logística y ayuda directa.",
+    focusEn:"Active 'Venezuela Earthquake' mission; with local partner I Love Venezuela, deploying recon and response teams with logistics and direct aid.",
+    status:"public", verified:"2026-06-25",
+    site:"https://www.globalempowermentmission.org/mission/venezuela-earthquake/",
+    donate:"https://www.globalempowermentmission.org/donate/",
+    noteEs:"Página de donación directa de GEM. Misión 'Venezuela Earthquake' activa: ver fuente.",
+    noteEn:"GEM's direct donation page. Active 'Venezuela Earthquake' mission: see source.",
+    src:"https://www.globalempowermentmission.org/mission/venezuela-earthquake/",
+    trackEs:"Aún sin total verificado", trackEn:"No verified total yet"
+  },
+  {
+    name:"IFRC / Cruz Roja Venezolana", country:"International / Venezuela", ein:"—",
+    cats:["medical","shelter","local"],
+    focusEs:"La Cruz Roja Venezolana responde con primeros auxilios, búsqueda y apoyo a la población; la IFRC coordina el apoyo internacional.",
+    focusEn:"The Venezuelan Red Cross responds with first aid, search, and population support; IFRC coordinates international support.",
+    status:"public", verified:"2026-06-25",
+    site:"https://www.ifrc.org/press-release/venezuela-red-cross-responds-needs-emerge-aftermath-powerful-back-back-earthquakes",
+    donate:"https://www.ifrc.org/donate",
+    noteEs:"Página de donación oficial de la IFRC. La Cruz Roja Venezolana responde en terreno: ver fuente.",
+    noteEn:"Official IFRC donation page. The Venezuelan Red Cross is responding on the ground: see source.",
+    src:"https://www.ifrc.org/press-release/venezuela-red-cross-responds-needs-emerge-aftermath-powerful-back-back-earthquakes",
+    trackEs:"Aún sin total verificado", trackEn:"No verified total yet"
+  },
+  {
+    name:"Cáritas de Venezuela", country:"Venezuela", ein:"RIF J-30485697-0",
+    cats:["medical","shelter","local"],
+    focusEs:"Organización venezolana de la Iglesia Católica con +30.000 voluntarios en todo el país (salud, agua, nutrición, higiene). Acreditada ante el SENIAT y respondiendo a la emergencia.",
+    focusEn:"Venezuelan Catholic Church organization with 30,000+ volunteers nationwide (health, water, nutrition, hygiene). SENIAT-accredited and responding to the emergency.",
+    status:"public", verified:"2026-06-25",
+    site:"https://caritasvenezuela.org/",
+    donate:"https://caritasvenezuela.org/donaciones/",
+    noteEs:"Página oficial de donaciones de Cáritas: PayPal (desde el exterior) y transferencia a bancos en Venezuela (Provincial, Mercantil, BNC).",
+    noteEn:"Cáritas's official donations page: PayPal (from abroad) and bank transfer within Venezuela (Provincial, Mercantil, BNC).",
+    src:"https://caritasvenezuela.org/donaciones/",
+    trackEs:"Aún sin total verificado", trackEn:"No verified total yet"
+  },
+  {
+    name:"Fundana", country:"Venezuela", ein:"RIF J-30044432-5 · EIN 47-3170033",
+    cats:["shelter","local"],
+    focusEs:"Fundación venezolana (Caracas) que protege a niños, niñas y familias vulnerables: cuidado integral, reinserción y fortalecimiento familiar, nutrición y agua/saneamiento.",
+    focusEn:"Venezuelan foundation (Caracas) protecting vulnerable children and families: integral care, family reunification and strengthening, nutrition, and water/sanitation.",
+    status:"public", verified:"2026-06-25",
+    site:"https://www.fundana.org/",
+    donate:"https://www.fundana.org/donaci%C3%B3n-econ%C3%B3mica",
+    noteEs:"Organización venezolana verificada (acreditada y vetted en GlobalGiving). Dona por PayPal, Zelle, Venmo o transferencia en Venezuela. Atiende a la niñez vulnerable en Caracas (no es respuesta exclusiva al sismo).",
+    noteEn:"Verified Venezuelan organization (accredited and vetted on GlobalGiving). Donate via PayPal, Zelle, Venmo, or bank transfer in Venezuela. Serves vulnerable children in Caracas (not earthquake-specific).",
+    src:"https://www.globalgiving.org/projects/helpingtotransformthelifeofavulnerablekid/",
+    trackEs:"Aún sin total verificado", trackEn:"No verified total yet"
+  }
+];
+
+/* ---------- Data: daily updates (seed/fallback; the hourly job can overwrite via data/updates.json) ---------- */
+let UPDATES = [
+  {
+    sourceEs:"USGS", sourceEn:"USGS", date:"2026-06-24", conf:"hi", reviewed:true,
+    titleEs:"Doblete sísmico M7.2 + M7.5 en el centro-norte de Venezuela",
+    titleEn:"M7.2 + M7.5 earthquake doublet in north-central Venezuela",
+    sumEs:"El USGS confirma una réplica inicial M7.2 a 28 km al NO de Montalbán seguida ~40 s después por el sismo principal M7.5 a 23 km al SE de Yumare, a profundidad somera. El más fuerte en Venezuela en más de un siglo.",
+    sumEn:"USGS confirms an initial M7.2 foreshock 28 km NW of Montalbán followed ~40s later by the M7.5 mainshock 23 km SE of Yumare, at shallow depth. The strongest in Venezuela in over a century.",
+    areas:["Yaracuy","Carabobo","Montalbán"], needsEs:["Evaluación de daños","Búsqueda y rescate"], needsEn:["Damage assessment","Search & rescue"],
+    url:"https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7zp"
+  },
+  {
+    sourceEs:"UN News / OCHA", sourceEn:"UN News / OCHA", date:"2026-06-25", conf:"hi", reviewed:true,
+    titleEs:"La ONU pide un esfuerzo colectivo; despliegue rápido de equipos USAR",
+    titleEn:"UN urges collective effort; rapid deployment of USAR teams",
+    sumEs:"OCHA anuncia el despliegue rápido de equipos de búsqueda y rescate urbano a través de INSARAG. Naciones de la región y otros países ofrecen ayuda y rescatistas.",
+    sumEn:"OCHA announces rapid deployment of urban search-and-rescue teams via INSARAG. Regional nations and others offer aid and rescuers.",
+    areas:["La Guaira","Gran Caracas"], needsEs:["Búsqueda y rescate","Coordinación"], needsEn:["Search & rescue","Coordination"],
+    url:"https://news.un.org/en/story/2026/06/1167805"
+  },
+  {
+    sourceEs:"IFRC / Cruz Roja Venezolana", sourceEn:"IFRC / Venezuelan Red Cross", date:"2026-06-25", conf:"hi", reviewed:true,
+    titleEs:"La Cruz Roja responde a medida que surgen necesidades",
+    titleEn:"Red Cross responds as needs emerge",
+    sumEs:"La Cruz Roja Venezolana moviliza voluntarios para primeros auxilios, apoyo psicosocial y evaluación de necesidades en las zonas más afectadas.",
+    sumEn:"The Venezuelan Red Cross mobilizes volunteers for first aid, psychosocial support, and needs assessment in the worst-hit areas.",
+    areas:["La Guaira","Carabobo"], needsEs:["Atención médica","Apoyo psicosocial","Agua y saneamiento"], needsEn:["Medical care","Psychosocial support","Water & sanitation"],
+    url:"https://www.ifrc.org/press-release/venezuela-red-cross-responds-needs-emerge-aftermath-powerful-back-back-earthquakes"
+  },
+  {
+    sourceEs:"Direct Relief", sourceEn:"Direct Relief", date:"2026-06-25", conf:"hi", reviewed:true,
+    titleEs:"Direct Relief moviliza ayuda médica para necesidades regionales",
+    titleEn:"Direct Relief mobilizes medical aid for regional needs",
+    sumEs:"Direct Relief se comunica con proveedores de salud y prepara entregas de medicinas de emergencia: manejo de heridas, insumos quirúrgicos, antibióticos y paquetes para médicos de campo.",
+    sumEn:"Direct Relief is in contact with health providers and preparing emergency medicine deliveries: wound care, surgical supplies, antibiotics, and field-medic packs.",
+    areas:["Gran Caracas"], needsEs:["Medicinas","Insumos quirúrgicos"], needsEn:["Medicines","Surgical supplies"],
+    url:"https://www.directrelief.org/2026/06/venezuela-earthquake-caracas-damage/"
+  },
+  {
+    sourceEs:"Global Empowerment Mission", sourceEn:"Global Empowerment Mission", date:"2026-06-25", conf:"med", reviewed:true,
+    titleEs:"GEM e I Love Venezuela despliegan equipos de reconocimiento",
+    titleEn:"GEM and I Love Venezuela deploy recon teams",
+    sumEs:"GEM, junto a su socio local I Love Venezuela, moviliza equipos de reconocimiento y respuesta de emergencia para evaluar y entregar ayuda directa en el terreno.",
+    sumEn:"GEM, with local partner I Love Venezuela, mobilizes recon and emergency-response teams to assess and deliver direct aid on the ground.",
+    areas:["La Guaira","Gran Caracas"], needsEs:["Logística","Refugio","Alimentos"], needsEn:["Logistics","Shelter","Food"],
+    url:"https://www.globalempowermentmission.org/mission/venezuela-earthquake/"
+  }
+];
+
+/* ---------- Data: local press carousel (seed/fallback; the hourly job can overwrite via data/news.json) ---------- */
+let NEWS = [
+  { source:"El Pitazo", section:"Gran Caracas", date:"24 jun 2026",
+    img:"https://elpitazo.net/wp-content/uploads/2026/06/661e8f42-973e-44da-82a5-3aacf14626e4.jpg.webp",
+    titleEs:"Chacao: cuatro edificios colapsados y 18 personas rescatadas con vida",
+    titleEn:"Chacao: four buildings collapsed, 18 people rescued alive",
+    url:"https://elpitazo.net/regiones/gran-caracas/sismo-alcalde-de-chacao-reporta-dos-edificios-colapsados-y-18-personas-rescatadas-con-vida/" },
+  { source:"El Pitazo", section:"Gran Caracas", date:"24 jun 2026",
+    img:"https://elpitazo.net/wp-content/uploads/2026/06/baruta-proteccion-civil.jpg",
+    titleEs:"Confirman tres muertos en Baruta y uno en Los Salias por los sismos",
+    titleEn:"Three deaths confirmed in Baruta and one in Los Salias",
+    url:"https://elpitazo.net/regiones/autoridades-locales-confirman-tres-muertos-en-baruta-y-uno-en-los-salias-tras-sismos-de-este-24-de-junio/" },
+  { source:"El Pitazo", section:"Occidente", date:"24 jun 2026",
+    img:"https://elpitazo.net/wp-content/uploads/2026/06/Yaracuy.jpg",
+    titleEs:"Sismo cerca de San Felipe deja a Yaracuy sin electricidad",
+    titleEn:"Quake near San Felipe leaves Yaracuy without power",
+    url:"https://elpitazo.net/regiones/sismo-con-epicentro-a-30-kilometros-de-san-felipe-deja-a-yaracuy-sin-luz/" },
+  { source:"El Pitazo", section:"Regiones", date:"25 jun 2026",
+    img:"https://elpitazo.net/wp-content/uploads/2026/06/centro-de-acopio.jpg",
+    titleEs:"Conoce los centros de acopio disponibles en Venezuela",
+    titleEn:"The donation collection centers available across Venezuela",
+    url:"https://elpitazo.net/regiones/sismos-en-venezuela-conoce-los-centros-de-acopio-disponibles/" }
+];
+
+function renderNews(){
+  const el=document.getElementById('news-carousel'); if(!el) return; el.innerHTML='';
+  NEWS.forEach(n=>{
+    const title=t(n.titleEs,n.titleEn);
+    const a=document.createElement('article'); a.className='slide';
+    a.innerHTML=
+      '<div class="ph"><span class="src-tag">'+n.source+'</span>'+
+        '<img loading="lazy" referrerpolicy="no-referrer" src="'+n.img+'" alt="'+title.replace(/"/g,'')+'" onerror="this.remove()"></div>'+
+      '<div class="body"><h3>'+title+'</h3>'+
+        '<div class="tr">'+n.date+' · '+n.section+'</div>'+
+        '<a class="read" href="'+n.url+'" target="_blank" rel="noopener">'+t('Leer en el medio ↗','Read at source ↗')+'</a></div>';
+    el.appendChild(a);
+  });
+}
+function scrollNews(dir){
+  const el=document.getElementById('news-carousel'); if(!el) return;
+  const s=el.querySelector('.slide');
+  const w=s? s.getBoundingClientRect().width+14 : 300;
+  el.scrollBy({left:dir*w,behavior:'smooth'});
+}
+
+/* ---------- Render ---------- */
+const t=(es,en)=> (document.documentElement.lang==='en'? en : es);
+
+function statusBadge(o){
+  if(o.status==='verified') return '<span class="badge verified">'+t('Socio verificado','Verified partner')+'</span>';
+  if(o.status==='public')   return '<span class="badge public">'+t('Verificado públicamente','Publicly verified')+'</span>';
+  return '<span class="badge review">'+t('En revisión','Under review')+'</span>';
+}
+function renderOrgs(filter){
+  const el=document.getElementById('org-cards'); el.innerHTML='';
+  ORGS.filter(o=>filter==='all'||o.cats.includes(filter)).forEach(o=>{
+    const card=document.createElement('div'); card.className='card';
+    card.innerHTML =
+      statusBadge(o)+
+      '<h3>'+o.name+'</h3>'+
+      '<div class="sub">'+o.country+(o.ein&&o.ein!=='—'?' · EIN '+o.ein:'')+'</div>'+
+      '<div class="focus">'+t(o.focusEs,o.focusEn)+'</div>'+
+      '<div class="meta">'+
+        '<span><b>'+t('Seguimiento de donaciones','Donation tracking')+':</b> '+t(o.trackEs,o.trackEn)+'</span>'+
+        '<span><b>'+t('Última verificación','Last verified')+':</b> '+o.verified+'</span>'+
+        '<span class="src"><b>'+t('Fuente','Source')+':</b> <a href="'+o.src+'" target="_blank" rel="noopener">'+t('ver','view')+'</a> · '+
+          '<a href="'+o.site+'" target="_blank" rel="noopener">'+t('sitio web','website')+'</a></span>'+
+      '</div>'+
+      (o.noteEs?'<div style="font-size:11.5px;color:var(--muted);line-height:1.35">'+t(o.noteEs,o.noteEn)+'</div>':'')+
+      '<a class="donate" href="'+o.donate+'" target="_blank" rel="noopener">'+t('Donar directamente ↗','Donate directly ↗')+'</a>';
+    el.appendChild(card);
+  });
+}
+function renderFeed(){
+  const el=document.getElementById('feed'); el.innerHTML='';
+  UPDATES.forEach(u=>{
+    const tags=t(u.needsEs,u.needsEn).map(n=>'<span class="tag">'+n+'</span>').join('')+
+               u.areas.map(a=>'<span class="tag">📍 '+a+'</span>').join('');
+    const d=document.createElement('article'); d.className='update';
+    d.innerHTML =
+      '<div class="top"><span class="src-name">'+t(u.sourceEs,u.sourceEn)+'</span> · <span>'+u.date+'</span></div>'+
+      '<h3>'+t(u.titleEs,u.titleEn)+'</h3>'+
+      '<p>'+t(u.sumEs,u.sumEn)+'</p>'+
+      '<div class="tags">'+tags+'</div>'+
+      '<div class="foot"><span class="rev">'+t('Fuente verificada','Verified source')+'</span>'+
+        '<a href="'+u.url+'" target="_blank" rel="noopener">'+t('Fuente original ↗','Original source ↗')+'</a></div>';
+    el.appendChild(d);
+  });
+}
+
+let currentFilter='all';
+document.getElementById('org-filters').addEventListener('click',e=>{
+  const b=e.target.closest('button'); if(!b)return;
+  document.querySelectorAll('#org-filters button').forEach(x=>x.classList.remove('on'));
+  b.classList.add('on'); currentFilter=b.dataset.f; renderOrgs(currentFilter);
+});
+
+function setLang(l){
+  document.documentElement.lang=l;
+  document.getElementById('es').classList.toggle('on',l==='es');
+  document.getElementById('en').classList.toggle('on',l==='en');
+  renderOrgs(currentFilter); renderFeed(); renderNews(); stampDate();
+}
+function stampDate(){
+  const d=new Date('2026-06-25T17:00:00Z');
+  const loc = document.documentElement.lang==='en'?'en-US':'es-VE';
+  document.getElementById('updated-ts').textContent =
+    d.toLocaleString(loc,{day:'numeric',month:'long',year:'numeric',hour:'2-digit',minute:'2-digit'});
+}
+
+renderOrgs('all'); renderFeed(); renderNews(); stampDate();
+
+/* Optional refresh: when served over HTTP, pull fresh data/*.json (the hourly job writes these).
+   If the files are missing or fail to load, the embedded seed above is used. */
+async function loadData(){
+  try{
+    const [u,n]=await Promise.all([
+      fetch('data/updates.json',{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null),
+      fetch('data/news.json',{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null)
+    ]);
+    if(Array.isArray(u)&&u.length){UPDATES=u; renderFeed();}
+    if(Array.isArray(n)&&n.length){NEWS=n; renderNews();}
+  }catch(e){/* keep embedded seed */}
+}
+loadData();
+</script>
+</body>
+</html>

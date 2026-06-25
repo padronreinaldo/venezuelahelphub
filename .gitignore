@@ -1,0 +1,14 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Node (por si luego agregas dependencias al script de fetch)
+node_modules/
+npm-debug.log*
+
+# Temporales
+*.tmp
+*.log

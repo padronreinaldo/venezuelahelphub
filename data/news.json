@@ -83,6 +83,15 @@
   {
     "source": "Runrun.es",
     "section": "Venezuela",
+    "date": "2026-06-26",
+    "img": "https://runrun.es/wp-content/uploads/2026/06/edificiorita.jpg",
+    "titleEs": "Balance de cierre del 25 de junio: 235 fallecidos y 4300 heridos por doble sismo",
+    "titleEn": "Balance de cierre del 25 de junio: 235 fallecidos y 4300 heridos por doble sismo",
+    "url": "https://runrun.es/noticias/612464/balance-de-cierre-del-25-de-junio-235-fallecidos-y-4300-heridos-por-doble-sismo/"
+  },
+  {
+    "source": "Runrun.es",
+    "section": "Venezuela",
     "date": "2026-06-25",
     "img": "https://runrun.es/wp-content/uploads/2026/06/CENTROS-DE-ACOPIO.jpg",
     "titleEs": "Se activan centros de acopio para ayudar a las víctimas de los terremotos",
@@ -97,14 +106,5 @@
     "titleEs": "Estos son los hospitales y clínicas habilitados en Caracas para atender la emergencia",
     "titleEn": "Estos son los hospitales y clínicas habilitados en Caracas para atender la emergencia",
     "url": "https://runrun.es/noticias/612450/estos-son-los-hospitales-y-clinicas-habilitados-en-caracas-para-atender-la-emergencia/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-06-25",
-    "img": "https://runrun.es/wp-content/uploads/2026/06/Diseno-sin-titulo-2026-06-25T142827.361.jpg",
-    "titleEs": "En el interior del país, el estruendo también causó víctimas y daños",
-    "titleEn": "En el interior del país, el estruendo también causó víctimas y daños",
-    "url": "https://runrun.es/noticias/612432/en-el-interior-del-pais-el-estruendo-tambien-causo-victimas-y-danos/"
   }
 ]

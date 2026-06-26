@@ -1,30 +1,30 @@
 {
-  "updatedAt": "2026-06-26T12:13:21.411Z",
+  "updatedAt": "2026-06-26T15:09:13.501Z",
   "stats": {
     "maxMagnitude": 7.5,
     "aftershocks": 4,
-    "deaths": 235,
+    "deaths": 589,
     "injured": 4300,
     "missing": 157
   },
   "prov": {
     "maxMagnitude": {
-      "seenAt": "2026-06-26T12:13:21.411Z",
+      "seenAt": "2026-06-26T15:09:13.501Z",
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7zp"
     },
     "aftershocks": {
-      "seenAt": "2026-06-26T12:13:21.411Z",
+      "seenAt": "2026-06-26T15:09:13.501Z",
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7zp"
     },
     "deaths": {
-      "seenAt": "2026-06-26T12:13:21.411Z",
+      "seenAt": "2026-06-26T15:09:13.501Z",
       "source": "Wikipedia (ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
     "injured": {
-      "seenAt": "2026-06-26T12:13:21.411Z",
+      "seenAt": "2026-06-26T15:09:13.501Z",
       "source": "Wikipedia (ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
@@ -36,16 +36,16 @@
   },
   "alt": {
     "deaths": {
-      "value": 235,
+      "value": 589,
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/terremotos-en-venezuela-se-elevan-las-cifras-a-235-fallecidos-y-4-300-heridos/",
-      "seenAt": "2026-06-26T12:13:21.411Z"
+      "url": "https://elpitazo.net/regiones/gran-caracas/delcy-rodriguez-confirma-589-muertos-y-2-980-heridos-tras-los-terremotos/",
+      "seenAt": "2026-06-26T15:09:13.501Z"
     },
     "injured": {
       "value": 4300,
       "source": "El Pitazo",
       "url": "https://elpitazo.net/regiones/terremotos-en-venezuela-se-elevan-las-cifras-a-235-fallecidos-y-4-300-heridos/",
-      "seenAt": "2026-06-26T12:13:21.411Z"
+      "seenAt": "2026-06-26T15:09:13.501Z"
     },
     "missing": {
       "value": 157,

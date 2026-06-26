@@ -55,6 +55,20 @@
     "sourceEn": "El Pitazo",
     "date": "2026-06-26",
     "conf": "med",
+    "titleEs": "Delcy Rodríguez confirma 589 muertos y 2.980 heridos después de los terremotos",
+    "titleEn": "Delcy Rodríguez confirma 589 muertos y 2.980 heridos después de los terremotos",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/regiones/gran-caracas/delcy-rodriguez-confirma-589-muertos-y-2-980-heridos-tras-los-terremotos/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-06-26",
+    "conf": "med",
     "titleEs": "Entre listas de heridos y ambulancias:  pacientes desbordan los hospitales de Caracas después del terremoto",
     "titleEn": "Entre listas de heridos y ambulancias:  pacientes desbordan los hospitales de Caracas después del terremoto",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -93,31 +107,17 @@
     "url": "https://elpitazo.net/regiones/la-guaira-les-hablaban-para-mantenerlos-conscientes-entre-los-escombros-la-gente-sigue-esperando-ayuda-despues-del-terremoto/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-06-26",
-    "conf": "med",
-    "titleEs": "Diosdado Cabello: hay más de 100 edificios colapsados y 70.000 familias afectadas en La Guaira",
-    "titleEn": "Diosdado Cabello: hay más de 100 edificios colapsados y 70.000 familias afectadas en La Guaira",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/regiones/diosdado-cabello-hay-mas-de-100-edificios-colapsados-y-70-000-familias-afectadas-en-la-guaira/"
-  },
-  {
     "sourceEs": "Efecto Cocuyo",
     "sourceEn": "Efecto Cocuyo",
     "date": "2026-06-26",
     "conf": "med",
-    "titleEs": "OMS: Venezuela no tiene restricciones ni sanciones que impidan la ayuda humanitaria",
-    "titleEn": "OMS: Venezuela no tiene restricciones ni sanciones que impidan la ayuda humanitaria",
+    "titleEs": "Terremotos en Venezuela: La voz humanitaria ante la emergencia #EfectoPaz",
+    "titleEn": "Terremotos en Venezuela: La voz humanitaria ante la emergencia #EfectoPaz",
     "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
     "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://efectococuyo.com/internacionales/oms-venezuela-no-tiene-restricciones-ni-sanciones-que-impidan-la-ayuda-humanitaria/"
+    "url": "https://efectococuyo.com/la-humanidad/terremotos-en-venezuela-la-voz-humanitaria-ante-la-emergencia-efectopaz/"
   }
 ]

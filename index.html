@@ -103,6 +103,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   .stat .prov{font-size:11px;line-height:1.3;color:var(--muted);margin-top:8px;padding-top:6px;border-top:1px solid var(--line);opacity:.85}
   .stat .prov a{color:var(--brand);text-decoration:none;font-weight:600}
   .stat .prov.stale{color:#b45309;font-style:italic}
+  .stat .prov.altsrc{border-top:0;padding-top:2px;margin-top:4px;opacity:.95}
+  .stat .prov.altsrc b{color:var(--ink,#1a1a1a)}
 
   .panel{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:18px 18px;box-shadow:var(--shadow)}
   .grid-2{display:grid;gap:14px}
@@ -858,6 +860,7 @@ let NEWS = [
 /* Hero stats (auto-updated from data/meta.json: magnitud, réplicas, víctimas) */
 let STATS = { maxMagnitude:7.5, aftershocks:20, deaths:188, injured:1520, missing:157 };
 let PROV = {}; // procedencia por dato: { clave: {seenAt, source, url} }
+let ALT  = {}; // cifra de otras fuentes (prensa/ONG): { clave: {value, source, url, seenAt} }
 // Tiempo relativo real ("hace 12 min", "hace 2 d") a partir de un ISO
 function relTime(iso){
   const ms=Date.now()-new Date(iso).getTime();
@@ -879,6 +882,18 @@ function provLine(key){
   const tail=src?(p.url?' · <a href="'+p.url+'" target="_blank" rel="noopener">'+src+' ↗</a>':' · '+src):'';
   return '<div class="prov" title="'+abs+' (hora Venezuela)">'+when+tail+'</div>';
 }
+// Nota secundaria: cuando otra fuente (prensa/ONG) reporta una cifra distinta a la
+// oficial, se muestra debajo con atribución. Se oculta si coincide con la oficial.
+function altLine(key){
+  const a=ALT&&ALT[key]; if(!a||a.value==null) return '';
+  // Solo se muestra cuando otra fuente reporta MÁS que la cifra oficial (cifras mayores de ONG/prensa).
+  if(STATS[key]!=null && !(Number(a.value)>Number(STATS[key]))) return '';
+  const en=document.documentElement.lang==='en';
+  const num=Number(a.value).toLocaleString(en?'en-US':'es-VE');
+  const label=en?'Other sources: ':'Otras fuentes: ';
+  const src=a.source?(a.url?'<a href="'+a.url+'" target="_blank" rel="noopener">'+a.source+' ↗</a>':a.source):'';
+  return '<div class="prov altsrc">'+label+'<b>'+num+'</b>'+(src?' · '+src:'')+'</div>';
+}
 function renderStats(){
   const el=document.getElementById('stats'); if(!el) return;
   const en=document.documentElement.lang==='en';
@@ -890,7 +905,7 @@ function renderStats(){
   if(STATS.injured!=null)      cards.push(['injured', num(STATS.injured), t('Heridos*','Injured*')]);
   if(STATS.missing!=null)      cards.push(['missing', num(STATS.missing), t('Desaparecidos*','Missing*')]);
   cards.push([null, ORGS.length, t('Organizaciones verificadas','Verified organizations')]);
-  el.innerHTML = cards.map(c=>'<div class="stat"><div class="n">'+c[1]+'</div><div class="l">'+c[2]+'</div>'+(c[0]?provLine(c[0]):'')+'</div>').join('');
+  el.innerHTML = cards.map(c=>'<div class="stat"><div class="n">'+c[1]+'</div><div class="l">'+c[2]+'</div>'+(c[0]?provLine(c[0])+altLine(c[0]):'')+'</div>').join('');
 }
 function renderNews(){
   const el=document.getElementById('news-carousel'); if(!el) return; el.innerHTML='';
@@ -1023,7 +1038,8 @@ async function loadData(){
     if(Array.isArray(n)&&n.length){NEWS=n; renderNews();}
     if(m&&m.stats){for(const k in m.stats){if(m.stats[k]!=null)STATS[k]=m.stats[k];}}
     if(m&&m.prov){PROV=m.prov;}
-    if(m&&(m.stats||m.prov)){renderStats();}
+    if(m&&m.alt){ALT=m.alt;}
+    if(m&&(m.stats||m.prov||m.alt)){renderStats();}
     if(m&&m.updatedAt){LAST_UPDATED=m.updatedAt; stampDate();}
   }catch(e){/* keep embedded seed */}
 }

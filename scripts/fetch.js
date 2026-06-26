@@ -18,7 +18,9 @@ const path = require("path");
 
 const OUT_DIR = path.join(__dirname, "..", "data");
 const UA = "venezuela-relief-hub/1.0 (+https://venezuelareliefhub.org)";
-const KEYWORDS = /(sismo|terremoto|earthquake|réplica|replica|temblor)/i;
+// Palabras clave del evento. Se añaden términos de ayuda/respuesta para que la
+// cobertura de solidaridad internacional (países y ONG ayudando) entre al feed.
+const KEYWORDS = /(sismo|terremoto|earthquake|réplica|replica|temblor|damnificad|rescatist|búsqueda y rescate|ayuda humanitaria|ayuda internacional)/i;
 
 const get = async (url, type = "json") => {
   const ctrl = new AbortController();
@@ -175,7 +177,7 @@ async function fetchPress() {
       const xml = await get(feed.url, "text");
       let added = 0;
       for (const it of parseRssItems(xml)) {
-        if (!it.title || !KEYWORDS.test(it.title)) continue;
+        if (!it.title || !(KEYWORDS.test(it.title) || KEYWORDS.test(it.desc || ""))) continue;
         // escanea título + resumen del feed y recuerda fuente/URL de cada cifra
         scanCasualties(`${it.title} ${it.desc || ""}`, casualties, feed.name, it.link);
         if (added < 4) {                        // guarda solo 4 por medio para el carrusel
@@ -285,10 +287,10 @@ function writeIfNonEmpty(file, arr) {
   // fuente real (seenAt) y DE QUÉ fuente (source + url). Si esta corrida no la confirma,
   // se conserva el valor anterior CON su hora real (no se finge que es de ahora).
   const now = new Date().toISOString();
-  let prev = {}, prevProv = {};
+  let prev = {}, prevProv = {}, prevAlt = {};
   try {
     const pm = JSON.parse(fs.readFileSync(path.join(OUT_DIR, "meta.json"), "utf8"));
-    prev = pm.stats || {}; prevProv = pm.prov || {};
+    prev = pm.stats || {}; prevProv = pm.prov || {}; prevAlt = pm.alt || {};
   } catch (e) {}
 
   // Lo OBSERVADO en esta corrida (o null si la fuente no lo trajo)
@@ -329,10 +331,27 @@ function writeIfNonEmpty(file, arr) {
     }
   }
 
+  // Cifras de OTRAS FUENTES (prensa/ONG): nota secundaria que se muestra SOLO cuando
+  // difiere de la cifra oficial. Mismas guardas (monótonas para muertos/heridos,
+  // anti-vandalismo) y se conserva la anterior si esta corrida no la observa, con su
+  // hora real (seenAt). El front compara con la oficial y oculta la nota si coinciden.
+  const alt = {};
+  for (const key of ["deaths", "injured", "missing"]) {
+    const cur = press[key] && press[key].value != null ? press[key] : null; // {value,source,url}
+    const pa = prevAlt[key] || {};
+    const pv = typeof pa.value === "number" ? pa.value : null;
+    if (cur && plausible(key, cur.value, pv) && (!MONOTONIC.has(key) || pv == null || cur.value >= pv)) {
+      alt[key] = { value: cur.value, source: cur.source, url: cur.url, seenAt: now };
+    } else if (pv != null) {
+      alt[key] = { value: pv, source: pa.source || null, url: pa.url || null, seenAt: pa.seenAt || null };
+    }
+  }
+
   const meta = {
     updatedAt: now,
     stats,
     prov,
+    alt,
     sources: { usgs: usgsA.length, reliefweb: rwebA.length, press: pressNews.length, wikipedia: wiki.deaths != null || wiki.injured != null ? 1 : 0 },
     counts: { updates: updates.length, news: news.length }
   };

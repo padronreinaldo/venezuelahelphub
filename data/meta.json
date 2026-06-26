@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26T19:17:19.005Z",
+  "updatedAt": "2026-06-26T21:05:49.574Z",
   "stats": {
     "maxMagnitude": 7.5,
     "aftershocks": 4,
@@ -9,22 +9,22 @@
   },
   "prov": {
     "maxMagnitude": {
-      "seenAt": "2026-06-26T19:17:19.005Z",
+      "seenAt": "2026-06-26T21:05:49.574Z",
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7zp"
     },
     "aftershocks": {
-      "seenAt": "2026-06-26T19:17:19.005Z",
+      "seenAt": "2026-06-26T21:05:49.574Z",
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7zp"
     },
     "deaths": {
-      "seenAt": "2026-06-26T19:17:19.005Z",
+      "seenAt": "2026-06-26T21:05:49.574Z",
       "source": "Wikipedia (ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
     "injured": {
-      "seenAt": "2026-06-26T19:17:19.005Z",
+      "seenAt": "2026-06-26T21:05:49.574Z",
       "source": "Wikipedia (ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
@@ -45,7 +45,7 @@
       "value": 4300,
       "source": "Runrun.es",
       "url": "https://runrun.es/noticias/612464/balance-de-cierre-del-25-de-junio-235-fallecidos-y-4300-heridos-por-doble-sismo/",
-      "seenAt": "2026-06-26T19:17:19.005Z"
+      "seenAt": "2026-06-26T21:05:49.574Z"
     },
     "missing": {
       "value": 157,

@@ -55,6 +55,34 @@
     "sourceEn": "El Pitazo",
     "date": "2026-06-26",
     "conf": "med",
+    "titleEs": "Cecodap pide verificar la identidad de los representantes de niños separados de sus familias tras los terremotos",
+    "titleEn": "Cecodap pide verificar la identidad de los representantes de niños separados de sus familias tras los terremotos",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/regiones/ong-piden-verificar-la-identidad-de-los-representantes-de-ninos-separados-de-sus-familias-tras-los-terremotos/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-06-26",
+    "conf": "med",
+    "titleEs": "La Guaira | Médicos improvisan quirófano para atender a sobrevivientes: conoce los insumos que necesitan",
+    "titleEn": "La Guaira | Médicos improvisan quirófano para atender a sobrevivientes: conoce los insumos que necesitan",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/regiones/gran-caracas/la-guaira-medicos-improvisan-quirofano-para-atender-a-sobrevivientes-conoce-los-insumos-que-necesitan/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-06-26",
+    "conf": "med",
     "titleEs": "Familias afectadas por los terremotos piden apoyo a las autoridades: «Hay niños temblando, durmiendo en las calles»",
     "titleEn": "Familias afectadas por los terremotos piden apoyo a las autoridades: «Hay niños temblando, durmiendo en las calles»",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -79,45 +107,17 @@
     "url": "https://elpitazo.net/economia/empresarios-pusieron-a-disposicion-maquinaria-pesada-para-atender-zona-de-desastre-en-la-guaira/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-06-26",
-    "conf": "med",
-    "titleEs": "Aumenta a 920 el número de muertos y a 3.360 los heridos en Venezuela por los terremotos del 24 junio",
-    "titleEn": "Aumenta a 920 el número de muertos y a 3.360 los heridos en Venezuela por los terremotos del 24 junio",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/zzdestacado_3/aumenta-a-920-el-numero-de-muertos-y-a-3-360-los-heridos-en-venezuela-por-los-terremotos-del-24-junio/"
-  },
-  {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-06-26",
-    "conf": "med",
-    "titleEs": "Cómo ayudar desde el exterior a los afectados por los terremotos en Venezuela",
-    "titleEn": "Cómo ayudar desde el exterior a los afectados por los terremotos en Venezuela",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/regiones/gran-caracas/como-ayudar-desde-el-exterior-a-los-afectados-por-los-terremotos-en-venezuela/"
-  },
-  {
     "sourceEs": "Efecto Cocuyo",
     "sourceEn": "Efecto Cocuyo",
     "date": "2026-06-26",
     "conf": "med",
-    "titleEs": "Volker Türk presenta actualización sobre Venezuela en el Consejo de DDHH de ONU",
-    "titleEn": "Volker Türk presenta actualización sobre Venezuela en el Consejo de DDHH de ONU",
+    "titleEs": "Evaluación de estructuras después de un sismo:  ¿Qué hacer?",
+    "titleEn": "Evaluación de estructuras después de un sismo:  ¿Qué hacer?",
     "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
     "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://efectococuyo.com/internacionales/volker-turk-presenta-actualizacion-sobre-venezuela-en-el-consejo-de-ddhh-de-onu/"
+    "url": "https://efectococuyo.com/la-humanidad/evaluacion-de-estructuras-despues-de-un-sismo-que-hacer/"
   }
 ]

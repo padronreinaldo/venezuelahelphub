@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-06-25T23:07:56.184Z",
+  "updatedAt": "2026-06-26T01:36:14.933Z",
   "stats": {
     "maxMagnitude": 7.5,
-    "aftershocks": 4,
+    "aftershocks": 3,
     "deaths": 188,
     "injured": 1500,
     "missing": 157
   },
   "prov": {
     "maxMagnitude": {
-      "seenAt": "2026-06-25T23:07:56.184Z",
+      "seenAt": "2026-06-26T01:36:14.933Z",
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7zp"
     },
     "aftershocks": {
-      "seenAt": "2026-06-25T23:07:56.184Z",
+      "seenAt": "2026-06-26T01:36:14.933Z",
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7zp"
     },
     "deaths": {
-      "seenAt": "2026-06-25T23:07:56.184Z",
+      "seenAt": "2026-06-26T01:36:14.933Z",
       "source": "Wikipedia (ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
     "injured": {
-      "seenAt": "2026-06-25T23:07:56.184Z",
+      "seenAt": "2026-06-26T01:36:14.933Z",
       "source": "Wikipedia (ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
     "missing": {
-      "seenAt": "2026-06-25T23:07:56.184Z",
+      "seenAt": "2026-06-26T01:36:14.933Z",
       "source": "Efecto Cocuyo",
       "url": "https://efectococuyo.com/la-humanidad/jorge-rodriguez-188-muertes-1-520-heridos-157-desaparecidos-terremotos/"
     }

@@ -127,6 +127,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   .quake .qmeta .qbadge{font-size:10.5px;font-weight:700;padding:1px 6px;border-radius:999px;text-transform:uppercase;letter-spacing:.02em}
   .quake .qmeta .tsu{background:#dbeafe;color:#1d4ed8}
   .quake .qmeta .prelim{background:#fef3c7;color:#92400e}
+  .quake .qmeta .dyfi{background:#ede9fe;color:#5b21b6}
+  .quake .qmeta .alert.a-green{background:#dcfce7;color:#166534}
+  .quake .qmeta .alert.a-yellow{background:#fef9c3;color:#854d0e}
+  .quake .qmeta .alert.a-orange{background:#ffedd5;color:#9a3412}
+  .quake .qmeta .alert.a-red{background:#fee2e2;color:#991b1b}
   .quake a.qlink{color:inherit;text-decoration:none;display:contents}
   .eq-foot{font-size:11.5px;color:var(--muted);margin-top:8px;opacity:.9}
   @media(max-width:560px){
@@ -967,6 +972,9 @@ function placeText(s){
   return s.replace(/(\d+(?:\.\d+)?\s*km)\s+([NSEWO]{1,3})\s+of\s+/i,'$1 al $2 de ')
           .replace(/\s+of\s+/gi,' de ');
 }
+// Intensidad sentida (DYFI/CDI) en números romanos, como la escala de intensidad del USGS
+function roman(n){const M=['','I','II','III','IV','V','VI','VII','VIII','IX','X','XI','XII'];n=Math.max(0,Math.min(12,Math.round(n)));return M[n];}
+const ALERTLBL={green:['Verde','Green'],yellow:['Amarilla','Yellow'],orange:['Naranja','Orange'],red:['Roja','Red']};
 function renderQuakes(){
   const el=document.getElementById('quakes'); if(!el) return;
   const en=document.documentElement.lang==='en';
@@ -981,7 +989,10 @@ function renderQuakes(){
     const abs=q.time?new Date(q.time).toLocaleString(en?'en-US':'es-VE',{day:'numeric',month:'short',hour:'2-digit',minute:'2-digit',timeZone:'America/Caracas'}):'';
     const depth=q.depth!=null?(Math.round(q.depth)+' km'):'';
     const place=placeText(q.place).replace(/"/g,'');
+    const al=q.alert&&ALERTLBL[q.alert];
     const badges=
+      (al?'<span class="qbadge alert a-'+q.alert+'" title="'+t('Alerta PAGER (USGS): nivel de impacto estimado','PAGER alert (USGS): estimated impact level')+'">'+t('Alerta ','Alert ')+t(al[0],al[1])+'</span>':'')+
+      (q.dyfi!=null?'<span class="qbadge dyfi" title="'+t('Intensidad sentida (DYFI/CDI) ','Felt intensity (DYFI/CDI) ')+q.dyfi+'">'+t('Int.','Int.')+' '+roman(q.dyfi)+'</span>':'')+
       (q.tsunami?'<span class="qbadge tsu">'+t('Tsunami','Tsunami')+'</span>':'')+
       (q.status&&q.status!=='reviewed'?'<span class="qbadge prelim">'+t('Preliminar','Preliminary')+'</span>':'');
     const inner=

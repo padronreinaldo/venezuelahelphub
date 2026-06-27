@@ -135,6 +135,22 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   .quake a.qlink{color:inherit;text-decoration:none;display:contents}
   .eq-note{font-size:12.5px;line-height:1.5;color:var(--muted);background:var(--soft,#f5f7fa);border-left:3px solid var(--brand);border-radius:0 8px 8px 0;padding:9px 12px;margin:0 0 10px}
   .eq-note b{color:var(--ink,#1a1a1a);font-weight:700}
+  .eq-legend{margin-top:10px;font-size:12.5px;color:var(--muted)}
+  .eq-legend summary{cursor:pointer;font-weight:600;color:var(--brand);list-style:none}
+  .eq-legend summary::-webkit-details-marker{display:none}
+  .eq-legend summary::before{content:"+ ";font-weight:700}
+  .eq-legend[open] summary::before{content:"– "}
+  .eq-scale{display:flex;flex-wrap:wrap;gap:12px;margin:10px 0 6px}
+  .eq-scale span{display:inline-flex;align-items:center;gap:5px;font-variant-numeric:tabular-nums}
+  .eq-scale .sw{width:11px;height:11px;border-radius:50%;display:inline-block}
+  .eq-scale .sw.q-gray{background:#9ca3af}
+  .eq-scale .sw.q-green{background:#22c55e}
+  .eq-scale .sw.q-yellow{background:#eab308}
+  .eq-scale .sw.q-orange{background:#f97316}
+  .eq-scale .sw.q-red{background:#ef4444}
+  .eq-legend ul{margin:6px 0 0;padding-left:18px;line-height:1.5}
+  .eq-legend li{margin:3px 0}
+  .eq-legend b{color:var(--ink,#1a1a1a)}
   .eq-foot{font-size:11.5px;color:var(--muted);margin-top:8px;opacity:.9}
   @media(max-width:560px){
     .quake{grid-template-columns:auto auto 1fr;row-gap:2px}
@@ -338,6 +354,24 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <span data-en>Aftershocks are <b>normal</b> after a major earthquake and tend to decrease in frequency and intensity over the following days. A recent quake shown here is <b>USGS information, not a danger alert</b>. In an emergency, follow the guidance of Protección Civil and FUNVISIS.</span>
       </p>
       <div id="quakes" class="quakes"></div>
+      <details class="eq-legend">
+        <summary><span data-es>¿Qué significan los colores y las siglas?</span><span data-en>What do the colors and labels mean?</span></summary>
+        <div class="eq-scale">
+          <span><i class="sw q-gray"></i><span data-es>&lt; 3.0</span><span data-en>&lt; 3.0</span></span>
+          <span><i class="sw q-green"></i>3.0–3.9</span>
+          <span><i class="sw q-yellow"></i>4.0–4.9</span>
+          <span><i class="sw q-orange"></i>5.0–5.9</span>
+          <span><i class="sw q-red"></i>≥ 6.0</span>
+        </div>
+        <ul>
+          <li><b>M</b> — <span data-es>magnitud: la energía liberada por el sismo. El color de cada fila depende de la magnitud.</span><span data-en>magnitude: the energy released by the quake. Each row's color depends on the magnitude.</span></li>
+          <li><b><span data-es>Prof.</span><span data-en>Depth</span></b> — <span data-es>profundidad del foco en kilómetros. Sismos más profundos suelen sentirse menos en superficie.</span><span data-en>depth of the focus in kilometers. Deeper quakes are usually felt less at the surface.</span></li>
+          <li><b>Int. (DYFI)</b> — <span data-es>intensidad sentida según reportes de personas (USGS «Did You Feel It?»), en escala I–XII. Mide <b>cuán fuerte se sintió</b> en un lugar, no el tamaño del sismo.</span><span data-en>felt intensity from people's reports (USGS «Did You Feel It?»), on a I–XII scale. It measures <b>how strongly it was felt</b> at a location, not the quake's size.</span></li>
+          <li><b><span data-es>Alerta</span><span data-en>Alert</span></b> — <span data-es>nivel de impacto estimado por el USGS (sistema PAGER): verde, amarilla, naranja o roja, de menor a mayor.</span><span data-en>impact level estimated by USGS (PAGER system): green, yellow, orange or red, from lower to higher.</span></li>
+          <li><b>Tsunami</b> — <span data-es>el USGS evaluó la posibilidad de tsunami para ese evento.</span><span data-en>USGS flagged a tsunami possibility for that event.</span></li>
+          <li><b><span data-es>Preliminar</span><span data-en>Preliminary</span></b> — <span data-es>dato automático, aún sin revisión de un sismólogo; puede ajustarse.</span><span data-en>automatic data, not yet reviewed by a seismologist; it may be adjusted.</span></li>
+        </ul>
+      </details>
       <div class="eq-foot">
         <span data-es>Fuente: USGS · color por magnitud · eventos cerca de Venezuela. Se actualiza automáticamente.</span>
         <span data-en>Source: USGS · color by magnitude · events near Venezuela. Updates automatically.</span>

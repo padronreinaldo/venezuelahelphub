@@ -36,6 +36,23 @@
   {
     "sourceEs": "USGS",
     "sourceEn": "USGS",
+    "date": "2026-06-27",
+    "titleEs": "Sismo M4.8: 35 km NNE of El Limón, Venezuela",
+    "titleEn": "M4.8 earthquake: 35 km NNE of El Limón, Venezuela",
+    "sumEs": "El USGS reporta un sismo de magnitud 4.8. 35 km NNE of El Limón, Venezuela.",
+    "sumEn": "USGS reports a magnitude 4.8 earthquake. 35 km NNE of El Limón, Venezuela.",
+    "areas": [],
+    "needsEs": [
+      "Evaluación de daños"
+    ],
+    "needsEn": [
+      "Damage assessment"
+    ],
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8q8"
+  },
+  {
+    "sourceEs": "USGS",
+    "sourceEn": "USGS",
     "date": "2026-06-26",
     "titleEs": "Sismo M4.7: 54 km N of El Limón, Venezuela",
     "titleEn": "M4.7 earthquake: 54 km N of El Limón, Venezuela",
@@ -51,21 +68,46 @@
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8k6"
   },
   {
-    "sourceEs": "USGS",
-    "sourceEn": "USGS",
-    "date": "2026-06-24",
-    "titleEs": "Sismo M4.5: 13 km N of Caucagüito, Venezuela",
-    "titleEn": "M4.5 earthquake: 13 km N of Caucagüito, Venezuela",
-    "sumEs": "El USGS reporta un sismo de magnitud 4.5. 13 km N of Caucagüito, Venezuela.",
-    "sumEn": "USGS reports a magnitude 4.5 earthquake. 13 km N of Caucagüito, Venezuela.",
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-06-27",
+    "conf": "med",
+    "titleEs": "Fotos | Aeropuerto de Maiquetía quedó con severos daños en su estructura tras terremotos",
+    "titleEn": "Fotos | Aeropuerto de Maiquetía quedó con severos daños en su estructura tras terremotos",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
     "areas": [],
-    "needsEs": [
-      "Evaluación de daños"
-    ],
-    "needsEn": [
-      "Damage assessment"
-    ],
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t80d"
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/regiones/gran-caracas/fotos-aeropuerto-de-maiquetia-quedo-con-severos-danos-en-su-estructura-tras-terremotos/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-06-27",
+    "conf": "med",
+    "titleEs": "Comando Sur de EE. UU. envía equipos para restablecer el tráfico aéreo en Caracas y La Guaira",
+    "titleEn": "Comando Sur de EE. UU. envía equipos para restablecer el tráfico aéreo en Caracas y La Guaira",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/regiones/gran-caracas/comando-sur-de-ee-uu-envia-equipos-para-restablecer-el-trafico-aereo-en-caracas-y-la-guaira/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-06-27",
+    "conf": "med",
+    "titleEs": "Voces de la contingencia: Relatos de evacuación y resguardo en Caracas por doblete sísmico",
+    "titleEn": "Voces de la contingencia: Relatos de evacuación y resguardo en Caracas por doblete sísmico",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/regiones/voces-de-la-contingencia-relatos-de-evacuacion-y-resguardo-en-caracas-por-doblete-sismico/"
   },
   {
     "sourceEs": "El Pitazo",
@@ -80,47 +122,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://elpitazo.net/regiones/centro/aqui-esta-mi-hijo-la-busqueda-solitaria-de-un-padre-entre-los-escombros-en-la-guaira/"
-  },
-  {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-06-27",
-    "conf": "med",
-    "titleEs": "Geólogo advierte que réplicas por los terremotos en Venezuela pueden durar entre 3 y 6 meses",
-    "titleEn": "Geólogo advierte que réplicas por los terremotos en Venezuela pueden durar entre 3 y 6 meses",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/regiones/geologo-advierte-que-replicas-por-los-terremotos-en-venezuela-pueden-durar-entre-3-y-6-meses/"
-  },
-  {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-06-27",
-    "conf": "med",
-    "titleEs": "Se eleva a 1.430 el número de personas fallecidas por el doble terremoto registrado en Venezuela",
-    "titleEn": "Se eleva a 1.430 el número de personas fallecidas por el doble terremoto registrado en Venezuela",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/regiones/se-eleva-a-1-430-el-numero-de-personas-fallecidas-por-el-doble-terremoto-registrado-en-venezuela/"
-  },
-  {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-06-27",
-    "conf": "med",
-    "titleEs": "A falta de Estado, la solidaridad de los venezolanos dota los hospitales de insumos",
-    "titleEn": "A falta de Estado, la solidaridad de los venezolanos dota los hospitales de insumos",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/alianzas/a-falta-de-estado-la-solidaridad-de-los-venezolanos-dota-los-hospitales-de-insumos/"
   }
 ]

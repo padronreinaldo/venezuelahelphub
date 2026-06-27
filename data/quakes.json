@@ -1,5 +1,65 @@
 [
   {
+    "id": "fv-27-06-2026-11:54-10.53--66.81",
+    "time": "2026-06-27T15:54:00.000Z",
+    "mag": 3.1,
+    "depth": 2.9,
+    "lat": 10.53,
+    "lon": -66.81,
+    "place": "12 km al noreste de Caracas",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
+    "id": "fv-27-06-2026-11:26-10.49--67.55",
+    "time": "2026-06-27T15:26:00.000Z",
+    "mag": 2.6,
+    "depth": 14.2,
+    "lat": 10.49,
+    "lon": -67.55,
+    "place": "27 km al norte de Maracay",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
+    "id": "fv-27-06-2026-11:01-10.61--67.67",
+    "time": "2026-06-27T15:01:00.000Z",
+    "mag": 2.8,
+    "depth": 5.0,
+    "lat": 10.61,
+    "lon": -67.67,
+    "place": "41 km al norte de Maracay",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
+    "id": "fv-27-06-2026-10:23-10.57--67.24",
+    "time": "2026-06-27T14:23:00.000Z",
+    "mag": 4.1,
+    "depth": 5.0,
+    "lat": 10.57,
+    "lon": -67.24,
+    "place": "33 km al noroeste de Los Teques",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "us6000t8k6",
     "time": "2026-06-26T22:16:11.931Z",
     "mag": 4.7,
@@ -11,7 +71,8 @@
     "dyfi": 3.4,
     "alert": null,
     "tsunami": false,
-    "status": "reviewed"
+    "status": "reviewed",
+    "source": "USGS"
   },
   {
     "id": "us6000t8d1",
@@ -25,7 +86,8 @@
     "dyfi": 3.4,
     "alert": null,
     "tsunami": false,
-    "status": "reviewed"
+    "status": "reviewed",
+    "source": "USGS"
   },
   {
     "id": "us6000t81p",
@@ -39,7 +101,8 @@
     "dyfi": 4.1,
     "alert": null,
     "tsunami": false,
-    "status": "reviewed"
+    "status": "reviewed",
+    "source": "USGS"
   },
   {
     "id": "us6000t80d",
@@ -53,7 +116,8 @@
     "dyfi": null,
     "alert": null,
     "tsunami": false,
-    "status": "reviewed"
+    "status": "reviewed",
+    "source": "USGS"
   },
   {
     "id": "us6000t7zp",
@@ -67,7 +131,8 @@
     "dyfi": 8.7,
     "alert": "red",
     "tsunami": false,
-    "status": "reviewed"
+    "status": "reviewed",
+    "source": "USGS"
   },
   {
     "id": "us6000t7zc",
@@ -81,6 +146,7 @@
     "dyfi": null,
     "alert": "red",
     "tsunami": false,
-    "status": "reviewed"
+    "status": "reviewed",
+    "source": "USGS"
   }
 ]

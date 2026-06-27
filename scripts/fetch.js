@@ -167,6 +167,44 @@ async function fetchQuakes() {
         alert: p.alert || null,                     // PAGER: green/yellow/orange/red
         tsunami: p.tsunami ? true : false,          // aviso de tsunami
         status: p.status || null,                   // reviewed / automatic (preliminar)
+        source: "USGS",
+      };
+    })
+    .filter(Boolean);
+}
+
+/* ---------- FUNVISIS (vía proyecto comunitario sismosVE) ----------
+ * FUNVISIS no expone un API oficial; sismosVE toma sus datos oficiales y los sirve como
+ * JSON. Es COMPLEMENTARIO al USGS (capta réplicas locales pequeñas que el USGS no lista).
+ * Si la API de terceros falla, simplemente no aporta ítems (USGS sigue siendo la base). */
+async function fetchFunvisis() {
+  const url = "https://sismosve.rafnixg.dev/api/sismos/recent?limit=40";
+  const j = await get(url);
+  const arr = (j && j.sismos) || [];
+  return arr
+    .map((s) => {
+      const p = s.properties || {}, c = (s.geometry && s.geometry.coordinates) || [];
+      const mag = parseFloat(p.value);
+      if (isNaN(mag)) return null;
+      const depth = parseFloat(p.depth);
+      const lat = c[1] != null ? Number(c[1]) : (p.lat ? Number(p.lat) : null);
+      const lon = c[0] != null ? Number(c[0]) : (p.long ? Number(p.long) : null);
+      // FUNVISIS reporta en hora local de Venezuela (VET = UTC-4). date "DD-MM-YYYY", time "HH:MM".
+      let time = null;
+      const dm = (p.date || "").match(/^(\d{2})-(\d{2})-(\d{4})$/);
+      const tm = (p.time || "").match(/^(\d{1,2}):(\d{2})/);
+      if (dm && tm) time = new Date(Date.UTC(+dm[3], +dm[2] - 1, +dm[1], +tm[1] + 4, +tm[2])).toISOString();
+      return {
+        id: ("fv-" + p.date + "-" + p.time + "-" + lat + "-" + lon).replace(/[^A-Za-z0-9_.:-]/g, ""),
+        time: time || new Date().toISOString(),
+        mag: Number(mag.toFixed(1)),
+        depth: isNaN(depth) ? null : Number(depth.toFixed(1)),
+        lat: lat != null ? Number(lat.toFixed(3)) : null,
+        lon: lon != null ? Number(lon.toFixed(3)) : null,
+        place: p.addressFormatted || "",          // ya viene en español
+        url: "http://www.funvisis.gob.ve/recientes.php",
+        dyfi: null, alert: null, tsunami: false, status: null,
+        source: "FUNVISIS",
       };
     })
     .filter(Boolean);
@@ -272,9 +310,10 @@ function writeIfNonEmpty(file, arr) {
 (async () => {
   const settled = async (p) => { try { return await p; } catch (e) { console.warn(e.message); return null; } };
 
-  const [usgs, rweb, pressRes, seismicRes, wikiRes, quakesRes] = await Promise.all([
+  const [usgs, rweb, pressRes, seismicRes, wikiRes, quakesRes, funvisisRes] = await Promise.all([
     settled(fetchUSGS()), settled(fetchReliefWeb()), settled(fetchPress()),
     settled(fetchSeismicStats()), settled(fetchWikipediaCasualties()), settled(fetchQuakes()),
+    settled(fetchFunvisis()),
   ]);
 
   const usgsA = usgs || [], rwebA = rweb || [];
@@ -318,14 +357,27 @@ function writeIfNonEmpty(file, arr) {
   // Actividad sísmica: combina lo nuevo con el historial previo (dedupe por Event ID;
   // el dato más reciente del USGS gana, p.ej. cuando un evento pasa de automatic→reviewed
   // o se corrige su magnitud). Historial rodante ordenado por hora desc.
-  const quakesNew = Array.isArray(quakesRes) ? quakesRes : [];
+  const quakesUsgs = Array.isArray(quakesRes) ? quakesRes : [];
+  const quakesFv = Array.isArray(funvisisRes) ? funvisisRes : [];
+  const quakesNew = [...quakesUsgs, ...quakesFv];
   let prevQuakes = [];
   try { prevQuakes = JSON.parse(fs.readFileSync(path.join(OUT_DIR, "quakes.json"), "utf8")) || []; } catch (e) {}
   const byId = new Map();
   for (const q of [...prevQuakes, ...quakesNew]) {
     if (q && q.id) byId.set(q.id, { ...(byId.get(q.id) || {}), ...q });
   }
-  const quakes = [...byId.values()]
+  // Dedup cruzado entre fuentes: si FUNVISIS y USGS reportan el MISMO evento físico
+  // (mismo minuto aprox., misma zona, magnitud similar), se conserva el de USGS (con Event ID).
+  const allQ = [...byId.values()];
+  const usgsOnly = allQ.filter((q) => q.source !== "FUNVISIS");
+  const sameEvent = (u, q) => {
+    const dt = Math.abs(new Date(u.time) - new Date(q.time)) / 60000;          // minutos
+    const dd = Math.abs((u.lat || 0) - (q.lat || 0)) + Math.abs((u.lon || 0) - (q.lon || 0));
+    const dmg = Math.abs((u.mag || 0) - (q.mag || 0));
+    return dt <= 3 && dd <= 0.6 && dmg <= 0.8;
+  };
+  const quakes = allQ
+    .filter((q) => q.source !== "FUNVISIS" || !usgsOnly.some((u) => sameEvent(u, q)))
     .sort((a, b) => new Date(b.time) - new Date(a.time))
     .slice(0, 30);
   writeIfNonEmpty("quakes.json", quakes);
@@ -399,7 +451,7 @@ function writeIfNonEmpty(file, arr) {
     stats,
     prov,
     alt,
-    sources: { usgs: usgsA.length, reliefweb: rwebA.length, press: pressNews.length, wikipedia: wiki.deaths != null || wiki.injured != null ? 1 : 0 },
+    sources: { usgs: usgsA.length, reliefweb: rwebA.length, press: pressNews.length, wikipedia: wiki.deaths != null || wiki.injured != null ? 1 : 0, funvisis: quakesFv.length },
     counts: { updates: updates.length, news: news.length, quakes: quakes.length }
   };
   fs.mkdirSync(OUT_DIR, { recursive: true });

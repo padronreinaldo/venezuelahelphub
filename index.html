@@ -128,6 +128,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   .quake .qmeta .tsu{background:#dbeafe;color:#1d4ed8}
   .quake .qmeta .prelim{background:#fef3c7;color:#92400e}
   .quake .qmeta .dyfi{background:#ede9fe;color:#5b21b6}
+  .quake .qmeta .qsrc{font-size:10px;font-weight:700;letter-spacing:.02em;padding:1px 6px;border-radius:999px;border:1px solid var(--line);color:var(--muted)}
+  .quake .qmeta .qsrc-fv{background:#fff7ed;color:#9a3412;border-color:#fed7aa}
+  .quake .qmeta .qsrc-usgs{background:#f1f5f9;color:#475569}
   .quake .qmeta .alert.a-green{background:#dcfce7;color:#166534}
   .quake .qmeta .alert.a-yellow{background:#fef9c3;color:#854d0e}
   .quake .qmeta .alert.a-orange{background:#ffedd5;color:#9a3412}
@@ -372,11 +375,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <li><b><span data-es>Alerta</span><span data-en>Alert</span></b> — <span data-es>nivel de impacto estimado por el USGS (sistema PAGER): verde, amarilla, naranja o roja, de menor a mayor.</span><span data-en>impact level estimated by USGS (PAGER system): green, yellow, orange or red, from lower to higher.</span></li>
           <li><b>Tsunami</b> — <span data-es>el USGS evaluó la posibilidad de tsunami para ese evento.</span><span data-en>USGS flagged a tsunami possibility for that event.</span></li>
           <li><b><span data-es>Preliminar</span><span data-en>Preliminary</span></b> — <span data-es>dato automático, aún sin revisión de un sismólogo; puede ajustarse.</span><span data-en>automatic data, not yet reviewed by a seismologist; it may be adjusted.</span></li>
+          <li><b>USGS / FUNVISIS</b> — <span data-es>fuente del reporte. USGS es la red global (EE. UU.); FUNVISIS es la red sismológica nacional de Venezuela, que suele captar más réplicas locales pequeñas.</span><span data-en>the report's source. USGS is the U.S. global network; FUNVISIS is Venezuela's national seismic network, which usually catches more small local aftershocks.</span></li>
         </ul>
       </details>
       <div class="eq-foot">
-        <span data-es>Fuente: USGS · color por magnitud · eventos cerca de Venezuela. Se actualiza automáticamente.</span>
-        <span data-en>Source: USGS · color by magnitude · events near Venezuela. Updates automatically.</span>
+        <span data-es>Fuentes: USGS y FUNVISIS (vía sismosVE) · color por magnitud · eventos cerca de Venezuela. Se actualiza automáticamente.</span>
+        <span data-en>Sources: USGS and FUNVISIS (via sismosVE) · color by magnitude · events near Venezuela. Updates automatically.</span>
       </div>
     </div>
 
@@ -1172,6 +1176,7 @@ function renderQuakes(){
     const abs=q.time?new Date(q.time).toLocaleString(en?'en-US':'es-VE',{day:'numeric',month:'short',hour:'2-digit',minute:'2-digit',timeZone:'America/Caracas'}):'';
     const depth=q.depth!=null?(Math.round(q.depth)+' km'):'';
     const place=placeText(q.place).replace(/"/g,'');
+    const src=q.source||'USGS';
     const al=q.alert&&ALERTLBL[q.alert];
     const badges=
       (al?'<span class="qbadge alert a-'+q.alert+'" title="'+t('Alerta PAGER (USGS): nivel de impacto estimado','PAGER alert (USGS): estimated impact level')+'">'+t('Alerta ','Alert ')+t(al[0],al[1])+'</span>':'')+
@@ -1186,6 +1191,7 @@ function renderQuakes(){
         (when?'<span title="'+abs+' (hora Venezuela)">'+when+'</span>':'')+
         (depth?'<span>· '+t('prof.','depth')+' '+depth+'</span>':'')+
         badges+
+        '<span class="qsrc qsrc-'+(src==='FUNVISIS'?'fv':'usgs')+'">'+src+'</span>'+
       '</span>';
     return '<div class="quake '+cls+'">'+(q.url?'<a class="qlink" href="'+q.url+'" target="_blank" rel="noopener">'+inner+'</a>':inner)+'</div>';
   }).join('');

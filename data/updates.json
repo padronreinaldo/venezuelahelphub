@@ -70,6 +70,34 @@
   {
     "sourceEs": "El Pitazo",
     "sourceEn": "El Pitazo",
+    "date": "2026-06-27",
+    "conf": "med",
+    "titleEs": "Sin techo y con incertidumbre: familias pernoctan en plazas sin saber si sus edificios son habitables",
+    "titleEn": "Sin techo y con incertidumbre: familias pernoctan en plazas sin saber si sus edificios son habitables",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/caracas/sin-techo-y-con-incertidumbre-familias-pernoctan-en-plazas-sin-saber-si-sus-edificios-son-habitables/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-06-27",
+    "conf": "med",
+    "titleEs": "Sobrevivientes del doble terremoto narran cómo salvaron sus vidas tras estar desaparecidos en La Guaira",
+    "titleEn": "Sobrevivientes del doble terremoto narran cómo salvaron sus vidas tras estar desaparecidos en La Guaira",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/regiones/gran-caracas/sobrevivientes-del-doble-terremoto-narran-como-salvaron-sus-vidas-tras-estar-desaparecidos-en-la-guaira/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
     "date": "2026-06-26",
     "conf": "med",
     "titleEs": "Ciudadanos hacen colas para comprar alimentos en el centro y oeste de Caracas: “Desde la pandemia no veía esto”",
@@ -94,33 +122,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://elpitazo.net/regiones/diosdado-cabello-restringe-el-ingreso-a-la-guaira-tras-los-terremotos-en-venezuela/"
-  },
-  {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-06-26",
-    "conf": "med",
-    "titleEs": "Delcy Rodríguez: voluntarios deberán registrarse en el Poliedro de Caracas",
-    "titleEn": "Delcy Rodríguez: voluntarios deberán registrarse en el Poliedro de Caracas",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/politica/habilitaran-el-poliedro-de-caracas-como-centro-de-registro-de-voluntarios-tras-los-terremotos-en-venezuela/"
-  },
-  {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-06-26",
-    "conf": "med",
-    "titleEs": "Delcy Rodríguez dice que conversó con Trump y Rubio: ratificaron su respaldo a Venezuela",
-    "titleEn": "Delcy Rodríguez dice que conversó con Trump y Rubio: ratificaron su respaldo a Venezuela",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/politica/delcy-rodriguez-dice-que-converso-con-trump-y-rubio-quienes-ratificaron-su-respaldo-a-venezuela/"
   }
 ]

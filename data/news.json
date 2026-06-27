@@ -2,6 +2,24 @@
   {
     "source": "El Pitazo",
     "section": "Venezuela",
+    "date": "2026-06-27",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/06/1001350490-1024x682.jpg",
+    "titleEs": "Sin techo y con incertidumbre: familias pernoctan en plazas sin saber si sus edificios son habitables",
+    "titleEn": "Sin techo y con incertidumbre: familias pernoctan en plazas sin saber si sus edificios son habitables",
+    "url": "https://elpitazo.net/caracas/sin-techo-y-con-incertidumbre-familias-pernoctan-en-plazas-sin-saber-si-sus-edificios-son-habitables/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-06-27",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/06/EDIFICIO-LA-GUAIR-1.jpg",
+    "titleEs": "Sobrevivientes del doble terremoto narran cómo salvaron sus vidas tras estar desaparecidos en La Guaira",
+    "titleEn": "Sobrevivientes del doble terremoto narran cómo salvaron sus vidas tras estar desaparecidos en La Guaira",
+    "url": "https://elpitazo.net/regiones/gran-caracas/sobrevivientes-del-doble-terremoto-narran-como-salvaron-sus-vidas-tras-estar-desaparecidos-en-la-guaira/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
     "date": "2026-06-26",
     "img": "https://elpitazo.net/wp-content/uploads/2026/06/1001234830-1.jpg",
     "titleEs": "Ciudadanos hacen colas para comprar alimentos en el centro y oeste de Caracas: “Desde la pandemia no veía esto”",
@@ -16,24 +34,6 @@
     "titleEs": "Diosdado Cabello anuncia restricción de ingreso a La Guaira desde este 26 de junio en la noche",
     "titleEn": "Diosdado Cabello anuncia restricción de ingreso a La Guaira desde este 26 de junio en la noche",
     "url": "https://elpitazo.net/regiones/diosdado-cabello-restringe-el-ingreso-a-la-guaira-tras-los-terremotos-en-venezuela/"
-  },
-  {
-    "source": "El Pitazo",
-    "section": "Venezuela",
-    "date": "2026-06-26",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/06/imagen_2026-06-26_175639534.png",
-    "titleEs": "Delcy Rodríguez: voluntarios deberán registrarse en el Poliedro de Caracas",
-    "titleEn": "Delcy Rodríguez: voluntarios deberán registrarse en el Poliedro de Caracas",
-    "url": "https://elpitazo.net/politica/habilitaran-el-poliedro-de-caracas-como-centro-de-registro-de-voluntarios-tras-los-terremotos-en-venezuela/"
-  },
-  {
-    "source": "El Pitazo",
-    "section": "Venezuela",
-    "date": "2026-06-26",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/02/donald-trump.jpg",
-    "titleEs": "Delcy Rodríguez dice que conversó con Trump y Rubio: ratificaron su respaldo a Venezuela",
-    "titleEn": "Delcy Rodríguez dice que conversó con Trump y Rubio: ratificaron su respaldo a Venezuela",
-    "url": "https://elpitazo.net/politica/delcy-rodriguez-dice-que-converso-con-trump-y-rubio-quienes-ratificaron-su-respaldo-a-venezuela/"
   },
   {
     "source": "Efecto Cocuyo",
@@ -74,37 +74,37 @@
   {
     "source": "Runrun.es",
     "section": "Venezuela",
+    "date": "2026-06-27",
+    "img": "https://runrun.es/wp-content/uploads/2026/06/beibolos-1.jpg",
+    "titleEs": "FVF confirma la muerte del futbolista Yimvert Berroterán tras los terremotos en Venezuela",
+    "titleEn": "FVF confirma la muerte del futbolista Yimvert Berroterán tras los terremotos en Venezuela",
+    "url": "https://runrun.es/noticias/612558/fvf-confirma-la-muerte-del-futbolista-yimvert-berroteran-tras-los-terremotos-en-venezuela/"
+  },
+  {
+    "source": "Runrun.es",
+    "section": "Venezuela",
+    "date": "2026-06-27",
+    "img": "https://runrun.es/wp-content/uploads/2026/06/tukaka.jpg",
+    "titleEs": "26Jun | Voluntarios rompen cordón policial y se intensifican labores de rescate en Tucacas",
+    "titleEn": "26Jun | Voluntarios rompen cordón policial y se intensifican labores de rescate en Tucacas",
+    "url": "https://runrun.es/inicio/612547/26jun-voluntarios-irrumpen-cordon-policial-y-se-intensifican-labores-de-rescate-en-tucacas-tras-derrumbe-en-complejo-residencial/"
+  },
+  {
+    "source": "Runrun.es",
+    "section": "Venezuela",
+    "date": "2026-06-27",
+    "img": "https://runrun.es/wp-content/uploads/2026/06/colas.jpg",
+    "titleEs": "Caraqueños hacen largas colas para comprar alimentos",
+    "titleEn": "Caraqueños hacen largas colas para comprar alimentos",
+    "url": "https://runrun.es/noticias/612548/caraquenos-hacen-largas-colas-para-comprar-alimentos/"
+  },
+  {
+    "source": "Runrun.es",
+    "section": "Venezuela",
     "date": "2026-06-26",
     "img": "https://runrun.es/wp-content/uploads/2026/06/3.jpg",
     "titleEs": "Rescatistas salvadoreños localizan con vida a adolescente atrapada tras el colapso de un edificio en Venezuela",
     "titleEn": "Rescatistas salvadoreños localizan con vida a adolescente atrapada tras el colapso de un edificio en Venezuela",
     "url": "https://runrun.es/inicio/612529/rescatistas-salvadorenos-localizan-con-vida-a-adolescente-atrapada-tras-el-colapso-de-un-edificio-en-venezuela/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-06-26",
-    "img": "https://runrun.es/wp-content/uploads/2026/06/Jorge-Rodriguez-1.jpg",
-    "titleEs": "26Jun | Aumenta a 920 el número de fallecidos por los terremotos del 24 de junio",
-    "titleEn": "26Jun | Aumenta a 920 el número de fallecidos por los terremotos del 24 de junio",
-    "url": "https://runrun.es/inicio/612523/26jun-aumenta-a-920-el-numero-de-fallecidos-por-los-terremotos-del-24-de-junio/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-06-26",
-    "img": "https://runrun.es/wp-content/uploads/2026/06/2-1.jpg",
-    "titleEs": "ONU reitera llamado a levantar restricciones de internet en Venezuela tras los terremotos",
-    "titleEn": "ONU reitera llamado a levantar restricciones de internet en Venezuela tras los terremotos",
-    "url": "https://runrun.es/noticias/612525/onu-reitera-llamado-a-levantar-restricciones-de-internet-en-venezuela-tras-los-terremotos/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-06-26",
-    "img": "https://runrun.es/wp-content/uploads/2026/06/photo_2026-06-26_13-28-11.jpg",
-    "titleEs": "Denuncian que rescatistas de Protección Civil habrían sido movilizados sin equipos",
-    "titleEn": "Denuncian que rescatistas de Protección Civil habrían sido movilizados sin equipos",
-    "url": "https://runrun.es/noticias/612509/rescatistas-de-proteccion-civil-habrian-sido-movilizados-sin-equipos/"
   }
 ]

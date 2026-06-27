@@ -1,0 +1,30 @@
+[
+  {
+    "id": "us6000t7zp",
+    "time": "2026-06-24T22:04:00.000Z",
+    "mag": 7.5,
+    "depth": 10,
+    "lat": 10.45,
+    "lon": -68.5,
+    "place": "23 km SE of Yumare, Venezuela",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7zp",
+    "dyfi": null,
+    "alert": "orange",
+    "tsunami": true,
+    "status": "reviewed"
+  },
+  {
+    "id": "us6000t7zc",
+    "time": "2026-06-24T22:03:20.000Z",
+    "mag": 7.2,
+    "depth": 10,
+    "lat": 10.2,
+    "lon": -68.3,
+    "place": "28 km SE of Montalbán, Venezuela",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7zc",
+    "dyfi": null,
+    "alert": "yellow",
+    "tsunami": false,
+    "status": "reviewed"
+  }
+]

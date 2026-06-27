@@ -140,6 +140,38 @@ async function fetchSeismicStats() {
   return { maxMagnitude: Number(maxMagnitude.toFixed(1)), aftershocks, url: eventUrl };
 }
 
+/* ---------- USGS: actividad sísmica reciente (lista detallada por evento) ----------
+ * Normaliza cada terremoto a un objeto estable para el front (data/quakes.json). Es la
+ * "primera capa" del centro de información: misma forma servirá para sumar FUNVISIS, etc. */
+async function fetchQuakes() {
+  const start = new Date(Date.now() - 7 * 864e5).toISOString().slice(0, 10);
+  const url =
+    "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson" +
+    "&latitude=10.5&longitude=-68.5&maxradiuskm=600&minmagnitude=2.5" +
+    `&starttime=${start}&orderby=time&limit=40`;
+  const j = await get(url);
+  return (j.features || [])
+    .map((f) => {
+      const p = f.properties || {}, c = (f.geometry && f.geometry.coordinates) || [];
+      if (typeof p.mag !== "number" || !p.time) return null;
+      return {
+        id: f.id,                                   // Event ID oficial del USGS
+        time: new Date(p.time).toISOString(),       // fecha y hora (UTC ISO)
+        mag: Number(p.mag.toFixed(1)),              // magnitud
+        depth: typeof c[2] === "number" ? Number(c[2].toFixed(1)) : null, // profundidad (km)
+        lat: typeof c[1] === "number" ? Number(c[1].toFixed(3)) : null,
+        lon: typeof c[0] === "number" ? Number(c[0].toFixed(3)) : null,
+        place: p.place || "",                       // ubicación descriptiva
+        url: p.url || "",                           // URL oficial del evento
+        dyfi: typeof p.cdi === "number" ? p.cdi : null,   // intensidad sentida (DYFI/CDI)
+        alert: p.alert || null,                     // PAGER: green/yellow/orange/red
+        tsunami: p.tsunami ? true : false,          // aviso de tsunami
+        status: p.status || null,                   // reviewed / automatic (preliminar)
+      };
+    })
+    .filter(Boolean);
+}
+
 // Extrae cifras de víctimas de un texto ("188 muertos, 1.520 heridos y 157 desaparecidos")
 // y registra de QUÉ fuente y URL salió cada cifra, para mostrar procedencia en el sitio.
 const toInt = (s) => parseInt(String(s).replace(/[.\s]/g, ""), 10);
@@ -240,9 +272,9 @@ function writeIfNonEmpty(file, arr) {
 (async () => {
   const settled = async (p) => { try { return await p; } catch (e) { console.warn(e.message); return null; } };
 
-  const [usgs, rweb, pressRes, seismicRes, wikiRes] = await Promise.all([
+  const [usgs, rweb, pressRes, seismicRes, wikiRes, quakesRes] = await Promise.all([
     settled(fetchUSGS()), settled(fetchReliefWeb()), settled(fetchPress()),
-    settled(fetchSeismicStats()), settled(fetchWikipediaCasualties()),
+    settled(fetchSeismicStats()), settled(fetchWikipediaCasualties()), settled(fetchQuakes()),
   ]);
 
   const usgsA = usgs || [], rwebA = rweb || [];
@@ -282,6 +314,21 @@ function writeIfNonEmpty(file, arr) {
 
   writeIfNonEmpty("updates.json", updates);
   writeIfNonEmpty("news.json", news);
+
+  // Actividad sísmica: combina lo nuevo con el historial previo (dedupe por Event ID;
+  // el dato más reciente del USGS gana, p.ej. cuando un evento pasa de automatic→reviewed
+  // o se corrige su magnitud). Historial rodante ordenado por hora desc.
+  const quakesNew = Array.isArray(quakesRes) ? quakesRes : [];
+  let prevQuakes = [];
+  try { prevQuakes = JSON.parse(fs.readFileSync(path.join(OUT_DIR, "quakes.json"), "utf8")) || []; } catch (e) {}
+  const byId = new Map();
+  for (const q of [...prevQuakes, ...quakesNew]) {
+    if (q && q.id) byId.set(q.id, { ...(byId.get(q.id) || {}), ...q });
+  }
+  const quakes = [...byId.values()]
+    .sort((a, b) => new Date(b.time) - new Date(a.time))
+    .slice(0, 30);
+  writeIfNonEmpty("quakes.json", quakes);
 
   // Procedencia por dato: cada cifra recuerda CUÁNDO se confirmó por última vez desde una
   // fuente real (seenAt) y DE QUÉ fuente (source + url). Si esta corrida no la confirma,
@@ -353,7 +400,7 @@ function writeIfNonEmpty(file, arr) {
     prov,
     alt,
     sources: { usgs: usgsA.length, reliefweb: rwebA.length, press: pressNews.length, wikipedia: wiki.deaths != null || wiki.injured != null ? 1 : 0 },
-    counts: { updates: updates.length, news: news.length }
+    counts: { updates: updates.length, news: news.length, quakes: quakes.length }
   };
   fs.mkdirSync(OUT_DIR, { recursive: true });
   fs.writeFileSync(path.join(OUT_DIR, "meta.json"), JSON.stringify(meta, null, 2) + "\n");

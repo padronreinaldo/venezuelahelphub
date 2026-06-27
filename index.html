@@ -105,6 +105,34 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   .stat .prov.stale{color:#b45309;font-style:italic}
   .stat .prov.altsrc{border-top:0;padding-top:2px;margin-top:4px;opacity:.95}
   .stat .prov.altsrc b{color:var(--ink,#1a1a1a)}
+  /* Actividad sísmica reciente (USGS) */
+  .eq-panel .eq-head{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-bottom:8px}
+  .eq-panel .eq-src{font-size:12px;font-weight:600;color:var(--brand);text-decoration:none;white-space:nowrap}
+  .quakes{display:flex;flex-direction:column;gap:1px;background:var(--line);border:1px solid var(--line);border-radius:10px;overflow:hidden}
+  .quake{display:grid;grid-template-columns:auto auto 1fr auto;align-items:center;gap:10px;padding:9px 12px;background:var(--card,#fff);font-size:14px}
+  .quake .qdot{width:11px;height:11px;border-radius:50%;flex:none;box-shadow:0 0 0 3px color-mix(in srgb, currentColor 22%, transparent);color:#9ca3af}
+  .quake.q-gray   .qdot{color:#9ca3af}
+  .quake.q-green  .qdot{color:#22c55e}
+  .quake.q-yellow .qdot{color:#eab308}
+  .quake.q-orange .qdot{color:#f97316}
+  .quake.q-red    .qdot{color:#ef4444}
+  .quake .qmag{font-weight:800;font-variant-numeric:tabular-nums;min-width:42px}
+  .quake.q-gray   .qmag{color:#6b7280}
+  .quake.q-green  .qmag{color:#15803d}
+  .quake.q-yellow .qmag{color:#a16207}
+  .quake.q-orange .qmag{color:#c2410c}
+  .quake.q-red    .qmag{color:#b91c1c}
+  .quake .qplace{color:var(--ink,#1a1a1a);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+  .quake .qmeta{display:flex;gap:10px;align-items:center;color:var(--muted);font-size:12px;white-space:nowrap}
+  .quake .qmeta .qbadge{font-size:10.5px;font-weight:700;padding:1px 6px;border-radius:999px;text-transform:uppercase;letter-spacing:.02em}
+  .quake .qmeta .tsu{background:#dbeafe;color:#1d4ed8}
+  .quake .qmeta .prelim{background:#fef3c7;color:#92400e}
+  .quake a.qlink{color:inherit;text-decoration:none;display:contents}
+  .eq-foot{font-size:11.5px;color:var(--muted);margin-top:8px;opacity:.9}
+  @media(max-width:560px){
+    .quake{grid-template-columns:auto auto 1fr;row-gap:2px}
+    .quake .qmeta{grid-column:2 / -1;justify-content:flex-start}
+  }
 
   .panel{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:18px 18px;box-shadow:var(--shadow)}
   .grid-2{display:grid;gap:14px}
@@ -292,6 +320,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </div>
 
     <div class="stats" id="stats"></div>
+
+    <div class="panel eq-panel" style="margin-top:14px">
+      <div class="eq-head">
+        <span class="eyebrow"><span data-es>Actividad sísmica reciente</span><span data-en>Recent seismic activity</span></span>
+        <a class="eq-src" href="https://earthquake.usgs.gov/earthquakes/map/" target="_blank" rel="noopener">USGS ↗</a>
+      </div>
+      <div id="quakes" class="quakes"></div>
+      <div class="eq-foot">
+        <span data-es>Fuente: USGS · color por magnitud · eventos cerca de Venezuela. Se actualiza automáticamente.</span>
+        <span data-en>Source: USGS · color by magnitude · events near Venezuela. Updates automatically.</span>
+      </div>
+    </div>
 
     <div class="grid-2" style="margin-top:14px">
       <div class="panel">
@@ -907,6 +947,55 @@ function renderStats(){
   cards.push([null, ORGS.length, t('Organizaciones verificadas','Verified organizations')]);
   el.innerHTML = cards.map(c=>'<div class="stat"><div class="n">'+c[1]+'</div><div class="l">'+c[2]+'</div>'+(c[0]?provLine(c[0])+altLine(c[0]):'')+'</div>').join('');
 }
+/* Actividad sísmica reciente (USGS · data/quakes.json) */
+let QUAKES = [
+  { id:"us6000t7zp", time:"2026-06-24T22:04:00Z", mag:7.5, depth:10, place:"23 km SE of Yumare, Venezuela", url:"https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7zp", alert:"orange", tsunami:true, status:"reviewed" },
+  { id:"us6000t7zc", time:"2026-06-24T22:03:20Z", mag:7.2, depth:10, place:"28 km SE of Montalbán, Venezuela", url:"https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7zc", alert:"yellow", tsunami:false, status:"reviewed" }
+];
+// Color SEGÚN MAGNITUD (no por antigüedad)
+function magClass(m){
+  if(m==null||m<3) return 'q-gray';
+  if(m<4) return 'q-green';
+  if(m<5) return 'q-yellow';
+  if(m<6) return 'q-orange';
+  return 'q-red';
+}
+// Ubicación: USGS la entrega en inglés ("23 km SE of Yumare"); en ES la adaptamos.
+function placeText(s){
+  if(!s) return '';
+  if(document.documentElement.lang==='en') return s;
+  return s.replace(/(\d+(?:\.\d+)?\s*km)\s+([NSEWO]{1,3})\s+of\s+/i,'$1 al $2 de ')
+          .replace(/\s+of\s+/gi,' de ');
+}
+function renderQuakes(){
+  const el=document.getElementById('quakes'); if(!el) return;
+  const en=document.documentElement.lang==='en';
+  if(!QUAKES||!QUAKES.length){
+    el.innerHTML='<div class="quake q-gray"><span class="qplace">'+t('Sin datos del USGS por ahora.','No USGS data right now.')+'</span></div>';
+    return;
+  }
+  el.innerHTML = QUAKES.slice(0,12).map(q=>{
+    const cls=magClass(q.mag);
+    const mag=q.mag!=null?('M'+Number(q.mag).toFixed(1)):'—';
+    const when=relTime(q.time)||'';
+    const abs=q.time?new Date(q.time).toLocaleString(en?'en-US':'es-VE',{day:'numeric',month:'short',hour:'2-digit',minute:'2-digit',timeZone:'America/Caracas'}):'';
+    const depth=q.depth!=null?(Math.round(q.depth)+' km'):'';
+    const place=placeText(q.place).replace(/"/g,'');
+    const badges=
+      (q.tsunami?'<span class="qbadge tsu">'+t('Tsunami','Tsunami')+'</span>':'')+
+      (q.status&&q.status!=='reviewed'?'<span class="qbadge prelim">'+t('Preliminar','Preliminary')+'</span>':'');
+    const inner=
+      '<span class="qdot" aria-hidden="true"></span>'+
+      '<span class="qmag">'+mag+'</span>'+
+      '<span class="qplace" title="'+place+'">'+place+'</span>'+
+      '<span class="qmeta">'+
+        (when?'<span title="'+abs+' (hora Venezuela)">'+when+'</span>':'')+
+        (depth?'<span>· '+t('prof.','depth')+' '+depth+'</span>':'')+
+        badges+
+      '</span>';
+    return '<div class="quake '+cls+'">'+(q.url?'<a class="qlink" href="'+q.url+'" target="_blank" rel="noopener">'+inner+'</a>':inner)+'</div>';
+  }).join('');
+}
 function renderNews(){
   const el=document.getElementById('news-carousel'); if(!el) return; el.innerHTML='';
   NEWS.forEach(n=>{
@@ -984,7 +1073,7 @@ function setLang(l){
   document.documentElement.lang=l;
   document.getElementById('es').classList.toggle('on',l==='es');
   document.getElementById('en').classList.toggle('on',l==='en');
-  renderOrgs(currentFilter); renderFeed(); renderNews(); renderStats(); stampDate();
+  renderOrgs(currentFilter); renderFeed(); renderNews(); renderStats(); renderQuakes(); stampDate();
 }
 var LAST_UPDATED='2026-06-25T17:00:00Z';
 function stampDate(){
@@ -995,7 +1084,7 @@ function stampDate(){
   if(el) el.textContent = txt + (en?' (Venezuela time)':' (hora de Venezuela)');
 }
 
-renderOrgs('all'); renderFeed(); renderNews(); renderStats(); stampDate();
+renderOrgs('all'); renderFeed(); renderNews(); renderStats(); renderQuakes(); stampDate();
 
 function copyLink(btn){
   const url='https://helpvenezuela.info/';
@@ -1029,13 +1118,15 @@ function copyLink(btn){
    If the files are missing or fail to load, the embedded seed above is used. */
 async function loadData(){
   try{
-    const [u,n,m]=await Promise.all([
+    const [u,n,m,qk]=await Promise.all([
       fetch('data/updates.json',{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null),
       fetch('data/news.json',{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null),
-      fetch('data/meta.json',{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null)
+      fetch('data/meta.json',{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null),
+      fetch('data/quakes.json',{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null)
     ]);
     if(Array.isArray(u)&&u.length){UPDATES=u; renderFeed();}
     if(Array.isArray(n)&&n.length){NEWS=n; renderNews();}
+    if(Array.isArray(qk)&&qk.length){QUAKES=qk; renderQuakes();}
     if(m&&m.stats){for(const k in m.stats){if(m.stats[k]!=null)STATS[k]=m.stats[k];}}
     if(m&&m.prov){PROV=m.prov;}
     if(m&&m.alt){ALT=m.alt;}

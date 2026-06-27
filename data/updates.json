@@ -72,6 +72,34 @@
     "sourceEn": "El Pitazo",
     "date": "2026-06-27",
     "conf": "med",
+    "titleEs": "Incertidumbre, solidaridad y escombros invaden La Guaira a tres días de los terremotos",
+    "titleEn": "Incertidumbre, solidaridad y escombros invaden La Guaira a tres días de los terremotos",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/alianzas/incertidumbre-solidaridad-y-escombros-invaden-la-guaira-a-tres-dias-de-los-terremotos/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-06-27",
+    "conf": "med",
+    "titleEs": "Terremotos en Venezuela | Réplica registrada el 26 de junio desató el pánico durante rescates en Aragua",
+    "titleEn": "Terremotos en Venezuela | Réplica registrada el 26 de junio desató el pánico durante rescates en Aragua",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/regiones/centro/terremotos-en-venezuela-replica-registrada-el-26-de-junio-desato-el-panico-durante-rescates-en-aragua/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-06-27",
+    "conf": "med",
     "titleEs": "Sin techo y con incertidumbre: familias pernoctan en plazas sin saber si sus edificios son habitables",
     "titleEn": "Sin techo y con incertidumbre: familias pernoctan en plazas sin saber si sus edificios son habitables",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -94,33 +122,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://elpitazo.net/regiones/gran-caracas/sobrevivientes-del-doble-terremoto-narran-como-salvaron-sus-vidas-tras-estar-desaparecidos-en-la-guaira/"
-  },
-  {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-06-26",
-    "conf": "med",
-    "titleEs": "Ciudadanos hacen colas para comprar alimentos en el centro y oeste de Caracas: “Desde la pandemia no veía esto”",
-    "titleEn": "Ciudadanos hacen colas para comprar alimentos en el centro y oeste de Caracas: “Desde la pandemia no veía esto”",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/regiones/ciudadanos-hacen-colas-para-comprar-alimentos-en-el-centro-y-oeste-de-caracas-desde-la-pandemia-no-veia-esto/"
-  },
-  {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-06-26",
-    "conf": "med",
-    "titleEs": "Diosdado Cabello anuncia restricción de ingreso a La Guaira desde este 26 de junio en la noche",
-    "titleEn": "Diosdado Cabello anuncia restricción de ingreso a La Guaira desde este 26 de junio en la noche",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/regiones/diosdado-cabello-restringe-el-ingreso-a-la-guaira-tras-los-terremotos-en-venezuela/"
   }
 ]

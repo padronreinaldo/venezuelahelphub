@@ -3,6 +3,15 @@
     "source": "El Pitazo",
     "section": "Venezuela",
     "date": "2026-06-27",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/06/Voluntarios-El-Poliedro.jpg",
+    "titleEs": "«Mientras pasamos un minuto aquí, mueren dos personas»: voluntarios denuncian trabas para registrarse en El Poliedro",
+    "titleEn": "«Mientras pasamos un minuto aquí, mueren dos personas»: voluntarios denuncian trabas para registrarse en El Poliedro",
+    "url": "https://elpitazo.net/regiones/mientras-pasamos-un-minuto-aqui-mueren-dos-personas-voluntarios-denuncian-trabas-para-registrarse-en-el-poliedro/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-06-27",
     "img": "https://elpitazo.net/wp-content/uploads/2026/06/Terremotos-5-1024x768.jpg",
     "titleEs": "Incertidumbre, solidaridad y escombros invaden La Guaira a tres días de los terremotos",
     "titleEn": "Incertidumbre, solidaridad y escombros invaden La Guaira a tres días de los terremotos",
@@ -27,13 +36,13 @@
     "url": "https://elpitazo.net/caracas/sin-techo-y-con-incertidumbre-familias-pernoctan-en-plazas-sin-saber-si-sus-edificios-son-habitables/"
   },
   {
-    "source": "El Pitazo",
+    "source": "Efecto Cocuyo",
     "section": "Venezuela",
     "date": "2026-06-27",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/06/EDIFICIO-LA-GUAIR-1.jpg",
-    "titleEs": "Sobrevivientes del doble terremoto narran cómo salvaron sus vidas tras estar desaparecidos en La Guaira",
-    "titleEn": "Sobrevivientes del doble terremoto narran cómo salvaron sus vidas tras estar desaparecidos en La Guaira",
-    "url": "https://elpitazo.net/regiones/gran-caracas/sobrevivientes-del-doble-terremoto-narran-como-salvaron-sus-vidas-tras-estar-desaparecidos-en-la-guaira/"
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/06/26223923/WhatsApp-Image-2026-06-26-at-10.33.19-PM-3-1024x576.jpeg",
+    "titleEs": "“Nosotros mismos los estamos rescatando”, familias buscan entre los escombros en La Guaira",
+    "titleEn": "“Nosotros mismos los estamos rescatando”, familias buscan entre los escombros en La Guaira",
+    "url": "https://efectococuyo.com/la-humanidad/nosotros-mismos-los-estamos-rescatando-familias-buscan-entre-los-escombros-en-la-guaira/"
   },
   {
     "source": "Efecto Cocuyo",
@@ -63,19 +72,28 @@
     "url": "https://efectococuyo.com/la-humanidad/universidades-venezolanas-activan-centros-de-acopio-y-planes-de-apoyo-tras-los-terremotos/"
   },
   {
-    "source": "Efecto Cocuyo",
+    "source": "Runrun.es",
     "section": "Venezuela",
-    "date": "2026-06-26",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/06/26174753/352435_1881977.avif",
-    "titleEs": "En claves: Solidaridad internacional ante los terremotos en Venezuela",
-    "titleEn": "En claves: Solidaridad internacional ante los terremotos en Venezuela",
-    "url": "https://efectococuyo.com/internacionales/en-claves-solidaridad-internacional-ante-los-terremotos-en-venezuela/"
+    "date": "2026-06-27",
+    "img": "",
+    "titleEs": "Un sismo con impactos políticos",
+    "titleEn": "Un sismo con impactos políticos",
+    "url": "https://runrun.es/rr-es-plus/612646/un-sismo-con-impactos-politicos/"
   },
   {
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-06-27",
-    "img": "https://runrun.es/wp-content/uploads/2026/06/La-Guaira-edficio-destruido-en-Macuto.jpeg",
+    "img": "",
+    "titleEs": "Médicos Unidos Venezuela presenta plan de respuesta humanitaria para atención de afectados por los sismos",
+    "titleEn": "Médicos Unidos Venezuela presenta plan de respuesta humanitaria para atención de afectados por los sismos",
+    "url": "https://runrun.es/noticias/612561/medicos-unidos-venezuela-presenta-plan-de-respuesta-humanitaria-para-atender-a-afectados-por-los-sismos/"
+  },
+  {
+    "source": "Runrun.es",
+    "section": "Venezuela",
+    "date": "2026-06-27",
+    "img": "",
     "titleEs": "Incertidumbre, solidaridad y escombros invaden La Guaira a tres días de los sismos",
     "titleEn": "Incertidumbre, solidaridad y escombros invaden La Guaira a tres días de los sismos",
     "url": "https://runrun.es/rr-es-plus/612635/incertidumbre-solidaridad-y-escombros-invaden-la-guaira-a-tres-dias-de-los-sismos/"
@@ -84,27 +102,9 @@
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-06-27",
-    "img": "https://runrun.es/wp-content/uploads/2026/06/fotoaeropuerto.jpg",
+    "img": "",
     "titleEs": "Severos daños en el Aeropuerto de Maiquetía tras los sismos",
     "titleEn": "Severos daños en el Aeropuerto de Maiquetía tras los sismos",
     "url": "https://runrun.es/noticias/612647/severos-danos-en-el-aeropuerto-de-maiquetia-tras-los-sismos/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-06-27",
-    "img": "https://runrun.es/wp-content/uploads/2026/06/beibolos-1.jpg",
-    "titleEs": "FVF confirma la muerte del futbolista Yimvert Berroterán tras los terremotos en Venezuela",
-    "titleEn": "FVF confirma la muerte del futbolista Yimvert Berroterán tras los terremotos en Venezuela",
-    "url": "https://runrun.es/noticias/612558/fvf-confirma-la-muerte-del-futbolista-yimvert-berroteran-tras-los-terremotos-en-venezuela/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-06-27",
-    "img": "https://runrun.es/wp-content/uploads/2026/06/tukaka.jpg",
-    "titleEs": "26Jun | Voluntarios rompen cordón policial y se intensifican labores de rescate en Tucacas",
-    "titleEn": "26Jun | Voluntarios rompen cordón policial y se intensifican labores de rescate en Tucacas",
-    "url": "https://runrun.es/inicio/612547/26jun-voluntarios-irrumpen-cordon-policial-y-se-intensifican-labores-de-rescate-en-tucacas-tras-derrumbe-en-complejo-residencial/"
   }
 ]

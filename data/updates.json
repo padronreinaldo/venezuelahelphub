@@ -72,6 +72,20 @@
     "sourceEn": "El Pitazo",
     "date": "2026-06-27",
     "conf": "med",
+    "titleEs": "«Mientras pasamos un minuto aquí, mueren dos personas»: voluntarios denuncian trabas para registrarse en El Poliedro",
+    "titleEn": "«Mientras pasamos un minuto aquí, mueren dos personas»: voluntarios denuncian trabas para registrarse en El Poliedro",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/regiones/mientras-pasamos-un-minuto-aqui-mueren-dos-personas-voluntarios-denuncian-trabas-para-registrarse-en-el-poliedro/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-06-27",
+    "conf": "med",
     "titleEs": "Incertidumbre, solidaridad y escombros invaden La Guaira a tres días de los terremotos",
     "titleEn": "Incertidumbre, solidaridad y escombros invaden La Guaira a tres días de los terremotos",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -108,19 +122,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://elpitazo.net/caracas/sin-techo-y-con-incertidumbre-familias-pernoctan-en-plazas-sin-saber-si-sus-edificios-son-habitables/"
-  },
-  {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-06-27",
-    "conf": "med",
-    "titleEs": "Sobrevivientes del doble terremoto narran cómo salvaron sus vidas tras estar desaparecidos en La Guaira",
-    "titleEn": "Sobrevivientes del doble terremoto narran cómo salvaron sus vidas tras estar desaparecidos en La Guaira",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/regiones/gran-caracas/sobrevivientes-del-doble-terremoto-narran-como-salvaron-sus-vidas-tras-estar-desaparecidos-en-la-guaira/"
   }
 ]

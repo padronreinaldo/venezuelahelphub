@@ -1,5 +1,20 @@
 [
   {
+    "id": "us6000t8q8",
+    "time": "2026-06-27T19:20:36.606Z",
+    "mag": 4.8,
+    "depth": 10,
+    "lat": 10.6023,
+    "lon": -67.5112,
+    "place": "35 km NNE of El Limón, Venezuela",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8q8",
+    "dyfi": 3.8,
+    "alert": null,
+    "tsunami": false,
+    "status": "reviewed",
+    "source": "USGS"
+  },
+  {
     "id": "fv-27-06-2026-11:54-10.53--66.81",
     "time": "2026-06-27T15:54:00.000Z",
     "mag": 3.1,

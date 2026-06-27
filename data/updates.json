@@ -72,6 +72,34 @@
     "sourceEn": "El Pitazo",
     "date": "2026-06-27",
     "conf": "med",
+    "titleEs": "A falta de Estado, la solidaridad de los venezolanos dota los hospitales de insumos",
+    "titleEn": "A falta de Estado, la solidaridad de los venezolanos dota los hospitales de insumos",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/alianzas/a-falta-de-estado-la-solidaridad-de-los-venezolanos-dota-los-hospitales-de-insumos/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-06-27",
+    "conf": "med",
+    "titleEs": "Héroe canino: Tsunami lidera la búsqueda de sobrevivientes del doble terremoto en Venezuela",
+    "titleEn": "Héroe canino: Tsunami lidera la búsqueda de sobrevivientes del doble terremoto en Venezuela",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/caracas/heroe-canino-tsunami-lidera-la-busqueda-de-sobrevivientes-tras-los-terremotos-en-venezuela/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-06-27",
+    "conf": "med",
     "titleEs": "«Mientras pasamos un minuto aquí, mueren dos personas»: voluntarios denuncian trabas para registrarse en El Poliedro",
     "titleEn": "«Mientras pasamos un minuto aquí, mueren dos personas»: voluntarios denuncian trabas para registrarse en El Poliedro",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -94,33 +122,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://elpitazo.net/alianzas/incertidumbre-solidaridad-y-escombros-invaden-la-guaira-a-tres-dias-de-los-terremotos/"
-  },
-  {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-06-27",
-    "conf": "med",
-    "titleEs": "Terremotos en Venezuela | Réplica registrada el 26 de junio desató el pánico durante rescates en Aragua",
-    "titleEn": "Terremotos en Venezuela | Réplica registrada el 26 de junio desató el pánico durante rescates en Aragua",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/regiones/centro/terremotos-en-venezuela-replica-registrada-el-26-de-junio-desato-el-panico-durante-rescates-en-aragua/"
-  },
-  {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-06-27",
-    "conf": "med",
-    "titleEs": "Sin techo y con incertidumbre: familias pernoctan en plazas sin saber si sus edificios son habitables",
-    "titleEn": "Sin techo y con incertidumbre: familias pernoctan en plazas sin saber si sus edificios son habitables",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/caracas/sin-techo-y-con-incertidumbre-familias-pernoctan-en-plazas-sin-saber-si-sus-edificios-son-habitables/"
   }
 ]

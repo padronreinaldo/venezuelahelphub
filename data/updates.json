@@ -72,6 +72,34 @@
     "sourceEn": "El Pitazo",
     "date": "2026-06-27",
     "conf": "med",
+    "titleEs": "Peloteros de Delfines de La Guaira pierden a sus esposas: quedaron atrapadas en el Hotel Eduard’s",
+    "titleEn": "Peloteros de Delfines de La Guaira pierden a sus esposas: quedaron atrapadas en el Hotel Eduard’s",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/regiones/peloteros-de-delfines-de-la-guaira-pierden-a-sus-esposas-quedaron-atrapadas-en-el-hotel-eduards/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-06-27",
+    "conf": "med",
+    "titleEs": "Daños por terremotos en Venezuela ascienden a $6.700 millones, según Naciones Unidas",
+    "titleEn": "Daños por terremotos en Venezuela ascienden a $6.700 millones, según Naciones Unidas",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/economia/danos-por-terremotos-en-venezuela-ascienden-a-6-700-millones-segun-naciones-unidas/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-06-27",
+    "conf": "med",
     "titleEs": "Fotos | Aeropuerto de Maiquetía quedó con severos daños en su estructura tras terremotos",
     "titleEn": "Fotos | Aeropuerto de Maiquetía quedó con severos daños en su estructura tras terremotos",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -94,33 +122,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://elpitazo.net/regiones/gran-caracas/comando-sur-de-ee-uu-envia-equipos-para-restablecer-el-trafico-aereo-en-caracas-y-la-guaira/"
-  },
-  {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-06-27",
-    "conf": "med",
-    "titleEs": "Voces de la contingencia: Relatos de evacuación y resguardo en Caracas por doblete sísmico",
-    "titleEn": "Voces de la contingencia: Relatos de evacuación y resguardo en Caracas por doblete sísmico",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/regiones/voces-de-la-contingencia-relatos-de-evacuacion-y-resguardo-en-caracas-por-doblete-sismico/"
-  },
-  {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-06-27",
-    "conf": "med",
-    "titleEs": "«Aquí está mi hijo»: la búsqueda solitaria de un padre entre los escombros en La Guaira",
-    "titleEn": "«Aquí está mi hijo»: la búsqueda solitaria de un padre entre los escombros en La Guaira",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/regiones/centro/aqui-esta-mi-hijo-la-busqueda-solitaria-de-un-padre-entre-los-escombros-en-la-guaira/"
   }
 ]

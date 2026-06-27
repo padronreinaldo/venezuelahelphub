@@ -1,30 +1,30 @@
 {
-  "updatedAt": "2026-06-27T17:36:20.879Z",
+  "updatedAt": "2026-06-27T19:14:37.075Z",
   "stats": {
     "maxMagnitude": 7.5,
     "aftershocks": 5,
-    "deaths": 920,
+    "deaths": 1430,
     "injured": 3360,
     "missing": 157
   },
   "prov": {
     "maxMagnitude": {
-      "seenAt": "2026-06-27T17:36:20.879Z",
+      "seenAt": "2026-06-27T19:14:37.075Z",
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7zp"
     },
     "aftershocks": {
-      "seenAt": "2026-06-27T17:36:20.879Z",
+      "seenAt": "2026-06-27T19:14:37.075Z",
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7zp"
     },
     "deaths": {
-      "seenAt": "2026-06-27T17:36:20.879Z",
+      "seenAt": "2026-06-27T19:14:37.075Z",
       "source": "Wikipedia (ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
     "injured": {
-      "seenAt": "2026-06-27T17:36:20.879Z",
+      "seenAt": "2026-06-27T19:14:37.075Z",
       "source": "Wikipedia (ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
@@ -36,16 +36,16 @@
   },
   "alt": {
     "deaths": {
-      "value": 589,
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/delcy-rodriguez-confirma-589-fallecidos-y-2-980-heridos-tras-doblete-sismico/",
-      "seenAt": "2026-06-26T19:17:19.005Z"
+      "value": 1400,
+      "source": "Runrun.es",
+      "url": "https://runrun.es/inicio/612685/el-periodismo-venezolano-reporta-en-el-epicentro-de-la-emergencia-de-los-terremotos/",
+      "seenAt": "2026-06-27T19:14:37.075Z"
     },
     "injured": {
-      "value": 4300,
+      "value": 32038,
       "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/612464/balance-de-cierre-del-25-de-junio-235-fallecidos-y-4300-heridos-por-doble-sismo/",
-      "seenAt": "2026-06-26T21:05:49.574Z"
+      "url": "https://runrun.es/noticias/612709/27jun-asciende-a-1-430-la-cifra-de-fallecidos-por-doblete-sismico-en-venezuela/",
+      "seenAt": "2026-06-27T19:14:37.075Z"
     },
     "missing": {
       "value": 157,

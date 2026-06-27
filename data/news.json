@@ -3,6 +3,15 @@
     "source": "El Pitazo",
     "section": "Venezuela",
     "date": "2026-06-27",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/06/Tucacas-en-emergencia1-2-1024x634.jpg",
+    "titleEs": "Tucacas en emergencia: ascienden a ocho los fallecidos por colapso de La Mar Suite en medio de réplicas sísmicas",
+    "titleEn": "Tucacas en emergencia: ascienden a ocho los fallecidos por colapso de La Mar Suite en medio de réplicas sísmicas",
+    "url": "https://elpitazo.net/regiones/occidente/tucacas-en-emergencia-ascienden-a-ocho-los-fallecidos-por-colapso-de-la-mar-suite-en-medio-de-replicas-sismicas/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-06-27",
     "img": "https://elpitazo.net/wp-content/uploads/2026/06/Hotel.png",
     "titleEs": "Peloteros de Delfines de La Guaira pierden a sus esposas: quedaron atrapadas en el Hotel Eduard’s",
     "titleEn": "Peloteros de Delfines de La Guaira pierden a sus esposas: quedaron atrapadas en el Hotel Eduard’s",
@@ -25,15 +34,6 @@
     "titleEs": "Fotos | Aeropuerto de Maiquetía quedó con severos daños en su estructura tras terremotos",
     "titleEn": "Fotos | Aeropuerto de Maiquetía quedó con severos daños en su estructura tras terremotos",
     "url": "https://elpitazo.net/regiones/gran-caracas/fotos-aeropuerto-de-maiquetia-quedo-con-severos-danos-en-su-estructura-tras-terremotos/"
-  },
-  {
-    "source": "El Pitazo",
-    "section": "Venezuela",
-    "date": "2026-06-27",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/06/comando_sur_twitter.jpg",
-    "titleEs": "Comando Sur de EE. UU. envía equipos para restablecer el tráfico aéreo en Caracas y La Guaira",
-    "titleEn": "Comando Sur de EE. UU. envía equipos para restablecer el tráfico aéreo en Caracas y La Guaira",
-    "url": "https://elpitazo.net/regiones/gran-caracas/comando-sur-de-ee-uu-envia-equipos-para-restablecer-el-trafico-aereo-en-caracas-y-la-guaira/"
   },
   {
     "source": "Efecto Cocuyo",
@@ -66,10 +66,10 @@
     "source": "Efecto Cocuyo",
     "section": "Venezuela",
     "date": "2026-06-27",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/06/27155335/papa-1024x675.jpeg",
-    "titleEs": "Papa pide la solidaridad de la comunidad internacional con Venezuela tras los sismos",
-    "titleEn": "Papa pide la solidaridad de la comunidad internacional con Venezuela tras los sismos",
-    "url": "https://efectococuyo.com/internacionales/papa-pide-la-solidaridad-de-la-comunidad-internacional-con-venezuela-tras-los-sismos/"
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/06/27114410/WhatsApp-Image-2026-06-26-at-8.12.46-PM-1024x576.jpeg",
+    "titleEs": "“Los bomberos nos dijeron que teníamos que desalojar”: de la Misión Vivienda al parque del Este",
+    "titleEn": "“Los bomberos nos dijeron que teníamos que desalojar”: de la Misión Vivienda al parque del Este",
+    "url": "https://efectococuyo.com/la-humanidad/de-una-mision-vivienda-a-una-carpa-en-el-parque-del-este/"
   },
   {
     "source": "Runrun.es",

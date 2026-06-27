@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T21:59:38.492Z",
+  "updatedAt": "2026-06-27T23:11:03.585Z",
   "stats": {
     "maxMagnitude": 7.5,
     "aftershocks": 6,
@@ -9,22 +9,22 @@
   },
   "prov": {
     "maxMagnitude": {
-      "seenAt": "2026-06-27T21:59:38.492Z",
+      "seenAt": "2026-06-27T23:11:03.585Z",
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7zp"
     },
     "aftershocks": {
-      "seenAt": "2026-06-27T21:59:38.492Z",
+      "seenAt": "2026-06-27T23:11:03.585Z",
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7zp"
     },
     "deaths": {
-      "seenAt": "2026-06-27T21:59:38.492Z",
+      "seenAt": "2026-06-27T23:11:03.585Z",
       "source": "Wikipedia (ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
     "injured": {
-      "seenAt": "2026-06-27T21:59:38.492Z",
+      "seenAt": "2026-06-27T23:11:03.585Z",
       "source": "Wikipedia (ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
@@ -39,7 +39,7 @@
       "value": 1400,
       "source": "Runrun.es",
       "url": "https://runrun.es/inicio/612685/el-periodismo-venezolano-reporta-en-el-epicentro-de-la-emergencia-de-los-terremotos/",
-      "seenAt": "2026-06-27T21:59:38.492Z"
+      "seenAt": "2026-06-27T23:11:03.585Z"
     },
     "injured": {
       "value": 32038,
@@ -64,6 +64,6 @@
   "counts": {
     "updates": 8,
     "news": 12,
-    "quakes": 27
+    "quakes": 30
   }
 }

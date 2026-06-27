@@ -72,6 +72,20 @@
     "sourceEn": "El Pitazo",
     "date": "2026-06-27",
     "conf": "med",
+    "titleEs": "Tucacas en emergencia: ascienden a ocho los fallecidos por colapso de La Mar Suite en medio de réplicas sísmicas",
+    "titleEn": "Tucacas en emergencia: ascienden a ocho los fallecidos por colapso de La Mar Suite en medio de réplicas sísmicas",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/regiones/occidente/tucacas-en-emergencia-ascienden-a-ocho-los-fallecidos-por-colapso-de-la-mar-suite-en-medio-de-replicas-sismicas/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-06-27",
+    "conf": "med",
     "titleEs": "Peloteros de Delfines de La Guaira pierden a sus esposas: quedaron atrapadas en el Hotel Eduard’s",
     "titleEn": "Peloteros de Delfines de La Guaira pierden a sus esposas: quedaron atrapadas en el Hotel Eduard’s",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -108,19 +122,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://elpitazo.net/regiones/gran-caracas/fotos-aeropuerto-de-maiquetia-quedo-con-severos-danos-en-su-estructura-tras-terremotos/"
-  },
-  {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-06-27",
-    "conf": "med",
-    "titleEs": "Comando Sur de EE. UU. envía equipos para restablecer el tráfico aéreo en Caracas y La Guaira",
-    "titleEn": "Comando Sur de EE. UU. envía equipos para restablecer el tráfico aéreo en Caracas y La Guaira",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/regiones/gran-caracas/comando-sur-de-ee-uu-envia-equipos-para-restablecer-el-trafico-aereo-en-caracas-y-la-guaira/"
   }
 ]

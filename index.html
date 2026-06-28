@@ -126,6 +126,21 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   .quakes::-webkit-scrollbar-thumb{background:#c7ccd3;border-radius:8px;border:2px solid var(--card,#fff)}
   .quakes::-webkit-scrollbar-track{background:transparent}
   .quakes-cap{font-size:11.5px;color:var(--muted);margin:2px 0 6px}
+  .crv-pay{margin-bottom:16px;border:2px solid var(--brand)}
+  .crv-pay .pay-rows{margin-top:10px;border:1px solid var(--line);border-radius:10px;overflow:hidden}
+  .crv-pay .pay-row{display:flex;justify-content:space-between;align-items:center;gap:10px;padding:9px 12px;background:var(--card,#fff);border-top:1px solid var(--line);font-size:13px;flex-wrap:wrap}
+  .crv-pay .pay-row:first-child{border-top:0}
+  .crv-pay .pay-k{font-weight:700;color:var(--ink,#1a1a1a);min-width:130px}
+  .crv-pay .pay-v{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+  .crv-pay .pay-v code{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:12.5px;background:#f1f5f9;padding:3px 7px;border-radius:6px;color:#0f172a}
+  .crv-pay .copy{display:inline-flex;align-items:center;gap:3px;cursor:pointer;border:1px solid var(--line);background:#fff;border-radius:6px;padding:3px 7px;color:var(--brand);line-height:1}
+  .crv-pay .copy .ck{display:none;color:#15803d;font-weight:800;font-size:12px}
+  .crv-pay .copy.copied .ck{display:inline}
+  .crv-pay .copy.copied svg{display:none}
+  .crv-pay .crv-actions{display:flex;gap:10px;flex-wrap:wrap;margin-top:12px}
+  .crv-pay .crv-btn{display:inline-block;text-decoration:none;font-weight:600;font-size:13px;padding:9px 14px;border-radius:9px;border:1px solid var(--line);color:var(--ink,#1a1a1a)}
+  .crv-pay .crv-btn.primary{background:var(--brand);color:#fff;border-color:var(--brand);font-weight:700}
+  .crv-pay .crv-note{font-size:11.5px;color:var(--muted);margin-top:10px;line-height:1.4}
   .quake{display:grid;grid-template-columns:auto auto 1fr auto;align-items:center;gap:10px;padding:9px 12px;background:var(--card,#fff);font-size:14px}
   .quake .qdot{width:11px;height:11px;border-radius:50%;flex:none;box-shadow:0 0 0 3px color-mix(in srgb, currentColor 22%, transparent);color:#9ca3af}
   .quake.q-gray   .qdot{color:#9ca3af}
@@ -634,6 +649,30 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <p><span data-es>Cada tarjeta enlaza directamente al canal oficial de donación de la organización. Nunca pasamos por un intermediario.</span>
          <span data-en>Each card links directly to the organization's official donation channel. We never act as an intermediary.</span></p>
     </div>
+    <div class="panel crv-pay">
+      <div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap">
+        <span class="badge verified"><span data-es>Canal oficial verificado</span><span data-en>Verified official channel</span></span>
+        <span style="font-size:12px;color:var(--muted)">RIF J-00235031-8</span>
+      </div>
+      <h3 style="margin:8px 0 2px"><span data-es>Cruz Roja Venezolana — donación directa</span><span data-en>Venezuelan Red Cross — direct donation</span></h3>
+      <div class="focus"><span data-es>Cuentas oficiales publicadas por la Cruz Roja Venezolana para su respuesta humanitaria. Transfiere directamente a la organización; nosotros no intermediamos fondos.</span>
+        <span data-en>Official accounts published by the Venezuelan Red Cross for its humanitarian response. Transfer directly to the organization; we never handle funds.</span></div>
+      <div class="pay-rows">
+        <div class="pay-row"><div class="pay-k">Banesco · Bs (VES)</div><div class="pay-v"><code>0134-0224-82-2243028658</code><button class="copy" data-copy="01340224822243028658" aria-label="Copiar" onclick="copyText(this)"><svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="9" y="9" width="11" height="11" rx="2"/><path d="M5 15V5a2 2 0 0 1 2-2h10"/></svg><span class="ck">✓</span></button></div></div>
+        <div class="pay-row"><div class="pay-k">Banesco · USD</div><div class="pay-v"><code>0134-1736-99-0001006051</code><button class="copy" data-copy="01341736990001006051" aria-label="Copiar" onclick="copyText(this)"><svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="9" y="9" width="11" height="11" rx="2"/><path d="M5 15V5a2 2 0 0 1 2-2h10"/></svg><span class="ck">✓</span></button></div></div>
+        <div class="pay-row"><div class="pay-k">Banesco América (USA)</div><div class="pay-v"><code>1500236086</code><button class="copy" data-copy="1500236086" aria-label="Copiar" onclick="copyText(this)"><svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="9" y="9" width="11" height="11" rx="2"/><path d="M5 15V5a2 2 0 0 1 2-2h10"/></svg><span class="ck">✓</span></button></div></div>
+        <div class="pay-row"><div class="pay-k">Zelle</div><div class="pay-v"><code>contabilidad@cruzroja.ve</code><button class="copy" data-copy="contabilidad@cruzroja.ve" aria-label="Copiar" onclick="copyText(this)"><svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="9" y="9" width="11" height="11" rx="2"/><path d="M5 15V5a2 2 0 0 1 2-2h10"/></svg><span class="ck">✓</span></button></div></div>
+        <div class="pay-row"><div class="pay-k">ABANCA · EUR</div><div class="pay-v"><code>ES18 2080 0473 6930 4002 8376</code><span style="font-size:11.5px;color:var(--muted)">BIC CAGLESMMXXX</span><button class="copy" data-copy="ES1820800473693040028376" aria-label="Copiar" onclick="copyText(this)"><svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="9" y="9" width="11" height="11" rx="2"/><path d="M5 15V5a2 2 0 0 1 2-2h10"/></svg><span class="ck">✓</span></button></div></div>
+      </div>
+      <div class="crv-actions">
+        <a class="crv-btn primary" href="https://crvkycdonantes.netlify.app/" target="_blank" rel="noopener"><span data-es>Reportar mi donación ↗</span><span data-en>Report my donation ↗</span></a>
+        <a class="crv-btn" href="https://www.instagram.com/cruzrojave/" target="_blank" rel="noopener"><span data-es>Ver canal oficial @cruzrojave ↗</span><span data-en>See official channel @cruzrojave ↗</span></a>
+        <a class="crv-btn" href="https://cruzroja.ve/" target="_blank" rel="noopener">cruzroja.ve ↗</a>
+      </div>
+      <p class="crv-note"><span data-es>Antes de transferir, confirma los datos en el Instagram verificado <b>@cruzrojave</b> (✓ azul) o en cruzroja.ve. Desconfía de cuentas distintas a estas.</span>
+        <span data-en>Before transferring, confirm the details on the verified Instagram <b>@cruzrojave</b> (blue ✓) or at cruzroja.ve. Beware of accounts other than these.</span></p>
+    </div>
+
     <div class="filters" id="org-filters">
       <button class="on" data-f="all"><span data-es>Todas</span><span data-en>All</span></button>
       <button data-f="medical"><span data-es>Médica</span><span data-en>Medical</span></button>
@@ -1240,6 +1279,11 @@ document.addEventListener('click',function(e){
   if(c){ showQuakeTip(c); e.stopPropagation(); }
   else if(tip&&!tip.hidden){ tip.hidden=true; document.querySelectorAll('#quakeChart .qpt.sel').forEach(x=>x.classList.remove('sel')); }
 });
+// Copiar al portapapeles (cuentas de donación)
+function copyText(btn){
+  const v=btn&&btn.getAttribute('data-copy'); if(!v||!navigator.clipboard) return;
+  navigator.clipboard.writeText(v).then(()=>{ btn.classList.add('copied'); setTimeout(()=>btn.classList.remove('copied'),1500); }).catch(()=>{});
+}
 function renderQuakes(){
   const el=document.getElementById('quakes'); if(!el) return;
   const en=document.documentElement.lang==='en';

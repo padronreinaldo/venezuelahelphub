@@ -2,6 +2,24 @@
   {
     "source": "El Pitazo",
     "section": "Venezuela",
+    "date": "2026-06-28",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/06/rescate-bebe.jpg",
+    "titleEs": "Un equipo de rescate de EE. UU. salva a un bebé atrapado en un edificio colapsado en La Guaira",
+    "titleEn": "Un equipo de rescate de EE. UU. salva a un bebé atrapado en un edificio colapsado en La Guaira",
+    "url": "https://elpitazo.net/regiones/un-equipo-de-rescate-de-ee-uu-salva-a-un-bebe-atrapado-en-un-edificio-colapsado-en-la-guaira/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-06-27",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/06/La-Guaira-terremoto.jpg.jpeg",
+    "titleEs": "Provea denuncia «olor a descomposición» en Caraballeda: tardan horas para trasladar los cuerpos",
+    "titleEn": "Provea denuncia «olor a descomposición» en Caraballeda: tardan horas para trasladar los cuerpos",
+    "url": "https://elpitazo.net/regiones/gran-caracas/provea-denuncia-olor-a-descomposicion-en-caraballeda-tardan-horas-para-trasladar-los-cuerpos/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
     "date": "2026-06-27",
     "img": "https://elpitazo.net/wp-content/uploads/2026/06/Tucacas-en-emergencia1-2-1024x634.jpg",
     "titleEs": "Tucacas en emergencia: ascienden a ocho los fallecidos por colapso de La Mar Suite en medio de réplicas sísmicas",
@@ -16,24 +34,6 @@
     "titleEs": "Peloteros de Delfines de La Guaira pierden a sus esposas: quedaron atrapadas en el Hotel Eduard’s",
     "titleEn": "Peloteros de Delfines de La Guaira pierden a sus esposas: quedaron atrapadas en el Hotel Eduard’s",
     "url": "https://elpitazo.net/regiones/peloteros-de-delfines-de-la-guaira-pierden-a-sus-esposas-quedaron-atrapadas-en-el-hotel-eduards/"
-  },
-  {
-    "source": "El Pitazo",
-    "section": "Venezuela",
-    "date": "2026-06-27",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/06/TERREMOTO-LA-GUAIRA.jpg",
-    "titleEs": "Daños por terremotos en Venezuela ascienden a $6.700 millones, según Naciones Unidas",
-    "titleEn": "Daños por terremotos en Venezuela ascienden a $6.700 millones, según Naciones Unidas",
-    "url": "https://elpitazo.net/economia/danos-por-terremotos-en-venezuela-ascienden-a-6-700-millones-segun-naciones-unidas/"
-  },
-  {
-    "source": "El Pitazo",
-    "section": "Venezuela",
-    "date": "2026-06-27",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/06/1-768x1024.jpg",
-    "titleEs": "Fotos | Aeropuerto de Maiquetía quedó con severos daños en su estructura tras terremotos",
-    "titleEn": "Fotos | Aeropuerto de Maiquetía quedó con severos daños en su estructura tras terremotos",
-    "url": "https://elpitazo.net/regiones/gran-caracas/fotos-aeropuerto-de-maiquetia-quedo-con-severos-danos-en-su-estructura-tras-terremotos/"
   },
   {
     "source": "Efecto Cocuyo",
@@ -74,37 +74,37 @@
   {
     "source": "Runrun.es",
     "section": "Venezuela",
+    "date": "2026-06-28",
+    "img": "",
+    "titleEs": "ONU instala hospitales de campaña en La Guaira",
+    "titleEn": "ONU instala hospitales de campaña en La Guaira",
+    "url": "https://runrun.es/inicio/612763/onu-instala-hospitales-de-campana-en-la-guaira-mientras-crece-la-presion-sobre-la-respuesta-humanitaria-tras-los-terremotos/"
+  },
+  {
+    "source": "Runrun.es",
+    "section": "Venezuela",
     "date": "2026-06-27",
-    "img": "https://runrun.es/wp-content/uploads/2026/06/la-guaira-militarizada.jpg",
+    "img": "",
+    "titleEs": "Garantizan reposición de alimentos  y medicamentos",
+    "titleEn": "Garantizan reposición de alimentos  y medicamentos",
+    "url": "https://runrun.es/noticias/612745/garantizan-reposicion-de-alimentos-y-medicamentos/"
+  },
+  {
+    "source": "Runrun.es",
+    "section": "Venezuela",
+    "date": "2026-06-27",
+    "img": "",
+    "titleEs": "Boca de Aroa y Tucacas son de las localidades más afectadas de Falcón por doblete sísmico",
+    "titleEn": "Boca de Aroa y Tucacas son de las localidades más afectadas de Falcón por doblete sísmico",
+    "url": "https://runrun.es/noticias/612746/boca-de-aroa-y-tucacas-son-de-las-localidades-mas-afectadas-de-falcon-por-doblete-sismico/"
+  },
+  {
+    "source": "Runrun.es",
+    "section": "Venezuela",
+    "date": "2026-06-27",
+    "img": "",
     "titleEs": "ONG exigen respeto a los derechos humanos ante la militarización de La Guaira",
     "titleEn": "ONG exigen respeto a los derechos humanos ante la militarización de La Guaira",
     "url": "https://runrun.es/noticias/612737/ong-exigen-respeto-a-los-derechos-humanos-ante-la-militarizacion-de-la-guaira/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-06-27",
-    "img": "https://runrun.es/wp-content/uploads/2026/06/okidok.mp4",
-    "titleEs": "Ola de solidaridad desborda centro de acopio en Doral para asistir a las víctimas de los terremotos",
-    "titleEn": "Ola de solidaridad desborda centro de acopio en Doral para asistir a las víctimas de los terremotos",
-    "url": "https://runrun.es/inicio/612727/ola-de-solidaridad-desborda-centro-de-acopio-en-doral-para-asistir-a-las-victimas-de-los-terremotos/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-06-27",
-    "img": "https://runrun.es/wp-content/uploads/2026/06/usa.jpg",
-    "titleEs": "Comando Sur de EE. UU. emplea tecnología satelital para reforzar la respuesta humanitaria en Venezuela",
-    "titleEn": "Comando Sur de EE. UU. emplea tecnología satelital para reforzar la respuesta humanitaria en Venezuela",
-    "url": "https://runrun.es/noticias/612719/comando-sur-de-ee-uu-emplea-tecnologia-satelital-para-reforzar-la-respuesta-humanitaria-en-venezuela/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-06-27",
-    "img": "https://runrun.es/wp-content/uploads/2026/06/oki.jpeg",
-    "titleEs": "Piden orden urgente en la distribución de ayuda y cooperación para la tragedia",
-    "titleEn": "Piden orden urgente en la distribución de ayuda y cooperación para la tragedia",
-    "url": "https://runrun.es/noticias/612689/piden-orden-urgente-en-la-distribucion-de-ayuda-y-cooperacion-para-la-tragedia/"
   }
 ]

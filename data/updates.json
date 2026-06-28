@@ -2,40 +2,6 @@
   {
     "sourceEs": "USGS",
     "sourceEn": "USGS",
-    "date": "2026-06-24",
-    "titleEs": "Sismo M7.5: 28 km SE of Yumare, Venezuela",
-    "titleEn": "M7.5 earthquake: 28 km SE of Yumare, Venezuela",
-    "sumEs": "El USGS reporta un sismo de magnitud 7.5. 28 km SE of Yumare, Venezuela.",
-    "sumEn": "USGS reports a magnitude 7.5 earthquake. 28 km SE of Yumare, Venezuela.",
-    "areas": [],
-    "needsEs": [
-      "Evaluación de daños"
-    ],
-    "needsEn": [
-      "Damage assessment"
-    ],
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7zp"
-  },
-  {
-    "sourceEs": "USGS",
-    "sourceEn": "USGS",
-    "date": "2026-06-24",
-    "titleEs": "Sismo M7.2: 23 km SE of Yumare, Venezuela",
-    "titleEn": "M7.2 earthquake: 23 km SE of Yumare, Venezuela",
-    "sumEs": "El USGS reporta un sismo de magnitud 7.2. 23 km SE of Yumare, Venezuela.",
-    "sumEn": "USGS reports a magnitude 7.2 earthquake. 23 km SE of Yumare, Venezuela.",
-    "areas": [],
-    "needsEs": [
-      "Evaluación de daños"
-    ],
-    "needsEn": [
-      "Damage assessment"
-    ],
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7zc"
-  },
-  {
-    "sourceEs": "USGS",
-    "sourceEn": "USGS",
     "date": "2026-06-27",
     "titleEs": "Sismo M4.8: 35 km NNE of El Limón, Venezuela",
     "titleEn": "M4.8 earthquake: 35 km NNE of El Limón, Venezuela",
@@ -70,6 +36,34 @@
   {
     "sourceEs": "El Pitazo",
     "sourceEn": "El Pitazo",
+    "date": "2026-06-28",
+    "conf": "med",
+    "titleEs": "Un equipo de rescate de EE. UU. salva a un bebé atrapado en un edificio colapsado en La Guaira",
+    "titleEn": "Un equipo de rescate de EE. UU. salva a un bebé atrapado en un edificio colapsado en La Guaira",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/regiones/un-equipo-de-rescate-de-ee-uu-salva-a-un-bebe-atrapado-en-un-edificio-colapsado-en-la-guaira/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-06-27",
+    "conf": "med",
+    "titleEs": "Provea denuncia «olor a descomposición» en Caraballeda: tardan horas para trasladar los cuerpos",
+    "titleEn": "Provea denuncia «olor a descomposición» en Caraballeda: tardan horas para trasladar los cuerpos",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/regiones/gran-caracas/provea-denuncia-olor-a-descomposicion-en-caraballeda-tardan-horas-para-trasladar-los-cuerpos/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
     "date": "2026-06-27",
     "conf": "med",
     "titleEs": "Tucacas en emergencia: ascienden a ocho los fallecidos por colapso de La Mar Suite en medio de réplicas sísmicas",
@@ -96,31 +90,31 @@
     "url": "https://elpitazo.net/regiones/peloteros-de-delfines-de-la-guaira-pierden-a-sus-esposas-quedaron-atrapadas-en-el-hotel-eduards/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
     "date": "2026-06-27",
     "conf": "med",
-    "titleEs": "Daños por terremotos en Venezuela ascienden a $6.700 millones, según Naciones Unidas",
-    "titleEn": "Daños por terremotos en Venezuela ascienden a $6.700 millones, según Naciones Unidas",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "titleEs": "Nuevo sismo de magnitud 4,8 sacude la costa de Venezuela este sábado",
+    "titleEn": "Nuevo sismo de magnitud 4,8 sacude la costa de Venezuela este sábado",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/economia/danos-por-terremotos-en-venezuela-ascienden-a-6-700-millones-segun-naciones-unidas/"
+    "url": "https://efectococuyo.com/la-humanidad/nuevo-sismo-de-magnitud-48-sacude-la-costa-de-venezuela-este-sabado/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
     "date": "2026-06-27",
     "conf": "med",
-    "titleEs": "Fotos | Aeropuerto de Maiquetía quedó con severos daños en su estructura tras terremotos",
-    "titleEn": "Fotos | Aeropuerto de Maiquetía quedó con severos daños en su estructura tras terremotos",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "titleEs": "Más de 130 réplicas se han producido tras los terremotos del 24 de junio en Venezuela",
+    "titleEn": "Más de 130 réplicas se han producido tras los terremotos del 24 de junio en Venezuela",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/regiones/gran-caracas/fotos-aeropuerto-de-maiquetia-quedo-con-severos-danos-en-su-estructura-tras-terremotos/"
+    "url": "https://efectococuyo.com/la-humanidad/mas-de-130-replicas-se-han-producido-tras-los-terremotos-del-24-de-junio-en-venezuela/"
   }
 ]

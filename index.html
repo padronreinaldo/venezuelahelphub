@@ -121,7 +121,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   .eq-tip .tt{color:var(--muted);font-size:11px}
   .eq-tip .tm{font-weight:800}
   .eq-hint{font-size:11px;color:var(--muted);margin-top:5px;display:flex;align-items:center;gap:5px}
-  .quakes{display:flex;flex-direction:column;gap:1px;background:var(--line);border:1px solid var(--line);border-radius:10px;overflow:hidden}
+  .quakes{display:flex;flex-direction:column;gap:1px;background:var(--line);border:1px solid var(--line);border-radius:10px;max-height:360px;overflow-y:auto;-webkit-overflow-scrolling:touch}
+  .quakes::-webkit-scrollbar{width:9px}
+  .quakes::-webkit-scrollbar-thumb{background:#c7ccd3;border-radius:8px;border:2px solid var(--card,#fff)}
+  .quakes::-webkit-scrollbar-track{background:transparent}
+  .quakes-cap{font-size:11.5px;color:var(--muted);margin:2px 0 6px}
   .quake{display:grid;grid-template-columns:auto auto 1fr auto;align-items:center;gap:10px;padding:9px 12px;background:var(--card,#fff);font-size:14px}
   .quake .qdot{width:11px;height:11px;border-radius:50%;flex:none;box-shadow:0 0 0 3px color-mix(in srgb, currentColor 22%, transparent);color:#9ca3af}
   .quake.q-gray   .qdot{color:#9ca3af}
@@ -380,6 +384,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <span data-es>Cada punto es un sismo · tócalo para ver detalles · color = magnitud</span><span data-en>Each dot is a quake · tap it for details · color = magnitude</span>
         </div>
       </div>
+      <div class="quakes-cap"><span data-es>Lista completa · más recientes arriba; desliza hacia abajo para llegar al 24 jun (M7.2 y M7.5).</span><span data-en>Full list · newest on top; scroll down to reach Jun 24 (M7.2 and M7.5).</span></div>
       <div id="quakes" class="quakes"></div>
       <details class="eq-legend">
         <summary><span data-es>¿Qué significan los colores y las siglas?</span><span data-en>What do the colors and labels mean?</span></summary>
@@ -1243,7 +1248,7 @@ function renderQuakes(){
     renderQuakeChart();
     return;
   }
-  el.innerHTML = QUAKES.slice(0,12).map(q=>{
+  el.innerHTML = QUAKES.map(q=>{
     const cls=magClass(q.mag);
     const mag=q.mag!=null?('M'+Number(q.mag).toFixed(1)):'—';
     const when=relTime(q.time)||'';

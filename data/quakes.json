@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-28-06-2026-18:38-10.61--66.58",
+    "time": "2026-06-28T22:38:00.000Z",
+    "mag": 2.8,
+    "depth": 6.8,
+    "lat": 10.61,
+    "lon": -66.58,
+    "place": "2 km al suroeste de Los Caracas ",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-28-06-2026-16:55-10.57--67.42",
     "time": "2026-06-28T20:55:00.000Z",
     "mag": 2.7,

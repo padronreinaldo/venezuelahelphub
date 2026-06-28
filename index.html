@@ -108,12 +108,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   /* Actividad sísmica reciente (USGS) */
   .eq-panel .eq-head{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-bottom:8px}
   .eq-panel .eq-src{font-size:12px;font-weight:600;color:var(--brand);text-decoration:none;white-space:nowrap}
-  .eq-chart-wrap{margin:6px 0 12px}
+  .eq-chart-wrap{margin:6px 0 12px;position:relative}
   .eq-chart-title{font-size:12.5px;font-weight:600;color:var(--ink,#1a1a1a);margin-bottom:4px}
   .eq-chart-title .eq-count{color:var(--muted);font-weight:400}
   .eq-chart{width:100%}
   .eq-chart svg{width:100%;height:auto;display:block;overflow:visible}
-  .eq-chart circle{cursor:default}
+  .eq-chart .qpt{cursor:pointer}
+  .eq-chart .qpt:hover{fill-opacity:1;stroke:#1a1a1a;stroke-width:1.2}
+  .eq-chart .qpt.sel{stroke:#1a1a1a;stroke-width:1.6;fill-opacity:1}
+  .eq-empty{font-size:12px;color:var(--muted);padding:10px 0}
+  .eq-tip{position:absolute;z-index:6;background:#fff;border:1px solid var(--line);border-radius:9px;box-shadow:0 8px 22px rgba(0,0,0,.16);padding:8px 11px;font-size:12px;line-height:1.4;max-width:210px;pointer-events:none;color:var(--ink,#1a1a1a)}
+  .eq-tip .tt{color:var(--muted);font-size:11px}
+  .eq-tip .tm{font-weight:800}
+  .eq-hint{font-size:11px;color:var(--muted);margin-top:5px;display:flex;align-items:center;gap:5px}
   .quakes{display:flex;flex-direction:column;gap:1px;background:var(--line);border:1px solid var(--line);border-radius:10px;overflow:hidden}
   .quake{display:grid;grid-template-columns:auto auto 1fr auto;align-items:center;gap:10px;padding:9px 12px;background:var(--card,#fff);font-size:14px}
   .quake .qdot{width:11px;height:11px;border-radius:50%;flex:none;box-shadow:0 0 0 3px color-mix(in srgb, currentColor 22%, transparent);color:#9ca3af}
@@ -367,6 +374,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <div class="eq-chart-wrap">
         <div class="eq-chart-title"><span data-es>Historial sísmico desde el 24 jun</span><span data-en>Seismic history since Jun 24</span><span id="quakeCount" class="eq-count"></span></div>
         <div id="quakeChart" class="eq-chart"></div>
+        <div id="quakeTip" class="eq-tip" hidden></div>
+        <div class="eq-hint">
+          <svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 11v5M12 8h.01"/></svg>
+          <span data-es>Cada punto es un sismo · tócalo para ver detalles · color = magnitud</span><span data-en>Each dot is a quake · tap it for details · color = magnitude</span>
+        </div>
       </div>
       <div id="quakes" class="quakes"></div>
       <details class="eq-legend">
@@ -1178,21 +1190,51 @@ function renderQuakeChart(){
   const el=document.getElementById('quakeChart'); if(!el) return;
   const en=document.documentElement.lang==='en';
   const cnt=document.getElementById('quakeCount');
-  const data=(QUAKES||[]).map(q=>({t:new Date(q.time).getTime(),m:+q.mag,c:QCOLOR[magClass(q.mag)]||'#9ca3af',place:placeText(q.place||'')})).filter(d=>!isNaN(d.t)&&!isNaN(d.m));
+  const tip=document.getElementById('quakeTip'); if(tip) tip.hidden=true;
+  const data=(QUAKES||[]).map(q=>({t:new Date(q.time).getTime(),m:+q.mag,c:QCOLOR[magClass(q.mag)]||'#9ca3af',place:placeText(q.place||''),src:q.source||'USGS'})).filter(d=>!isNaN(d.t)&&!isNaN(d.m));
   if(cnt) cnt.textContent=' · '+data.length+(en?' events':' eventos');
-  if(data.length<2){ el.innerHTML=''; return; }
-  const W=720,H=240,L=30,R=12,T=14,B=30,DAY=86400000,offMs=4*3600000; // Caracas UTC-4
+  if(data.length<2){ el.innerHTML='<div class="eq-empty">'+t('Aún no hay suficientes datos para la gráfica.','Not enough data for the chart yet.')+'</div>'; return; }
+  const W=480,H=260,L=38,R=14,T=16,B=44,DAY=86400000,offMs=4*3600000; // Caracas UTC-4
   const ts=data.map(d=>d.t); let t0=Math.min(...ts), t1=Math.max(...ts); if(t1===t0) t1=t0+3600000;
+  const span=(t1-t0)||1; t0-=span*0.03; t1+=span*0.03;
   const mMax=Math.max(8,Math.ceil(Math.max(...data.map(d=>d.m))));
-  const X=t=>L+(t-t0)/(t1-t0)*(W-L-R);
-  const Y=m=>T+(1-m/mMax)*(H-T-B);
+  const axisY=H-B, X=t=>L+(t-t0)/(t1-t0)*(W-L-R), Y=m=>T+(1-m/mMax)*(H-T-B);
   let g='';
-  for(let m=0;m<=mMax;m+=2){ const y=Y(m); g+='<line x1="'+L+'" y1="'+y.toFixed(1)+'" x2="'+(W-R)+'" y2="'+y.toFixed(1)+'" stroke="var(--line)" stroke-width="1"/><text x="2" y="'+(y+3).toFixed(1)+'" font-size="9" fill="var(--muted)">'+m+'</text>'; }
+  // Eje Y (magnitud): línea, ticks/etiquetas y título rotado
+  g+='<line x1="'+L+'" y1="'+T+'" x2="'+L+'" y2="'+axisY+'" stroke="var(--line)" stroke-width="1.5"/>';
+  for(let m=0;m<=mMax;m+=2){ const y=Y(m); g+='<line x1="'+L+'" y1="'+y.toFixed(1)+'" x2="'+(W-R)+'" y2="'+y.toFixed(1)+'" stroke="var(--line)" stroke-width="1" stroke-dasharray="'+(m===0?'0':'1 4')+'"/><text x="'+(L-6)+'" y="'+(y+4).toFixed(1)+'" font-size="11" fill="var(--muted)" text-anchor="end">'+m+'</text>'; }
+  g+='<text transform="translate(12,'+((T+axisY)/2).toFixed(1)+') rotate(-90)" font-size="11" font-weight="600" fill="var(--muted)" text-anchor="middle">'+(en?'Magnitude (M)':'Magnitud (M)')+'</text>';
+  // Eje X (fecha): línea base, gridlines por día y etiquetas
+  g+='<line x1="'+L+'" y1="'+axisY+'" x2="'+(W-R)+'" y2="'+axisY+'" stroke="var(--line)" stroke-width="1.5"/>';
   let dstart=Math.floor((t0-offMs)/DAY)*DAY+offMs;
-  for(let d=dstart; d<=t1; d+=DAY){ if(d<t0) continue; const x=X(d); const lbl=new Date(d).toLocaleDateString(en?'en-US':'es-VE',{day:'numeric',month:'numeric',timeZone:'America/Caracas'}); g+='<line x1="'+x.toFixed(1)+'" y1="'+T+'" x2="'+x.toFixed(1)+'" y2="'+(H-B)+'" stroke="var(--line)" stroke-width="1" stroke-dasharray="2 3"/><text x="'+x.toFixed(1)+'" y="'+(H-B+14)+'" font-size="9" fill="var(--muted)" text-anchor="middle">'+lbl+'</text>'; }
-  const pts=data.slice().sort((a,b)=>a.m-b.m).map(d=>{ const r=Math.max(2.2,1.4+d.m*0.7); const dd=new Date(d.t).toLocaleString(en?'en-US':'es-VE',{day:'numeric',month:'short',hour:'2-digit',minute:'2-digit',timeZone:'America/Caracas'}); return '<circle cx="'+X(d.t).toFixed(1)+'" cy="'+Y(d.m).toFixed(1)+'" r="'+r.toFixed(1)+'" fill="'+d.c+'" fill-opacity="0.8" stroke="#fff" stroke-width="0.6"><title>M'+d.m.toFixed(1)+' · '+d.place.replace(/"/g,'')+' · '+dd+'</title></circle>'; }).join('');
-  el.innerHTML='<svg viewBox="0 0 '+W+' '+H+'" preserveAspectRatio="xMidYMid meet" role="img" aria-label="'+(en?'Seismic history by magnitude over time':'Historial sísmico por magnitud en el tiempo')+'">'+g+pts+'</svg>';
+  for(let d=dstart; d<=t1; d+=DAY){ if(d<t0) continue; const x=X(d); g+='<line x1="'+x.toFixed(1)+'" y1="'+T+'" x2="'+x.toFixed(1)+'" y2="'+axisY+'" stroke="var(--line)" stroke-width="1" stroke-dasharray="1 4"/><text x="'+x.toFixed(1)+'" y="'+(axisY+16)+'" font-size="11" fill="var(--muted)" text-anchor="middle">'+new Date(d).toLocaleDateString(en?'en-US':'es-VE',{day:'numeric',month:'short',timeZone:'America/Caracas'})+'</text>'; }
+  g+='<text x="'+((L+W-R)/2).toFixed(1)+'" y="'+(H-5)+'" font-size="10.5" fill="var(--muted)" text-anchor="middle">'+(en?'Date (Venezuela time)':'Fecha (hora de Venezuela)')+'</text>';
+  // Puntos: menores primero (mayores encima); con datos para el tooltip táctil
+  const pts=data.slice().sort((a,b)=>a.m-b.m).map(d=>{ const r=Math.max(2.8,1.4+d.m*0.6); const when=new Date(d.t).toLocaleString(en?'en-US':'es-VE',{day:'numeric',month:'short',hour:'2-digit',minute:'2-digit',timeZone:'America/Caracas'}); const place=(d.place||'').replace(/"/g,'&quot;'); return '<circle class="qpt" cx="'+X(d.t).toFixed(1)+'" cy="'+Y(d.m).toFixed(1)+'" r="'+r.toFixed(1)+'" fill="'+d.c+'" fill-opacity="0.85" stroke="#fff" stroke-width="0.8" data-m="'+d.m.toFixed(1)+'" data-src="'+d.src+'" data-place="'+place+'" data-when="'+when+'"></circle>'; }).join('');
+  el.innerHTML='<svg viewBox="0 0 '+W+' '+H+'" preserveAspectRatio="xMidYMid meet" role="img" aria-label="'+(en?'Seismic history: magnitude vs date':'Historial sísmico: magnitud vs fecha')+'">'+g+pts+'</svg>';
 }
+// Tooltip táctil al tocar un punto de la gráfica
+function showQuakeTip(circle){
+  const tip=document.getElementById('quakeTip'); const wrap=document.querySelector('.eq-chart-wrap');
+  if(!tip||!wrap||!circle) return;
+  document.querySelectorAll('#quakeChart .qpt.sel').forEach(c=>c.classList.remove('sel'));
+  circle.classList.add('sel');
+  tip.innerHTML='<span class="tm">M'+circle.getAttribute('data-m')+'</span> · '+circle.getAttribute('data-src')+'<br>'+circle.getAttribute('data-place')+'<br><span class="tt">'+circle.getAttribute('data-when')+'</span>';
+  tip.hidden=false;
+  const cr=circle.getBoundingClientRect(), wr=wrap.getBoundingClientRect();
+  const tw=tip.offsetWidth, th=tip.offsetHeight;
+  let left=(cr.left-wr.left)+cr.width/2-tw/2;
+  left=Math.max(2,Math.min(left, wr.width-tw-2));
+  let top=(cr.top-wr.top)-th-9;
+  if(top<0) top=(cr.bottom-wr.top)+9;
+  tip.style.left=left+'px'; tip.style.top=top+'px';
+}
+document.addEventListener('click',function(e){
+  const c=e.target.closest?e.target.closest('#quakeChart .qpt'):null;
+  const tip=document.getElementById('quakeTip');
+  if(c){ showQuakeTip(c); e.stopPropagation(); }
+  else if(tip&&!tip.hidden){ tip.hidden=true; document.querySelectorAll('#quakeChart .qpt.sel').forEach(x=>x.classList.remove('sel')); }
+});
 function renderQuakes(){
   const el=document.getElementById('quakes'); if(!el) return;
   const en=document.documentElement.lang==='en';

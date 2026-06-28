@@ -55,6 +55,34 @@
     "sourceEn": "El Pitazo",
     "date": "2026-06-28",
     "conf": "med",
+    "titleEs": "El dolor se apodera de Criollitos de Venezuela: al menos 100 peloteros mueren en La Guaira",
+    "titleEn": "El dolor se apodera de Criollitos de Venezuela: al menos 100 peloteros mueren en La Guaira",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/regiones/el-dolor-se-apodera-de-criollitos-de-venezuela-al-menos-100-peloteros-mueren-en-la-guaira/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-06-28",
+    "conf": "med",
+    "titleEs": "«Pensé en dejarme morir, pero recordé a mis hijas»: deportada relata cómo sobrevivió a los terremotos y rescató a un bebé",
+    "titleEn": "«Pensé en dejarme morir, pero recordé a mis hijas»: deportada relata cómo sobrevivió a los terremotos y rescató a un bebé",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/regiones/centro/pense-en-dejarme-morir-pero-recorde-a-mis-hijas-deportada-relata-como-sobrevivio-a-los-terremotos-y-rescato-a-un-bebe/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-06-28",
+    "conf": "med",
     "titleEs": "¿Por qué unos edificios colapsan y otros resisten en la misma zona?: lo que revelan los terremotos en Venezuela",
     "titleEn": "¿Por qué unos edificios colapsan y otros resisten en la misma zona?: lo que revelan los terremotos en Venezuela",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -79,45 +107,17 @@
     "url": "https://elpitazo.net/regiones/gran-caracas/milagros-del-terremoto-nina-de-11-anos-dirige-rescate-de-su-hermano-de-9-antes-de-morir-en-los-escombros/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-06-28",
-    "conf": "med",
-    "titleEs": "Cifras del doble terremoto: número de fallecidos asciende a 1.450 personas; los heridos son 3.150",
-    "titleEn": "Cifras del doble terremoto: número de fallecidos asciende a 1.450 personas; los heridos son 3.150",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/regiones/cifras-del-doble-terremoto-numero-de-fallecidos-asciende-a-1-450-personas-los-heridos-son-3-150/"
-  },
-  {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-06-28",
-    "conf": "med",
-    "titleEs": "Rescatista mexicano denuncia que le pidieron agradecer a Delcy Rodríguez: «La mandé al diablo»",
-    "titleEn": "Rescatista mexicano denuncia que le pidieron agradecer a Delcy Rodríguez: «La mandé al diablo»",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/regiones/rescatista-mexicano-denuncia-que-le-pidieron-agradecer-a-delcy-rodriguez-la-mande-al-diablo/"
-  },
-  {
     "sourceEs": "Efecto Cocuyo",
     "sourceEn": "Efecto Cocuyo",
     "date": "2026-06-28",
     "conf": "med",
-    "titleEs": "Aumenta a 1.450 el número de fallecidos y más de 3.200 heridos por los terremotos en Venezuela",
-    "titleEn": "Aumenta a 1.450 el número de fallecidos y más de 3.200 heridos por los terremotos en Venezuela",
+    "titleEs": "¿A dónde llegan los damnificados en La Guaira?",
+    "titleEn": "¿A dónde llegan los damnificados en La Guaira?",
     "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
     "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://efectococuyo.com/la-humanidad/aumenta-a-1-450-el-numero-de-fallecidos-y-mas-de-3-200-heridos-por-los-terremotos-en-venezuela/"
+    "url": "https://efectococuyo.com/destacado-1/a-donde-llegan-los-damnificados-en-la-guaira/"
   }
 ]

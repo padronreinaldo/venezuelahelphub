@@ -55,6 +55,34 @@
     "sourceEn": "El Pitazo",
     "date": "2026-06-28",
     "conf": "med",
+    "titleEs": "¡Lucas está vivo!: rescatan al niño atrapado en el edificio Miramar de La Guaira",
+    "titleEn": "¡Lucas está vivo!: rescatan al niño atrapado en el edificio Miramar de La Guaira",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/regiones/lucas-esta-vivo-rescatan-al-nino-atrapado-en-el-edificio-miramar-de-la-guaira/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-06-28",
+    "conf": "med",
+    "titleEs": "Rescatista mexicano denuncia que le pidieron agradecer a Delcy Rodríguez: «La mandé al diablo»",
+    "titleEn": "Rescatista mexicano denuncia que le pidieron agradecer a Delcy Rodríguez: «La mandé al diablo»",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/regiones/rescatista-mexicano-denuncia-que-le-pidieron-agradecer-a-delcy-rodriguez-la-mande-al-diablo/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-06-28",
+    "conf": "med",
     "titleEs": "¿Dónde está la Fuerza Armada Venezolana? la pregunta que muchos se hacen tras los terremotos",
     "titleEn": "¿Dónde está la Fuerza Armada Venezolana? la pregunta que muchos se hacen tras los terremotos",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -79,45 +107,17 @@
     "url": "https://elpitazo.net/migracion/migrantes-venezolanos-estamos-rotos-y-debemos-fingir-en-nuestros-trabajos/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-06-28",
-    "conf": "med",
-    "titleEs": "Leones del Caracas confirma la muerte de familiares de peloteros por los terremotos del 24 de junio",
-    "titleEn": "Leones del Caracas confirma la muerte de familiares de peloteros por los terremotos del 24 de junio",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/regiones/leones-del-caracas-confirma-la-muerte-de-familiares-de-peloteros-por-los-terremotos-del-24-de-junio/"
-  },
-  {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-06-28",
-    "conf": "med",
-    "titleEs": "La Guaira | Confirman hallazgo de los cuerpos de la familia del futbolista argentino Lucas Trejo",
-    "titleEn": "La Guaira | Confirman hallazgo de los cuerpos de la familia del futbolista argentino Lucas Trejo",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/regiones/la-guaira-confirman-hallazgo-de-los-cuerpos-de-la-familia-del-futbolista-argentino-lucas-trejo/"
-  },
-  {
     "sourceEs": "Efecto Cocuyo",
     "sourceEn": "Efecto Cocuyo",
     "date": "2026-06-28",
     "conf": "med",
-    "titleEs": "Venezuela refuerza búsqueda de sobrevivientes en el quinto día desde el doble terremoto",
-    "titleEn": "Venezuela refuerza búsqueda de sobrevivientes en el quinto día desde el doble terremoto",
+    "titleEs": "Emotivos rescates durante los primeros cuatro días de los terremotos",
+    "titleEn": "Emotivos rescates durante los primeros cuatro días de los terremotos",
     "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
     "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://efectococuyo.com/la-humanidad/venezuela-refuerza-busqueda-de-sobrevivientes-en-el-quinto-dia-desde-el-doble-terremoto/"
+    "url": "https://efectococuyo.com/la-humanidad/emotivos-rescates-durante-los-primeros-cuatro-dias-de-los-terremotos/"
   }
 ]

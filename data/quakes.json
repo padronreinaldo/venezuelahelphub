@@ -1,5 +1,35 @@
 [
   {
+    "id": "fv-28-06-2026-12:29-10.59--67.2",
+    "time": "2026-06-28T16:29:00.000Z",
+    "mag": 2.8,
+    "depth": 17.7,
+    "lat": 10.59,
+    "lon": -67.2,
+    "place": "30 km al oeste de La Guaira ",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
+    "id": "fv-28-06-2026-12:28-10.53--67.26",
+    "time": "2026-06-28T16:28:00.000Z",
+    "mag": 2.5,
+    "depth": 7.5,
+    "lat": 10.53,
+    "lon": -67.26,
+    "place": "32 km al noroeste de Los Teques ",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-28-06-2026-12:03-10.59--66.81",
     "time": "2026-06-28T16:03:00.000Z",
     "mag": 2.5,

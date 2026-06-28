@@ -3,6 +3,24 @@
     "source": "El Pitazo",
     "section": "Venezuela",
     "date": "2026-06-28",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/06/nino-lucas.png",
+    "titleEs": "¡Lucas está vivo!: rescatan al niño atrapado en el edificio Miramar de La Guaira",
+    "titleEn": "¡Lucas está vivo!: rescatan al niño atrapado en el edificio Miramar de La Guaira",
+    "url": "https://elpitazo.net/regiones/lucas-esta-vivo-rescatan-al-nino-atrapado-en-el-edificio-miramar-de-la-guaira/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-06-28",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/06/rescatista-mexicano-1024x1020.jpg",
+    "titleEs": "Rescatista mexicano denuncia que le pidieron agradecer a Delcy Rodríguez: «La mandé al diablo»",
+    "titleEn": "Rescatista mexicano denuncia que le pidieron agradecer a Delcy Rodríguez: «La mandé al diablo»",
+    "url": "https://elpitazo.net/regiones/rescatista-mexicano-denuncia-que-le-pidieron-agradecer-a-delcy-rodriguez-la-mande-al-diablo/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-06-28",
     "img": "https://elpitazo.net/wp-content/uploads/2026/06/militares-registro-poliedro.jpeg",
     "titleEs": "¿Dónde está la Fuerza Armada Venezolana? la pregunta que muchos se hacen tras los terremotos",
     "titleEn": "¿Dónde está la Fuerza Armada Venezolana? la pregunta que muchos se hacen tras los terremotos",
@@ -18,22 +36,13 @@
     "url": "https://elpitazo.net/migracion/migrantes-venezolanos-estamos-rotos-y-debemos-fingir-en-nuestros-trabajos/"
   },
   {
-    "source": "El Pitazo",
+    "source": "Efecto Cocuyo",
     "section": "Venezuela",
     "date": "2026-06-28",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/06/Tucacas-en-emergencia.jpg",
-    "titleEs": "Leones del Caracas confirma la muerte de familiares de peloteros por los terremotos del 24 de junio",
-    "titleEn": "Leones del Caracas confirma la muerte de familiares de peloteros por los terremotos del 24 de junio",
-    "url": "https://elpitazo.net/regiones/leones-del-caracas-confirma-la-muerte-de-familiares-de-peloteros-por-los-terremotos-del-24-de-junio/"
-  },
-  {
-    "source": "El Pitazo",
-    "section": "Venezuela",
-    "date": "2026-06-28",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/06/futbolista-argentino-Lucas-Trejo.jpg",
-    "titleEs": "La Guaira | Confirman hallazgo de los cuerpos de la familia del futbolista argentino Lucas Trejo",
-    "titleEn": "La Guaira | Confirman hallazgo de los cuerpos de la familia del futbolista argentino Lucas Trejo",
-    "url": "https://elpitazo.net/regiones/la-guaira-confirman-hallazgo-de-los-cuerpos-de-la-familia-del-futbolista-argentino-lucas-trejo/"
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/06/25015724/806c72fac7dbe20cd47279fc9813463dab0924aaw-1-1024x598.jpg",
+    "titleEs": "Emotivos rescates durante los primeros cuatro días de los terremotos",
+    "titleEn": "Emotivos rescates durante los primeros cuatro días de los terremotos",
+    "url": "https://efectococuyo.com/la-humanidad/emotivos-rescates-durante-los-primeros-cuatro-dias-de-los-terremotos/"
   },
   {
     "source": "Efecto Cocuyo",
@@ -63,13 +72,22 @@
     "url": "https://efectococuyo.com/destacado-1/venezuela-ha-recibido-a-mas-de-1-600-rescatistas-para-atender-a-victimas-de-los-terremotos/"
   },
   {
-    "source": "Efecto Cocuyo",
+    "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-06-28",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/06/28112649/images-7.jpg",
-    "titleEs": "Google salvó miles de vidas en Venezuela: Así funciona su alerta de terremotos",
-    "titleEn": "Google salvó miles de vidas en Venezuela: Así funciona su alerta de terremotos",
-    "url": "https://efectococuyo.com/la-humanidad/google-salvo-miles-de-vidas-en-venezuela-asi-funciona-su-alerta-de-terremotos/"
+    "img": "https://runrun.es/wp-content/uploads/2026/06/Diseno-sin-titulo-2026-06-28T130554.295.jpg",
+    "titleEs": "En la morgue se mezcla certeza de la muerte e incertidumbre de los desaparecidos",
+    "titleEn": "En la morgue se mezcla certeza de la muerte e incertidumbre de los desaparecidos",
+    "url": "https://runrun.es/noticias/612843/en-la-morgue-se-mezcla-certeza-de-la-muerte-e-incertidumbre-de-los-desaparecidos/"
+  },
+  {
+    "source": "Runrun.es",
+    "section": "Venezuela",
+    "date": "2026-06-28",
+    "img": "https://runrun.es/wp-content/uploads/2026/06/fuerza-armada-venezolana-emergencia-terremotos-efe-696x397-2.jpg",
+    "titleEs": "¿Dónde está la Fuerza Armada Venezolana? la pregunta que muchos se hacen tras los terremotos en Venezuela",
+    "titleEn": "¿Dónde está la Fuerza Armada Venezolana? la pregunta que muchos se hacen tras los terremotos en Venezuela",
+    "url": "https://runrun.es/noticias/612844/donde-esta-la-fuerza-armada-venezolana-la-pregunta-que-muchos-se-hacen-tras-los-terremotos-en-venezuela/"
   },
   {
     "source": "Runrun.es",
@@ -78,7 +96,7 @@
     "img": "https://runrun.es/wp-content/uploads/2026/06/kkk.jpg",
     "titleEs": "Operadoras telefónicas activan llamadas gratuitas y conectividad satelital",
     "titleEn": "Operadoras telefónicas activan llamadas gratuitas y conectividad satelital",
-    "url": "https://runrun.es/inicio/612837/operadoras-telefonicas-activan-llamadas-gratuitas-y-conectividad-satelital/"
+    "url": "https://runrun.es/noticias/612837/operadoras-telefonicas-activan-llamadas-gratuitas-y-conectividad-satelital/"
   },
   {
     "source": "Runrun.es",
@@ -88,23 +106,5 @@
     "titleEs": "El miedo también duerme en las calles de Guarenas",
     "titleEn": "El miedo también duerme en las calles de Guarenas",
     "url": "https://runrun.es/noticias/612785/el-miedo-tambien-duerme-en-las-calles-de-guarenas/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-06-28",
-    "img": "https://runrun.es/wp-content/uploads/2026/06/La-Guaira.jpg",
-    "titleEs": "Agua segura y control de vectores, las verdaderas prioridades sanitarias en La Guaira",
-    "titleEn": "Agua segura y control de vectores, las verdaderas prioridades sanitarias en La Guaira",
-    "url": "https://runrun.es/rr-es-plus/612770/agua-segura-y-control-de-vectores-las-verdaderas-prioridades-sanitarias-en-la-guaira/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-06-28",
-    "img": "https://runrun.es/wp-content/uploads/2026/06/la-onu.jpg",
-    "titleEs": "ONU instala hospitales de campaña en La Guaira",
-    "titleEn": "ONU instala hospitales de campaña en La Guaira",
-    "url": "https://runrun.es/inicio/612763/onu-instala-hospitales-de-campana-en-la-guaira-mientras-crece-la-presion-sobre-la-respuesta-humanitaria-tras-los-terremotos/"
   }
 ]

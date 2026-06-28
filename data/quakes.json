@@ -1,5 +1,20 @@
 [
   {
+    "id": "us6000t8su",
+    "time": "2026-06-28T08:46:10.376Z",
+    "mag": 4.5,
+    "depth": 10,
+    "lat": 10.681,
+    "lon": -68.49,
+    "place": "20 km W of Boca de Aroa, Venezuela",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8su",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": "reviewed",
+    "source": "USGS"
+  },
+  {
     "id": "fv-27-06-2026-18:14-10.35--68.46",
     "time": "2026-06-27T22:14:00.000Z",
     "mag": 2.2,
@@ -433,20 +448,5 @@
     "tsunami": false,
     "status": null,
     "source": "FUNVISIS"
-  },
-  {
-    "id": "us6000t8k6",
-    "time": "2026-06-26T22:16:11.931Z",
-    "mag": 4.7,
-    "depth": 10,
-    "lat": 10.8,
-    "lon": -67.599,
-    "place": "54 km N of El Limón, Venezuela",
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8k6",
-    "dyfi": 3.6,
-    "alert": null,
-    "tsunami": false,
-    "status": "reviewed",
-    "source": "USGS"
   }
 ]

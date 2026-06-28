@@ -75,6 +75,15 @@
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-06-28",
+    "img": "https://runrun.es/wp-content/uploads/2026/06/oropezacastillolisto.jpg",
+    "titleEs": "El miedo también duerme en las calles de Guarenas",
+    "titleEn": "El miedo también duerme en las calles de Guarenas",
+    "url": "https://runrun.es/noticias/612785/el-miedo-tambien-duerme-en-las-calles-de-guarenas/"
+  },
+  {
+    "source": "Runrun.es",
+    "section": "Venezuela",
+    "date": "2026-06-28",
     "img": "https://runrun.es/wp-content/uploads/2026/06/La-Guaira.jpg",
     "titleEs": "Agua segura y control de vectores, las verdaderas prioridades sanitarias en La Guaira",
     "titleEn": "Agua segura y control de vectores, las verdaderas prioridades sanitarias en La Guaira",
@@ -97,14 +106,5 @@
     "titleEs": "Garantizan reposición de alimentos  y medicamentos",
     "titleEn": "Garantizan reposición de alimentos  y medicamentos",
     "url": "https://runrun.es/noticias/612745/garantizan-reposicion-de-alimentos-y-medicamentos/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-06-27",
-    "img": "https://runrun.es/wp-content/uploads/2026/06/boca-de-aroa.jpg",
-    "titleEs": "Boca de Aroa y Tucacas son de las localidades más afectadas de Falcón por doblete sísmico",
-    "titleEn": "Boca de Aroa y Tucacas son de las localidades más afectadas de Falcón por doblete sísmico",
-    "url": "https://runrun.es/noticias/612746/boca-de-aroa-y-tucacas-son-de-las-localidades-mas-afectadas-de-falcon-por-doblete-sismico/"
   }
 ]

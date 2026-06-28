@@ -55,14 +55,42 @@
     "sourceEn": "El Pitazo",
     "date": "2026-06-28",
     "conf": "med",
-    "titleEs": "¡Lucas está vivo!: rescatan al niño atrapado en el edificio Miramar de La Guaira",
-    "titleEn": "¡Lucas está vivo!: rescatan al niño atrapado en el edificio Miramar de La Guaira",
+    "titleEs": "¿Por qué unos edificios colapsan y otros resisten en la misma zona?: lo que revelan los terremotos en Venezuela",
+    "titleEn": "¿Por qué unos edificios colapsan y otros resisten en la misma zona?: lo que revelan los terremotos en Venezuela",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
     "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/regiones/lucas-esta-vivo-rescatan-al-nino-atrapado-en-el-edificio-miramar-de-la-guaira/"
+    "url": "https://elpitazo.net/regiones/gran-caracas/por-que-unos-edificios-colapsan-y-otros-resisten-en-la-misma-zona-lo-que-revelan-los-terremotos-en-venezuela/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-06-28",
+    "conf": "med",
+    "titleEs": "Milagros del terremoto | Niña de 11 años dirige rescate de su hermano de 9 antes de morir en los escombros",
+    "titleEn": "Milagros del terremoto | Niña de 11 años dirige rescate de su hermano de 9 antes de morir en los escombros",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/regiones/gran-caracas/milagros-del-terremoto-nina-de-11-anos-dirige-rescate-de-su-hermano-de-9-antes-de-morir-en-los-escombros/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-06-28",
+    "conf": "med",
+    "titleEs": "Cifras del doble terremoto: número de fallecidos asciende a 1.450 personas; los heridos son 3.150",
+    "titleEn": "Cifras del doble terremoto: número de fallecidos asciende a 1.450 personas; los heridos son 3.150",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/regiones/cifras-del-doble-terremoto-numero-de-fallecidos-asciende-a-1-450-personas-los-heridos-son-3-150/"
   },
   {
     "sourceEs": "El Pitazo",
@@ -79,45 +107,17 @@
     "url": "https://elpitazo.net/regiones/rescatista-mexicano-denuncia-que-le-pidieron-agradecer-a-delcy-rodriguez-la-mande-al-diablo/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-06-28",
-    "conf": "med",
-    "titleEs": "¿Dónde está la Fuerza Armada Venezolana? la pregunta que muchos se hacen tras los terremotos",
-    "titleEn": "¿Dónde está la Fuerza Armada Venezolana? la pregunta que muchos se hacen tras los terremotos",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/politica/donde-esta-la-fuerza-armada-venezolana-la-pregunta-que-muchos-se-hacen-tras-los-terremotos/"
-  },
-  {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-06-28",
-    "conf": "med",
-    "titleEs": "Migrantes venezolanos: «Estamos rotos y debemos fingir en nuestros trabajos»",
-    "titleEn": "Migrantes venezolanos: «Estamos rotos y debemos fingir en nuestros trabajos»",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/migracion/migrantes-venezolanos-estamos-rotos-y-debemos-fingir-en-nuestros-trabajos/"
-  },
-  {
     "sourceEs": "Efecto Cocuyo",
     "sourceEn": "Efecto Cocuyo",
     "date": "2026-06-28",
     "conf": "med",
-    "titleEs": "Emotivos rescates durante los primeros cuatro días de los terremotos",
-    "titleEn": "Emotivos rescates durante los primeros cuatro días de los terremotos",
+    "titleEs": "Aumenta a 1.450 el número de fallecidos y más de 3.200 heridos por los terremotos en Venezuela",
+    "titleEn": "Aumenta a 1.450 el número de fallecidos y más de 3.200 heridos por los terremotos en Venezuela",
     "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
     "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://efectococuyo.com/la-humanidad/emotivos-rescates-durante-los-primeros-cuatro-dias-de-los-terremotos/"
+    "url": "https://efectococuyo.com/la-humanidad/aumenta-a-1-450-el-numero-de-fallecidos-y-mas-de-3-200-heridos-por-los-terremotos-en-venezuela/"
   }
 ]

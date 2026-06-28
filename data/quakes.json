@@ -1,5 +1,35 @@
 [
   {
+    "id": "fv-28-06-2026-16:55-10.57--67.42",
+    "time": "2026-06-28T20:55:00.000Z",
+    "mag": 2.7,
+    "depth": 15,
+    "lat": 10.57,
+    "lon": -67.42,
+    "place": "39 km al norte de La Victoria ",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
+    "id": "fv-28-06-2026-16:51-6.9--73.14",
+    "time": "2026-06-28T20:51:00.000Z",
+    "mag": 3.7,
+    "depth": 136,
+    "lat": 6.9,
+    "lon": -73.14,
+    "place": "23 km al sur de Bucaramanga",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-28-06-2026-16:26-10.6--66.83",
     "time": "2026-06-28T20:26:00.000Z",
     "mag": 2.6,

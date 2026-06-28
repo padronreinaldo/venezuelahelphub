@@ -108,6 +108,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   /* Actividad sísmica reciente (USGS) */
   .eq-panel .eq-head{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-bottom:8px}
   .eq-panel .eq-src{font-size:12px;font-weight:600;color:var(--brand);text-decoration:none;white-space:nowrap}
+  .eq-chart-wrap{margin:6px 0 12px}
+  .eq-chart-title{font-size:12.5px;font-weight:600;color:var(--ink,#1a1a1a);margin-bottom:4px}
+  .eq-chart-title .eq-count{color:var(--muted);font-weight:400}
+  .eq-chart{width:100%}
+  .eq-chart svg{width:100%;height:auto;display:block;overflow:visible}
+  .eq-chart circle{cursor:default}
   .quakes{display:flex;flex-direction:column;gap:1px;background:var(--line);border:1px solid var(--line);border-radius:10px;overflow:hidden}
   .quake{display:grid;grid-template-columns:auto auto 1fr auto;align-items:center;gap:10px;padding:9px 12px;background:var(--card,#fff);font-size:14px}
   .quake .qdot{width:11px;height:11px;border-radius:50%;flex:none;box-shadow:0 0 0 3px color-mix(in srgb, currentColor 22%, transparent);color:#9ca3af}
@@ -358,6 +364,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <span data-es>Las réplicas son <b>normales</b> después de un gran terremoto y tienden a disminuir en frecuencia e intensidad con el paso de los días. Que aquí aparezca un sismo reciente es <b>información del USGS, no una alerta de peligro</b>. Ante una emergencia, sigue las indicaciones de Protección Civil y FUNVISIS.</span>
         <span data-en>Aftershocks are <b>normal</b> after a major earthquake and tend to decrease in frequency and intensity over the following days. A recent quake shown here is <b>USGS information, not a danger alert</b>. In an emergency, follow the guidance of Protección Civil and FUNVISIS.</span>
       </p>
+      <div class="eq-chart-wrap">
+        <div class="eq-chart-title"><span data-es>Historial sísmico desde el 24 jun</span><span data-en>Seismic history since Jun 24</span><span id="quakeCount" class="eq-count"></span></div>
+        <div id="quakeChart" class="eq-chart"></div>
+      </div>
       <div id="quakes" class="quakes"></div>
       <details class="eq-legend">
         <summary><span data-es>¿Qué significan los colores y las siglas?</span><span data-en>What do the colors and labels mean?</span></summary>
@@ -1162,11 +1172,33 @@ function placeText(s){
 // Intensidad sentida (DYFI/CDI) en números romanos, como la escala de intensidad del USGS
 function roman(n){const M=['','I','II','III','IV','V','VI','VII','VIII','IX','X','XI','XII'];n=Math.max(0,Math.min(12,Math.round(n)));return M[n];}
 const ALERTLBL={green:['Verde','Green'],yellow:['Amarilla','Yellow'],orange:['Naranja','Orange'],red:['Roja','Red']};
+// Gráfica de historial: magnitud (eje Y) vs tiempo (eje X), color por magnitud. SVG sin dependencias.
+const QCOLOR={'q-gray':'#9ca3af','q-green':'#22c55e','q-yellow':'#eab308','q-orange':'#f97316','q-red':'#ef4444'};
+function renderQuakeChart(){
+  const el=document.getElementById('quakeChart'); if(!el) return;
+  const en=document.documentElement.lang==='en';
+  const cnt=document.getElementById('quakeCount');
+  const data=(QUAKES||[]).map(q=>({t:new Date(q.time).getTime(),m:+q.mag,c:QCOLOR[magClass(q.mag)]||'#9ca3af',place:placeText(q.place||'')})).filter(d=>!isNaN(d.t)&&!isNaN(d.m));
+  if(cnt) cnt.textContent=' · '+data.length+(en?' events':' eventos');
+  if(data.length<2){ el.innerHTML=''; return; }
+  const W=720,H=240,L=30,R=12,T=14,B=30,DAY=86400000,offMs=4*3600000; // Caracas UTC-4
+  const ts=data.map(d=>d.t); let t0=Math.min(...ts), t1=Math.max(...ts); if(t1===t0) t1=t0+3600000;
+  const mMax=Math.max(8,Math.ceil(Math.max(...data.map(d=>d.m))));
+  const X=t=>L+(t-t0)/(t1-t0)*(W-L-R);
+  const Y=m=>T+(1-m/mMax)*(H-T-B);
+  let g='';
+  for(let m=0;m<=mMax;m+=2){ const y=Y(m); g+='<line x1="'+L+'" y1="'+y.toFixed(1)+'" x2="'+(W-R)+'" y2="'+y.toFixed(1)+'" stroke="var(--line)" stroke-width="1"/><text x="2" y="'+(y+3).toFixed(1)+'" font-size="9" fill="var(--muted)">'+m+'</text>'; }
+  let dstart=Math.floor((t0-offMs)/DAY)*DAY+offMs;
+  for(let d=dstart; d<=t1; d+=DAY){ if(d<t0) continue; const x=X(d); const lbl=new Date(d).toLocaleDateString(en?'en-US':'es-VE',{day:'numeric',month:'numeric',timeZone:'America/Caracas'}); g+='<line x1="'+x.toFixed(1)+'" y1="'+T+'" x2="'+x.toFixed(1)+'" y2="'+(H-B)+'" stroke="var(--line)" stroke-width="1" stroke-dasharray="2 3"/><text x="'+x.toFixed(1)+'" y="'+(H-B+14)+'" font-size="9" fill="var(--muted)" text-anchor="middle">'+lbl+'</text>'; }
+  const pts=data.slice().sort((a,b)=>a.m-b.m).map(d=>{ const r=Math.max(2.2,1.4+d.m*0.7); const dd=new Date(d.t).toLocaleString(en?'en-US':'es-VE',{day:'numeric',month:'short',hour:'2-digit',minute:'2-digit',timeZone:'America/Caracas'}); return '<circle cx="'+X(d.t).toFixed(1)+'" cy="'+Y(d.m).toFixed(1)+'" r="'+r.toFixed(1)+'" fill="'+d.c+'" fill-opacity="0.8" stroke="#fff" stroke-width="0.6"><title>M'+d.m.toFixed(1)+' · '+d.place.replace(/"/g,'')+' · '+dd+'</title></circle>'; }).join('');
+  el.innerHTML='<svg viewBox="0 0 '+W+' '+H+'" preserveAspectRatio="xMidYMid meet" role="img" aria-label="'+(en?'Seismic history by magnitude over time':'Historial sísmico por magnitud en el tiempo')+'">'+g+pts+'</svg>';
+}
 function renderQuakes(){
   const el=document.getElementById('quakes'); if(!el) return;
   const en=document.documentElement.lang==='en';
   if(!QUAKES||!QUAKES.length){
     el.innerHTML='<div class="quake q-gray"><span class="qplace">'+t('Sin datos del USGS por ahora.','No USGS data right now.')+'</span></div>';
+    renderQuakeChart();
     return;
   }
   el.innerHTML = QUAKES.slice(0,12).map(q=>{
@@ -1195,6 +1227,7 @@ function renderQuakes(){
       '</span>';
     return '<div class="quake '+cls+'">'+(q.url?'<a class="qlink" href="'+q.url+'" target="_blank" rel="noopener">'+inner+'</a>':inner)+'</div>';
   }).join('');
+  renderQuakeChart();
 }
 function renderNews(){
   const el=document.getElementById('news-carousel'); if(!el) return; el.innerHTML='';
@@ -1335,6 +1368,19 @@ async function loadData(){
   }catch(e){/* keep embedded seed */}
 }
 loadData();
+
+/* Auto-refresco ligero: cada 5 min recarga sismos + cifras y re-renderiza (incluida la
+   gráfica) sin tocar el carrusel de noticias, para que el historial se vea siempre al día. */
+setInterval(function(){
+  fetch('data/quakes.json',{cache:'no-store'}).then(r=>r.ok?r.json():null)
+    .then(qk=>{ if(Array.isArray(qk)&&qk.length){ QUAKES=qk; renderQuakes(); } }).catch(()=>{});
+  fetch('data/meta.json',{cache:'no-store'}).then(r=>r.ok?r.json():null)
+    .then(m=>{ if(!m) return;
+      if(m.stats){for(const k in m.stats){if(m.stats[k]!=null)STATS[k]=m.stats[k];}}
+      if(m.prov)PROV=m.prov; if(m.alt)ALT=m.alt; renderStats();
+      if(m.updatedAt){LAST_UPDATED=m.updatedAt; stampDate();}
+    }).catch(()=>{});
+}, 300000);
 </script>
 </body>
 </html>

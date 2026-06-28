@@ -379,7 +379,7 @@ function writeIfNonEmpty(file, arr) {
   const quakes = allQ
     .filter((q) => q.source !== "FUNVISIS" || !usgsOnly.some((u) => sameEvent(u, q)))
     .sort((a, b) => new Date(b.time) - new Date(a.time))
-    .slice(0, 30);
+    .slice(0, 500); // historial completo desde el 24 jun (para la gráfica)
   writeIfNonEmpty("quakes.json", quakes);
 
   // Procedencia por dato: cada cifra recuerda CUÁNDO se confirmó por última vez desde una

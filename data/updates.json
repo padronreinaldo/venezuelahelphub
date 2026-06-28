@@ -38,6 +38,20 @@
     "sourceEn": "El Pitazo",
     "date": "2026-06-28",
     "conf": "med",
+    "titleEs": "La Guaira | Confirman hallazgo de los cuerpos de la familia del futbolista argentino Lucas Trejo",
+    "titleEn": "La Guaira | Confirman hallazgo de los cuerpos de la familia del futbolista argentino Lucas Trejo",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/regiones/la-guaira-confirman-hallazgo-de-los-cuerpos-de-la-familia-del-futbolista-argentino-lucas-trejo/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-06-28",
+    "conf": "med",
     "titleEs": "Un equipo de rescate de EE. UU. salva a un bebé atrapado en un edificio colapsado en La Guaira",
     "titleEn": "Un equipo de rescate de EE. UU. salva a un bebé atrapado en un edificio colapsado en La Guaira",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -76,18 +90,18 @@
     "url": "https://elpitazo.net/regiones/occidente/tucacas-en-emergencia-ascienden-a-ocho-los-fallecidos-por-colapso-de-la-mar-suite-en-medio-de-replicas-sismicas/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-06-27",
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
+    "date": "2026-06-28",
     "conf": "med",
-    "titleEs": "Peloteros de Delfines de La Guaira pierden a sus esposas: quedaron atrapadas en el Hotel Eduard’s",
-    "titleEn": "Peloteros de Delfines de La Guaira pierden a sus esposas: quedaron atrapadas en el Hotel Eduard’s",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "titleEs": "A tres días del terremoto: solidaridad ciudadana empuja la carrera por salvar vidas",
+    "titleEn": "A tres días del terremoto: solidaridad ciudadana empuja la carrera por salvar vidas",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/regiones/peloteros-de-delfines-de-la-guaira-pierden-a-sus-esposas-quedaron-atrapadas-en-el-hotel-eduards/"
+    "url": "https://efectococuyo.com/la-humanidad/a-tres-dias-del-terremoto-solidaridad-ciudadana-empuja-la-carrera-por-salvar-vidas/"
   },
   {
     "sourceEs": "Efecto Cocuyo",
@@ -102,19 +116,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://efectococuyo.com/la-humanidad/nuevo-sismo-de-magnitud-48-sacude-la-costa-de-venezuela-este-sabado/"
-  },
-  {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-06-27",
-    "conf": "med",
-    "titleEs": "Más de 130 réplicas se han producido tras los terremotos del 24 de junio en Venezuela",
-    "titleEn": "Más de 130 réplicas se han producido tras los terremotos del 24 de junio en Venezuela",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/la-humanidad/mas-de-130-replicas-se-han-producido-tras-los-terremotos-del-24-de-junio-en-venezuela/"
   }
 ]

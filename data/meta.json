@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T01:32:56.117Z",
+  "updatedAt": "2026-06-28T06:14:22.913Z",
   "stats": {
     "maxMagnitude": 7.5,
     "aftershocks": 6,
@@ -9,22 +9,22 @@
   },
   "prov": {
     "maxMagnitude": {
-      "seenAt": "2026-06-28T01:32:56.117Z",
+      "seenAt": "2026-06-28T06:14:22.913Z",
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7zp"
     },
     "aftershocks": {
-      "seenAt": "2026-06-28T01:32:56.117Z",
+      "seenAt": "2026-06-28T06:14:22.913Z",
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7zp"
     },
     "deaths": {
-      "seenAt": "2026-06-28T01:32:56.117Z",
+      "seenAt": "2026-06-28T06:14:22.913Z",
       "source": "Wikipedia (ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
     "injured": {
-      "seenAt": "2026-06-28T01:32:56.117Z",
+      "seenAt": "2026-06-28T06:14:22.913Z",
       "source": "Wikipedia (ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },

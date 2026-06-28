@@ -3,6 +3,15 @@
     "source": "El Pitazo",
     "section": "Venezuela",
     "date": "2026-06-28",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/06/futbolista-argentino-Lucas-Trejo.jpg",
+    "titleEs": "La Guaira | Confirman hallazgo de los cuerpos de la familia del futbolista argentino Lucas Trejo",
+    "titleEn": "La Guaira | Confirman hallazgo de los cuerpos de la familia del futbolista argentino Lucas Trejo",
+    "url": "https://elpitazo.net/regiones/la-guaira-confirman-hallazgo-de-los-cuerpos-de-la-familia-del-futbolista-argentino-lucas-trejo/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-06-28",
     "img": "https://elpitazo.net/wp-content/uploads/2026/06/rescate-bebe.jpg",
     "titleEs": "Un equipo de rescate de EE. UU. salva a un bebé atrapado en un edificio colapsado en La Guaira",
     "titleEn": "Un equipo de rescate de EE. UU. salva a un bebé atrapado en un edificio colapsado en La Guaira",
@@ -27,13 +36,13 @@
     "url": "https://elpitazo.net/regiones/occidente/tucacas-en-emergencia-ascienden-a-ocho-los-fallecidos-por-colapso-de-la-mar-suite-en-medio-de-replicas-sismicas/"
   },
   {
-    "source": "El Pitazo",
+    "source": "Efecto Cocuyo",
     "section": "Venezuela",
-    "date": "2026-06-27",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/06/Hotel.png",
-    "titleEs": "Peloteros de Delfines de La Guaira pierden a sus esposas: quedaron atrapadas en el Hotel Eduard’s",
-    "titleEn": "Peloteros de Delfines de La Guaira pierden a sus esposas: quedaron atrapadas en el Hotel Eduard’s",
-    "url": "https://elpitazo.net/regiones/peloteros-de-delfines-de-la-guaira-pierden-a-sus-esposas-quedaron-atrapadas-en-el-hotel-eduards/"
+    "date": "2026-06-28",
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/06/27205217/WhatsApp-Image-2026-06-27-at-8.51.56-PM-1024x576.jpeg",
+    "titleEs": "A tres días del terremoto: solidaridad ciudadana empuja la carrera por salvar vidas",
+    "titleEn": "A tres días del terremoto: solidaridad ciudadana empuja la carrera por salvar vidas",
+    "url": "https://efectococuyo.com/la-humanidad/a-tres-dias-del-terremoto-solidaridad-ciudadana-empuja-la-carrera-por-salvar-vidas/"
   },
   {
     "source": "Efecto Cocuyo",
@@ -63,19 +72,19 @@
     "url": "https://efectococuyo.com/la-humanidad/cifra-de-fallecidos-tras-los-terremotos-en-venezuela-llega-a-1-430/"
   },
   {
-    "source": "Efecto Cocuyo",
+    "source": "Runrun.es",
     "section": "Venezuela",
-    "date": "2026-06-27",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/06/27114410/WhatsApp-Image-2026-06-26-at-8.12.46-PM-1024x576.jpeg",
-    "titleEs": "“Los bomberos nos dijeron que teníamos que desalojar”: de la Misión Vivienda al parque del Este",
-    "titleEn": "“Los bomberos nos dijeron que teníamos que desalojar”: de la Misión Vivienda al parque del Este",
-    "url": "https://efectococuyo.com/la-humanidad/de-una-mision-vivienda-a-una-carpa-en-el-parque-del-este/"
+    "date": "2026-06-28",
+    "img": "https://runrun.es/wp-content/uploads/2026/06/La-Guaira.jpg",
+    "titleEs": "Agua segura y control de vectores, las verdaderas prioridades sanitarias en La Guaira",
+    "titleEn": "Agua segura y control de vectores, las verdaderas prioridades sanitarias en La Guaira",
+    "url": "https://runrun.es/rr-es-plus/612770/agua-segura-y-control-de-vectores-las-verdaderas-prioridades-sanitarias-en-la-guaira/"
   },
   {
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-06-28",
-    "img": "",
+    "img": "https://runrun.es/wp-content/uploads/2026/06/la-onu.jpg",
     "titleEs": "ONU instala hospitales de campaña en La Guaira",
     "titleEn": "ONU instala hospitales de campaña en La Guaira",
     "url": "https://runrun.es/inicio/612763/onu-instala-hospitales-de-campana-en-la-guaira-mientras-crece-la-presion-sobre-la-respuesta-humanitaria-tras-los-terremotos/"
@@ -84,7 +93,7 @@
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-06-27",
-    "img": "",
+    "img": "https://runrun.es/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-27-at-7.23.36-PM.jpeg",
     "titleEs": "Garantizan reposición de alimentos  y medicamentos",
     "titleEn": "Garantizan reposición de alimentos  y medicamentos",
     "url": "https://runrun.es/noticias/612745/garantizan-reposicion-de-alimentos-y-medicamentos/"
@@ -93,18 +102,9 @@
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-06-27",
-    "img": "",
+    "img": "https://runrun.es/wp-content/uploads/2026/06/boca-de-aroa.jpg",
     "titleEs": "Boca de Aroa y Tucacas son de las localidades más afectadas de Falcón por doblete sísmico",
     "titleEn": "Boca de Aroa y Tucacas son de las localidades más afectadas de Falcón por doblete sísmico",
     "url": "https://runrun.es/noticias/612746/boca-de-aroa-y-tucacas-son-de-las-localidades-mas-afectadas-de-falcon-por-doblete-sismico/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-06-27",
-    "img": "",
-    "titleEs": "ONG exigen respeto a los derechos humanos ante la militarización de La Guaira",
-    "titleEn": "ONG exigen respeto a los derechos humanos ante la militarización de La Guaira",
-    "url": "https://runrun.es/noticias/612737/ong-exigen-respeto-a-los-derechos-humanos-ante-la-militarizacion-de-la-guaira/"
   }
 ]

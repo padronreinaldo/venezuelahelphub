@@ -36,6 +36,23 @@
   {
     "sourceEs": "USGS",
     "sourceEn": "USGS",
+    "date": "2026-06-29",
+    "titleEs": "Sismo M4.6: 27 km N of Caraballeda, Venezuela",
+    "titleEn": "M4.6 earthquake: 27 km N of Caraballeda, Venezuela",
+    "sumEs": "El USGS reporta un sismo de magnitud 4.6. 27 km N of Caraballeda, Venezuela.",
+    "sumEn": "USGS reports a magnitude 4.6 earthquake. 27 km N of Caraballeda, Venezuela.",
+    "areas": [],
+    "needsEs": [
+      "Evaluación de daños"
+    ],
+    "needsEn": [
+      "Damage assessment"
+    ],
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8yf"
+  },
+  {
+    "sourceEs": "USGS",
+    "sourceEn": "USGS",
     "date": "2026-06-28",
     "titleEs": "Sismo M4.5: 20 km W of Boca de Aroa, Venezuela",
     "titleEn": "M4.5 earthquake: 20 km W of Boca de Aroa, Venezuela",
@@ -105,19 +122,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://elpitazo.net/regiones/solo-tenemos-la-vida-joven-ayuda-a-rescatar-sobrevivientes-en-caracas-tras-perderlo-todo-en-la-guaira/"
-  },
-  {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-06-28",
-    "conf": "med",
-    "titleEs": "Interinato informó de 33 personas rescatadas con vida tras doble terremoto",
-    "titleEn": "Interinato informó de 33 personas rescatadas con vida tras doble terremoto",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/destacado-1/interinato-informo-de-33-personas-rescatadas-con-vida-tras-doble-terremoto/"
   }
 ]

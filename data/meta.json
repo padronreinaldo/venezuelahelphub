@@ -1,30 +1,30 @@
 {
-  "updatedAt": "2026-06-29T08:33:19.512Z",
+  "updatedAt": "2026-06-29T13:03:27.543Z",
   "stats": {
     "maxMagnitude": 7.5,
-    "aftershocks": 8,
+    "aftershocks": 9,
     "deaths": 1450,
     "injured": 3360,
     "missing": 157
   },
   "prov": {
     "maxMagnitude": {
-      "seenAt": "2026-06-29T08:33:19.512Z",
+      "seenAt": "2026-06-29T13:03:27.543Z",
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7zp"
     },
     "aftershocks": {
-      "seenAt": "2026-06-29T08:33:19.512Z",
+      "seenAt": "2026-06-29T13:03:27.543Z",
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7zp"
     },
     "deaths": {
-      "seenAt": "2026-06-29T08:33:19.512Z",
+      "seenAt": "2026-06-29T13:03:27.543Z",
       "source": "Wikipedia (ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
     "injured": {
-      "seenAt": "2026-06-29T08:33:19.512Z",
+      "seenAt": "2026-06-29T13:03:27.543Z",
       "source": "Wikipedia (ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
@@ -39,7 +39,7 @@
       "value": 1450,
       "source": "Runrun.es",
       "url": "https://runrun.es/noticias/612882/28jun-balance-tras-los-sismos-1450-fallecidos-y-mas-de-2500-infraestructuras-afectadas/",
-      "seenAt": "2026-06-29T08:33:19.512Z"
+      "seenAt": "2026-06-29T13:03:27.543Z"
     },
     "injured": {
       "value": 32038,
@@ -55,7 +55,7 @@
     }
   },
   "sources": {
-    "usgs": 3,
+    "usgs": 4,
     "reliefweb": 0,
     "press": 12,
     "wikipedia": 1,
@@ -64,6 +64,6 @@
   "counts": {
     "updates": 8,
     "news": 12,
-    "quakes": 86
+    "quakes": 93
   }
 }

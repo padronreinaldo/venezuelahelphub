@@ -3,6 +3,15 @@
     "source": "El Pitazo",
     "section": "Venezuela",
     "date": "2026-06-28",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/06/San-Bernardino-scaled.jpg",
+    "titleEs": "«No tenemos a dónde ir»: Terremotos obligan a una familia de San Bernardino a dormir en su carro",
+    "titleEn": "«No tenemos a dónde ir»: Terremotos obligan a una familia de San Bernardino a dormir en su carro",
+    "url": "https://elpitazo.net/regiones/no-tenemos-a-donde-ir-terremotos-obligan-a-una-familia-de-san-bernardino-a-dormir-en-su-carro/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-06-28",
     "img": "https://elpitazo.net/wp-content/uploads/2026/06/Delcy-Rodriguez-1.jpg",
     "titleEs": "Delcy Rodríguez anuncia suspensión de clases por una semana: «Hay todavía mucho temor»",
     "titleEn": "Delcy Rodríguez anuncia suspensión de clases por una semana: «Hay todavía mucho temor»",
@@ -25,15 +34,6 @@
     "titleEs": "“Solo tenemos la vida”: joven ayuda a rescatar sobrevivientes en Caracas tras perderlo todo en La Guaira",
     "titleEn": "“Solo tenemos la vida”: joven ayuda a rescatar sobrevivientes en Caracas tras perderlo todo en La Guaira",
     "url": "https://elpitazo.net/regiones/solo-tenemos-la-vida-joven-ayuda-a-rescatar-sobrevivientes-en-caracas-tras-perderlo-todo-en-la-guaira/"
-  },
-  {
-    "source": "El Pitazo",
-    "section": "Venezuela",
-    "date": "2026-06-28",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/06/inundaciones-en-Chabasquen-1-1024x685.jpeg",
-    "titleEs": "Portuguesa | Más de 100 familias damnificadas por inundaciones en Chabasquén este domingo #28Jun",
-    "titleEn": "Portuguesa | Más de 100 familias damnificadas por inundaciones en Chabasquén este domingo #28Jun",
-    "url": "https://elpitazo.net/regiones/portuguesa-mas-de-100-familias-damnificadas-por-inundaciones-en-chabasquen-este-domingo-28jun/"
   },
   {
     "source": "Efecto Cocuyo",
@@ -75,6 +75,15 @@
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-06-28",
+    "img": "https://runrun.es/wp-content/uploads/2026/06/okidoki.jpg",
+    "titleEs": "Chile abre diálogo consular y crece coordinación internacional tras sismos",
+    "titleEn": "Chile abre diálogo consular y crece coordinación internacional tras sismos",
+    "url": "https://runrun.es/noticias/612932/chile-abre-dialogo-consular-y-crece-coordinacion-internacional-tras-sismos/"
+  },
+  {
+    "source": "Runrun.es",
+    "section": "Venezuela",
+    "date": "2026-06-28",
     "img": "https://runrun.es/wp-content/uploads/2026/06/Jorge-rodriguez.jpg",
     "titleEs": "Balance oficial de muertos y heridos de los terremotos crean más dudas que certezas",
     "titleEn": "Balance oficial de muertos y heridos de los terremotos crean más dudas que certezas",
@@ -85,8 +94,8 @@
     "section": "Venezuela",
     "date": "2026-06-28",
     "img": "https://runrun.es/wp-content/uploads/2026/06/unnamed.jpg",
-    "titleEs": "Organismos internacionales monitorean a Venezuela desde satélites tras terremotos",
-    "titleEn": "Organismos internacionales monitorean a Venezuela desde satélites tras terremotos",
+    "titleEs": "Organizaciones científicas del mundo suman esfuerzos en apoyo a Venezuela tras sismos",
+    "titleEn": "Organizaciones científicas del mundo suman esfuerzos en apoyo a Venezuela tras sismos",
     "url": "https://runrun.es/inicio/612927/organismos-internacionales-monitorean-a-venezuela-desde-satelites-tras-terremotos/"
   },
   {
@@ -97,14 +106,5 @@
     "titleEs": "28Jun | Balance tras los sismos: 1450 fallecidos y más de 2500 infraestructuras afectadas",
     "titleEn": "28Jun | Balance tras los sismos: 1450 fallecidos y más de 2500 infraestructuras afectadas",
     "url": "https://runrun.es/noticias/612882/28jun-balance-tras-los-sismos-1450-fallecidos-y-mas-de-2500-infraestructuras-afectadas/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-06-28",
-    "img": "https://runrun.es/wp-content/uploads/2026/06/olo.jpg",
-    "titleEs": "Comando Sur de Estados Unidos y Puerto Rico activan control de asistencia y posible despliegue",
-    "titleEn": "Comando Sur de Estados Unidos y Puerto Rico activan control de asistencia y posible despliegue",
-    "url": "https://runrun.es/noticias/612911/comando-sur-de-estados-unidos-y-puerto-rico-activan-control-de-asistencia-y-posible-despliegue/"
   }
 ]

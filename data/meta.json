@@ -1,30 +1,30 @@
 {
-  "updatedAt": "2026-06-29T19:02:42.631Z",
+  "updatedAt": "2026-06-29T21:07:04.921Z",
   "stats": {
     "maxMagnitude": 7.5,
     "aftershocks": 9,
-    "deaths": 1430,
-    "injured": 3360,
+    "deaths": 1719,
+    "injured": 5000,
     "missing": 157
   },
   "prov": {
     "maxMagnitude": {
-      "seenAt": "2026-06-29T19:02:42.631Z",
+      "seenAt": "2026-06-29T21:07:04.921Z",
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7zp"
     },
     "aftershocks": {
-      "seenAt": "2026-06-29T19:02:42.631Z",
+      "seenAt": "2026-06-29T21:07:04.921Z",
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7zp"
     },
     "deaths": {
-      "seenAt": "2026-06-29T19:02:42.631Z",
+      "seenAt": "2026-06-29T21:07:04.921Z",
       "source": "Wikipedia (ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
     "injured": {
-      "seenAt": "2026-06-29T19:02:42.631Z",
+      "seenAt": "2026-06-29T21:07:04.921Z",
       "source": "Wikipedia (ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
@@ -38,8 +38,8 @@
     "deaths": {
       "value": 1719,
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/sucesos/cifras-del-terremoto-en-venezuela-jorge-rodriguez-confirma-1-719-fallecidos-y-mas-de-22-mil-afectados/",
-      "seenAt": "2026-06-29T19:02:42.631Z"
+      "url": "https://elpitazo.net/politica/por-que-no-se-ha-decretado-duelo-nacional-en-venezuela-despues-de-los-terremotos-del-24-de-junio/",
+      "seenAt": "2026-06-29T21:07:04.921Z"
     },
     "injured": {
       "value": 32038,
@@ -64,6 +64,6 @@
   "counts": {
     "updates": 8,
     "news": 12,
-    "quakes": 118
+    "quakes": 129
   }
 }

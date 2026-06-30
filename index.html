@@ -453,8 +453,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       </div>
     </div>
     <p style="font-size:12px;color:var(--muted);margin-top:10px">
-      <span data-es>*Cifras preliminares y cambiantes según fuentes oficiales; pueden aumentar a medida que avanza el rescate. Ver fuentes en cada actualización.</span>
-      <span data-en>*Preliminary, changing figures per official sources; may rise as rescue continues. See sources in each update.</span>
+      <span data-es>*Tomamos como referencia las cifras de <b>organismos internacionales (ONU/OCHA y agencias)</b>, no el parte oficial del gobierno, que puede diferir. Son preliminares y cambian. «Desaparecidos (reportados)» recoge reportes <b>sin confirmar</b> (con duplicados y personas luego halladas), por lo que suele estar muy sobreestimado. Partes: <a href="https://reliefweb.int/country/ven" target="_blank" rel="noopener">ONU/OCHA (ReliefWeb)</a> · <a href="https://news.un.org/en/tags/venezuela" target="_blank" rel="noopener">UN News</a> · <a href="https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7zp/pager" target="_blank" rel="noopener">USGS PAGER</a>.</span>
+      <span data-en>*We reference figures from <b>international bodies (UN/OCHA and agencies)</b>, not the government's official toll, which may differ. They are preliminary and changing. "Missing (reported)" reflects <b>unconfirmed</b> reports (with duplicates and people later found), so it is usually greatly overestimated. Reports: <a href="https://reliefweb.int/country/ven" target="_blank" rel="noopener">UN/OCHA (ReliefWeb)</a> · <a href="https://news.un.org/en/tags/venezuela" target="_blank" rel="noopener">UN News</a> · <a href="https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7zp/pager" target="_blank" rel="noopener">USGS PAGER</a>.</span>
     </p>
   </div>
 </section>
@@ -1201,7 +1201,7 @@ function renderStats(){
   if(STATS.aftershocks!=null)  cards.push(['aftershocks', num(STATS.aftershocks), t('Réplicas (USGS · 7 días)','Aftershocks (USGS · 7 days)')]);
   if(STATS.deaths!=null)       cards.push(['deaths', num(STATS.deaths), t('Fallecidos*','Deaths*')]);
   if(STATS.injured!=null)      cards.push(['injured', num(STATS.injured), t('Heridos*','Injured*')]);
-  if(STATS.missing!=null)      cards.push(['missing', num(STATS.missing), t('Desaparecidos*','Missing*')]);
+  if(STATS.missing!=null)      cards.push(['missing', num(STATS.missing), t('Desaparecidos (reportados)*','Missing (reported)*')]);
   cards.push([null, ORGS.length, t('Organizaciones verificadas','Verified organizations')]);
   el.innerHTML = cards.map(c=>'<div class="stat"><div class="n">'+c[1]+'</div><div class="l">'+c[2]+'</div>'+(c[0]?provLine(c[0])+altLine(c[0]):'')+'</div>').join('');
 }

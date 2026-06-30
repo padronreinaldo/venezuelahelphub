@@ -212,7 +212,7 @@ async function fetchFunvisis() {
 
 // Extrae cifras de víctimas de un texto ("188 muertos, 1.520 heridos y 157 desaparecidos")
 // y registra de QUÉ fuente y URL salió cada cifra, para mostrar procedencia en el sitio.
-const toInt = (s) => parseInt(String(s).replace(/[.\s]/g, ""), 10);
+const toInt = (s) => parseInt(String(s).replace(/[.,\s]/g, ""), 10); // quita separadores de miles (ES "." / EN ",")
 function scanCasualties(text, cas, source, url) {
   const grab = (re) => { const m = text.match(re); return m ? toInt(m[1]) : null; };
   const d = grab(/([\d][\d.\s]{0,9}\d|\d)\s*(?:muertos|fallecidos|decesos|muertes)/i);
@@ -268,28 +268,52 @@ async function fetchPress() {
   return { news, casualties };
 }
 
-/* ---------- 4) Wikipedia (ES): balance oficial estructurado ----------
- * El infobox del artículo trae el campo |víctimas con muertos/heridos citando el parte
- * oficial. Es una fuente estructurada y parseable (a diferencia del raspado de titulares).
- * Usamos la versión ES a propósito: la EN ha llegado a mostrar cifras anómalas (p.ej. miles
- * de "desaparecidos" confundidos con desplazados). Aun así aplicamos guardas de cordura. */
-const WIKI_PAGE = "Terremotos_de_Venezuela_de_2026";
-const WIKI_URL = `https://es.wikipedia.org/wiki/${WIKI_PAGE}`;
-async function fetchWikipediaCasualties() {
-  const api = `https://es.wikipedia.org/w/api.php?action=parse&page=${WIKI_PAGE}&prop=wikitext&format=json&formatversion=2`;
+/* ---------- 4) Cifras de referencia INTERNACIONAL (Wikipedia EN) ----------
+ * Decisión editorial: ya NO anclamos en el parte oficial del gobierno (que muestra
+ * discrepancias). Tomamos como primaria la versión EN del artículo ("2026 Venezuela
+ * earthquakes"), que refleja el consenso de ONU/OCHA y agencias internacionales (AP,
+ * Reuters, Al Jazeera) y se actualiza continuamente. La ES (parte oficial) queda solo
+ * como respaldo si la EN no devuelve nada. El infobox |casualties es estructurado. */
+const WIKI_EN = "2026_Venezuela_earthquakes";
+const WIKI_ES = "Terremotos_de_Venezuela_de_2026";
+const pos = (n) => (typeof n === "number" && n > 0 ? n : null); // descarta 0/None
+async function wikiCasualties(host, page, field, res) {
+  const api = `https://${host}/w/api.php?action=parse&page=${page}&prop=wikitext&format=json&formatversion=2`;
   const j = await get(api);
   const wt = j?.parse?.wikitext || "";
-  const m = wt.match(/\|\s*v[íi]ctimas\s*=\s*([\s\S]*?)(?=\n\s*\|\s*\w|\n\}\})/i);
-  const field = m ? m[1] : "";
-  if (!field) return {};
-  const grab = (re) => { const x = field.match(re); return x ? toInt(x[1]) : null; };
-  const pos = (n) => (typeof n === "number" && n > 0 ? n : null); // descarta 0/None
-  return {
-    deaths:  pos(grab(/\+?\s*([\d][\d.\s,]*\d|\d)\s*(?:muertos|fallecidos|muertes|decesos)/i)),
-    injured: pos(grab(/\+?\s*([\d][\d.\s,]*\d|\d)\s*heridos/i)),
-    missing: pos(grab(/\+?\s*([\d][\d.\s,]*\d|\d)\s*desaparecidos/i)),
-    source: "Wikipedia (ES)", url: WIKI_URL,
-  };
+  const m = wt.match(field);
+  const f = m ? m[1] : wt.slice(0, 1800); // si no halla el campo, escanea el encabezado
+  const grab = (re) => { const x = f.match(re); return x ? toInt(x[1]) : null; };
+  return res(grab);
+}
+async function fetchWikipediaCasualties() {
+  // 1) INTERNACIONAL (EN): infobox |casualties con dead/injured/missing
+  try {
+    const en = await wikiCasualties(
+      "en.wikipedia.org", WIKI_EN, /\|\s*casualties\s*=\s*([\s\S]*?)(?=\n\s*\|\s*\w|\n\}\})/i,
+      (grab) => ({
+        deaths:  pos(grab(/([\d][\d.,\s]*\d|\d)\+?\s*(?:dead|killed|deaths|fatalities)/i)),
+        injured: pos(grab(/([\d][\d.,\s]*\d|\d)\+?\s*injured/i)),
+        missing: pos(grab(/([\d][\d.,\s]*\d|\d)\+?\s*(?:missing|unaccounted)/i)),
+        source: "ONU/OCHA · ref. internacional (Wikipedia EN)",
+        url: `https://en.wikipedia.org/wiki/${WIKI_EN}`,
+      })
+    );
+    if (en && (en.deaths != null || en.injured != null)) return en;
+  } catch (e) { console.warn("Wikipedia EN falló:", e.message); }
+  // 2) RESPALDO (ES): parte oficial citado en el infobox |víctimas
+  try {
+    return await wikiCasualties(
+      "es.wikipedia.org", WIKI_ES, /\|\s*v[íi]ctimas\s*=\s*([\s\S]*?)(?=\n\s*\|\s*\w|\n\}\})/i,
+      (grab) => ({
+        deaths:  pos(grab(/\+?\s*([\d][\d.,\s]*\d|\d)\s*(?:muertos|fallecidos|muertes|decesos)/i)),
+        injured: pos(grab(/\+?\s*([\d][\d.,\s]*\d|\d)\s*heridos/i)),
+        missing: pos(grab(/\+?\s*([\d][\d.,\s]*\d|\d)\s*desaparecidos/i)),
+        source: "Parte oficial (Wikipedia ES)",
+        url: `https://es.wikipedia.org/wiki/${WIKI_ES}`,
+      })
+    );
+  } catch (e) { console.warn("Wikipedia ES falló:", e.message); return {}; }
 }
 
 /* ---------- utilidades ---------- */
@@ -413,12 +437,13 @@ function writeIfNonEmpty(file, arr) {
     const cur = obs[key];                 // {value,source,url} observado ahora, o null
     const pv = prev[key];                 // valor anterior (número o null)
     const pp = prevProv[key] || {};       // procedencia anterior
-    if (cur && !plausible(key, cur.value, pv)) {
+    if (cur && !cur.official && !plausible(key, cur.value, pv)) {
       console.warn(`⚠ ${key}=${cur.value} descartado por salto improbable (previo ${pv}, fuente ${cur.source}).`);
     }
-    // Una fuente oficial estructurada (cur.official) puede corregir hacia arriba o abajo;
-    // la prensa, en cambio, es monótona para muertos/heridos (un titular viejo no baja la cifra).
-    if (cur && plausible(key, cur.value, pv) && (cur.official || !MONOTONIC.has(key) || pv == null || cur.value >= pv)) {
+    // Una fuente estructurada de referencia (cur.official: Wikipedia EN/ES) puede corregir
+    // hacia arriba o abajo y NO está sujeta a la guarda anti-vandalismo (el salto del parte
+    // oficial a la cifra internacional es legítimo). La prensa sí es monótona y con guarda.
+    if (cur && (cur.official || plausible(key, cur.value, pv)) && (cur.official || !MONOTONIC.has(key) || pv == null || cur.value >= pv)) {
       stats[key] = cur.value;             // confirmado AHORA por una fuente
       prov[key] = { seenAt: now, source: cur.source, url: cur.url };
     } else if (pv != null) {

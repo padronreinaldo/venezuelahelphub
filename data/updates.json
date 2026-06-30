@@ -19,23 +19,6 @@
   {
     "sourceEs": "USGS",
     "sourceEn": "USGS",
-    "date": "2026-06-26",
-    "titleEs": "Sismo M4.7: 54 km N of El Limón, Venezuela",
-    "titleEn": "M4.7 earthquake: 54 km N of El Limón, Venezuela",
-    "sumEs": "El USGS reporta un sismo de magnitud 4.7. 54 km N of El Limón, Venezuela.",
-    "sumEn": "USGS reports a magnitude 4.7 earthquake. 54 km N of El Limón, Venezuela.",
-    "areas": [],
-    "needsEs": [
-      "Evaluación de daños"
-    ],
-    "needsEn": [
-      "Damage assessment"
-    ],
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8k6"
-  },
-  {
-    "sourceEs": "USGS",
-    "sourceEn": "USGS",
     "date": "2026-06-29",
     "titleEs": "Sismo M4.6: 27 km N of Caraballeda, Venezuela",
     "titleEn": "M4.6 earthquake: 27 km N of Caraballeda, Venezuela",
@@ -72,6 +55,34 @@
     "sourceEn": "El Pitazo",
     "date": "2026-06-29",
     "conf": "med",
+    "titleEs": "Comercio comienza a reactivarse en Caracas: algunos locales reparan fachadas afectadas por los terremotos",
+    "titleEn": "Comercio comienza a reactivarse en Caracas: algunos locales reparan fachadas afectadas por los terremotos",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/economia/comercio-comienza-a-reactivarse-en-caracas-algunos-locales-reparan-fachadas-afectadas-por-los-terremotos/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-06-29",
+    "conf": "med",
+    "titleEs": "SNTP y Espacio Público denuncian restricciones a corresponsales internacionales",
+    "titleEn": "SNTP y Espacio Público denuncian restricciones a corresponsales internacionales",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/regiones/sntp-y-espacio-publico-denuncian-restricciones-a-corresponsales-internacionales/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-06-29",
+    "conf": "med",
     "titleEs": "Terremotos en Venezuela | Vacuna toxoide antitetánica: ¿Quiénes deben ponérsela y por qué?",
     "titleEn": "Terremotos en Venezuela | Vacuna toxoide antitetánica: ¿Quiénes deben ponérsela y por qué?",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -96,31 +107,17 @@
     "url": "https://elpitazo.net/caracas/iniciativas-ciudadanas-apoyan-con-plataformas-digitales-para-atender-emergencia-por-terremotos/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
     "date": "2026-06-29",
     "conf": "med",
-    "titleEs": "Perros rescatistas: conozca a los héroes que buscan sobrevivientes del doble terremoto en Venezuela",
-    "titleEn": "Perros rescatistas: conozca a los héroes que buscan sobrevivientes del doble terremoto en Venezuela",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "titleEs": "Delcy Rodríguez promete “miles de soluciones habitacionales” a afectados por terremotos",
+    "titleEn": "Delcy Rodríguez promete “miles de soluciones habitacionales” a afectados por terremotos",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/regiones/perros-rescatistas-conozca-a-los-heroes-que-buscan-sobrevivientes-del-doble-terremoto-en-venezuela/"
-  },
-  {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-06-29",
-    "conf": "med",
-    "titleEs": "María Corina Machado denuncia que se le impide regresar al país por el cierre del espacio aéreo",
-    "titleEn": "María Corina Machado denuncia que se le impide regresar al país por el cierre del espacio aéreo",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/politica/maria-corina-machado-denuncia-que-se-le-impide-regresar-al-pais-con-el-cierre-del-espacio-aereo/"
+    "url": "https://efectococuyo.com/politica/delcy-rodriguez-promete-miles-de-soluciones-habitacionales-a-afectados-por-terremotos/"
   }
 ]

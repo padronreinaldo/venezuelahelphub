@@ -74,6 +74,15 @@
   {
     "source": "Runrun.es",
     "section": "Venezuela",
+    "date": "2026-06-30",
+    "img": "https://runrun.es/wp-content/uploads/2026/06/Despues-del-terremoto-por-Eddie-Ramirez-S.jpg",
+    "titleEs": "Después del terremoto",
+    "titleEn": "Después del terremoto",
+    "url": "https://runrun.es/opinion/613009/terremoto-venezuela/"
+  },
+  {
+    "source": "Runrun.es",
+    "section": "Venezuela",
     "date": "2026-06-29",
     "img": "https://runrun.es/wp-content/uploads/2026/06/topos-azteca-petunia.jpg",
     "titleEs": "“No nos manda nadie, cabrón, no nos manda gobierno”: Topos Azteca trabajan 24 horas en rescates",
@@ -97,14 +106,5 @@
     "titleEs": "Caos logístico y acoso a rescatistas entorpecen atención de la emergencia",
     "titleEn": "Caos logístico y acoso a rescatistas entorpecen atención de la emergencia",
     "url": "https://runrun.es/noticias/612976/caos-logistico-y-acoso-a-rescatistas-entorpecen-atencion-de-la-emergencia/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-06-29",
-    "img": "https://runrun.es/wp-content/uploads/2026/06/Balance.jpg",
-    "titleEs": "#29Jun | Balance oficial eleva a 1.719 los fallecidos por los terremotos",
-    "titleEn": "#29Jun | Balance oficial eleva a 1.719 los fallecidos por los terremotos",
-    "url": "https://runrun.es/noticias/612959/29jun-balance-oficial-eleva-a-1-719-los-fallecidos-por-los-terremotos/"
   }
 ]

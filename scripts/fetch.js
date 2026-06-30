@@ -268,7 +268,7 @@ async function fetchPress() {
   return { news, casualties };
 }
 
-/* ---------- 4) Cifras de referencia INTERNACIONAL (Wikipedia EN) ----------
+/* ---------- 4) Cifras de referencia INTERNACIONAL (Wikipedia EN) · rev2 ----------
  * Decisión editorial: ya NO anclamos en el parte oficial del gobierno (que muestra
  * discrepancias). Tomamos como primaria la versión EN del artículo ("2026 Venezuela
  * earthquakes"), que refleja el consenso de ONU/OCHA y agencias internacionales (AP,

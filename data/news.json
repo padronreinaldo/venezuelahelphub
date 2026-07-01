@@ -3,6 +3,15 @@
     "source": "El Pitazo",
     "section": "Venezuela",
     "date": "2026-07-01",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/06/regreso-maria-corina-machado-venezuela-efe.jpg",
+    "titleEs": "Amenaza de regreso de María Corina Machado es un terremoto político para el Rodrigato y el plan de EE. UU.",
+    "titleEn": "Amenaza de regreso de María Corina Machado es un terremoto político para el Rodrigato y el plan de EE. UU.",
+    "url": "https://elpitazo.net/politica/amenaza-de-regreso-de-maria-corina-machado-es-un-terremoto-politico-para-el-rodrigato-y-el-plan-de-ee-uu/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-07-01",
     "img": "https://elpitazo.net/wp-content/uploads/2026/07/image.png",
     "titleEs": "La Guaira | Cicpc admite que cuatro funcionarios intentaron robar dólares encontrados entre los escombros",
     "titleEn": "La Guaira | Cicpc admite que cuatro funcionarios intentaron robar dólares encontrados entre los escombros",
@@ -27,13 +36,22 @@
     "url": "https://elpitazo.net/caracas/caracas-bajo-la-lluvia-y-con-el-miedo-intacto-familias-afectadas-por-los-terremotos-enfrentaron-una-madrugada-de-angustia/"
   },
   {
-    "source": "El Pitazo",
+    "source": "Efecto Cocuyo",
     "section": "Venezuela",
-    "date": "2026-06-30",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/06/sntp-restricciones-cobertura-terremoto-prensa-internacional-efe.jpg",
-    "titleEs": "La Guaira | Balance oficial reporta 19.861 sobrevivientes de 30.000 personas que estaban en Caraballeda y Catia La Mar",
-    "titleEn": "La Guaira | Balance oficial reporta 19.861 sobrevivientes de 30.000 personas que estaban en Caraballeda y Catia La Mar",
-    "url": "https://elpitazo.net/sucesos/la-guaira-balance-oficial-reporta-19-861-sobrevivientes-de-30-000-personas-que-estaban-en-caraballeda-y-catia-la-mar/"
+    "date": "2026-07-01",
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/06/30215953/El-Recreo-1024x676.jpeg",
+    "titleEs": "80 % de los centros comerciales de Caracas están operativos por farmacias y automercados",
+    "titleEn": "80 % de los centros comerciales de Caracas están operativos por farmacias y automercados",
+    "url": "https://efectococuyo.com/economia/80-de-los-centros-comerciales-de-caracas-estan-operativos-por-farmacias-y-automercados/"
+  },
+  {
+    "source": "Efecto Cocuyo",
+    "section": "Venezuela",
+    "date": "2026-07-01",
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/06/28190907/fbb7fc828e69ae183c22b4247ac047de308492b0w-1024x683.jpg",
+    "titleEs": "A una semana del doblete sísmico: ¿Qué dicen los expertos?",
+    "titleEn": "A una semana del doblete sísmico: ¿Qué dicen los expertos?",
+    "url": "https://efectococuyo.com/la-humanidad/semana-doblete-sismico-dicen-los-expertos/"
   },
   {
     "source": "Efecto Cocuyo",
@@ -54,28 +72,10 @@
     "url": "https://efectococuyo.com/la-humanidad/jorge-rodriguez-cifras-oficiales-terremotos-tres-claves/"
   },
   {
-    "source": "Efecto Cocuyo",
-    "section": "Venezuela",
-    "date": "2026-07-01",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/06/30155922/Graficos-1-1024x727.png",
-    "titleEs": "¿Las réplicas del doble sismo comienzan a disminuir?",
-    "titleEn": "¿Las réplicas del doble sismo comienzan a disminuir?",
-    "url": "https://efectococuyo.com/la-humanidad/las-replicas-del-doble-sismo-comienzan-a-disminuir/"
-  },
-  {
-    "source": "Efecto Cocuyo",
-    "section": "Venezuela",
-    "date": "2026-07-01",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/06/30163043/Nuevo-Circo-Refugiados-30-de-junio.jpeg",
-    "titleEs": "Entre réplicas y lluvia, 400 refugiados en el Nuevo Circo esperan por reparaciones de sus edificios",
-    "titleEn": "Entre réplicas y lluvia, 400 refugiados en el Nuevo Circo esperan por reparaciones de sus edificios",
-    "url": "https://efectococuyo.com/la-humanidad/entre-replicas-y-lluvia-400-refugiados-en-nuevo-circo-esperan-por-reparaciones-en-mision-vivienda/"
-  },
-  {
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-01",
-    "img": "",
+    "img": "https://runrun.es/wp-content/uploads/2026/07/hika.jpg",
     "titleEs": "Yakera habilita plataforma para canalizar donaciones a afectados",
     "titleEn": "Yakera habilita plataforma para canalizar donaciones a afectados",
     "url": "https://runrun.es/noticias/con-proposito/613155/yakera-habilita-plataforma-para-canalizar-donaciones-a-afectados/"
@@ -84,7 +84,7 @@
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-01",
-    "img": "",
+    "img": "https://runrun.es/wp-content/uploads/2026/06/Sample.jpg",
     "titleEs": "Cómo gestionar la “culpa del sobreviviente” tras los sismos",
     "titleEn": "Cómo gestionar la “culpa del sobreviviente” tras los sismos",
     "url": "https://runrun.es/noticias/613078/como-gestionar-la-culpa-del-sobreviviente-tras-los-sismos/"
@@ -93,7 +93,7 @@
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-01",
-    "img": "",
+    "img": "https://runrun.es/wp-content/uploads/2026/06/Kleiber-Moran.jpg",
     "titleEs": "“Si mi hermana se fue de este mundo, a su hijo no le faltará nada”: La promesa de la tía de Kleiber Morán",
     "titleEn": "“Si mi hermana se fue de este mundo, a su hijo no le faltará nada”: La promesa de la tía de Kleiber Morán",
     "url": "https://runrun.es/inicio/613094/si-mi-hermana-se-fue-de-este-mundo-a-su-hijo-no-le-faltara-nada-la-promesa-de-la-tia-de-kleiber-moran/"
@@ -102,7 +102,7 @@
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-01",
-    "img": "",
+    "img": "https://runrun.es/wp-content/uploads/2026/06/caritas-acopio.jpg",
     "titleEs": "La Iglesia católica y organizaciones civiles se unen para proveer ayuda a afectados por terremotos",
     "titleEn": "La Iglesia católica y organizaciones civiles se unen para proveer ayuda a afectados por terremotos",
     "url": "https://runrun.es/rr-es-plus/613091/la-iglesia-catolica-y-organizaciones-civiles-se-unen-para-proveer-ayuda-a-afectados-por-terremotos/"

@@ -38,6 +38,20 @@
     "sourceEn": "El Pitazo",
     "date": "2026-07-01",
     "conf": "med",
+    "titleEs": "Amenaza de regreso de María Corina Machado es un terremoto político para el Rodrigato y el plan de EE. UU.",
+    "titleEn": "Amenaza de regreso de María Corina Machado es un terremoto político para el Rodrigato y el plan de EE. UU.",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/politica/amenaza-de-regreso-de-maria-corina-machado-es-un-terremoto-politico-para-el-rodrigato-y-el-plan-de-ee-uu/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-07-01",
+    "conf": "med",
     "titleEs": "La Guaira | Cicpc admite que cuatro funcionarios intentaron robar dólares encontrados entre los escombros",
     "titleEn": "La Guaira | Cicpc admite que cuatro funcionarios intentaron robar dólares encontrados entre los escombros",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -76,45 +90,31 @@
     "url": "https://elpitazo.net/caracas/caracas-bajo-la-lluvia-y-con-el-miedo-intacto-familias-afectadas-por-los-terremotos-enfrentaron-una-madrugada-de-angustia/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-06-30",
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
+    "date": "2026-07-01",
     "conf": "med",
-    "titleEs": "La Guaira | Balance oficial reporta 19.861 sobrevivientes de 30.000 personas que estaban en Caraballeda y Catia La Mar",
-    "titleEn": "La Guaira | Balance oficial reporta 19.861 sobrevivientes de 30.000 personas que estaban en Caraballeda y Catia La Mar",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "titleEs": "80 % de los centros comerciales de Caracas están operativos por farmacias y automercados",
+    "titleEn": "80 % de los centros comerciales de Caracas están operativos por farmacias y automercados",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/sucesos/la-guaira-balance-oficial-reporta-19-861-sobrevivientes-de-30-000-personas-que-estaban-en-caraballeda-y-catia-la-mar/"
+    "url": "https://efectococuyo.com/economia/80-de-los-centros-comerciales-de-caracas-estan-operativos-por-farmacias-y-automercados/"
   },
   {
     "sourceEs": "Efecto Cocuyo",
     "sourceEn": "Efecto Cocuyo",
     "date": "2026-07-01",
     "conf": "med",
-    "titleEs": "Países Bajos termina rescate en Venezuela ante menor posibilidad de hallar supervivientes",
-    "titleEn": "Países Bajos termina rescate en Venezuela ante menor posibilidad de hallar supervivientes",
+    "titleEs": "A una semana del doblete sísmico: ¿Qué dicen los expertos?",
+    "titleEn": "A una semana del doblete sísmico: ¿Qué dicen los expertos?",
     "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
     "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://efectococuyo.com/la-humanidad/paises-bajos-termina-rescate-en-venezuela-ante-menor-posibilidad-de-hallar-supervivientes/"
-  },
-  {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-07-01",
-    "conf": "med",
-    "titleEs": "Jorge Rodríguez y las inconsistencias en las cifras de los terremotos: tres claves",
-    "titleEn": "Jorge Rodríguez y las inconsistencias en las cifras de los terremotos: tres claves",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/la-humanidad/jorge-rodriguez-cifras-oficiales-terremotos-tres-claves/"
+    "url": "https://efectococuyo.com/la-humanidad/semana-doblete-sismico-dicen-los-expertos/"
   }
 ]

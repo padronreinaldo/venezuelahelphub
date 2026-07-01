@@ -75,6 +75,15 @@
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-01",
+    "img": "https://runrun.es/wp-content/uploads/2026/06/Sample.jpg",
+    "titleEs": "Cómo gestionar la “culpa del sobreviviente” tras los sismos",
+    "titleEn": "Cómo gestionar la “culpa del sobreviviente” tras los sismos",
+    "url": "https://runrun.es/noticias/613078/como-gestionar-la-culpa-del-sobreviviente-tras-los-sismos/"
+  },
+  {
+    "source": "Runrun.es",
+    "section": "Venezuela",
+    "date": "2026-07-01",
     "img": "https://runrun.es/wp-content/uploads/2026/06/Kleiber-Moran.jpg",
     "titleEs": "“Si mi hermana se fue de este mundo, a su hijo no le faltará nada”: La promesa de la tía de Kleiber Morán",
     "titleEn": "“Si mi hermana se fue de este mundo, a su hijo no le faltará nada”: La promesa de la tía de Kleiber Morán",
@@ -97,14 +106,5 @@
     "titleEs": "#30Jun Balance tras sismos: Gobierno reporta 1943 fallecidos y disminución de réplicas",
     "titleEn": "#30Jun Balance tras sismos: Gobierno reporta 1943 fallecidos y disminución de réplicas",
     "url": "https://runrun.es/inicio/613050/30jun-balance-tras-sismos-gobierno-reporta-1943-fallecidos-y-disminucion-de-replicas/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-06-30",
-    "img": "https://runrun.es/wp-content/uploads/2020/09/morgue-caracas.jpg",
-    "titleEs": "Denuncian extravío de dos cadáveres luego de ser rescatados en La Guaira",
-    "titleEn": "Denuncian extravío de dos cadáveres luego de ser rescatados en La Guaira",
-    "url": "https://runrun.es/noticias/613066/denuncian-extravio-de-dos-cadaveres-luego-de-ser-rescatados-en-la-guaira/"
   }
 ]

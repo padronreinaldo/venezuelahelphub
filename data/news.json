@@ -2,6 +2,15 @@
   {
     "source": "El Pitazo",
     "section": "Venezuela",
+    "date": "2026-07-01",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/07/image.png",
+    "titleEs": "La Guaira | Cicpc admite que cuatro funcionarios intentaron robar dólares encontrados entre los escombros",
+    "titleEn": "La Guaira | Cicpc admite que cuatro funcionarios intentaron robar dólares encontrados entre los escombros",
+    "url": "https://elpitazo.net/sucesos/la-guaira-cicpc-admite-que-cuatro-funcionarios-intentaron-robar-dolares-encontrados-entre-los-escombros/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
     "date": "2026-06-30",
     "img": "https://elpitazo.net/wp-content/uploads/2026/06/Bomberos-2.jpg",
     "titleEs": "Mérida | Rescatistas piden apoyo para continuar la ayuda en zonas afectadas por los terremotos",
@@ -27,13 +36,13 @@
     "url": "https://elpitazo.net/sucesos/la-guaira-balance-oficial-reporta-19-861-sobrevivientes-de-30-000-personas-que-estaban-en-caraballeda-y-catia-la-mar/"
   },
   {
-    "source": "El Pitazo",
+    "source": "Efecto Cocuyo",
     "section": "Venezuela",
-    "date": "2026-06-30",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/06/EEUU-ayuda-humanitaria-696x522-1.jpeg",
-    "titleEs": "Maiquetía opera con su pista menos comprometida",
-    "titleEn": "Maiquetía opera con su pista menos comprometida",
-    "url": "https://elpitazo.net/regiones/gran-caracas/maiquetia-opera-con-su-pista-menos-comprometida/"
+    "date": "2026-07-01",
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/01090957/HMJKu2nXIAA_6Pp-1-1024x682.jpg",
+    "titleEs": "Países Bajos termina rescate en Venezuela ante menor posibilidad de hallar supervivientes",
+    "titleEn": "Países Bajos termina rescate en Venezuela ante menor posibilidad de hallar supervivientes",
+    "url": "https://efectococuyo.com/la-humanidad/paises-bajos-termina-rescate-en-venezuela-ante-menor-posibilidad-de-hallar-supervivientes/"
   },
   {
     "source": "Efecto Cocuyo",
@@ -63,19 +72,19 @@
     "url": "https://efectococuyo.com/la-humanidad/entre-replicas-y-lluvia-400-refugiados-en-nuevo-circo-esperan-por-reparaciones-en-mision-vivienda/"
   },
   {
-    "source": "Efecto Cocuyo",
+    "source": "Runrun.es",
     "section": "Venezuela",
-    "date": "2026-06-30",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/04/27110900/CARCEL-RODEO-RUNRUN-1024x576.jpg",
-    "titleEs": "Clippve denuncia afectaciones en Ramo Verde y El Rodeo I tras los terremotos",
-    "titleEn": "Clippve denuncia afectaciones en Ramo Verde y El Rodeo I tras los terremotos",
-    "url": "https://efectococuyo.com/la-humanidad/clippve-denuncia-afectaciones-en-ramo-verde-y-el-rodeo-i-tras-los-terremotos/"
+    "date": "2026-07-01",
+    "img": "",
+    "titleEs": "Yakera habilita plataforma para canalizar donaciones a afectados",
+    "titleEn": "Yakera habilita plataforma para canalizar donaciones a afectados",
+    "url": "https://runrun.es/noticias/con-proposito/613155/yakera-habilita-plataforma-para-canalizar-donaciones-a-afectados/"
   },
   {
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-01",
-    "img": "https://runrun.es/wp-content/uploads/2026/06/Sample.jpg",
+    "img": "",
     "titleEs": "Cómo gestionar la “culpa del sobreviviente” tras los sismos",
     "titleEn": "Cómo gestionar la “culpa del sobreviviente” tras los sismos",
     "url": "https://runrun.es/noticias/613078/como-gestionar-la-culpa-del-sobreviviente-tras-los-sismos/"
@@ -84,7 +93,7 @@
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-01",
-    "img": "https://runrun.es/wp-content/uploads/2026/06/Kleiber-Moran.jpg",
+    "img": "",
     "titleEs": "“Si mi hermana se fue de este mundo, a su hijo no le faltará nada”: La promesa de la tía de Kleiber Morán",
     "titleEn": "“Si mi hermana se fue de este mundo, a su hijo no le faltará nada”: La promesa de la tía de Kleiber Morán",
     "url": "https://runrun.es/inicio/613094/si-mi-hermana-se-fue-de-este-mundo-a-su-hijo-no-le-faltara-nada-la-promesa-de-la-tia-de-kleiber-moran/"
@@ -93,18 +102,9 @@
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-01",
-    "img": "https://runrun.es/wp-content/uploads/2026/06/caritas-acopio.jpg",
+    "img": "",
     "titleEs": "La Iglesia católica y organizaciones civiles se unen para proveer ayuda a afectados por terremotos",
     "titleEn": "La Iglesia católica y organizaciones civiles se unen para proveer ayuda a afectados por terremotos",
     "url": "https://runrun.es/rr-es-plus/613091/la-iglesia-catolica-y-organizaciones-civiles-se-unen-para-proveer-ayuda-a-afectados-por-terremotos/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-06-30",
-    "img": "https://runrun.es/wp-content/uploads/2026/06/sismosvenezuela.jpg.jpeg",
-    "titleEs": "#30Jun Balance tras sismos: Gobierno reporta 1943 fallecidos y disminución de réplicas",
-    "titleEn": "#30Jun Balance tras sismos: Gobierno reporta 1943 fallecidos y disminución de réplicas",
-    "url": "https://runrun.es/inicio/613050/30jun-balance-tras-sismos-gobierno-reporta-1943-fallecidos-y-disminucion-de-replicas/"
   }
 ]

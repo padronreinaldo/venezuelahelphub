@@ -36,6 +36,20 @@
   {
     "sourceEs": "El Pitazo",
     "sourceEn": "El Pitazo",
+    "date": "2026-07-01",
+    "conf": "med",
+    "titleEs": "La Guaira | Cicpc admite que cuatro funcionarios intentaron robar dólares encontrados entre los escombros",
+    "titleEn": "La Guaira | Cicpc admite que cuatro funcionarios intentaron robar dólares encontrados entre los escombros",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/sucesos/la-guaira-cicpc-admite-que-cuatro-funcionarios-intentaron-robar-dolares-encontrados-entre-los-escombros/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
     "date": "2026-06-30",
     "conf": "med",
     "titleEs": "Mérida | Rescatistas piden apoyo para continuar la ayuda en zonas afectadas por los terremotos",
@@ -76,18 +90,18 @@
     "url": "https://elpitazo.net/sucesos/la-guaira-balance-oficial-reporta-19-861-sobrevivientes-de-30-000-personas-que-estaban-en-caraballeda-y-catia-la-mar/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-06-30",
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
+    "date": "2026-07-01",
     "conf": "med",
-    "titleEs": "Maiquetía opera con su pista menos comprometida",
-    "titleEn": "Maiquetía opera con su pista menos comprometida",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "titleEs": "Países Bajos termina rescate en Venezuela ante menor posibilidad de hallar supervivientes",
+    "titleEn": "Países Bajos termina rescate en Venezuela ante menor posibilidad de hallar supervivientes",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/regiones/gran-caracas/maiquetia-opera-con-su-pista-menos-comprometida/"
+    "url": "https://efectococuyo.com/la-humanidad/paises-bajos-termina-rescate-en-venezuela-ante-menor-posibilidad-de-hallar-supervivientes/"
   },
   {
     "sourceEs": "Efecto Cocuyo",
@@ -102,19 +116,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://efectococuyo.com/la-humanidad/jorge-rodriguez-cifras-oficiales-terremotos-tres-claves/"
-  },
-  {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-07-01",
-    "conf": "med",
-    "titleEs": "¿Las réplicas del doble sismo comienzan a disminuir?",
-    "titleEn": "¿Las réplicas del doble sismo comienzan a disminuir?",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/la-humanidad/las-replicas-del-doble-sismo-comienzan-a-disminuir/"
   }
 ]

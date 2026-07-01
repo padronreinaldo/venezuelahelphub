@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T23:15:22.990Z",
+  "updatedAt": "2026-07-01T01:38:48.947Z",
   "stats": {
     "maxMagnitude": 7.5,
     "aftershocks": 9,
@@ -9,27 +9,27 @@
   },
   "prov": {
     "maxMagnitude": {
-      "seenAt": "2026-06-30T23:15:22.990Z",
+      "seenAt": "2026-07-01T01:38:48.947Z",
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7zp"
     },
     "aftershocks": {
-      "seenAt": "2026-06-30T23:15:22.990Z",
+      "seenAt": "2026-07-01T01:38:48.947Z",
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7zp"
     },
     "deaths": {
-      "seenAt": "2026-06-30T23:15:22.990Z",
+      "seenAt": "2026-07-01T01:38:48.947Z",
       "source": "ONU/OCHA · ref. internacional (Wikipedia EN)",
       "url": "https://en.wikipedia.org/wiki/2026_Venezuela_earthquakes"
     },
     "injured": {
-      "seenAt": "2026-06-30T23:15:22.990Z",
+      "seenAt": "2026-07-01T01:38:48.947Z",
       "source": "ONU/OCHA · ref. internacional (Wikipedia EN)",
       "url": "https://en.wikipedia.org/wiki/2026_Venezuela_earthquakes"
     },
     "missing": {
-      "seenAt": "2026-06-30T23:15:22.990Z",
+      "seenAt": "2026-07-01T01:38:48.947Z",
       "source": "ONU/OCHA · ref. internacional (Wikipedia EN)",
       "url": "https://en.wikipedia.org/wiki/2026_Venezuela_earthquakes"
     }
@@ -39,7 +39,7 @@
       "value": 2000,
       "source": "Runrun.es",
       "url": "https://runrun.es/noticias/613066/denuncian-extravio-de-dos-cadaveres-luego-de-ser-rescatados-en-la-guaira/",
-      "seenAt": "2026-06-30T23:15:22.990Z"
+      "seenAt": "2026-07-01T01:38:48.947Z"
     },
     "injured": {
       "value": 32038,
@@ -55,7 +55,7 @@
     }
   },
   "sources": {
-    "usgs": 3,
+    "usgs": 2,
     "reliefweb": 0,
     "press": 12,
     "wikipedia": 1,
@@ -64,6 +64,6 @@
   "counts": {
     "updates": 8,
     "news": 12,
-    "quakes": 210
+    "quakes": 222
   }
 }

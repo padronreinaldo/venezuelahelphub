@@ -2,23 +2,6 @@
   {
     "sourceEs": "USGS",
     "sourceEn": "USGS",
-    "date": "2026-06-27",
-    "titleEs": "Sismo M4.8: 35 km NNE of El Limón, Venezuela",
-    "titleEn": "M4.8 earthquake: 35 km NNE of El Limón, Venezuela",
-    "sumEs": "El USGS reporta un sismo de magnitud 4.8. 35 km NNE of El Limón, Venezuela.",
-    "sumEn": "USGS reports a magnitude 4.8 earthquake. 35 km NNE of El Limón, Venezuela.",
-    "areas": [],
-    "needsEs": [
-      "Evaluación de daños"
-    ],
-    "needsEn": [
-      "Damage assessment"
-    ],
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8q8"
-  },
-  {
-    "sourceEs": "USGS",
-    "sourceEn": "USGS",
     "date": "2026-06-29",
     "titleEs": "Sismo M4.6: 27 km N of Caraballeda, Venezuela",
     "titleEn": "M4.6 earthquake: 27 km N of Caraballeda, Venezuela",
@@ -49,6 +32,20 @@
       "Damage assessment"
     ],
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8su"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-06-30",
+    "conf": "med",
+    "titleEs": "Mérida | Rescatistas piden apoyo para continuar la ayuda en zonas afectadas por los terremotos",
+    "titleEn": "Mérida | Rescatistas piden apoyo para continuar la ayuda en zonas afectadas por los terremotos",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/regiones/merida-rescatistas-piden-apoyo-para-continuar-la-ayuda-en-zonas-afectadas-por-los-terremotos/"
   },
   {
     "sourceEs": "El Pitazo",
@@ -93,31 +90,31 @@
     "url": "https://elpitazo.net/regiones/gran-caracas/maiquetia-opera-con-su-pista-menos-comprometida/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-06-30",
-    "conf": "med",
-    "titleEs": "Topo chileno denuncia que controles militares y acusaciones de «espionaje» frenan los rescates en La Guaira",
-    "titleEn": "Topo chileno denuncia que controles militares y acusaciones de «espionaje» frenan los rescates en La Guaira",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/regiones/centro/topo-chileno-denuncia-que-controles-militares-y-acusaciones-de-espionaje-frenan-los-rescates-en-la-guaira/"
-  },
-  {
     "sourceEs": "Efecto Cocuyo",
     "sourceEn": "Efecto Cocuyo",
-    "date": "2026-06-30",
+    "date": "2026-07-01",
     "conf": "med",
-    "titleEs": "Clippve denuncia afectaciones en Ramo Verde y El Rodeo I tras los terremotos",
-    "titleEn": "Clippve denuncia afectaciones en Ramo Verde y El Rodeo I tras los terremotos",
+    "titleEs": "Jorge Rodríguez y las inconsistencias en las cifras de los terremotos: tres claves",
+    "titleEn": "Jorge Rodríguez y las inconsistencias en las cifras de los terremotos: tres claves",
     "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
     "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://efectococuyo.com/la-humanidad/clippve-denuncia-afectaciones-en-ramo-verde-y-el-rodeo-i-tras-los-terremotos/"
+    "url": "https://efectococuyo.com/la-humanidad/jorge-rodriguez-cifras-oficiales-terremotos-tres-claves/"
+  },
+  {
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
+    "date": "2026-07-01",
+    "conf": "med",
+    "titleEs": "¿Las réplicas del doble sismo comienzan a disminuir?",
+    "titleEn": "¿Las réplicas del doble sismo comienzan a disminuir?",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://efectococuyo.com/la-humanidad/las-replicas-del-doble-sismo-comienzan-a-disminuir/"
   }
 ]

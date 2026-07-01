@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T20:22:45.780Z",
+  "updatedAt": "2026-07-01T21:58:26.325Z",
   "stats": {
     "maxMagnitude": 7.5,
     "aftershocks": 9,
@@ -9,22 +9,22 @@
   },
   "prov": {
     "maxMagnitude": {
-      "seenAt": "2026-07-01T20:22:45.780Z",
+      "seenAt": "2026-07-01T21:58:26.325Z",
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7zp"
     },
     "aftershocks": {
-      "seenAt": "2026-07-01T20:22:45.780Z",
+      "seenAt": "2026-07-01T21:58:26.325Z",
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7zp"
     },
     "deaths": {
-      "seenAt": "2026-07-01T20:22:45.780Z",
+      "seenAt": "2026-07-01T21:58:26.325Z",
       "source": "ONU/OCHA · ref. internacional (Wikipedia EN)",
       "url": "https://en.wikipedia.org/wiki/2026_Venezuela_earthquakes"
     },
     "injured": {
-      "seenAt": "2026-07-01T20:22:45.780Z",
+      "seenAt": "2026-07-01T21:58:26.325Z",
       "source": "ONU/OCHA · ref. internacional (Wikipedia EN)",
       "url": "https://en.wikipedia.org/wiki/2026_Venezuela_earthquakes"
     },
@@ -39,7 +39,7 @@
       "value": 2295,
       "source": "El Pitazo",
       "url": "https://elpitazo.net/regiones/sobrevivientes-huyen-de-la-zona-cero-de-los-terremotos-no-quiero-volver-mas-a-la-guaira/",
-      "seenAt": "2026-07-01T20:22:45.780Z"
+      "seenAt": "2026-07-01T21:58:26.325Z"
     },
     "injured": {
       "value": 32038,
@@ -64,6 +64,6 @@
   "counts": {
     "updates": 8,
     "news": 12,
-    "quakes": 290
+    "quakes": 294
   }
 }

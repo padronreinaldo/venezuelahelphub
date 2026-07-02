@@ -17,21 +17,18 @@
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8yf"
   },
   {
-    "sourceEs": "USGS",
-    "sourceEn": "USGS",
-    "date": "2026-06-28",
-    "titleEs": "Sismo M4.5: 20 km W of Boca de Aroa, Venezuela",
-    "titleEn": "M4.5 earthquake: 20 km W of Boca de Aroa, Venezuela",
-    "sumEs": "El USGS reporta un sismo de magnitud 4.5. 20 km W of Boca de Aroa, Venezuela.",
-    "sumEn": "USGS reports a magnitude 4.5 earthquake. 20 km W of Boca de Aroa, Venezuela.",
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-07-02",
+    "conf": "med",
+    "titleEs": "Axios: Administración Trump califica de «oportunismo» intentos de María Corina Machado de volver a Venezuela",
+    "titleEn": "Axios: Administración Trump califica de «oportunismo» intentos de María Corina Machado de volver a Venezuela",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
     "areas": [],
-    "needsEs": [
-      "Evaluación de daños"
-    ],
-    "needsEn": [
-      "Damage assessment"
-    ],
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8su"
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/politica/axios-administracion-trump-califica-de-oportunismo-intentos-de-maria-corina-machado-de-volver-a-venezuela/"
   },
   {
     "sourceEs": "El Pitazo",
@@ -76,18 +73,32 @@
     "url": "https://elpitazo.net/economia/el-dolar-bcv-sube-en-medio-de-la-emergencia-por-los-terremotos-en-venezuela/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
     "date": "2026-07-01",
     "conf": "med",
-    "titleEs": "Oliveros: Venezuela no tiene capacidad para asumir la reconstrucción tras los terremotos del 24 de junio",
-    "titleEn": "Oliveros: Venezuela no tiene capacidad para asumir la reconstrucción tras los terremotos del 24 de junio",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "titleEs": "A 7 días de los terremotos y puño en alto, en Los Corales procuran hacer milagros",
+    "titleEn": "A 7 días de los terremotos y puño en alto, en Los Corales procuran hacer milagros",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/economia/oliveros-venezuela-no-tiene-capacidad-para-asumir-la-reconstruccion-tras-los-terremotos-del-24-de-junio/"
+    "url": "https://efectococuyo.com/la-humanidad/a-7-dias-de-los-terremotos-puno-alto-en-los-corales-procuran-hacer-milagros/"
+  },
+  {
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
+    "date": "2026-07-01",
+    "conf": "med",
+    "titleEs": "A una semana del doblete sísmico: ¿Qué dicen los expertos?",
+    "titleEn": "A una semana del doblete sísmico: ¿Qué dicen los expertos?",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://efectococuyo.com/la-humanidad/semana-doblete-sismico-dicen-los-expertos/"
   },
   {
     "sourceEs": "Efecto Cocuyo",
@@ -102,19 +113,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://efectococuyo.com/la-humanidad/una-semana-despues-de-los-terremotos-autoridades-registran-2-295-muertos-y-mas-de-11-mil-heridos/"
-  },
-  {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-07-01",
-    "conf": "med",
-    "titleEs": "Decretan duelo nacional por 7 días en memoria de víctimas de los terremotos",
-    "titleEn": "Decretan duelo nacional por 7 días en memoria de víctimas de los terremotos",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/politica/ejecutivo-decreta-duelo-nacional-por-7-dias-en-memoria-de-victimas-de-los-terremotos/"
   }
 ]

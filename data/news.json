@@ -2,6 +2,15 @@
   {
     "source": "El Pitazo",
     "section": "Venezuela",
+    "date": "2026-07-02",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/06/machado.jpg",
+    "titleEs": "Axios: Administración Trump califica de «oportunismo» intentos de María Corina Machado de volver a Venezuela",
+    "titleEn": "Axios: Administración Trump califica de «oportunismo» intentos de María Corina Machado de volver a Venezuela",
+    "url": "https://elpitazo.net/politica/axios-administracion-trump-califica-de-oportunismo-intentos-de-maria-corina-machado-de-volver-a-venezuela/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
     "date": "2026-07-01",
     "img": "https://elpitazo.net/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-01-at-6.20.17-PM.jpeg",
     "titleEs": "Táchira | Voluntarias cosen sábanas para los hospitales que atienden a víctimas de los terremotos",
@@ -27,13 +36,22 @@
     "url": "https://elpitazo.net/economia/el-dolar-bcv-sube-en-medio-de-la-emergencia-por-los-terremotos-en-venezuela/"
   },
   {
-    "source": "El Pitazo",
+    "source": "Efecto Cocuyo",
     "section": "Venezuela",
     "date": "2026-07-01",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/07/Costa-del-sol-Caraballeda-1024x680.jpg",
-    "titleEs": "Oliveros: Venezuela no tiene capacidad para asumir la reconstrucción tras los terremotos del 24 de junio",
-    "titleEn": "Oliveros: Venezuela no tiene capacidad para asumir la reconstrucción tras los terremotos del 24 de junio",
-    "url": "https://elpitazo.net/economia/oliveros-venezuela-no-tiene-capacidad-para-asumir-la-reconstruccion-tras-los-terremotos-del-24-de-junio/"
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/01192504/Los-Corales-1024x683.png",
+    "titleEs": "A 7 días de los terremotos y puño en alto, en Los Corales procuran hacer milagros",
+    "titleEn": "A 7 días de los terremotos y puño en alto, en Los Corales procuran hacer milagros",
+    "url": "https://efectococuyo.com/la-humanidad/a-7-dias-de-los-terremotos-puno-alto-en-los-corales-procuran-hacer-milagros/"
+  },
+  {
+    "source": "Efecto Cocuyo",
+    "section": "Venezuela",
+    "date": "2026-07-01",
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/06/28190907/fbb7fc828e69ae183c22b4247ac047de308492b0w-1024x683.jpg",
+    "titleEs": "A una semana del doblete sísmico: ¿Qué dicen los expertos?",
+    "titleEn": "A una semana del doblete sísmico: ¿Qué dicen los expertos?",
+    "url": "https://efectococuyo.com/la-humanidad/semana-doblete-sismico-dicen-los-expertos/"
   },
   {
     "source": "Efecto Cocuyo",
@@ -52,24 +70,6 @@
     "titleEs": "Decretan duelo nacional por 7 días en memoria de víctimas de los terremotos",
     "titleEn": "Decretan duelo nacional por 7 días en memoria de víctimas de los terremotos",
     "url": "https://efectococuyo.com/politica/ejecutivo-decreta-duelo-nacional-por-7-dias-en-memoria-de-victimas-de-los-terremotos/"
-  },
-  {
-    "source": "Efecto Cocuyo",
-    "section": "Venezuela",
-    "date": "2026-07-01",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/01123335/a2f1898fb62e51363042de24fa00ce8eba2e6823-1024x683.jpg",
-    "titleEs": "Operativo de rescate de un ciudadano por los terremotos en Venezuela supera las 48 horas",
-    "titleEn": "Operativo de rescate de un ciudadano por los terremotos en Venezuela supera las 48 horas",
-    "url": "https://efectococuyo.com/la-humanidad/operativo-de-rescate-de-un-ciudadano-por-los-terremotos-en-venezuela-supera-las-48-horas/"
-  },
-  {
-    "source": "Efecto Cocuyo",
-    "section": "Venezuela",
-    "date": "2026-07-01",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/06/30215953/El-Recreo-1024x676.jpeg",
-    "titleEs": "80 % de los centros comerciales de Caracas están operativos por farmacias y automercados",
-    "titleEn": "80 % de los centros comerciales de Caracas están operativos por farmacias y automercados",
-    "url": "https://efectococuyo.com/economia/80-de-los-centros-comerciales-de-caracas-estan-operativos-por-farmacias-y-automercados/"
   },
   {
     "source": "Runrun.es",

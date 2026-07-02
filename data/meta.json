@@ -1,30 +1,30 @@
 {
-  "updatedAt": "2026-07-01T23:19:39.984Z",
+  "updatedAt": "2026-07-02T01:30:54.895Z",
   "stats": {
-    "maxMagnitude": 7.5,
-    "aftershocks": 9,
+    "maxMagnitude": 4.8,
+    "aftershocks": 6,
     "deaths": 2295,
     "injured": 11267,
     "missing": 43251
   },
   "prov": {
     "maxMagnitude": {
-      "seenAt": "2026-07-01T23:19:39.984Z",
+      "seenAt": "2026-07-02T01:30:54.895Z",
       "source": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7zp"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8q8"
     },
     "aftershocks": {
-      "seenAt": "2026-07-01T23:19:39.984Z",
+      "seenAt": "2026-07-02T01:30:54.895Z",
       "source": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7zp"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8q8"
     },
     "deaths": {
-      "seenAt": "2026-07-01T23:19:39.984Z",
+      "seenAt": "2026-07-02T01:30:54.895Z",
       "source": "ONU/OCHA · ref. internacional (Wikipedia EN)",
       "url": "https://en.wikipedia.org/wiki/2026_Venezuela_earthquakes"
     },
     "injured": {
-      "seenAt": "2026-07-01T23:19:39.984Z",
+      "seenAt": "2026-07-02T01:30:54.895Z",
       "source": "ONU/OCHA · ref. internacional (Wikipedia EN)",
       "url": "https://en.wikipedia.org/wiki/2026_Venezuela_earthquakes"
     },
@@ -37,9 +37,9 @@
   "alt": {
     "deaths": {
       "value": 2295,
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/sobrevivientes-huyen-de-la-zona-cero-de-los-terremotos-no-quiero-volver-mas-a-la-guaira/",
-      "seenAt": "2026-07-01T23:19:39.984Z"
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/una-semana-despues-de-los-terremotos-autoridades-registran-2-295-muertos-y-mas-de-11-mil-heridos/",
+      "seenAt": "2026-07-02T01:30:54.895Z"
     },
     "injured": {
       "value": 32038,
@@ -55,7 +55,7 @@
     }
   },
   "sources": {
-    "usgs": 2,
+    "usgs": 1,
     "reliefweb": 0,
     "press": 12,
     "wikipedia": 1,
@@ -64,6 +64,6 @@
   "counts": {
     "updates": 8,
     "news": 12,
-    "quakes": 298
+    "quakes": 304
   }
 }

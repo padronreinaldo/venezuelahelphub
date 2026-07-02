@@ -3,6 +3,15 @@
     "source": "El Pitazo",
     "section": "Venezuela",
     "date": "2026-07-02",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/07/RESCATISTA.jpg",
+    "titleEs": "Rescatista salvadoreño es sorprendido por venezolanos que le cantan cumpleaños feliz",
+    "titleEn": "Rescatista salvadoreño es sorprendido por venezolanos que le cantan cumpleaños feliz",
+    "url": "https://elpitazo.net/regiones/rescatista-salvadoreno-es-sorprendido-por-venezolanos-que-le-cantan-cumpleanos-feliz/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-07-02",
     "img": "https://elpitazo.net/wp-content/uploads/2026/01/Donald-Trump-y-Maria-Corina-Machado-scaled.jpg",
     "titleEs": "Qué ha pasado con María Corina Machado desde el doble terremoto en Venezuela",
     "titleEn": "Qué ha pasado con María Corina Machado desde el doble terremoto en Venezuela",
@@ -25,15 +34,6 @@
     "titleEs": "Conindustria propone Ley Puente para acelerar la reactivación económica y la reconstrucción nacional tras los terremotos",
     "titleEn": "Conindustria propone Ley Puente para acelerar la reactivación económica y la reconstrucción nacional tras los terremotos",
     "url": "https://elpitazo.net/economia/conindustria-propone-ley-puente-para-acelerar-la-reactivacion-economica-y-la-reconstruccion-nacional-tras-los-terremotos/"
-  },
-  {
-    "source": "El Pitazo",
-    "section": "Venezuela",
-    "date": "2026-07-02",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/07/rescate-de-hernan-gil-1024x947.jpg",
-    "titleEs": "Socorristas rescatan con vida a Hernán Gil: estuvo 170 horas bajo los escombros después de los terremotos",
-    "titleEn": "Socorristas rescatan con vida a Hernán Gil: estuvo 170 horas bajo los escombros después de los terremotos",
-    "url": "https://elpitazo.net/zzdestacado_1/170-horas-bajo-los-escombros-rescatan-con-vida-a-hernan-gil-flores-en-uno-de-los-operativos-mas-complejo/"
   },
   {
     "source": "Efecto Cocuyo",
@@ -75,6 +75,24 @@
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-02",
+    "img": "https://runrun.es/wp-content/uploads/2026/07/uno-1280x853.png",
+    "titleEs": "Los edificios se caen antes de los sismos por ignorar medidas de construcción",
+    "titleEn": "Los edificios se caen antes de los sismos por ignorar medidas de construcción",
+    "url": "https://runrun.es/rr-es-plus/613301/los-edificios-se-caen-antes-de-los-sismos-por-ignorar-medidas-de-construccion/"
+  },
+  {
+    "source": "Runrun.es",
+    "section": "Venezuela",
+    "date": "2026-07-02",
+    "img": "https://runrun.es/wp-content/uploads/2026/07/perros-rescatados-terremoto-Venezuela.jpg",
+    "titleEs": "Mascotas de Caracas y La Guaira afectadas por el sismo reciben atención gratuita",
+    "titleEn": "Mascotas de Caracas y La Guaira afectadas por el sismo reciben atención gratuita",
+    "url": "https://runrun.es/noticias/613274/mascotas-de-caracas-y-la-guaira-afectadas-por-el-sismo-reciben-atencion-gratuita/"
+  },
+  {
+    "source": "Runrun.es",
+    "section": "Venezuela",
+    "date": "2026-07-02",
     "img": "https://runrun.es/wp-content/uploads/2026/07/casahermanitascarmelitas.jpg",
     "titleEs": "El refugio de la esperanza: Tres niñas inauguran el albergue de las Hermanas Carmelitas tras los sismos",
     "titleEn": "El refugio de la esperanza: Tres niñas inauguran el albergue de las Hermanas Carmelitas tras los sismos",
@@ -88,23 +106,5 @@
     "titleEs": "Duelo nacional a ciegas: La falta de publicación oficial impide conocer el alcance del decreto",
     "titleEn": "Duelo nacional a ciegas: La falta de publicación oficial impide conocer el alcance del decreto",
     "url": "https://runrun.es/noticias/613251/duelo-nacional-a-ciegas-la-falta-de-publicacion-oficial-impide-conocer-el-alcance-del-decreto/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-02",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/photo_2026-07-02_09-01-52.jpg",
-    "titleEs": "Transparencia Venezuela difunde manual para garantizar claridad en recepción y distribución de ayuda humanitaria",
-    "titleEn": "Transparencia Venezuela difunde manual para garantizar claridad en recepción y distribución de ayuda humanitaria",
-    "url": "https://runrun.es/inicio/613261/transparencia-venezuela-publica-manual-para-garantizar-claridad-en-la-recepcion-y-distribucion-de-ayuda-humanitaria/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-02",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/unnamed.jpg",
-    "titleEs": "UCAB publica guía jurídica para proteger a menores tras sismos",
-    "titleEn": "UCAB publica guía jurídica para proteger a menores tras sismos",
-    "url": "https://runrun.es/noticias/con-proposito/613250/ucab-publica-guia-juridica-para-proteger-a-menores-tras-sismos/"
   }
 ]

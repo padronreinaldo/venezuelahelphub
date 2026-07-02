@@ -38,6 +38,24 @@
   {
     "source": "Efecto Cocuyo",
     "section": "Venezuela",
+    "date": "2026-07-02",
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/01232148/WhatsApp-Image-2026-07-01-at-11.19.47-PM-1024x768.jpeg",
+    "titleEs": "Familias completas fallecieron juntas durante los dos terremotos",
+    "titleEn": "Familias completas fallecieron juntas durante los dos terremotos",
+    "url": "https://efectococuyo.com/sucesos/familias-completas-fallecieron-juntas-durante-los-dos-terremotos/"
+  },
+  {
+    "source": "Efecto Cocuyo",
+    "section": "Venezuela",
+    "date": "2026-07-02",
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/01223027/WhatsApp-Image-2026-07-01-at-10.30.16-PM-1024x576.jpeg",
+    "titleEs": "Más de 100 horas de esperanza: rescatistas luchan por la vida de Hernán Gil",
+    "titleEn": "Más de 100 horas de esperanza: rescatistas luchan por la vida de Hernán Gil",
+    "url": "https://efectococuyo.com/la-humanidad/mas-de-100-horas-de-esperanza-rescatistas-luchan-por-la-vida-de-hernan-gil/"
+  },
+  {
+    "source": "Efecto Cocuyo",
+    "section": "Venezuela",
     "date": "2026-07-01",
     "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/01192504/Los-Corales-1024x683.png",
     "titleEs": "A 7 días de los terremotos y puño en alto, en Los Corales procuran hacer milagros",
@@ -54,22 +72,13 @@
     "url": "https://efectococuyo.com/la-humanidad/semana-doblete-sismico-dicen-los-expertos/"
   },
   {
-    "source": "Efecto Cocuyo",
+    "source": "Runrun.es",
     "section": "Venezuela",
-    "date": "2026-07-01",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/01151518/1e860fdc1d488fa0e96640392b68e4c52f603d46-1024x683.jpg",
-    "titleEs": "A una semana de los terremotos: autoridades registran 2.295 muertos",
-    "titleEn": "A una semana de los terremotos: autoridades registran 2.295 muertos",
-    "url": "https://efectococuyo.com/la-humanidad/una-semana-despues-de-los-terremotos-autoridades-registran-2-295-muertos-y-mas-de-11-mil-heridos/"
-  },
-  {
-    "source": "Efecto Cocuyo",
-    "section": "Venezuela",
-    "date": "2026-07-01",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/01134627/7d5c77c3244936ed45cefbdefcb40e7d284ed904-1024x683.jpg",
-    "titleEs": "Decretan duelo nacional por 7 días en memoria de víctimas de los terremotos",
-    "titleEn": "Decretan duelo nacional por 7 días en memoria de víctimas de los terremotos",
-    "url": "https://efectococuyo.com/politica/ejecutivo-decreta-duelo-nacional-por-7-dias-en-memoria-de-victimas-de-los-terremotos/"
+    "date": "2026-07-02",
+    "img": "https://runrun.es/wp-content/uploads/2026/07/PORTADAS-rrplus-2.jpg",
+    "titleEs": "Síndrome del terremoto fantasma: por qué muchos venezolanos siguen sintiendo que el piso se mueve",
+    "titleEn": "Síndrome del terremoto fantasma: por qué muchos venezolanos siguen sintiendo que el piso se mueve",
+    "url": "https://runrun.es/inicio/613232/sindrome-del-terremoto-fantasma-por-que-muchos-venezolanos-siguen-sintiendo-que-el-piso-se-mueve/"
   },
   {
     "source": "Runrun.es",
@@ -97,14 +106,5 @@
     "titleEs": "La reconstrucción de Venezuela: una oportunidad que exige un pacto nacional",
     "titleEn": "La reconstrucción de Venezuela: una oportunidad que exige un pacto nacional",
     "url": "https://runrun.es/inicio/613170/reconstruccion-de-venezuela/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-01",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/hika.jpg",
-    "titleEs": "Yakera habilita plataforma para canalizar donaciones a afectados",
-    "titleEn": "Yakera habilita plataforma para canalizar donaciones a afectados",
-    "url": "https://runrun.es/noticias/con-proposito/613155/yakera-habilita-plataforma-para-canalizar-donaciones-a-afectados/"
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T05:55:33.099Z",
+  "updatedAt": "2026-07-02T08:51:05.008Z",
   "stats": {
     "maxMagnitude": 4.8,
     "aftershocks": 6,
@@ -9,22 +9,22 @@
   },
   "prov": {
     "maxMagnitude": {
-      "seenAt": "2026-07-02T05:55:33.099Z",
+      "seenAt": "2026-07-02T08:51:05.008Z",
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8q8"
     },
     "aftershocks": {
-      "seenAt": "2026-07-02T05:55:33.099Z",
+      "seenAt": "2026-07-02T08:51:05.008Z",
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8q8"
     },
     "deaths": {
-      "seenAt": "2026-07-02T05:55:33.099Z",
+      "seenAt": "2026-07-02T08:51:05.008Z",
       "source": "ONU/OCHA · ref. internacional (Wikipedia EN)",
       "url": "https://en.wikipedia.org/wiki/2026_Venezuela_earthquakes"
     },
     "injured": {
-      "seenAt": "2026-07-02T05:55:33.099Z",
+      "seenAt": "2026-07-02T08:51:05.008Z",
       "source": "ONU/OCHA · ref. internacional (Wikipedia EN)",
       "url": "https://en.wikipedia.org/wiki/2026_Venezuela_earthquakes"
     },
@@ -39,7 +39,7 @@
       "value": 2295,
       "source": "Efecto Cocuyo",
       "url": "https://efectococuyo.com/la-humanidad/una-semana-despues-de-los-terremotos-autoridades-registran-2-295-muertos-y-mas-de-11-mil-heridos/",
-      "seenAt": "2026-07-02T05:55:33.099Z"
+      "seenAt": "2026-07-02T08:51:05.008Z"
     },
     "injured": {
       "value": 32038,
@@ -64,6 +64,6 @@
   "counts": {
     "updates": 8,
     "news": 12,
-    "quakes": 320
+    "quakes": 327
   }
 }

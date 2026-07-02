@@ -49,8 +49,8 @@
     "section": "Venezuela",
     "date": "2026-07-02",
     "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/01223027/WhatsApp-Image-2026-07-01-at-10.30.16-PM-1024x576.jpeg",
-    "titleEs": "Más de 100 horas de esperanza: rescatistas luchan por la vida de Hernán Gil",
-    "titleEn": "Más de 100 horas de esperanza: rescatistas luchan por la vida de Hernán Gil",
+    "titleEs": "Más de 150 horas de esperanza: rescatistas luchan por la vida de Hernán Gil",
+    "titleEn": "Más de 150 horas de esperanza: rescatistas luchan por la vida de Hernán Gil",
     "url": "https://efectococuyo.com/la-humanidad/mas-de-100-horas-de-esperanza-rescatistas-luchan-por-la-vida-de-hernan-gil/"
   },
   {
@@ -70,6 +70,15 @@
     "titleEs": "A una semana del doblete sísmico: ¿Qué dicen los expertos?",
     "titleEn": "A una semana del doblete sísmico: ¿Qué dicen los expertos?",
     "url": "https://efectococuyo.com/la-humanidad/semana-doblete-sismico-dicen-los-expertos/"
+  },
+  {
+    "source": "Runrun.es",
+    "section": "Venezuela",
+    "date": "2026-07-02",
+    "img": "https://runrun.es/wp-content/uploads/2026/07/Captura-de-pantalla-2026-07-01-180821.png",
+    "titleEs": "Imágenes satelitales revelan la magnitud de los daños por terremotos en La Guaira",
+    "titleEn": "Imágenes satelitales revelan la magnitud de los daños por terremotos en La Guaira",
+    "url": "https://runrun.es/noticias/613220/imagenes-satelitales-revelan-la-magnitud-de-los-danos-por-terremotos-en-la-guaira/"
   },
   {
     "source": "Runrun.es",
@@ -97,14 +106,5 @@
     "titleEs": "Ciudadanos impiden robos cometidos por uniformados en medio de la tragedia causada por terremotos",
     "titleEn": "Ciudadanos impiden robos cometidos por uniformados en medio de la tragedia causada por terremotos",
     "url": "https://runrun.es/noticias/613162/ciudadanos-impiden-robos-cometidos-por-uniformados-en-medio-de-la-tragedia-causada-por-terremotos/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-01",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/La-reconstruccion-de-Venezuela-una-oportunidad-que-exige-un-pacto-nacional-por-Alejandro-Grisanti-Capriles.-@ecoanalitica-@agrisanti.jpg",
-    "titleEs": "La reconstrucción de Venezuela: una oportunidad que exige un pacto nacional",
-    "titleEn": "La reconstrucción de Venezuela: una oportunidad que exige un pacto nacional",
-    "url": "https://runrun.es/inicio/613170/reconstruccion-de-venezuela/"
   }
 ]

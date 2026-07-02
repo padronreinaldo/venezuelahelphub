@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-02-07-2026-18:09-10.59--66.81",
+    "time": "2026-07-02T22:09:00.000Z",
+    "mag": 2.1,
+    "depth": 5,
+    "lat": 10.59,
+    "lon": -66.81,
+    "place": "9 km al suroeste de Naiguata",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-02-07-2026-17:04-10.62--66.78",
     "time": "2026-07-02T21:04:00.000Z",
     "mag": 2.1,

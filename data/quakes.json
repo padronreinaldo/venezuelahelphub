@@ -1,5 +1,35 @@
 [
   {
+    "id": "fv-02-07-2026-13:49-10.63--66.75",
+    "time": "2026-07-02T17:49:00.000Z",
+    "mag": 2.4,
+    "depth": 1.8,
+    "lat": 10.63,
+    "lon": -66.75,
+    "place": "1 km al noroeste de Naiguata",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
+    "id": "fv-02-07-2026-11:50-10.53--68.19",
+    "time": "2026-07-02T15:50:00.000Z",
+    "mag": 2.5,
+    "depth": 21.7,
+    "lat": 10.53,
+    "lon": -68.19,
+    "place": "20 km al oeste    de Moron",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-02-07-2026-10:39-10.59--66.61",
     "time": "2026-07-02T14:39:00.000Z",
     "mag": 2.3,

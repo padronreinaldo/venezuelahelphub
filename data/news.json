@@ -3,6 +3,24 @@
     "source": "El Pitazo",
     "section": "Venezuela",
     "date": "2026-07-02",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/07/rescate-de-hernan-gil-1024x947.jpg",
+    "titleEs": "Socorristas rescatan con vida a Hernán Gil: estuvo 170 horas bajo los escombros después de los terremotos",
+    "titleEn": "Socorristas rescatan con vida a Hernán Gil: estuvo 170 horas bajo los escombros después de los terremotos",
+    "url": "https://elpitazo.net/zzdestacado_1/170-horas-bajo-los-escombros-rescatan-con-vida-a-hernan-gil-flores-en-uno-de-los-operativos-mas-complejo/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-07-02",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/03/donald-trump.png",
+    "titleEs": "Cazadores de Fake News: Trump no pedirá convertir a Venezuela en estado 51 de EE. UU. tras terremotos",
+    "titleEn": "Cazadores de Fake News: Trump no pedirá convertir a Venezuela en estado 51 de EE. UU. tras terremotos",
+    "url": "https://elpitazo.net/politica/cazadores-de-fake-news-trump-no-pedira-convertir-a-venezuela-en-estado-51-de-ee-uu-tras-terremotos/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-07-02",
     "img": "https://elpitazo.net/wp-content/uploads/2026/07/mujer-respiracion.jpg",
     "titleEs": "Respirar, observar y desconectarse: tres recomendaciones para vencer el estado de alerta tras los terremotos",
     "titleEn": "Respirar, observar y desconectarse: tres recomendaciones para vencer el estado de alerta tras los terremotos",
@@ -18,22 +36,31 @@
     "url": "https://elpitazo.net/politica/axios-administracion-trump-califica-de-oportunismo-intentos-de-maria-corina-machado-de-volver-a-venezuela/"
   },
   {
-    "source": "El Pitazo",
+    "source": "Efecto Cocuyo",
     "section": "Venezuela",
-    "date": "2026-07-01",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-01-at-6.20.17-PM.jpeg",
-    "titleEs": "Táchira | Voluntarias cosen sábanas para los hospitales que atienden a víctimas de los terremotos",
-    "titleEn": "Táchira | Voluntarias cosen sábanas para los hospitales que atienden a víctimas de los terremotos",
-    "url": "https://elpitazo.net/regiones/tachira-voluntarias-cosen-sabanas-para-los-hospitales-que-atienden-a-victimas-de-los-terremotos/"
+    "date": "2026-07-02",
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/01125832/efe_20260628_204510028.webp",
+    "titleEs": "Interinato responde a emergencia por terremotos con mayor control político",
+    "titleEn": "Interinato responde a emergencia por terremotos con mayor control político",
+    "url": "https://efectococuyo.com/politica/interinato-emergencia-terremotos-mayor-control-politico/"
   },
   {
-    "source": "El Pitazo",
+    "source": "Efecto Cocuyo",
     "section": "Venezuela",
-    "date": "2026-07-01",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/07/mineros.bolivar.jpeg",
-    "titleEs": "Mineros de Bolívar escarban entre los escombros buscando sobrevivientes y cadáveres en La Guaira",
-    "titleEn": "Mineros de Bolívar escarban entre los escombros buscando sobrevivientes y cadáveres en La Guaira",
-    "url": "https://elpitazo.net/regiones/guayana/mineros-de-bolivar-escarban-entre-los-escombros-buscando-sobrevivientes-y-cadaveres-en-la-guaira/"
+    "date": "2026-07-02",
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/02114516/Lagaira.webp",
+    "titleEs": "3 factores que explican por qué se derrumbaron tantos edificios en La Guaira por el terremoto en Venezuela",
+    "titleEn": "3 factores que explican por qué se derrumbaron tantos edificios en La Guaira por el terremoto en Venezuela",
+    "url": "https://efectococuyo.com/la-humanidad/3-factores-que-explican-por-que-se-derrumbaron-tantos-edificios-en-la-guaira-por-el-terremoto-en-venezuela/"
+  },
+  {
+    "source": "Efecto Cocuyo",
+    "section": "Venezuela",
+    "date": "2026-07-02",
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/02095314/d8f8362960791c1d0864c8e21596bb54b22ad8d5-1-1024x683.jpg",
+    "titleEs": "Una semana del doble terremoto de Venezuela en cifras",
+    "titleEn": "Una semana del doble terremoto de Venezuela en cifras",
+    "url": "https://efectococuyo.com/la-humanidad/una-semana-del-doble-terremoto-de-venezuela-en-cifras/"
   },
   {
     "source": "Efecto Cocuyo",
@@ -45,66 +72,39 @@
     "url": "https://efectococuyo.com/sucesos/familias-completas-fallecieron-juntas-durante-los-dos-terremotos/"
   },
   {
-    "source": "Efecto Cocuyo",
+    "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-02",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/01223027/WhatsApp-Image-2026-07-01-at-10.30.16-PM-1024x576.jpeg",
-    "titleEs": "Más de 150 horas de esperanza: rescatistas luchan por la vida de Hernán Gil",
-    "titleEn": "Más de 150 horas de esperanza: rescatistas luchan por la vida de Hernán Gil",
-    "url": "https://efectococuyo.com/la-humanidad/mas-de-100-horas-de-esperanza-rescatistas-luchan-por-la-vida-de-hernan-gil/"
-  },
-  {
-    "source": "Efecto Cocuyo",
-    "section": "Venezuela",
-    "date": "2026-07-01",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/01192504/Los-Corales-1024x683.png",
-    "titleEs": "A 7 días de los terremotos y puño en alto, en Los Corales procuran hacer milagros",
-    "titleEn": "A 7 días de los terremotos y puño en alto, en Los Corales procuran hacer milagros",
-    "url": "https://efectococuyo.com/la-humanidad/a-7-dias-de-los-terremotos-puno-alto-en-los-corales-procuran-hacer-milagros/"
-  },
-  {
-    "source": "Efecto Cocuyo",
-    "section": "Venezuela",
-    "date": "2026-07-01",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/06/28190907/fbb7fc828e69ae183c22b4247ac047de308492b0w-1024x683.jpg",
-    "titleEs": "A una semana del doblete sísmico: ¿Qué dicen los expertos?",
-    "titleEn": "A una semana del doblete sísmico: ¿Qué dicen los expertos?",
-    "url": "https://efectococuyo.com/la-humanidad/semana-doblete-sismico-dicen-los-expertos/"
+    "img": "https://runrun.es/wp-content/uploads/2026/07/delcy-rodriguez-duelo-nacional.jpg",
+    "titleEs": "Duelo nacional a ciegas: La falta de publicación oficial impide conocer el alcance del decreto",
+    "titleEn": "Duelo nacional a ciegas: La falta de publicación oficial impide conocer el alcance del decreto",
+    "url": "https://runrun.es/noticias/613251/duelo-nacional-a-ciegas-la-falta-de-publicacion-oficial-impide-conocer-el-alcance-del-decreto/"
   },
   {
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-02",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/Captura-de-pantalla-2026-07-01-180821.png",
-    "titleEs": "Imágenes satelitales revelan la magnitud de los daños por terremotos en La Guaira",
-    "titleEn": "Imágenes satelitales revelan la magnitud de los daños por terremotos en La Guaira",
-    "url": "https://runrun.es/noticias/613220/imagenes-satelitales-revelan-la-magnitud-de-los-danos-por-terremotos-en-la-guaira/"
+    "img": "https://runrun.es/wp-content/uploads/2026/07/photo_2026-07-02_09-01-52.jpg",
+    "titleEs": "Transparencia Venezuela publica manual para garantizar claridad en la recepción y distribución de ayuda humanitaria",
+    "titleEn": "Transparencia Venezuela publica manual para garantizar claridad en la recepción y distribución de ayuda humanitaria",
+    "url": "https://runrun.es/inicio/613261/transparencia-venezuela-publica-manual-para-garantizar-claridad-en-la-recepcion-y-distribucion-de-ayuda-humanitaria/"
   },
   {
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-02",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/PORTADAS-rrplus-2.jpg",
-    "titleEs": "Síndrome del terremoto fantasma: por qué muchos venezolanos siguen sintiendo que el piso se mueve",
-    "titleEn": "Síndrome del terremoto fantasma: por qué muchos venezolanos siguen sintiendo que el piso se mueve",
-    "url": "https://runrun.es/inicio/613232/sindrome-del-terremoto-fantasma-por-que-muchos-venezolanos-siguen-sintiendo-que-el-piso-se-mueve/"
+    "img": "https://runrun.es/wp-content/uploads/2026/07/unnamed.jpg",
+    "titleEs": "UCAB publica guía jurídica para proteger a menores tras sismos",
+    "titleEn": "UCAB publica guía jurídica para proteger a menores tras sismos",
+    "url": "https://runrun.es/inicio/613250/ucab-publica-guia-juridica-para-proteger-a-menores-tras-sismos/"
   },
   {
     "source": "Runrun.es",
     "section": "Venezuela",
-    "date": "2026-07-01",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/fallecidos-terremotos-1jul.jpg",
-    "titleEs": "Balance #1Jul | Jorge Rodríguez reporta 2.295 fallecidos y más de 11.200 heridos por terremotos",
-    "titleEn": "Balance #1Jul | Jorge Rodríguez reporta 2.295 fallecidos y más de 11.200 heridos por terremotos",
-    "url": "https://runrun.es/noticias/613177/balance-1jul-jorge-rodriguez-reporta-2-295-fallecidos-y-mas-de-11-200-heridos-por-terremotos/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-01",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/actuacion-policias-militares.jpg",
-    "titleEs": "Ciudadanos impiden robos cometidos por uniformados en medio de la tragedia causada por terremotos",
-    "titleEn": "Ciudadanos impiden robos cometidos por uniformados en medio de la tragedia causada por terremotos",
-    "url": "https://runrun.es/noticias/613162/ciudadanos-impiden-robos-cometidos-por-uniformados-en-medio-de-la-tragedia-causada-por-terremotos/"
+    "date": "2026-07-02",
+    "img": "https://runrun.es/wp-content/uploads/2026/07/afp__20260628__b8l639d__v1__highres__venezuelaearthquake-1.jpg",
+    "titleEs": "Academias Nacionales proponen reconstruir el país con criterios de prevención",
+    "titleEn": "Academias Nacionales proponen reconstruir el país con criterios de prevención",
+    "url": "https://runrun.es/noticias/613226/academias-nacionales-proponen-reconstruir-el-pais-con-criterios-de-prevencion/"
   }
 ]

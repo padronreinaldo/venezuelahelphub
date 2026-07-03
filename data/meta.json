@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T18:09:42.084Z",
+  "updatedAt": "2026-07-03T19:56:50.531Z",
   "stats": {
     "maxMagnitude": 4.8,
     "aftershocks": 5,
@@ -9,22 +9,22 @@
   },
   "prov": {
     "maxMagnitude": {
-      "seenAt": "2026-07-03T18:09:42.084Z",
+      "seenAt": "2026-07-03T19:56:50.531Z",
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8q8"
     },
     "aftershocks": {
-      "seenAt": "2026-07-03T18:09:42.084Z",
+      "seenAt": "2026-07-03T19:56:50.531Z",
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8q8"
     },
     "deaths": {
-      "seenAt": "2026-07-03T18:09:42.084Z",
+      "seenAt": "2026-07-03T19:56:50.531Z",
       "source": "ONU/OCHA · ref. internacional (Wikipedia EN)",
       "url": "https://en.wikipedia.org/wiki/2026_Venezuela_earthquakes"
     },
     "injured": {
-      "seenAt": "2026-07-03T18:09:42.084Z",
+      "seenAt": "2026-07-03T19:56:50.531Z",
       "source": "ONU/OCHA · ref. internacional (Wikipedia EN)",
       "url": "https://en.wikipedia.org/wiki/2026_Venezuela_earthquakes"
     },
@@ -37,9 +37,9 @@
   "alt": {
     "deaths": {
       "value": 2595,
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/terremotos-en-venezuela-con-una-discapacidad-huir-no-es-igual-para-todos/",
-      "seenAt": "2026-07-03T18:09:42.084Z"
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/613414/el-contraste-del-desastre-desmentidos-y-opacidad-marcan-la-version-oficial-de-los-terremotos/",
+      "seenAt": "2026-07-03T19:56:50.531Z"
     },
     "injured": {
       "value": 32038,
@@ -64,6 +64,6 @@
   "counts": {
     "updates": 8,
     "news": 12,
-    "quakes": 396
+    "quakes": 403
   }
 }

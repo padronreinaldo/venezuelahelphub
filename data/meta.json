@@ -1,30 +1,30 @@
 {
-  "updatedAt": "2026-07-03T21:06:43.965Z",
+  "updatedAt": "2026-07-03T22:32:17.557Z",
   "stats": {
     "maxMagnitude": 4.8,
     "aftershocks": 5,
-    "deaths": 2595,
-    "injured": 12500,
+    "deaths": 2645,
+    "injured": 12600,
     "missing": 43251
   },
   "prov": {
     "maxMagnitude": {
-      "seenAt": "2026-07-03T21:06:43.965Z",
+      "seenAt": "2026-07-03T22:32:17.557Z",
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8q8"
     },
     "aftershocks": {
-      "seenAt": "2026-07-03T21:06:43.965Z",
+      "seenAt": "2026-07-03T22:32:17.557Z",
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8q8"
     },
     "deaths": {
-      "seenAt": "2026-07-03T21:06:43.965Z",
+      "seenAt": "2026-07-03T22:32:17.557Z",
       "source": "ONU/OCHA · ref. internacional (Wikipedia EN)",
       "url": "https://en.wikipedia.org/wiki/2026_Venezuela_earthquakes"
     },
     "injured": {
-      "seenAt": "2026-07-03T21:06:43.965Z",
+      "seenAt": "2026-07-03T22:32:17.557Z",
       "source": "ONU/OCHA · ref. internacional (Wikipedia EN)",
       "url": "https://en.wikipedia.org/wiki/2026_Venezuela_earthquakes"
     },
@@ -36,10 +36,10 @@
   },
   "alt": {
     "deaths": {
-      "value": 2595,
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/613414/el-contraste-del-desastre-desmentidos-y-opacidad-marcan-la-version-oficial-de-los-terremotos/",
-      "seenAt": "2026-07-03T21:06:43.965Z"
+      "value": 2645,
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/continua-en-aumento-el-numero-de-victimas-fatales-de-los-terremotos/",
+      "seenAt": "2026-07-03T22:32:17.557Z"
     },
     "injured": {
       "value": 32038,
@@ -64,6 +64,6 @@
   "counts": {
     "updates": 8,
     "news": 12,
-    "quakes": 405
+    "quakes": 409
   }
 }

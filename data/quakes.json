@@ -1,5 +1,35 @@
 [
   {
+    "id": "fv-03-07-2026-16:06-10.06--67.35",
+    "time": "2026-07-03T20:06:00.000Z",
+    "mag": 2.1,
+    "depth": 23.6,
+    "lat": 10.06,
+    "lon": -67.35,
+    "place": "17 km al norte    de San Juan de los Morros",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
+    "id": "fv-03-07-2026-15:54-10.43--67.42",
+    "time": "2026-07-03T19:54:00.000Z",
+    "mag": 2.1,
+    "depth": 5,
+    "lat": 10.43,
+    "lon": -67.42,
+    "place": "25 km al noroeste de La Victoria",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-03-07-2026-15:18-9.11--68.48",
     "time": "2026-07-03T19:18:00.000Z",
     "mag": 2.3,

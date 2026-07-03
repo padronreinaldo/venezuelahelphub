@@ -1,76 +1,59 @@
 [
   {
-    "sourceEs": "USGS",
-    "sourceEn": "USGS",
-    "date": "2026-06-29",
-    "titleEs": "Sismo M4.6: 27 km N of Caraballeda, Venezuela",
-    "titleEn": "M4.6 earthquake: 27 km N of Caraballeda, Venezuela",
-    "sumEs": "El USGS reporta un sismo de magnitud 4.6. 27 km N of Caraballeda, Venezuela.",
-    "sumEn": "USGS reports a magnitude 4.6 earthquake. 27 km N of Caraballeda, Venezuela.",
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-07-02",
+    "conf": "med",
+    "titleEs": "Bolívar | Empresa elabora 50 literas y 20 cunas para damnificados por los terremotos",
+    "titleEn": "Bolívar | Empresa elabora 50 literas y 20 cunas para damnificados por los terremotos",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
     "areas": [],
-    "needsEs": [
-      "Evaluación de daños"
-    ],
-    "needsEn": [
-      "Damage assessment"
-    ],
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8yf"
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/regiones/guayana/bolivar-empresa-elabora-50-literas-y-20-cunas-para-damnificados-por-los-terremotos/"
   },
   {
     "sourceEs": "El Pitazo",
     "sourceEn": "El Pitazo",
     "date": "2026-07-02",
     "conf": "med",
-    "titleEs": "La Guaira | Se registran incendios en locales comerciales de Catia La Mar este #2Jul",
-    "titleEn": "La Guaira | Se registran incendios en locales comerciales de Catia La Mar este #2Jul",
+    "titleEs": "Jesús Armas denuncia que militantes del PSUV intentaron apropiarse de insumos para damnificados en Catia",
+    "titleEn": "Jesús Armas denuncia que militantes del PSUV intentaron apropiarse de insumos para damnificados en Catia",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
     "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/regiones/la-guaira-se-registran-incendios-en-locales-comerciales-de-catia-la-mar-este-2jul/"
+    "url": "https://elpitazo.net/politica/jesus-armas-denuncia-presunta-apropiacion-de-insumos-donados-para-afectados-por-el-terremoto-en-venezuela/"
   },
   {
     "sourceEs": "El Pitazo",
     "sourceEn": "El Pitazo",
     "date": "2026-07-02",
     "conf": "med",
-    "titleEs": "AN de 2015 dice que sigue de cerca las labores de rescate de EE. UU. y el Rodrigato luego del doble terremoto",
-    "titleEn": "AN de 2015 dice que sigue de cerca las labores de rescate de EE. UU. y el Rodrigato luego del doble terremoto",
+    "titleEs": "Campamento transitorio en La Guaira: sobrevivientes improvisan toldos y aseguran que escasea la comida",
+    "titleEn": "Campamento transitorio en La Guaira: sobrevivientes improvisan toldos y aseguran que escasea la comida",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
     "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/politica/an-de-2015-dice-que-sigue-de-cerca-las-labores-de-rescate-de-ee-uu-y-el-rodrigato-luego-del-doble-terremoto/"
+    "url": "https://elpitazo.net/regiones/campamento-transitorio-en-la-guaira-sobrevivientes-improvisan-toldos-y-aseguran-que-escasea-la-comida/"
   },
   {
     "sourceEs": "El Pitazo",
     "sourceEn": "El Pitazo",
     "date": "2026-07-02",
     "conf": "med",
-    "titleEs": "Terremotos en Venezuela: damnificados de Guarenas exigen viviendas seguras luego del colapso de sus bloques",
-    "titleEn": "Terremotos en Venezuela: damnificados de Guarenas exigen viviendas seguras luego del colapso de sus bloques",
+    "titleEs": "Venezolanos en EE. UU. piden un nuevo TPS debido a los terremotos en su país",
+    "titleEn": "Venezolanos en EE. UU. piden un nuevo TPS debido a los terremotos en su país",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
     "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/regiones/gran-caracas/terremotos-en-venezuela-damnificados-de-guarenas-exigen-viviendas-seguras-luego-del-colapso-de-sus-bloques/"
-  },
-  {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-07-02",
-    "conf": "med",
-    "titleEs": "«Lo peor sería volver a un refugio»: el temor de habitantes de la Misión Vivienda afectados por terremotos",
-    "titleEn": "«Lo peor sería volver a un refugio»: el temor de habitantes de la Misión Vivienda afectados por terremotos",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/caracas/lo-peor-seria-volver-a-un-refugio-el-temor-de-habitantes-de-la-mision-vivienda-afectados-por-terremotos/"
+    "url": "https://elpitazo.net/migracion/venezolanos-en-ee-uu-piden-un-nuevo-tps-debido-a-los-terremotos-en-su-pais/"
   },
   {
     "sourceEs": "Efecto Cocuyo",
@@ -113,5 +96,19 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://efectococuyo.com/internacionales/unicef-estima-que-unos-680-000-ninos-necesitan-asistencia-en-venezuela-tras-los-terremotos/"
+  },
+  {
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
+    "date": "2026-07-02",
+    "conf": "med",
+    "titleEs": "Portugal decreta día de luto nacional el 5 de julio en memoria de víctimas de terremotos en Venezuela",
+    "titleEn": "Portugal decreta día de luto nacional el 5 de julio en memoria de víctimas de terremotos en Venezuela",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://efectococuyo.com/internacionales/portugal-decreta-dia-de-luto-nacional-el-5-de-julio-en-memoria-de-victimas-de-terremotos-en-venezuela/"
   }
 ]

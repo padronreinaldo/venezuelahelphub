@@ -1,30 +1,30 @@
 {
-  "updatedAt": "2026-07-02T22:35:46.738Z",
+  "updatedAt": "2026-07-03T00:02:22.038Z",
   "stats": {
     "maxMagnitude": 4.8,
-    "aftershocks": 6,
+    "aftershocks": 5,
     "deaths": 2295,
     "injured": 11267,
     "missing": 43251
   },
   "prov": {
     "maxMagnitude": {
-      "seenAt": "2026-07-02T22:35:46.738Z",
+      "seenAt": "2026-07-03T00:02:22.038Z",
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8q8"
     },
     "aftershocks": {
-      "seenAt": "2026-07-02T22:35:46.738Z",
+      "seenAt": "2026-07-03T00:02:22.038Z",
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8q8"
     },
     "deaths": {
-      "seenAt": "2026-07-02T22:35:46.738Z",
+      "seenAt": "2026-07-03T00:02:22.038Z",
       "source": "ONU/OCHA · ref. internacional (Wikipedia EN)",
       "url": "https://en.wikipedia.org/wiki/2026_Venezuela_earthquakes"
     },
     "injured": {
-      "seenAt": "2026-07-02T22:35:46.738Z",
+      "seenAt": "2026-07-03T00:02:22.038Z",
       "source": "ONU/OCHA · ref. internacional (Wikipedia EN)",
       "url": "https://en.wikipedia.org/wiki/2026_Venezuela_earthquakes"
     },
@@ -55,7 +55,7 @@
     }
   },
   "sources": {
-    "usgs": 1,
+    "usgs": 0,
     "reliefweb": 0,
     "press": 12,
     "wikipedia": 1,
@@ -64,6 +64,6 @@
   "counts": {
     "updates": 8,
     "news": 12,
-    "quakes": 355
+    "quakes": 356
   }
 }

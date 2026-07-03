@@ -2,6 +2,34 @@
   {
     "sourceEs": "El Pitazo",
     "sourceEn": "El Pitazo",
+    "date": "2026-07-03",
+    "conf": "med",
+    "titleEs": "Delcy Rodríguez dice que actuaron de inmediato ante los terremotos pese a denuncias de sobrevivientes",
+    "titleEn": "Delcy Rodríguez dice que actuaron de inmediato ante los terremotos pese a denuncias de sobrevivientes",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/politica/delcy-rodriguez-dice-que-actuaron-de-inmediato-ante-los-terremotos-pese-a-denuncias-de-sobrevivientes/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-07-03",
+    "conf": "med",
+    "titleEs": "María Corina Machado: Voy a volver a Venezuela y estamos coordinando para que eso ocurra",
+    "titleEn": "María Corina Machado: Voy a volver a Venezuela y estamos coordinando para que eso ocurra",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/politica/maria-corina-machado-voy-a-volver-a-venezuela-y-estamos-coordinando-para-que-eso-ocurra/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
     "date": "2026-07-02",
     "conf": "med",
     "titleEs": "Bolívar | Empresa elabora 50 literas y 20 cunas para damnificados por los terremotos",
@@ -28,32 +56,18 @@
     "url": "https://elpitazo.net/politica/jesus-armas-denuncia-presunta-apropiacion-de-insumos-donados-para-afectados-por-el-terremoto-en-venezuela/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-07-02",
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
+    "date": "2026-07-03",
     "conf": "med",
-    "titleEs": "Campamento transitorio en La Guaira: sobrevivientes improvisan toldos y aseguran que escasea la comida",
-    "titleEn": "Campamento transitorio en La Guaira: sobrevivientes improvisan toldos y aseguran que escasea la comida",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "titleEs": "Delcy Rodríguez anuncia conversaciones con EEUU y el FMI para reconstruir infraestructura",
+    "titleEn": "Delcy Rodríguez anuncia conversaciones con EEUU y el FMI para reconstruir infraestructura",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/regiones/campamento-transitorio-en-la-guaira-sobrevivientes-improvisan-toldos-y-aseguran-que-escasea-la-comida/"
-  },
-  {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-07-02",
-    "conf": "med",
-    "titleEs": "Venezolanos en EE. UU. piden un nuevo TPS debido a los terremotos en su país",
-    "titleEn": "Venezolanos en EE. UU. piden un nuevo TPS debido a los terremotos en su país",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/migracion/venezolanos-en-ee-uu-piden-un-nuevo-tps-debido-a-los-terremotos-en-su-pais/"
+    "url": "https://efectococuyo.com/politica/delcy-rodriguez-anuncia-conversaciones-eeuu-fmi-reconstruir-infraestuctura/"
   },
   {
     "sourceEs": "Efecto Cocuyo",
@@ -96,19 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://efectococuyo.com/internacionales/unicef-estima-que-unos-680-000-ninos-necesitan-asistencia-en-venezuela-tras-los-terremotos/"
-  },
-  {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-07-02",
-    "conf": "med",
-    "titleEs": "Portugal decreta día de luto nacional el 5 de julio en memoria de víctimas de terremotos en Venezuela",
-    "titleEn": "Portugal decreta día de luto nacional el 5 de julio en memoria de víctimas de terremotos en Venezuela",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/internacionales/portugal-decreta-dia-de-luto-nacional-el-5-de-julio-en-memoria-de-victimas-de-terremotos-en-venezuela/"
   }
 ]

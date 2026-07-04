@@ -3,6 +3,15 @@
     "source": "El Pitazo",
     "section": "Venezuela",
     "date": "2026-07-04",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/07/Cursos-CIV.jpg",
+    "titleEs": "Colegio de Ingenieros capacita a profesionales para evaluar daños estructurales ocasionados por terremotos",
+    "titleEn": "Colegio de Ingenieros capacita a profesionales para evaluar daños estructurales ocasionados por terremotos",
+    "url": "https://elpitazo.net/regiones/gran-caracas/colegio-de-ingenieros-capacita-a-profesionales-para-evaluar-danos-estructurales-ocasionados-por-terremotos/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-07-04",
     "img": "https://elpitazo.net/wp-content/uploads/2026/07/Untitled-design.jpeg",
     "titleEs": "Avior habilita nuevas rutas tras cierre de Maiquetía",
     "titleEn": "Avior habilita nuevas rutas tras cierre de Maiquetía",
@@ -27,13 +36,22 @@
     "url": "https://elpitazo.net/regiones/centro/nueve-dias-despues-de-los-terremotos-aragua-confirma-15-fallecidos-y-mantiene-las-labores-de-rescate/"
   },
   {
-    "source": "El Pitazo",
+    "source": "Efecto Cocuyo",
     "section": "Venezuela",
-    "date": "2026-07-03",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/06/Terremoto-efe.jpg",
-    "titleEs": "Terremotos en Venezuela: sube a 2.645 la cifra de fallecidos",
-    "titleEn": "Terremotos en Venezuela: sube a 2.645 la cifra de fallecidos",
-    "url": "https://elpitazo.net/regiones/gran-caracas/terremotos-en-venezuela-sube-a-2-645-la-cifra-de-fallecidos/"
+    "date": "2026-07-04",
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/04/26200635/42-Recorrido-regreso-a-clases-en-Caracas-1024x683.jpg",
+    "titleEs": "MinEducación retoma clases en regiones menos afectadas por sismos a partir del lunes 6 de julio",
+    "titleEn": "MinEducación retoma clases en regiones menos afectadas por sismos a partir del lunes 6 de julio",
+    "url": "https://efectococuyo.com/la-humanidad/mineducacion-retoma-clases-en-regiones-menos-afectadas-por-sismos-a-partir-del-lunes-6-de-julio/"
+  },
+  {
+    "source": "Efecto Cocuyo",
+    "section": "Venezuela",
+    "date": "2026-07-04",
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/03212134/Coronel-Marco-Antonio-Burgos.-Ejercito-Mexicano-habla-sobre-mision-en-La-Guaira-1024x768.jpeg",
+    "titleEs": "México despliega más de 250 rescatistas, ingenieros, personal médico y perros en La Guaira",
+    "titleEn": "México despliega más de 250 rescatistas, ingenieros, personal médico y perros en La Guaira",
+    "url": "https://efectococuyo.com/la-humanidad/mexico-despliega-mas-de-250-rescatistas-ingenieros-personal-medico-y-perros-en-la-guaira/"
   },
   {
     "source": "Efecto Cocuyo",
@@ -54,22 +72,13 @@
     "url": "https://efectococuyo.com/la-humanidad/de-la-esperanza-a-la-despedida-a-9-dias-del-terremoto-varguenses-siguen-buscando-a-los-suyos/"
   },
   {
-    "source": "Efecto Cocuyo",
+    "source": "Runrun.es",
     "section": "Venezuela",
-    "date": "2026-07-03",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/03194315/WhatsApp-Image-2026-07-03-at-7.02.48-PM-1024x694.jpeg",
-    "titleEs": "Simón Calzadilla: “A 8 días de los terremotos, el apoyo a los damnificados debe sostenerse”",
-    "titleEn": "Simón Calzadilla: “A 8 días de los terremotos, el apoyo a los damnificados debe sostenerse”",
-    "url": "https://efectococuyo.com/politica/simon-calzadilla-a-8-dias-de-los-terremotos-el-apoyo-a-los-damnificados-debe-sostenerse/"
-  },
-  {
-    "source": "Efecto Cocuyo",
-    "section": "Venezuela",
-    "date": "2026-07-03",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/03095948/WhatsApp-Image-2026-07-03-at-9.48.47-AM-2-1024x576.jpeg",
-    "titleEs": "Cecodap: 333 niños y adolescentes resultaron afectados en los primeros dos días tras el doble terremoto",
-    "titleEn": "Cecodap: 333 niños y adolescentes resultaron afectados en los primeros dos días tras el doble terremoto",
-    "url": "https://efectococuyo.com/la-humanidad/cecodap-333-ninos-y-adolescentes-resultaron-afectados-en-los-primeros-dos-dias-tras-el-doble-terremoto/"
+    "date": "2026-07-04",
+    "img": "https://runrun.es/wp-content/uploads/2026/07/photo_2026-07-04_08-03-40.jpg",
+    "titleEs": "Gochos regalan sus cosechas para ayudar a víctimas del sismo",
+    "titleEn": "Gochos regalan sus cosechas para ayudar a víctimas del sismo",
+    "url": "https://runrun.es/noticias/613600/gochos-regalan-sus-cosechas-para-ayudar-a-victimas-del-sismo/"
   },
   {
     "source": "Runrun.es",
@@ -97,14 +106,5 @@
     "titleEs": "Éxodo en progreso: Apure recibe a sobrevivientes del terremoto",
     "titleEn": "Éxodo en progreso: Apure recibe a sobrevivientes del terremoto",
     "url": "https://runrun.es/inicio/613529/exodo-en-progreso-apure-recibe-a-sobrevivientes-del-terremoto/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-03",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/arg.jpg",
-    "titleEs": "Misión humanitaria parte de Argentina hacia Venezuela",
-    "titleEn": "Misión humanitaria parte de Argentina hacia Venezuela",
-    "url": "https://runrun.es/noticias/613513/mision-humanitaria-parte-de-argentina-hacia-venezuela/"
   }
 ]

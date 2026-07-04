@@ -4,6 +4,20 @@
     "sourceEn": "El Pitazo",
     "date": "2026-07-04",
     "conf": "med",
+    "titleEs": "Colegio de Ingenieros capacita a profesionales para evaluar daños estructurales ocasionados por terremotos",
+    "titleEn": "Colegio de Ingenieros capacita a profesionales para evaluar daños estructurales ocasionados por terremotos",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/regiones/gran-caracas/colegio-de-ingenieros-capacita-a-profesionales-para-evaluar-danos-estructurales-ocasionados-por-terremotos/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-07-04",
+    "conf": "med",
     "titleEs": "Avior habilita nuevas rutas tras cierre de Maiquetía",
     "titleEn": "Avior habilita nuevas rutas tras cierre de Maiquetía",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -42,18 +56,32 @@
     "url": "https://elpitazo.net/regiones/centro/nueve-dias-despues-de-los-terremotos-aragua-confirma-15-fallecidos-y-mantiene-las-labores-de-rescate/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-07-03",
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
+    "date": "2026-07-04",
     "conf": "med",
-    "titleEs": "Terremotos en Venezuela: sube a 2.645 la cifra de fallecidos",
-    "titleEn": "Terremotos en Venezuela: sube a 2.645 la cifra de fallecidos",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "titleEs": "MinEducación retoma clases en regiones menos afectadas por sismos a partir del lunes 6 de julio",
+    "titleEn": "MinEducación retoma clases en regiones menos afectadas por sismos a partir del lunes 6 de julio",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/regiones/gran-caracas/terremotos-en-venezuela-sube-a-2-645-la-cifra-de-fallecidos/"
+    "url": "https://efectococuyo.com/la-humanidad/mineducacion-retoma-clases-en-regiones-menos-afectadas-por-sismos-a-partir-del-lunes-6-de-julio/"
+  },
+  {
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
+    "date": "2026-07-04",
+    "conf": "med",
+    "titleEs": "México despliega más de 250 rescatistas, ingenieros, personal médico y perros en La Guaira",
+    "titleEn": "México despliega más de 250 rescatistas, ingenieros, personal médico y perros en La Guaira",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://efectococuyo.com/la-humanidad/mexico-despliega-mas-de-250-rescatistas-ingenieros-personal-medico-y-perros-en-la-guaira/"
   },
   {
     "sourceEs": "Efecto Cocuyo",
@@ -82,33 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://efectococuyo.com/la-humanidad/de-la-esperanza-a-la-despedida-a-9-dias-del-terremoto-varguenses-siguen-buscando-a-los-suyos/"
-  },
-  {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-07-03",
-    "conf": "med",
-    "titleEs": "Simón Calzadilla: “A 8 días de los terremotos, el apoyo a los damnificados debe sostenerse”",
-    "titleEn": "Simón Calzadilla: “A 8 días de los terremotos, el apoyo a los damnificados debe sostenerse”",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/politica/simon-calzadilla-a-8-dias-de-los-terremotos-el-apoyo-a-los-damnificados-debe-sostenerse/"
-  },
-  {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-07-03",
-    "conf": "med",
-    "titleEs": "Cecodap: 333 niños y adolescentes resultaron afectados en los primeros dos días tras el doble terremoto",
-    "titleEn": "Cecodap: 333 niños y adolescentes resultaron afectados en los primeros dos días tras el doble terremoto",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/la-humanidad/cecodap-333-ninos-y-adolescentes-resultaron-afectados-en-los-primeros-dos-dias-tras-el-doble-terremoto/"
   }
 ]

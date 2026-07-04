@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-04-07-2026-17:21-10.68--68.57",
+    "time": "2026-07-04T21:21:00.000Z",
+    "mag": 2,
+    "depth": 5,
+    "lat": 10.68,
+    "lon": -68.57,
+    "place": "29 km al oeste    de Boca de Aroa",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-04-07-2026-16:18-6.92--72.95",
     "time": "2026-07-04T20:18:00.000Z",
     "mag": 3,

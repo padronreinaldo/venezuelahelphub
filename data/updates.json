@@ -2,16 +2,44 @@
   {
     "sourceEs": "El Pitazo",
     "sourceEn": "El Pitazo",
-    "date": "",
+    "date": "2026-07-04",
     "conf": "med",
-    "titleEs": "Milo, el perrito sin entrenamiento que encontró a tres víctimas del terremoto",
-    "titleEn": "Milo, el perrito sin entrenamiento que encontró a tres víctimas del terremoto",
+    "titleEs": "Claves | Los nuevos trámites para la entrega de cuerpos en Los Silos, la morgue improvisada después de los terremotos",
+    "titleEn": "Claves | Los nuevos trámites para la entrega de cuerpos en Los Silos, la morgue improvisada después de los terremotos",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
     "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/?p=508234"
+    "url": "https://elpitazo.net/regiones/claves-los-nuevos-tramites-para-la-entrega-de-cuerpos-en-los-silos-la-morgue-improvisada-despues-del-terremoto/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-07-04",
+    "conf": "med",
+    "titleEs": "Bonos y créditos falsos para damnificados circulan en redes sociales luego de los terremotos en Venezuela",
+    "titleEn": "Bonos y créditos falsos para damnificados circulan en redes sociales luego de los terremotos en Venezuela",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/economia/bonos-y-creditos-falsos-para-damnificados-circulan-en-redes-sociales-luego-de-los-terremotos-en-venezuela/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-07-04",
+    "conf": "med",
+    "titleEs": "Milo, el perrito sin entrenamiento que encontró a tres víctimas de los terremotos",
+    "titleEn": "Milo, el perrito sin entrenamiento que encontró a tres víctimas de los terremotos",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/caracas/milo-el-perrito-sin-entrenamiento-que-encontro-a-tres-victimas-de-los-terremotos/"
   },
   {
     "sourceEs": "El Pitazo",
@@ -25,35 +53,7 @@
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/sin-categoria/familia-de-fabiana-lopez-no-puede-sepultarla-tras-terremotos-su-cadaver-se-extravio/"
-  },
-  {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-07-04",
-    "conf": "med",
-    "titleEs": "Las 48 horas que costaron vidas en La Guaira: la ayuda que no llegó después de los terremotos",
-    "titleEn": "Las 48 horas que costaron vidas en La Guaira: la ayuda que no llegó después de los terremotos",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/regiones/gran-caracas/las-48-horas-que-costaron-vidas-en-la-guaira-la-ayuda-que-no-llego-despues-de-los-terremotos/"
-  },
-  {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-07-04",
-    "conf": "med",
-    "titleEs": "Los terremotos, psicología de la crisis y una devastación que nadie quiso ver",
-    "titleEn": "Los terremotos, psicología de la crisis y una devastación que nadie quiso ver",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/opinion/los-terremotos-psicologia-de-la-crisis-y-una-devastacion-que-nadie-quiso-ver/"
+    "url": "https://elpitazo.net/regiones/familia-de-fabiana-lopez-no-puede-sepultarla-tras-terremotos-su-cadaver-se-extravio/"
   },
   {
     "sourceEs": "Efecto Cocuyo",

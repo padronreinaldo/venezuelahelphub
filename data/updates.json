@@ -60,6 +60,20 @@
     "sourceEn": "Efecto Cocuyo",
     "date": "2026-07-04",
     "conf": "med",
+    "titleEs": "Ante los sismos del 24 de junio de 2026",
+    "titleEn": "Ante los sismos del 24 de junio de 2026",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://efectococuyo.com/opinion/ante-los-sismos-del-24-de-junio-de-2026/"
+  },
+  {
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
+    "date": "2026-07-04",
+    "conf": "med",
     "titleEs": "De la esperanza a la despedida: a 9 días del terremoto varguenses siguen buscando a los suyos",
     "titleEn": "De la esperanza a la despedida: a 9 días del terremoto varguenses siguen buscando a los suyos",
     "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -96,19 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://efectococuyo.com/la-humanidad/cecodap-333-ninos-y-adolescentes-resultaron-afectados-en-los-primeros-dos-dias-tras-el-doble-terremoto/"
-  },
-  {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-07-03",
-    "conf": "med",
-    "titleEs": "Continúa en aumento el número de víctimas fatales de los terremotos",
-    "titleEn": "Continúa en aumento el número de víctimas fatales de los terremotos",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/la-humanidad/continua-en-aumento-el-numero-de-victimas-fatales-de-los-terremotos/"
   }
 ]

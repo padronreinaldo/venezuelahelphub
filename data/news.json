@@ -75,6 +75,15 @@
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-04",
+    "img": "https://runrun.es/wp-content/uploads/2026/07/edificio-1280x960.png",
+    "titleEs": "La Guaira tras los sismos: entre la bota, la niebla y la soledad",
+    "titleEn": "La Guaira tras los sismos: entre la bota, la niebla y la soledad",
+    "url": "https://runrun.es/rr-es-plus/613544/la-guaira-tras-los-sismos-entre-la-bota-la-niebla-y-la-soledad/"
+  },
+  {
+    "source": "Runrun.es",
+    "section": "Venezuela",
+    "date": "2026-07-04",
     "img": "https://runrun.es/wp-content/uploads/2026/07/ari2.jpg",
     "titleEs": "Rescatistas y prensa internacional varados por Consulado de Cúcuta",
     "titleEn": "Rescatistas y prensa internacional varados por Consulado de Cúcuta",
@@ -97,14 +106,5 @@
     "titleEs": "Misión humanitaria parte de Argentina hacia Venezuela",
     "titleEn": "Misión humanitaria parte de Argentina hacia Venezuela",
     "url": "https://runrun.es/noticias/613513/mision-humanitaria-parte-de-argentina-hacia-venezuela/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-03",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/Constitucion.jpg",
-    "titleEs": "Sin Constitución no hay reconstrucción: emergencia, vacío de poder e ilegitimidad en Venezuela",
-    "titleEn": "Sin Constitución no hay reconstrucción: emergencia, vacío de poder e ilegitimidad en Venezuela",
-    "url": "https://runrun.es/noticias/613471/sin-constitucion-no-hay-reconstruccion-emergencia-vacio-de-poder-e-ilegitimidad-en-venezuela/"
   }
 ]

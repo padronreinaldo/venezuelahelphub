@@ -4,6 +4,20 @@
     "sourceEn": "El Pitazo",
     "date": "2026-07-04",
     "conf": "med",
+    "titleEs": "SNTP confirma la muerte de siete trabajadores de la prensa por los terremotos",
+    "titleEn": "SNTP confirma la muerte de siete trabajadores de la prensa por los terremotos",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/regiones/sntp-confirma-la-muerte-de-siete-trabajadores-de-la-prensa-por-los-terremotos/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-07-04",
+    "conf": "med",
     "titleEs": "120 horas bajo los escombros: Carlos Miguel Colmenares, el niño que no perdió la calma",
     "titleEn": "120 horas bajo los escombros: Carlos Miguel Colmenares, el niño que no perdió la calma",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -42,18 +56,18 @@
     "url": "https://elpitazo.net/economia/bonos-y-creditos-falsos-para-damnificados-circulan-en-redes-sociales-luego-de-los-terremotos-en-venezuela/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
     "date": "2026-07-04",
     "conf": "med",
-    "titleEs": "Milo, el perrito sin entrenamiento que encontró a tres víctimas de los terremotos",
-    "titleEn": "Milo, el perrito sin entrenamiento que encontró a tres víctimas de los terremotos",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "titleEs": "A 10 días del terremoto, la morgue de Bello Monte amaneció con pocos personas que buscan a sus familiares",
+    "titleEn": "A 10 días del terremoto, la morgue de Bello Monte amaneció con pocos personas que buscan a sus familiares",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/caracas/milo-el-perrito-sin-entrenamiento-que-encontro-a-tres-victimas-de-los-terremotos/"
+    "url": "https://efectococuyo.com/la-humanidad/a-10-dias-del-terremoto-la-morgue-de-bello-monte-amanecio-con-pocos-personas-que-buscan-a-sus-familiares/"
   },
   {
     "sourceEs": "Efecto Cocuyo",
@@ -96,19 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://efectococuyo.com/la-humanidad/al-menos-cuatro-hospitales-reportan-afectaciones-por-el-terremoto-y-reubican-a-sus-pacientes-en-caracas/"
-  },
-  {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-07-04",
-    "conf": "med",
-    "titleEs": "“Los terremotos en Venezuela también sacuden la política”, dice la prensa alemana",
-    "titleEn": "“Los terremotos en Venezuela también sacuden la política”, dice la prensa alemana",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/la-humanidad/los-terremotos-en-venezuela-tambien-sacuden-la-politica-dice-la-prensa-alemana/"
   }
 ]

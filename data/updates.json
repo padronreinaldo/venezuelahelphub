@@ -4,6 +4,20 @@
     "sourceEn": "El Pitazo",
     "date": "2026-07-03",
     "conf": "med",
+    "titleEs": "Ucab anuncia que retomarán las clases en modalidad virtual debido a los terremotos",
+    "titleEn": "Ucab anuncia que retomarán las clases en modalidad virtual debido a los terremotos",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/regiones/ucab-anuncia-que-retomaran-las-clases-en-modalidad-virtual-debido-a-los-terremotos/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-07-03",
+    "conf": "med",
     "titleEs": "Nueve días después de los terremotos: Aragua confirma 15 fallecidos y mantiene las labores de rescate",
     "titleEn": "Nueve días después de los terremotos: Aragua confirma 15 fallecidos y mantiene las labores de rescate",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -42,18 +56,18 @@
     "url": "https://elpitazo.net/caracas/la-pastora-una-persona-herida-al-desplomarse-parte-del-colegio-san-judas-tadeo/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
     "date": "2026-07-03",
     "conf": "med",
-    "titleEs": "Provea denuncia desaparición forzada de Wilmer Cruz, conocido como «El topo de La Guaira»",
-    "titleEn": "Provea denuncia desaparición forzada de Wilmer Cruz, conocido como «El topo de La Guaira»",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "titleEs": "Simón Calzadilla: “A 8 días de los terremotos, el apoyo a los damnificados debe sostenerse”",
+    "titleEn": "Simón Calzadilla: “A 8 días de los terremotos, el apoyo a los damnificados debe sostenerse”",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/politica/provea-denuncia-desaparicion-forzada-de-wilmer-cruz-conocido-como-el-topo-de-la-guaira/"
+    "url": "https://efectococuyo.com/politica/simon-calzadilla-a-8-dias-de-los-terremotos-el-apoyo-a-los-damnificados-debe-sostenerse/"
   },
   {
     "sourceEs": "Efecto Cocuyo",
@@ -96,19 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://efectococuyo.com/deportes/cristiano-ronaldo-conmueve-al-mundo-con-gesto-solidario-para-nino-afectado-por-terremoto-en-venezuela/"
-  },
-  {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-07-03",
-    "conf": "med",
-    "titleEs": "Colapsa parcialmente en el Colegio Agustiniano San Judas Tadeo de La Pastora",
-    "titleEn": "Colapsa parcialmente en el Colegio Agustiniano San Judas Tadeo de La Pastora",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/la-humanidad/colapsa-san-judas-tadeo-de-la-pastora/"
   }
 ]

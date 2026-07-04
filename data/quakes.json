@@ -1,5 +1,35 @@
 [
   {
+    "id": "fv-03-07-2026-19:33-10.46--66.68",
+    "time": "2026-07-03T23:33:00.000Z",
+    "mag": 2.2,
+    "depth": 10.2,
+    "lat": 10.46,
+    "lon": -66.68,
+    "place": "7 km al suroeste de Guarenas",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
+    "id": "fv-03-07-2026-19:00-10.41--68.43",
+    "time": "2026-07-03T23:00:00.000Z",
+    "mag": 3.1,
+    "depth": 10.3,
+    "lat": 10.41,
+    "lon": -68.43,
+    "place": "36 km al este     de San Felipe",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-03-07-2026-18:09-10.59--66.77",
     "time": "2026-07-03T22:09:00.000Z",
     "mag": 2.7,

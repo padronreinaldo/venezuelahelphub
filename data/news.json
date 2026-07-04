@@ -3,6 +3,15 @@
     "source": "El Pitazo",
     "section": "Venezuela",
     "date": "2026-07-03",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/07/IMG_7655.jpeg",
+    "titleEs": "Ucab anuncia que retomarán las clases en modalidad virtual debido a los terremotos",
+    "titleEn": "Ucab anuncia que retomarán las clases en modalidad virtual debido a los terremotos",
+    "url": "https://elpitazo.net/regiones/ucab-anuncia-que-retomaran-las-clases-en-modalidad-virtual-debido-a-los-terremotos/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-07-03",
     "img": "https://elpitazo.net/wp-content/uploads/2026/07/IMG-20260703-WA0031.jpg",
     "titleEs": "Nueve días después de los terremotos: Aragua confirma 15 fallecidos y mantiene las labores de rescate",
     "titleEn": "Nueve días después de los terremotos: Aragua confirma 15 fallecidos y mantiene las labores de rescate",
@@ -27,13 +36,13 @@
     "url": "https://elpitazo.net/caracas/la-pastora-una-persona-herida-al-desplomarse-parte-del-colegio-san-judas-tadeo/"
   },
   {
-    "source": "El Pitazo",
+    "source": "Efecto Cocuyo",
     "section": "Venezuela",
     "date": "2026-07-03",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/07/armando-cruz.jpg",
-    "titleEs": "Provea denuncia desaparición forzada de Wilmer Cruz, conocido como «El topo de La Guaira»",
-    "titleEn": "Provea denuncia desaparición forzada de Wilmer Cruz, conocido como «El topo de La Guaira»",
-    "url": "https://elpitazo.net/politica/provea-denuncia-desaparicion-forzada-de-wilmer-cruz-conocido-como-el-topo-de-la-guaira/"
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/03194315/WhatsApp-Image-2026-07-03-at-7.02.48-PM-1024x694.jpeg",
+    "titleEs": "Simón Calzadilla: “A 8 días de los terremotos, el apoyo a los damnificados debe sostenerse”",
+    "titleEn": "Simón Calzadilla: “A 8 días de los terremotos, el apoyo a los damnificados debe sostenerse”",
+    "url": "https://efectococuyo.com/politica/simon-calzadilla-a-8-dias-de-los-terremotos-el-apoyo-a-los-damnificados-debe-sostenerse/"
   },
   {
     "source": "Efecto Cocuyo",
@@ -63,13 +72,13 @@
     "url": "https://efectococuyo.com/deportes/cristiano-ronaldo-conmueve-al-mundo-con-gesto-solidario-para-nino-afectado-por-terremoto-en-venezuela/"
   },
   {
-    "source": "Efecto Cocuyo",
+    "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-03",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/03154751/Captura-de-pantalla-2026-07-03-152934.png",
-    "titleEs": "Colapsa parcialmente en el Colegio Agustiniano San Judas Tadeo de La Pastora",
-    "titleEn": "Colapsa parcialmente en el Colegio Agustiniano San Judas Tadeo de La Pastora",
-    "url": "https://efectococuyo.com/la-humanidad/colapsa-san-judas-tadeo-de-la-pastora/"
+    "img": "https://runrun.es/wp-content/uploads/2026/07/arg.jpg",
+    "titleEs": "Misión humanitaria parte de Argentina hacia Venezuela",
+    "titleEn": "Misión humanitaria parte de Argentina hacia Venezuela",
+    "url": "https://runrun.es/inicio/613513/mision-humanitaria-parte-de-argentina-hacia-venezuela/"
   },
   {
     "source": "Runrun.es",
@@ -85,8 +94,8 @@
     "section": "Venezuela",
     "date": "2026-07-03",
     "img": "https://runrun.es/wp-content/uploads/2026/07/fallecidos-3jul.jpg",
-    "titleEs": "Balance #3Jul | Fallecidos por terremotos asciende a 2.645 personas según escueto reporte oficial",
-    "titleEn": "Balance #3Jul | Fallecidos por terremotos asciende a 2.645 personas según escueto reporte oficial",
+    "titleEs": "Balance #3Jul | Cifra de fallecidos por terremotos asciende a 2645 personas, según escueto reporte oficial",
+    "titleEn": "Balance #3Jul | Cifra de fallecidos por terremotos asciende a 2645 personas, según escueto reporte oficial",
     "url": "https://runrun.es/noticias/613496/balance-3jul-cifra-de-fallecidos-por-terremotos-asciende-a-2-645-personas-segun-escueto-reporte-oficial/"
   },
   {
@@ -97,14 +106,5 @@
     "titleEs": "ONU calcula 37 000 millones de dólares en daños en Venezuela",
     "titleEn": "ONU calcula 37 000 millones de dólares en daños en Venezuela",
     "url": "https://runrun.es/inicio/613439/onu-calcula-37-000-millones-de-dolares-en-danos-en-venezuela/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-03",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/Claves.jpg",
-    "titleEs": "CLAVES | JEP: El Estado falló en su deber de proteger",
-    "titleEn": "CLAVES | JEP: El Estado falló en su deber de proteger",
-    "url": "https://runrun.es/inicio/613447/claves-jep-el-estado-fallo-en-su-deber-de-proteger/"
   }
 ]

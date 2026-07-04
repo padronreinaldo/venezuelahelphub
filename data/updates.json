@@ -2,6 +2,20 @@
   {
     "sourceEs": "El Pitazo",
     "sourceEn": "El Pitazo",
+    "date": "2026-07-04",
+    "conf": "med",
+    "titleEs": "Avior habilita nuevas rutas tras cierre de Maiquetía",
+    "titleEn": "Avior habilita nuevas rutas tras cierre de Maiquetía",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/economia/avior-habilita-nuevas-rutas-tras-cierre-de-maiquetia/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
     "date": "2026-07-03",
     "conf": "med",
     "titleEs": "Ucab anuncia que retomarán las clases en modalidad virtual debido a los terremotos",
@@ -42,18 +56,18 @@
     "url": "https://elpitazo.net/regiones/gran-caracas/terremotos-en-venezuela-sube-a-2-645-la-cifra-de-fallecidos/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-07-03",
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
+    "date": "2026-07-04",
     "conf": "med",
-    "titleEs": "La Pastora | Una persona herida al desplomarse parte del colegio San Judas Tadeo",
-    "titleEn": "La Pastora | Una persona herida al desplomarse parte del colegio San Judas Tadeo",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "titleEs": "De la esperanza a la despedida: a 9 días del terremoto varguenses siguen buscando a los suyos",
+    "titleEn": "De la esperanza a la despedida: a 9 días del terremoto varguenses siguen buscando a los suyos",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/caracas/la-pastora-una-persona-herida-al-desplomarse-parte-del-colegio-san-judas-tadeo/"
+    "url": "https://efectococuyo.com/la-humanidad/de-la-esperanza-a-la-despedida-a-9-dias-del-terremoto-varguenses-siguen-buscando-a-los-suyos/"
   },
   {
     "sourceEs": "Efecto Cocuyo",
@@ -96,19 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://efectococuyo.com/la-humanidad/continua-en-aumento-el-numero-de-victimas-fatales-de-los-terremotos/"
-  },
-  {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-07-03",
-    "conf": "med",
-    "titleEs": "Cristiano Ronaldo conmueve al mundo con gesto solidario para niño afectado por terremoto en Venezuela",
-    "titleEn": "Cristiano Ronaldo conmueve al mundo con gesto solidario para niño afectado por terremoto en Venezuela",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/deportes/cristiano-ronaldo-conmueve-al-mundo-con-gesto-solidario-para-nino-afectado-por-terremoto-en-venezuela/"
   }
 ]

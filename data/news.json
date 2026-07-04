@@ -2,6 +2,15 @@
   {
     "source": "El Pitazo",
     "section": "Venezuela",
+    "date": "2026-07-04",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/07/Untitled-design.jpeg",
+    "titleEs": "Avior habilita nuevas rutas tras cierre de Maiquetía",
+    "titleEn": "Avior habilita nuevas rutas tras cierre de Maiquetía",
+    "url": "https://elpitazo.net/economia/avior-habilita-nuevas-rutas-tras-cierre-de-maiquetia/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
     "date": "2026-07-03",
     "img": "https://elpitazo.net/wp-content/uploads/2026/07/IMG_7655.jpeg",
     "titleEs": "Ucab anuncia que retomarán las clases en modalidad virtual debido a los terremotos",
@@ -27,13 +36,13 @@
     "url": "https://elpitazo.net/regiones/gran-caracas/terremotos-en-venezuela-sube-a-2-645-la-cifra-de-fallecidos/"
   },
   {
-    "source": "El Pitazo",
+    "source": "Efecto Cocuyo",
     "section": "Venezuela",
-    "date": "2026-07-03",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/07/la-pastora.jpg",
-    "titleEs": "La Pastora | Una persona herida al desplomarse parte del colegio San Judas Tadeo",
-    "titleEn": "La Pastora | Una persona herida al desplomarse parte del colegio San Judas Tadeo",
-    "url": "https://elpitazo.net/caracas/la-pastora-una-persona-herida-al-desplomarse-parte-del-colegio-san-judas-tadeo/"
+    "date": "2026-07-04",
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/03203118/WhatsApp-Image-2026-07-03-at-8.30.54-PM-1024x576.jpeg",
+    "titleEs": "De la esperanza a la despedida: a 9 días del terremoto varguenses siguen buscando a los suyos",
+    "titleEn": "De la esperanza a la despedida: a 9 días del terremoto varguenses siguen buscando a los suyos",
+    "url": "https://efectococuyo.com/la-humanidad/de-la-esperanza-a-la-despedida-a-9-dias-del-terremoto-varguenses-siguen-buscando-a-los-suyos/"
   },
   {
     "source": "Efecto Cocuyo",
@@ -63,13 +72,22 @@
     "url": "https://efectococuyo.com/la-humanidad/continua-en-aumento-el-numero-de-victimas-fatales-de-los-terremotos/"
   },
   {
-    "source": "Efecto Cocuyo",
+    "source": "Runrun.es",
     "section": "Venezuela",
-    "date": "2026-07-03",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/03165341/55ac6f4c9b3e50506cd3e1520e3e97d90485c1cc-1024x683.jpg",
-    "titleEs": "Cristiano Ronaldo conmueve al mundo con gesto solidario para niño afectado por terremoto en Venezuela",
-    "titleEn": "Cristiano Ronaldo conmueve al mundo con gesto solidario para niño afectado por terremoto en Venezuela",
-    "url": "https://efectococuyo.com/deportes/cristiano-ronaldo-conmueve-al-mundo-con-gesto-solidario-para-nino-afectado-por-terremoto-en-venezuela/"
+    "date": "2026-07-04",
+    "img": "https://runrun.es/wp-content/uploads/2026/07/ari2.jpg",
+    "titleEs": "Rescatistas y prensa internacional varados por Consulado de Cúcuta",
+    "titleEn": "Rescatistas y prensa internacional varados por Consulado de Cúcuta",
+    "url": "https://runrun.es/noticias/613533/rescatistas-y-prensa-internacional-varados-por-consulado-de-cucuta/"
+  },
+  {
+    "source": "Runrun.es",
+    "section": "Venezuela",
+    "date": "2026-07-04",
+    "img": "https://runrun.es/wp-content/uploads/2026/07/ari.jpg",
+    "titleEs": "Éxodo en progreso: Apure recibe a sobrevivientes del terremoto",
+    "titleEn": "Éxodo en progreso: Apure recibe a sobrevivientes del terremoto",
+    "url": "https://runrun.es/inicio/613529/exodo-en-progreso-apure-recibe-a-sobrevivientes-del-terremoto/"
   },
   {
     "source": "Runrun.es",
@@ -78,7 +96,7 @@
     "img": "https://runrun.es/wp-content/uploads/2026/07/arg.jpg",
     "titleEs": "Misión humanitaria parte de Argentina hacia Venezuela",
     "titleEn": "Misión humanitaria parte de Argentina hacia Venezuela",
-    "url": "https://runrun.es/inicio/613513/mision-humanitaria-parte-de-argentina-hacia-venezuela/"
+    "url": "https://runrun.es/noticias/613513/mision-humanitaria-parte-de-argentina-hacia-venezuela/"
   },
   {
     "source": "Runrun.es",
@@ -88,23 +106,5 @@
     "titleEs": "Sin Constitución no hay reconstrucción: emergencia, vacío de poder e ilegitimidad en Venezuela",
     "titleEn": "Sin Constitución no hay reconstrucción: emergencia, vacío de poder e ilegitimidad en Venezuela",
     "url": "https://runrun.es/noticias/613471/sin-constitucion-no-hay-reconstruccion-emergencia-vacio-de-poder-e-ilegitimidad-en-venezuela/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-03",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/fallecidos-3jul.jpg",
-    "titleEs": "Balance #3Jul | Cifra de fallecidos por terremotos asciende a 2645 personas, según escueto reporte oficial",
-    "titleEn": "Balance #3Jul | Cifra de fallecidos por terremotos asciende a 2645 personas, según escueto reporte oficial",
-    "url": "https://runrun.es/noticias/613496/balance-3jul-cifra-de-fallecidos-por-terremotos-asciende-a-2-645-personas-segun-escueto-reporte-oficial/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-03",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/onu.jpg",
-    "titleEs": "ONU calcula 37 000 millones de dólares en daños en Venezuela",
-    "titleEn": "ONU calcula 37 000 millones de dólares en daños en Venezuela",
-    "url": "https://runrun.es/inicio/613439/onu-calcula-37-000-millones-de-dolares-en-danos-en-venezuela/"
   }
 ]

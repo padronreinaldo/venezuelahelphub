@@ -60,20 +60,6 @@
     "sourceEn": "Efecto Cocuyo",
     "date": "2026-07-04",
     "conf": "med",
-    "titleEs": "A 10 días del terremoto, la morgue de Bello Monte amaneció con pocos personas que buscan a sus familiares",
-    "titleEn": "A 10 días del terremoto, la morgue de Bello Monte amaneció con pocos personas que buscan a sus familiares",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/la-humanidad/a-10-dias-del-terremoto-la-morgue-de-bello-monte-amanecio-con-pocos-personas-que-buscan-a-sus-familiares/"
-  },
-  {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-07-04",
-    "conf": "med",
     "titleEs": "A 10 días del doble terremoto se han registrado 2.954 fallecidos",
     "titleEn": "A 10 días del doble terremoto se han registrado 2.954 fallecidos",
     "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -110,5 +96,19 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://efectococuyo.com/la-humanidad/al-menos-cuatro-hospitales-reportan-afectaciones-por-el-terremoto-y-reubican-a-sus-pacientes-en-caracas/"
+  },
+  {
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
+    "date": "2026-07-04",
+    "conf": "med",
+    "titleEs": "“Los terremotos en Venezuela también sacuden la política”, dice la prensa alemana",
+    "titleEn": "“Los terremotos en Venezuela también sacuden la política”, dice la prensa alemana",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://efectococuyo.com/la-humanidad/los-terremotos-en-venezuela-tambien-sacuden-la-politica-dice-la-prensa-alemana/"
   }
 ]

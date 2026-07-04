@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-04-07-2026-11:28-10.36--68.64",
+    "time": "2026-07-04T15:28:00.000Z",
+    "mag": 2.9,
+    "depth": 5,
+    "lat": 10.36,
+    "lon": -68.64,
+    "place": "11 km al este     de San Felipe",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-04-07-2026-09:24-10.47--68.58",
     "time": "2026-07-04T13:24:00.000Z",
     "mag": 3,

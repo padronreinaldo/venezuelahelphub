@@ -2,6 +2,24 @@
   {
     "source": "El Pitazo",
     "section": "Venezuela",
+    "date": "",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/07/milo.rescatista.jpeg",
+    "titleEs": "Milo, el perrito sin entrenamiento que encontró a tres víctimas del terremoto",
+    "titleEn": "Milo, el perrito sin entrenamiento que encontró a tres víctimas del terremoto",
+    "url": "https://elpitazo.net/?p=508234"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-07-04",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-03-at-8.15.56-PM.jpeg",
+    "titleEs": "Familia de Fabiana López no puede sepultarla tras terremotos: su cadáver se extravió",
+    "titleEn": "Familia de Fabiana López no puede sepultarla tras terremotos: su cadáver se extravió",
+    "url": "https://elpitazo.net/sin-categoria/familia-de-fabiana-lopez-no-puede-sepultarla-tras-terremotos-su-cadaver-se-extravio/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
     "date": "2026-07-04",
     "img": "https://elpitazo.net/wp-content/uploads/2026/07/2026-07-04.png",
     "titleEs": "Las 48 horas que costaron vidas en La Guaira: la ayuda que no llegó después de los terremotos",
@@ -18,22 +36,13 @@
     "url": "https://elpitazo.net/opinion/los-terremotos-psicologia-de-la-crisis-y-una-devastacion-que-nadie-quiso-ver/"
   },
   {
-    "source": "El Pitazo",
+    "source": "Efecto Cocuyo",
     "section": "Venezuela",
     "date": "2026-07-04",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/07/clases.jpg",
-    "titleEs": "Las clases se reanudarán el #6Jul en estados no afectados por los terremotos",
-    "titleEn": "Las clases se reanudarán el #6Jul en estados no afectados por los terremotos",
-    "url": "https://elpitazo.net/regiones/las-clases-se-reanudaran-el-6jul-en-estados-no-afectados-por-los-terremotos/"
-  },
-  {
-    "source": "El Pitazo",
-    "section": "Venezuela",
-    "date": "2026-07-04",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/07/Cursos-CIV.jpg",
-    "titleEs": "Colegio de Ingenieros capacita a profesionales para evaluar daños estructurales ocasionados por terremotos",
-    "titleEn": "Colegio de Ingenieros capacita a profesionales para evaluar daños estructurales ocasionados por terremotos",
-    "url": "https://elpitazo.net/regiones/gran-caracas/colegio-de-ingenieros-capacita-a-profesionales-para-evaluar-danos-estructurales-ocasionados-por-terremotos/"
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/04153358/Risquez.jpg",
+    "titleEs": "Al menos cuatro hospitales reportan afectaciones por el terremoto y reubican a sus pacientes en Caracas",
+    "titleEn": "Al menos cuatro hospitales reportan afectaciones por el terremoto y reubican a sus pacientes en Caracas",
+    "url": "https://efectococuyo.com/la-humanidad/al-menos-cuatro-hospitales-reportan-afectaciones-por-el-terremoto-y-reubican-a-sus-pacientes-en-caracas/"
   },
   {
     "source": "Efecto Cocuyo",
@@ -63,13 +72,22 @@
     "url": "https://efectococuyo.com/la-humanidad/el-doble-terremoto-de-venezuela-en-cifras/"
   },
   {
-    "source": "Efecto Cocuyo",
+    "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-04",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/04/26200635/42-Recorrido-regreso-a-clases-en-Caracas-1024x683.jpg",
-    "titleEs": "MinEducación retoma clases en regiones menos afectadas por sismos a partir del lunes 6 de julio",
-    "titleEn": "MinEducación retoma clases en regiones menos afectadas por sismos a partir del lunes 6 de julio",
-    "url": "https://efectococuyo.com/la-humanidad/mineducacion-retoma-clases-en-regiones-menos-afectadas-por-sismos-a-partir-del-lunes-6-de-julio/"
+    "img": "https://runrun.es/wp-content/uploads/2026/07/acnur.jpg",
+    "titleEs": "Alianza por Venezuela y ACNUR lanzan la Red de Ayuda para movilizar campañas solidarias desde Argentina tras los terremotos",
+    "titleEn": "Alianza por Venezuela y ACNUR lanzan la Red de Ayuda para movilizar campañas solidarias desde Argentina tras los terremotos",
+    "url": "https://runrun.es/inicio/613640/alianza-por-venezuela-y-acnur-lanzan-la-red-de-ayuda-para-movilizar-campanas-solidarias-desde-argentina-tras-los-terremotos/"
+  },
+  {
+    "source": "Runrun.es",
+    "section": "Venezuela",
+    "date": "2026-07-04",
+    "img": "https://runrun.es/wp-content/uploads/2026/07/casahermanitascarmelitas.jpg",
+    "titleEs": "Shakira, Bad Bunny, Rosalía: artistas internacionales se solidarizan con tragedia de Venezuela",
+    "titleEn": "Shakira, Bad Bunny, Rosalía: artistas internacionales se solidarizan con tragedia de Venezuela",
+    "url": "https://runrun.es/noticias/613622/shakira-bad-bunny-rosalia-artistas-internacionales-se-solidarizan-con-tragedia-de-venezuela/"
   },
   {
     "source": "Runrun.es",
@@ -88,23 +106,5 @@
     "titleEs": "Gochos regalan sus cosechas para ayudar a víctimas del sismo",
     "titleEn": "Gochos regalan sus cosechas para ayudar a víctimas del sismo",
     "url": "https://runrun.es/noticias/613600/gochos-regalan-sus-cosechas-para-ayudar-a-victimas-del-sismo/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-04",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/edificio-1280x960.png",
-    "titleEs": "La Guaira a nueve días de los sismos: entre la bota, la niebla y la soledad",
-    "titleEn": "La Guaira a nueve días de los sismos: entre la bota, la niebla y la soledad",
-    "url": "https://runrun.es/rr-es-plus/613544/la-guaira-tras-los-sismos-entre-la-bota-la-niebla-y-la-soledad/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-04",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/ari2.jpg",
-    "titleEs": "Rescatistas y prensa internacional varados por Consulado de Cúcuta",
-    "titleEn": "Rescatistas y prensa internacional varados por Consulado de Cúcuta",
-    "url": "https://runrun.es/noticias/613533/rescatistas-y-prensa-internacional-varados-por-consulado-de-cucuta/"
   }
 ]

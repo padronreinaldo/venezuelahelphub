@@ -58,8 +58,8 @@
     "section": "Venezuela",
     "date": "2026-07-05",
     "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/06/29234159/911369b8e91e36923fb20593c0695c06e5bacc95-1024x683.jpg",
-    "titleEs": "Colapsa red sísmica venezolana: Raúl Estévez analiza el impacto y propone soluciones para el país",
-    "titleEn": "Colapsa red sísmica venezolana: Raúl Estévez analiza el impacto y propone soluciones para el país",
+    "titleEs": "Perdimos 98% de las estaciones sismológicas: Raúl Estévez analiza el impacto y propone soluciones para el país",
+    "titleEn": "Perdimos 98% de las estaciones sismológicas: Raúl Estévez analiza el impacto y propone soluciones para el país",
     "url": "https://efectococuyo.com/la-humanidad/colapsa-la-red-sismica-venezolana-raul-estevez-analiza-el-impacto-y-propone-soluciones-para-el-pais/"
   },
   {
@@ -75,7 +75,16 @@
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-05",
-    "img": "",
+    "img": "https://runrun.es/wp-content/uploads/2026/07/Delcy-Rodriguez-exportacion-materiales-de-construcion-Gran-Mision-Venezuela-Renace.jpg",
+    "titleEs": "Ejecutivo prohíbe exportar materiales de construcción y crea la Gran Misión Venezuela Renace",
+    "titleEn": "Ejecutivo prohíbe exportar materiales de construcción y crea la Gran Misión Venezuela Renace",
+    "url": "https://runrun.es/noticias/613711/ejecutivo-prohibe-exportar-materiales-de-construccion-y-crea-la-gran-mision-venezuela-renace/"
+  },
+  {
+    "source": "Runrun.es",
+    "section": "Venezuela",
+    "date": "2026-07-05",
+    "img": "https://runrun.es/wp-content/uploads/2026/07/TERREMOTO-LA-GUAIRA-11.jpg",
     "titleEs": "Docente pide apoyo para rescatar los cuerpos de su suegra y un vecino de debajo de su casa",
     "titleEn": "Docente pide apoyo para rescatar los cuerpos de su suegra y un vecino de debajo de su casa",
     "url": "https://runrun.es/rr-es-plus/613700/docente-pide-apoyo-para-rescatar-los-cuerpos-de-su-suegra-y-un-vecino-de-debajo-de-su-casa/"
@@ -84,7 +93,7 @@
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-05",
-    "img": "",
+    "img": "https://runrun.es/wp-content/uploads/2026/06/La-Guaira-sismo.jpeg",
     "titleEs": "ANOVA: Reponer infraestructura habitacional en La Guaira costará entre 2 % y 3 % del PIB",
     "titleEn": "ANOVA: Reponer infraestructura habitacional en La Guaira costará entre 2 % y 3 % del PIB",
     "url": "https://runrun.es/rr-es-plus/613651/anova-reponer-infraestructura-habitacional-en-la-guaira-costara-entre-2-y-3-del-pib/"
@@ -93,18 +102,9 @@
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-05",
-    "img": "",
+    "img": "https://runrun.es/wp-content/uploads/2026/07/Hospital-Periferico-de-Coche.jpg",
     "titleEs": "Dos hospitales en Caracas están inhabilitados por daños en su infraestructura tras los terremotos",
     "titleEn": "Dos hospitales en Caracas están inhabilitados por daños en su infraestructura tras los terremotos",
     "url": "https://runrun.es/noticias/613688/dos-hospitales-en-caracas-estan-inhabilitados-por-danos-en-su-infraestructura-tras-los-terremotos/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-04",
-    "img": "",
-    "titleEs": "Al menos siete periodistas murieron por los terremotos y otros tres están desaparecidos",
-    "titleEn": "Al menos siete periodistas murieron por los terremotos y otros tres están desaparecidos",
-    "url": "https://runrun.es/noticias/613664/al-menos-siete-periodistas-murieron-por-los-terremotos-y-otros-tres-estan-desaparecidos/"
   }
 ]

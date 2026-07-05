@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T21:33:34.572Z",
+  "updatedAt": "2026-07-05T22:58:25.669Z",
   "stats": {
     "maxMagnitude": 4.6,
     "aftershocks": 2,
@@ -9,22 +9,22 @@
   },
   "prov": {
     "maxMagnitude": {
-      "seenAt": "2026-07-05T21:33:34.572Z",
+      "seenAt": "2026-07-05T22:58:25.669Z",
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8yf"
     },
     "aftershocks": {
-      "seenAt": "2026-07-05T21:33:34.572Z",
+      "seenAt": "2026-07-05T22:58:25.669Z",
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8yf"
     },
     "deaths": {
-      "seenAt": "2026-07-05T21:33:34.572Z",
+      "seenAt": "2026-07-05T22:58:25.669Z",
       "source": "ONU/OCHA · ref. internacional (Wikipedia EN)",
       "url": "https://en.wikipedia.org/wiki/2026_Venezuela_earthquakes"
     },
     "injured": {
-      "seenAt": "2026-07-05T21:33:34.572Z",
+      "seenAt": "2026-07-05T22:58:25.669Z",
       "source": "ONU/OCHA · ref. internacional (Wikipedia EN)",
       "url": "https://en.wikipedia.org/wiki/2026_Venezuela_earthquakes"
     },
@@ -36,10 +36,10 @@
   },
   "alt": {
     "deaths": {
-      "value": 2954,
+      "value": 3342,
       "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/a-10-dias-del-doble-terremoto-se-han-registrado-2-954-fallecidos/",
-      "seenAt": "2026-07-05T03:54:42.368Z"
+      "url": "https://efectococuyo.com/la-humanidad/cifras-oficiales-3-342-fallecidos-16-740-heridos-y-17-345-damnificados-a-11-dias-de-sismos/",
+      "seenAt": "2026-07-05T22:58:25.669Z"
     },
     "injured": {
       "value": 32038,

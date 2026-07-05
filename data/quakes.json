@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-05-07-2026-17:10-10.39--68.63",
+    "time": "2026-07-05T21:10:00.000Z",
+    "mag": 3.2,
+    "depth": 7.7,
+    "lat": 10.39,
+    "lon": -68.63,
+    "place": "13 km al noreste de San Felipe ",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-05-07-2026-15:31-10.57--66.79",
     "time": "2026-07-05T19:31:00.000Z",
     "mag": 2.3,
@@ -7477,21 +7492,6 @@
     "lat": 10.58,
     "lon": -66.8,
     "place": "8 km al suroeste de Naiguata ",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-27-06-2026-2149-10.61--66.8",
-    "time": "2026-06-28T13:27:33.123Z",
-    "mag": 2.3,
-    "depth": 5,
-    "lat": 10.61,
-    "lon": -66.8,
-    "place": "7 km al oeste de Naiguata",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

@@ -4,6 +4,20 @@
     "sourceEn": "El Pitazo",
     "date": "2026-07-05",
     "conf": "med",
+    "titleEs": "Terremotos en Venezuela: contabilizan 2.954 los fallecidos y a 16.592 los heridos",
+    "titleEn": "Terremotos en Venezuela: contabilizan 2.954 los fallecidos y a 16.592 los heridos",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/regiones/terremotos-en-venezuela-contabilizan-2-954-los-fallecidos-y-a-16-592-los-heridos/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-07-05",
+    "conf": "med",
     "titleEs": "Alcalde de Panamá denuncia desvío de la ayuda que envió a La Guaira: una parte se encuentra en Maturín",
     "titleEn": "Alcalde de Panamá denuncia desvío de la ayuda que envió a La Guaira: una parte se encuentra en Maturín",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -42,18 +56,18 @@
     "url": "https://elpitazo.net/regiones/sntp-confirma-la-muerte-de-siete-trabajadores-de-la-prensa-por-los-terremotos/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-07-04",
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
+    "date": "2026-07-05",
     "conf": "med",
-    "titleEs": "120 horas bajo los escombros: Carlos Miguel Colmenares, el niño que no perdió la calma",
-    "titleEn": "120 horas bajo los escombros: Carlos Miguel Colmenares, el niño que no perdió la calma",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "titleEs": "Del deslave de 1999 al terremoto de 2026 en La Guaira: reflexiones de Rogelio Altez en ocho claves",
+    "titleEn": "Del deslave de 1999 al terremoto de 2026 en La Guaira: reflexiones de Rogelio Altez en ocho claves",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/regiones/120-horas-bajo-los-escombros-carlos-miguel-colmenares-el-nino-que-no-perdio-la-calma/"
+    "url": "https://efectococuyo.com/la-humanidad/del-deslave-de-1999-al-terremoto-de-2026-en-la-guaira-reflexiones-del-antropologo-rogelio-altez-en-ocho-claves/"
   },
   {
     "sourceEs": "Efecto Cocuyo",
@@ -96,19 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://efectococuyo.com/la-humanidad/siete-periodistas-fallecieron-consecuencia-doble-terremoto-segun-el-sntp/"
-  },
-  {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-07-05",
-    "conf": "med",
-    "titleEs": "El desastre es una herida que no cierra en La Guaira: Rogelio Altez",
-    "titleEn": "El desastre es una herida que no cierra en La Guaira: Rogelio Altez",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/la-humanidad/el-desastre-es-una-herida-que-no-cierra-en-la-guaira-rogelio-altez/"
   }
 ]

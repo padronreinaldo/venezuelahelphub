@@ -3,6 +3,15 @@
     "source": "El Pitazo",
     "section": "Venezuela",
     "date": "2026-07-05",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/07/bd6e4fc36bb270721fa67302fc73dcf53082f4f2w.jpg",
+    "titleEs": "Terremotos en Venezuela: contabilizan 2.954 los fallecidos y a 16.592 los heridos",
+    "titleEn": "Terremotos en Venezuela: contabilizan 2.954 los fallecidos y a 16.592 los heridos",
+    "url": "https://elpitazo.net/regiones/terremotos-en-venezuela-contabilizan-2-954-los-fallecidos-y-a-16-592-los-heridos/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-07-05",
     "img": "https://elpitazo.net/wp-content/uploads/2026/07/panama-scaled.jpg",
     "titleEs": "Alcalde de Panamá denuncia desvío de la ayuda que envió a La Guaira: una parte se encuentra en Maturín",
     "titleEn": "Alcalde de Panamá denuncia desvío de la ayuda que envió a La Guaira: una parte se encuentra en Maturín",
@@ -27,13 +36,13 @@
     "url": "https://elpitazo.net/regiones/sntp-confirma-la-muerte-de-siete-trabajadores-de-la-prensa-por-los-terremotos/"
   },
   {
-    "source": "El Pitazo",
+    "source": "Efecto Cocuyo",
     "section": "Venezuela",
-    "date": "2026-07-04",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/07/nino-sobreviviente-del-sismo-en-venezuela-900x506jpg-64009.jpg",
-    "titleEs": "120 horas bajo los escombros: Carlos Miguel Colmenares, el niño que no perdió la calma",
-    "titleEn": "120 horas bajo los escombros: Carlos Miguel Colmenares, el niño que no perdió la calma",
-    "url": "https://elpitazo.net/regiones/120-horas-bajo-los-escombros-carlos-miguel-colmenares-el-nino-que-no-perdio-la-calma/"
+    "date": "2026-07-05",
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/04165307/Rogelio-Altez-1024x768.jpeg",
+    "titleEs": "Del deslave de 1999 al terremoto de 2026 en La Guaira: reflexiones de Rogelio Altez en ocho claves",
+    "titleEn": "Del deslave de 1999 al terremoto de 2026 en La Guaira: reflexiones de Rogelio Altez en ocho claves",
+    "url": "https://efectococuyo.com/la-humanidad/del-deslave-de-1999-al-terremoto-de-2026-en-la-guaira-reflexiones-del-antropologo-rogelio-altez-en-ocho-claves/"
   },
   {
     "source": "Efecto Cocuyo",
@@ -63,13 +72,13 @@
     "url": "https://efectococuyo.com/la-humanidad/siete-periodistas-fallecieron-consecuencia-doble-terremoto-segun-el-sntp/"
   },
   {
-    "source": "Efecto Cocuyo",
+    "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-05",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/04135914/c4c6ac67258c33e1c33a5f17f6ce1dd88c52d84fw-1024x683.jpg",
-    "titleEs": "El desastre es una herida que no cierra en La Guaira: Rogelio Altez",
-    "titleEn": "El desastre es una herida que no cierra en La Guaira: Rogelio Altez",
-    "url": "https://efectococuyo.com/la-humanidad/el-desastre-es-una-herida-que-no-cierra-en-la-guaira-rogelio-altez/"
+    "img": "https://runrun.es/wp-content/uploads/2026/05/Provea-salon-de-clases.jpg",
+    "titleEs": "Cecodap exige garantizar seguridad y protección para el regreso a clases después de los sismos",
+    "titleEn": "Cecodap exige garantizar seguridad y protección para el regreso a clases después de los sismos",
+    "url": "https://runrun.es/noticias/613728/cecodap-exige-garantizar-seguridad-y-proteccion-para-el-regreso-a-clases-despues-de-los-sismos/"
   },
   {
     "source": "Runrun.es",
@@ -97,14 +106,5 @@
     "titleEs": "ANOVA: Reponer infraestructura habitacional en La Guaira costará entre 2 % y 3 % del PIB",
     "titleEn": "ANOVA: Reponer infraestructura habitacional en La Guaira costará entre 2 % y 3 % del PIB",
     "url": "https://runrun.es/rr-es-plus/613651/anova-reponer-infraestructura-habitacional-en-la-guaira-costara-entre-2-y-3-del-pib/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-05",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/Hospital-Periferico-de-Coche.jpg",
-    "titleEs": "Dos hospitales en Caracas están inhabilitados por daños en su infraestructura tras los terremotos",
-    "titleEn": "Dos hospitales en Caracas están inhabilitados por daños en su infraestructura tras los terremotos",
-    "url": "https://runrun.es/noticias/613688/dos-hospitales-en-caracas-estan-inhabilitados-por-danos-en-su-infraestructura-tras-los-terremotos/"
   }
 ]

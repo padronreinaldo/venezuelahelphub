@@ -3,6 +3,15 @@
     "source": "El Pitazo",
     "section": "Venezuela",
     "date": "2026-07-05",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/07/imagen_2026-07-05_153816270.png",
+    "titleEs": "Hermanas Carmelitas reciben a niños y madres damnificados por los terremotos",
+    "titleEn": "Hermanas Carmelitas reciben a niños y madres damnificados por los terremotos",
+    "url": "https://elpitazo.net/caracas/hermanas-carmelitas-reciben-a-ninos-y-madres-damnificados-por-los-terremotos/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-07-05",
     "img": "https://elpitazo.net/wp-content/uploads/2026/07/imagen_2026-07-05_145819968.png",
     "titleEs": "Danny Ocean donará ganancias de su gira a los afectados por terremotos: «Nos tenemos a nosotros»",
     "titleEn": "Danny Ocean donará ganancias de su gira a los afectados por terremotos: «Nos tenemos a nosotros»",
@@ -27,13 +36,13 @@
     "url": "https://elpitazo.net/regiones/aeropuerto-de-maiquetia-delcy-rodriguez-anuncia-alianza-internacional-para-su-recuperacion/"
   },
   {
-    "source": "El Pitazo",
+    "source": "Efecto Cocuyo",
     "section": "Venezuela",
     "date": "2026-07-05",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/07/bd6e4fc36bb270721fa67302fc73dcf53082f4f2w.jpg",
-    "titleEs": "Terremotos en Venezuela: contabilizan 2.954 los fallecidos y a 16.592 los heridos",
-    "titleEn": "Terremotos en Venezuela: contabilizan 2.954 los fallecidos y a 16.592 los heridos",
-    "url": "https://elpitazo.net/regiones/terremotos-en-venezuela-contabilizan-2-954-los-fallecidos-y-a-16-592-los-heridos/"
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/05164732/3c6233217a2e00040865ee9db5ac9bd7e461a64dw-1024x683.jpg",
+    "titleEs": "En La Guaira se concentran en retirar escombros y en recuperar cuerpos tras partida de rescatistas",
+    "titleEn": "En La Guaira se concentran en retirar escombros y en recuperar cuerpos tras partida de rescatistas",
+    "url": "https://efectococuyo.com/la-humanidad/en-la-guaira-se-concentran-en-retirar-escombros-y-en-recuperar-cuerpos-tras-partida-de-rescatistas/"
   },
   {
     "source": "Efecto Cocuyo",
@@ -63,13 +72,13 @@
     "url": "https://efectococuyo.com/opinion/el-duelo-entre-carpas-y-escombros-en-caraballeda-no-me-voy-sin-los-cuerpos-de-mis-hijas/"
   },
   {
-    "source": "Efecto Cocuyo",
+    "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-05",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/05110131/d6d69b4a2bab4b6f8725318328360fe3ae2b43a8w-1024x683.jpg",
-    "titleEs": "Siete periodistas fallecieron como consecuencia del doble terremoto, según el Sntp",
-    "titleEn": "Siete periodistas fallecieron como consecuencia del doble terremoto, según el Sntp",
-    "url": "https://efectococuyo.com/la-humanidad/siete-periodistas-fallecieron-consecuencia-doble-terremoto-segun-el-sntp/"
+    "img": "https://runrun.es/wp-content/uploads/2026/07/Carabobo-Visita-a-Moron-Psicologos-02.07-6.jpeg",
+    "titleEs": "Atienden a 147 niños con asistencia psicológica tras sismos en Morón",
+    "titleEn": "Atienden a 147 niños con asistencia psicológica tras sismos en Morón",
+    "url": "https://runrun.es/noticias/613718/atienden-a-147-ninos-con-asistencia-psicologica-tras-sismos-en-moron/"
   },
   {
     "source": "Runrun.es",
@@ -97,14 +106,5 @@
     "titleEs": "Ejecutivo prohíbe exportar materiales de construcción y crea la Gran Misión Venezuela Renace",
     "titleEn": "Ejecutivo prohíbe exportar materiales de construcción y crea la Gran Misión Venezuela Renace",
     "url": "https://runrun.es/noticias/613711/ejecutivo-prohibe-exportar-materiales-de-construccion-y-crea-la-gran-mision-venezuela-renace/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-05",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/TERREMOTO-LA-GUAIRA-11.jpg",
-    "titleEs": "Docente pide apoyo para rescatar los cuerpos de su suegra y un vecino de debajo de su casa",
-    "titleEn": "Docente pide apoyo para rescatar los cuerpos de su suegra y un vecino de debajo de su casa",
-    "url": "https://runrun.es/rr-es-plus/613700/docente-pide-apoyo-para-rescatar-los-cuerpos-de-su-suegra-y-un-vecino-de-debajo-de-su-casa/"
   }
 ]

@@ -4,6 +4,20 @@
     "sourceEn": "El Pitazo",
     "date": "2026-07-05",
     "conf": "med",
+    "titleEs": "Hermanas Carmelitas reciben a niños y madres damnificados por los terremotos",
+    "titleEn": "Hermanas Carmelitas reciben a niños y madres damnificados por los terremotos",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/caracas/hermanas-carmelitas-reciben-a-ninos-y-madres-damnificados-por-los-terremotos/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-07-05",
+    "conf": "med",
     "titleEs": "Danny Ocean donará ganancias de su gira a los afectados por terremotos: «Nos tenemos a nosotros»",
     "titleEn": "Danny Ocean donará ganancias de su gira a los afectados por terremotos: «Nos tenemos a nosotros»",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -42,18 +56,18 @@
     "url": "https://elpitazo.net/regiones/aeropuerto-de-maiquetia-delcy-rodriguez-anuncia-alianza-internacional-para-su-recuperacion/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
     "date": "2026-07-05",
     "conf": "med",
-    "titleEs": "Terremotos en Venezuela: contabilizan 2.954 los fallecidos y a 16.592 los heridos",
-    "titleEn": "Terremotos en Venezuela: contabilizan 2.954 los fallecidos y a 16.592 los heridos",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "titleEs": "En La Guaira se concentran en retirar escombros y en recuperar cuerpos tras partida de rescatistas",
+    "titleEn": "En La Guaira se concentran en retirar escombros y en recuperar cuerpos tras partida de rescatistas",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/regiones/terremotos-en-venezuela-contabilizan-2-954-los-fallecidos-y-a-16-592-los-heridos/"
+    "url": "https://efectococuyo.com/la-humanidad/en-la-guaira-se-concentran-en-retirar-escombros-y-en-recuperar-cuerpos-tras-partida-de-rescatistas/"
   },
   {
     "sourceEs": "Efecto Cocuyo",
@@ -96,19 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://efectococuyo.com/opinion/el-duelo-entre-carpas-y-escombros-en-caraballeda-no-me-voy-sin-los-cuerpos-de-mis-hijas/"
-  },
-  {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-07-05",
-    "conf": "med",
-    "titleEs": "Siete periodistas fallecieron como consecuencia del doble terremoto, según el Sntp",
-    "titleEn": "Siete periodistas fallecieron como consecuencia del doble terremoto, según el Sntp",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/la-humanidad/siete-periodistas-fallecieron-consecuencia-doble-terremoto-segun-el-sntp/"
   }
 ]

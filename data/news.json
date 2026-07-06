@@ -3,6 +3,24 @@
     "source": "El Pitazo",
     "section": "Venezuela",
     "date": "2026-07-06",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/07/sobreviviente.joven_.jpeg",
+    "titleEs": "«Sabía que Dios me salvaría»: joven relata cómo sobrevivió entre los escombros después de los terremotos",
+    "titleEn": "«Sabía que Dios me salvaría»: joven relata cómo sobrevivió entre los escombros después de los terremotos",
+    "url": "https://elpitazo.net/caracas/sabia-que-dios-me-salvaria-joven-relata-como-sobrevivio-entre-los-escombros-despues-de-los-terremotos/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-07-06",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/07/fenix-2.png",
+    "titleEs": "Fénix: la perrita que resurgió entre los escombros en Venezuela y fue adoptada por rescatistas de El Salvador",
+    "titleEn": "Fénix: la perrita que resurgió entre los escombros en Venezuela y fue adoptada por rescatistas de El Salvador",
+    "url": "https://elpitazo.net/regiones/gran-caracas/fenix-la-perrita-que-resurgio-entre-los-escombros-en-venezuela-y-fue-adoptada-por-rescatistas-de-el-salvador/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-07-06",
     "img": "https://elpitazo.net/wp-content/uploads/2017/07/iberia.jpg",
     "titleEs": "Terremotos en Venezuela: Iberia retomará vuelos regulares entre España y Venezuela el 9 de julio",
     "titleEn": "Terremotos en Venezuela: Iberia retomará vuelos regulares entre España y Venezuela el 9 de julio",
@@ -16,24 +34,6 @@
     "titleEs": "La Guaira l Capitán de la selección venezolana de voleibol muere con su familia después del doble terremoto",
     "titleEn": "La Guaira l Capitán de la selección venezolana de voleibol muere con su familia después del doble terremoto",
     "url": "https://elpitazo.net/regiones/gran-caracas/la-guaira-l-capitan-de-la-seleccion-venezolana-de-voleibol-muere-con-su-familia-despues-del-doble-terremoto/"
-  },
-  {
-    "source": "El Pitazo",
-    "section": "Venezuela",
-    "date": "2026-07-06",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/07/panama-1024x584.jpg",
-    "titleEs": "Alcalde de Panamá mantiene envío de ayuda humanitaria a Venezuela pese a incidente con rastreo electrónico",
-    "titleEn": "Alcalde de Panamá mantiene envío de ayuda humanitaria a Venezuela pese a incidente con rastreo electrónico",
-    "url": "https://elpitazo.net/internacional/alcalde-de-panama-rastrea-ayuda-humanitaria-enviada-a-venezuela-para-rendir-cuentas-a-donantes/"
-  },
-  {
-    "source": "El Pitazo",
-    "section": "Venezuela",
-    "date": "2026-07-06",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/07/TERREMOTO-VENEZUELA-FOTO-DE-EFE.jpg",
-    "titleEs": "Equipos estadounidenses de búsqueda y rescate se retiran de Venezuela a 12 días de los terremotos",
-    "titleEn": "Equipos estadounidenses de búsqueda y rescate se retiran de Venezuela a 12 días de los terremotos",
-    "url": "https://elpitazo.net/politica/equipos-estadounidenses-de-busqueda-y-rescate-se-retiran-de-venezuela-a-12-dias-de-los-terremotos/"
   },
   {
     "source": "Efecto Cocuyo",
@@ -75,6 +75,15 @@
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-06",
+    "img": "https://runrun.es/wp-content/uploads/2025/04/runrunes.jpeg",
+    "titleEs": "Brasil dona miles de insumos médicos y Colombia instala un hospital de campaña para Venezuela",
+    "titleEn": "Brasil dona miles de insumos médicos y Colombia instala un hospital de campaña para Venezuela",
+    "url": "https://runrun.es/noticias/613794/brasil-dona-miles-insumos-medicos-y-colombia-instala-un-hospital-de-campana-para-venezuela/"
+  },
+  {
+    "source": "Runrun.es",
+    "section": "Venezuela",
+    "date": "2026-07-06",
     "img": "https://runrun.es/wp-content/uploads/2026/07/El-Mananero-del-6-de-julio.png",
     "titleEs": "El Mañanero del 6 de julio: Ya son más de 3000 los fallecidos por los terremotos en Venezuela",
     "titleEn": "El Mañanero del 6 de julio: Ya son más de 3000 los fallecidos por los terremotos en Venezuela",
@@ -97,14 +106,5 @@
     "titleEs": "Reporte 5 de julio: muertes por terremotos llegan a 3342",
     "titleEn": "Reporte 5 de julio: muertes por terremotos llegan a 3342",
     "url": "https://runrun.es/noticias/613756/reporte-5-de-julio-muertes-por-terremotos-llegan-a-3-342/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-05",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/Carabobo-Visita-a-Moron-Psicologos-02.07-6.jpeg",
-    "titleEs": "Atienden a 147 niños con asistencia psicológica tras sismos en Morón",
-    "titleEn": "Atienden a 147 niños con asistencia psicológica tras sismos en Morón",
-    "url": "https://runrun.es/noticias/613718/atienden-a-147-ninos-con-asistencia-psicologica-tras-sismos-en-moron/"
   }
 ]

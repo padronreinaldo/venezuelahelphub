@@ -74,6 +74,15 @@
   {
     "source": "Runrun.es",
     "section": "Venezuela",
+    "date": "2026-07-06",
+    "img": "https://runrun.es/wp-content/uploads/2026/07/El-Mananero-del-6-de-julio.png",
+    "titleEs": "El Mañanero del 6 de julio: Ya son más de 3000 los fallecidos por los terremotos en Venezuela",
+    "titleEn": "El Mañanero del 6 de julio: Ya son más de 3000 los fallecidos por los terremotos en Venezuela",
+    "url": "https://runrun.es/noticias/613795/el-mananero-del-6-de-julio-ya-son-mas-de-3000-los-fallecidos-por-los-terremotos-en-venezuela/"
+  },
+  {
+    "source": "Runrun.es",
+    "section": "Venezuela",
     "date": "2026-07-05",
     "img": "https://runrun.es/wp-content/uploads/2026/07/transporte-y-mision-venezuela-renace-1280x958.png",
     "titleEs": "Garcés repite en Transporte y Faría asume la Misión Venezuela Renace",
@@ -97,14 +106,5 @@
     "titleEs": "Atienden a 147 niños con asistencia psicológica tras sismos en Morón",
     "titleEn": "Atienden a 147 niños con asistencia psicológica tras sismos en Morón",
     "url": "https://runrun.es/noticias/613718/atienden-a-147-ninos-con-asistencia-psicologica-tras-sismos-en-moron/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-05",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-05-at-11.13.46-AM.jpeg",
-    "titleEs": "República Dominicana instala hospital de campaña en La Guaira tras terremotos",
-    "titleEn": "República Dominicana instala hospital de campaña en La Guaira tras terremotos",
-    "url": "https://runrun.es/noticias/613730/republica-dominicana-instala-hospital-de-campana-en-la-guaira-tras-terremotos/"
   }
 ]

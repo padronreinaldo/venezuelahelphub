@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T08:57:51.717Z",
+  "updatedAt": "2026-07-06T12:50:56.717Z",
   "stats": {
     "maxMagnitude": 4.6,
     "aftershocks": 0,
@@ -9,22 +9,22 @@
   },
   "prov": {
     "maxMagnitude": {
-      "seenAt": "2026-07-06T08:57:51.717Z",
+      "seenAt": "2026-07-06T12:50:56.717Z",
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8yf"
     },
     "aftershocks": {
-      "seenAt": "2026-07-06T08:57:51.717Z",
+      "seenAt": "2026-07-06T12:50:56.717Z",
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8yf"
     },
     "deaths": {
-      "seenAt": "2026-07-06T08:57:51.717Z",
+      "seenAt": "2026-07-06T12:50:56.717Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
     "injured": {
-      "seenAt": "2026-07-06T08:57:51.717Z",
+      "seenAt": "2026-07-06T12:50:56.717Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
@@ -39,7 +39,7 @@
       "value": 3342,
       "source": "El Pitazo",
       "url": "https://elpitazo.net/politica/delcy-rodriguez-sustituye-a-la-ministra-de-transporte-en-plena-emergencia-por-los-terremotos/",
-      "seenAt": "2026-07-06T08:57:51.717Z"
+      "seenAt": "2026-07-06T12:50:56.717Z"
     },
     "injured": {
       "value": 32038,

@@ -1,32 +1,32 @@
 {
-  "updatedAt": "2026-07-05T22:58:25.669Z",
+  "updatedAt": "2026-07-06T00:10:57.378Z",
   "stats": {
     "maxMagnitude": 4.6,
-    "aftershocks": 2,
+    "aftershocks": 0,
     "deaths": 2954,
-    "injured": 16000,
+    "injured": 16740,
     "missing": 43251
   },
   "prov": {
     "maxMagnitude": {
-      "seenAt": "2026-07-05T22:58:25.669Z",
+      "seenAt": "2026-07-06T00:10:57.378Z",
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8yf"
     },
     "aftershocks": {
-      "seenAt": "2026-07-05T22:58:25.669Z",
+      "seenAt": "2026-07-06T00:10:57.378Z",
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8yf"
     },
     "deaths": {
-      "seenAt": "2026-07-05T22:58:25.669Z",
-      "source": "ONU/OCHA · ref. internacional (Wikipedia EN)",
-      "url": "https://en.wikipedia.org/wiki/2026_Venezuela_earthquakes"
+      "seenAt": "2026-07-06T00:10:57.378Z",
+      "source": "Parte oficial (Wikipedia ES)",
+      "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
     "injured": {
-      "seenAt": "2026-07-05T22:58:25.669Z",
-      "source": "ONU/OCHA · ref. internacional (Wikipedia EN)",
-      "url": "https://en.wikipedia.org/wiki/2026_Venezuela_earthquakes"
+      "seenAt": "2026-07-06T00:10:57.378Z",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/cifras-oficiales-3-342-fallecidos-16-740-heridos-y-17-345-damnificados-a-11-dias-de-sismos/"
     },
     "missing": {
       "seenAt": "2026-07-01T18:23:23.731Z",
@@ -37,9 +37,9 @@
   "alt": {
     "deaths": {
       "value": 3342,
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/cifras-oficiales-3-342-fallecidos-16-740-heridos-y-17-345-damnificados-a-11-dias-de-sismos/",
-      "seenAt": "2026-07-05T22:58:25.669Z"
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/delcy-rodriguez-sustituye-a-la-ministra-de-transporte-en-plena-emergencia-por-los-terremotos/",
+      "seenAt": "2026-07-06T00:10:57.378Z"
     },
     "injured": {
       "value": 32038,

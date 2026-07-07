@@ -3,6 +3,15 @@
     "source": "El Pitazo",
     "section": "Venezuela",
     "date": "2026-07-07",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/06/fotos-de-presos-politicos.png",
+    "titleEs": "Presos políticos están en riesgo y abandono en medio de la emergencia por los terremotos",
+    "titleEn": "Presos políticos están en riesgo y abandono en medio de la emergencia por los terremotos",
+    "url": "https://elpitazo.net/politica/presos-politicos-estan-en-riesgo-y-abandono-en-medio-de-la-emergencia-por-los-terremotos/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-07-07",
     "img": "https://elpitazo.net/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-07-at-1.49.35-PM-1-576x1024.jpeg",
     "titleEs": "Familiares de víctimas en Catia La Mar denuncian que tienen que pagar sus propias grúas por falta de ayuda del Estado en labores de rescate",
     "titleEn": "Familiares de víctimas en Catia La Mar denuncian que tienen que pagar sus propias grúas por falta de ayuda del Estado en labores de rescate",
@@ -27,13 +36,13 @@
     "url": "https://elpitazo.net/ultimas-noticias/terremoto-delcy-rodriguez-promete-viviendas-a-damnificados-en-seis-meses-con-familias-en-refugios-desde-1999/"
   },
   {
-    "source": "El Pitazo",
+    "source": "Efecto Cocuyo",
     "section": "Venezuela",
     "date": "2026-07-07",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-07-at-2.29.27-PM-791x1024.jpeg",
-    "titleEs": "Caracas l Torre Opsu suspende atención presencial por reforzamiento estructural a causa de los terremotos",
-    "titleEn": "Caracas l Torre Opsu suspende atención presencial por reforzamiento estructural a causa de los terremotos",
-    "url": "https://elpitazo.net/regiones/gran-caracas/caracas-l-torre-opsu-suspende-atencion-presencial-por-reforzamiento-estructural-a-causa-de-los-terremotos/"
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/07175608/d0d772ca2c4638f9642bc2248137892886eb602c-1024x683.jpg",
+    "titleEs": "Se eleva a 3.685 fallecidos y 16.740 heridos las cifras oficiales de víctimas de terremotos del 24 de junio",
+    "titleEn": "Se eleva a 3.685 fallecidos y 16.740 heridos las cifras oficiales de víctimas de terremotos del 24 de junio",
+    "url": "https://efectococuyo.com/la-humanidad/se-eleva-a-3-685-fallecidos-y-16-740-heridos-las-cifras-oficiales-de-victimas-de-terremotos-del-24-de-junio/"
   },
   {
     "source": "Efecto Cocuyo",
@@ -63,13 +72,13 @@
     "url": "https://efectococuyo.com/internacionales/unicef-cuenta-432-escuelas-y-38-hospitales-afectados-por-terremotos-en-venezuela/"
   },
   {
-    "source": "Efecto Cocuyo",
+    "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-07",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/07131905/Maria-Corina-Machado-1024x619.webp",
-    "titleEs": "Machado denuncia obstáculos, pero promete regresar para acompañar a víctimas de terremotos",
-    "titleEn": "Machado denuncia obstáculos, pero promete regresar para acompañar a víctimas de terremotos",
-    "url": "https://efectococuyo.com/politica/machado-denuncia-obstaculos-pero-promete-regresar-para-acompanar-a-victimas-de-terremotos/"
+    "img": "https://runrun.es/wp-content/uploads/2026/07/balance.jpg",
+    "titleEs": "Balance #7Jul | Cifra de fallecidos por terremotos sube a 3685 según parco reporte oficial",
+    "titleEn": "Balance #7Jul | Cifra de fallecidos por terremotos sube a 3685 según parco reporte oficial",
+    "url": "https://runrun.es/noticias/614023/balance-7jul-cifra-de-fallecidos-por-terremotos-sube-a-3685-segun-parco-reporte-oficial/"
   },
   {
     "source": "Runrun.es",
@@ -88,14 +97,5 @@
     "titleEs": "Fundaciones venezolanas y extranjeras brindan apoyo a mascotas afectadas por los sismos",
     "titleEn": "Fundaciones venezolanas y extranjeras brindan apoyo a mascotas afectadas por los sismos",
     "url": "https://runrun.es/noticias/613939/fundaciones-venezolanas-y-extranjeras-brindan-apoyo-a-mascotas-afectadas-por-los-sismos/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-07",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/1-PORTADA-Ninos-Buscados.jpg",
-    "titleEs": "Los niños del terremoto",
-    "titleEn": "Los niños del terremoto",
-    "url": "https://runrun.es/noticias/613941/los-ninos-del-terremoto/"
   }
 ]

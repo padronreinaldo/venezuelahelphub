@@ -4,6 +4,20 @@
     "sourceEn": "El Pitazo",
     "date": "2026-07-07",
     "conf": "med",
+    "titleEs": "Presos políticos están en riesgo y abandono en medio de la emergencia por los terremotos",
+    "titleEn": "Presos políticos están en riesgo y abandono en medio de la emergencia por los terremotos",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/politica/presos-politicos-estan-en-riesgo-y-abandono-en-medio-de-la-emergencia-por-los-terremotos/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-07-07",
+    "conf": "med",
     "titleEs": "Familiares de víctimas en Catia La Mar denuncian que tienen que pagar sus propias grúas por falta de ayuda del Estado en labores de rescate",
     "titleEn": "Familiares de víctimas en Catia La Mar denuncian que tienen que pagar sus propias grúas por falta de ayuda del Estado en labores de rescate",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -42,18 +56,18 @@
     "url": "https://elpitazo.net/ultimas-noticias/terremoto-delcy-rodriguez-promete-viviendas-a-damnificados-en-seis-meses-con-familias-en-refugios-desde-1999/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
     "date": "2026-07-07",
     "conf": "med",
-    "titleEs": "Caracas l Torre Opsu suspende atención presencial por reforzamiento estructural a causa de los terremotos",
-    "titleEn": "Caracas l Torre Opsu suspende atención presencial por reforzamiento estructural a causa de los terremotos",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "titleEs": "Se eleva a 3.685 fallecidos y 16.740 heridos las cifras oficiales de víctimas de terremotos del 24 de junio",
+    "titleEn": "Se eleva a 3.685 fallecidos y 16.740 heridos las cifras oficiales de víctimas de terremotos del 24 de junio",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/regiones/gran-caracas/caracas-l-torre-opsu-suspende-atencion-presencial-por-reforzamiento-estructural-a-causa-de-los-terremotos/"
+    "url": "https://efectococuyo.com/la-humanidad/se-eleva-a-3-685-fallecidos-y-16-740-heridos-las-cifras-oficiales-de-victimas-de-terremotos-del-24-de-junio/"
   },
   {
     "sourceEs": "Efecto Cocuyo",
@@ -96,19 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://efectococuyo.com/internacionales/unicef-cuenta-432-escuelas-y-38-hospitales-afectados-por-terremotos-en-venezuela/"
-  },
-  {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-07-07",
-    "conf": "med",
-    "titleEs": "Machado denuncia obstáculos, pero promete regresar para acompañar a víctimas de terremotos",
-    "titleEn": "Machado denuncia obstáculos, pero promete regresar para acompañar a víctimas de terremotos",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/politica/machado-denuncia-obstaculos-pero-promete-regresar-para-acompanar-a-victimas-de-terremotos/"
   }
 ]

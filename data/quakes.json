@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-07-07-2026-16:59-9.4--70.87",
+    "time": "2026-07-07T20:59:00.000Z",
+    "mag": 2.7,
+    "depth": 5,
+    "lat": 9.4,
+    "lon": -70.87,
+    "place": "19 km al oeste de Isnotu",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-07-07-2026-13:14-10.28--62.1",
     "time": "2026-07-07T17:14:00.000Z",
     "mag": 3.2,
@@ -7477,21 +7492,6 @@
     "lat": 9.44,
     "lon": -68.65,
     "place": "26 km al sur de San Carlos",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-29-06-2026-09:19-10.73--67.19",
-    "time": "2026-06-29T13:19:00.000Z",
-    "mag": 2.2,
-    "depth": 2.8,
-    "lat": 10.73,
-    "lon": -67.19,
-    "place": "32 km al noroeste de La Guaira",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

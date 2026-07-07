@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T22:36:21.707Z",
+  "updatedAt": "2026-07-07T23:54:51.140Z",
   "stats": {
     "maxMagnitude": 4.6,
     "aftershocks": 0,
@@ -19,12 +19,12 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8yf"
     },
     "deaths": {
-      "seenAt": "2026-07-07T22:36:21.707Z",
+      "seenAt": "2026-07-07T23:54:51.140Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
     "injured": {
-      "seenAt": "2026-07-07T22:36:21.707Z",
+      "seenAt": "2026-07-07T23:54:51.140Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
@@ -39,7 +39,7 @@
       "value": 3685,
       "source": "Efecto Cocuyo",
       "url": "https://efectococuyo.com/la-humanidad/se-eleva-a-3-685-fallecidos-y-16-740-heridos-las-cifras-oficiales-de-victimas-de-terremotos-del-24-de-junio/",
-      "seenAt": "2026-07-07T22:36:21.707Z"
+      "seenAt": "2026-07-07T23:54:51.140Z"
     },
     "injured": {
       "value": 32038,

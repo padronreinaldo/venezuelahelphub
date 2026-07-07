@@ -3,6 +3,15 @@
     "source": "El Pitazo",
     "section": "Venezuela",
     "date": "2026-07-07",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/07/2026-07-04-1.png",
+    "titleEs": "Aumenta a 3.685 la cifra de muertos por los terremotos en Venezuela",
+    "titleEn": "Aumenta a 3.685 la cifra de muertos por los terremotos en Venezuela",
+    "url": "https://elpitazo.net/regiones/gran-caracas/aumenta-a-3-685-la-cifra-de-muertos-por-los-terremotos-en-venezuela/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-07-07",
     "img": "https://elpitazo.net/wp-content/uploads/2026/06/fotos-de-presos-politicos.png",
     "titleEs": "Presos políticos están en riesgo y abandono en medio de la emergencia por los terremotos",
     "titleEn": "Presos políticos están en riesgo y abandono en medio de la emergencia por los terremotos",
@@ -25,15 +34,6 @@
     "titleEs": "La Guaira l Al menos 22 cuerpos siguen bajo los escombros del edificio Tahití: familiares piden maquinaria pesada",
     "titleEn": "La Guaira l Al menos 22 cuerpos siguen bajo los escombros del edificio Tahití: familiares piden maquinaria pesada",
     "url": "https://elpitazo.net/regiones/familiares-denuncian-que-al-menos-22-cuerpos-siguen-bajo-los-escombros-del-edificio-tahiti-13-dias-despues-de-los-terremotos/"
-  },
-  {
-    "source": "El Pitazo",
-    "section": "Venezuela",
-    "date": "2026-07-07",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/07/Refugiados-del-Canes-1024x768.jpg",
-    "titleEs": "Terremoto | Delcy Rodríguez promete viviendas a damnificados en seis meses con familias en refugios desde 1999",
-    "titleEn": "Terremoto | Delcy Rodríguez promete viviendas a damnificados en seis meses con familias en refugios desde 1999",
-    "url": "https://elpitazo.net/ultimas-noticias/terremoto-delcy-rodriguez-promete-viviendas-a-damnificados-en-seis-meses-con-familias-en-refugios-desde-1999/"
   },
   {
     "source": "Efecto Cocuyo",
@@ -75,9 +75,18 @@
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-07",
+    "img": "https://runrun.es/wp-content/uploads/2026/07/presos-politicos.jpg",
+    "titleEs": "JEP: la emergencia post‑terremotos no puede borrar que 551 presos políticos siguen detenidos",
+    "titleEn": "JEP: la emergencia post‑terremotos no puede borrar que 551 presos políticos siguen detenidos",
+    "url": "https://runrun.es/noticias/614025/jep-la-emergencia-post-terremotos-no-puede-borrar-que-551-presos-politicos-siguen-detenidos/"
+  },
+  {
+    "source": "Runrun.es",
+    "section": "Venezuela",
+    "date": "2026-07-07",
     "img": "https://runrun.es/wp-content/uploads/2026/07/balance.jpg",
-    "titleEs": "Balance #7Jul | Cifra de fallecidos por terremotos sube a 3685 según parco reporte oficial",
-    "titleEn": "Balance #7Jul | Cifra de fallecidos por terremotos sube a 3685 según parco reporte oficial",
+    "titleEs": "Balance #7Jul | Cifra de fallecidos por terremotos sube a 3685, según parco reporte oficial",
+    "titleEn": "Balance #7Jul | Cifra de fallecidos por terremotos sube a 3685, según parco reporte oficial",
     "url": "https://runrun.es/noticias/614023/balance-7jul-cifra-de-fallecidos-por-terremotos-sube-a-3685-segun-parco-reporte-oficial/"
   },
   {
@@ -88,14 +97,5 @@
     "titleEs": "Topos de México concluyen rescates en Venezuela tras terremotos",
     "titleEn": "Topos de México concluyen rescates en Venezuela tras terremotos",
     "url": "https://runrun.es/noticias/613979/topos-de-mexico-concluyen-rescates-en-venezuela-tras-terremotos/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-07",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/mascotas-terremotos.jpg",
-    "titleEs": "Fundaciones venezolanas y extranjeras brindan apoyo a mascotas afectadas por los sismos",
-    "titleEn": "Fundaciones venezolanas y extranjeras brindan apoyo a mascotas afectadas por los sismos",
-    "url": "https://runrun.es/noticias/613939/fundaciones-venezolanas-y-extranjeras-brindan-apoyo-a-mascotas-afectadas-por-los-sismos/"
   }
 ]

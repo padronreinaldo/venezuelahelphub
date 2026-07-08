@@ -3,6 +3,15 @@
     "source": "El Pitazo",
     "section": "Venezuela",
     "date": "2026-07-08",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/07/sindrome-de-aplastamiento-1.jpg",
+    "titleEs": "La amenaza después del rescate: el síndrome de aplastamiento y el reto de atender emergencias renales luego de los terremotos",
+    "titleEn": "La amenaza después del rescate: el síndrome de aplastamiento y el reto de atender emergencias renales luego de los terremotos",
+    "url": "https://elpitazo.net/regiones/centro/la-amenaza-despues-del-rescate-el-sindrome-de-aplastamiento-y-el-reto-de-atender-emergencias-renales-luego-de-los-terremotos/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-07-08",
     "img": "https://elpitazo.net/wp-content/uploads/2026/07/imagen_2026-07-08_153148383-1024x683.jpg",
     "titleEs": "Sindicalistas piden la salida de Delcy Rodríguez y rechazan su respuesta ante los terremotos",
     "titleEn": "Sindicalistas piden la salida de Delcy Rodríguez y rechazan su respuesta ante los terremotos",
@@ -27,13 +36,13 @@
     "url": "https://elpitazo.net/regiones/rescatistas-encuentran-muerto-a-lucas-gamez-en-la-guaira-el-nino-argentino-desaparecio-durante-los-terremotos/"
   },
   {
-    "source": "El Pitazo",
+    "source": "Efecto Cocuyo",
     "section": "Venezuela",
     "date": "2026-07-08",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/07/caritas-venezuela-ayuda-humanitaria.jpg",
-    "titleEs": "Amazon establecerá puente aéreo para llevar ayuda humanitaria a Venezuela luego de los terremotos",
-    "titleEn": "Amazon establecerá puente aéreo para llevar ayuda humanitaria a Venezuela luego de los terremotos",
-    "url": "https://elpitazo.net/regiones/gran-caracas/amazon-establecera-puente-aereo-para-llevar-ayuda-humanitaria-a-venezuela-luego-de-los-terremotos/"
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/04/26185859/ucv-1024x740.webp",
+    "titleEs": "UCV suspende actividades hasta el 1 de septiembre tras los terremotos",
+    "titleEn": "UCV suspende actividades hasta el 1 de septiembre tras los terremotos",
+    "url": "https://efectococuyo.com/la-humanidad/ucv-suspende-actividades-hasta-el-1-de-septiembre-tras-los-terremotos/"
   },
   {
     "source": "Efecto Cocuyo",
@@ -63,15 +72,6 @@
     "url": "https://efectococuyo.com/la-humanidad/cdh-ucab-exige-medidas-de-proteccion-para-migrantes-venezolanos-tras-los-terremotos/"
   },
   {
-    "source": "Efecto Cocuyo",
-    "section": "Venezuela",
-    "date": "2026-07-08",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/08150829/HMtS6rXWsAAcq_m-1024x682.jpg",
-    "titleEs": "Israel alarga 2 semanas su misión humanitaria en Venezuela y anuncia plan de reconstrucción tras terremotos",
-    "titleEn": "Israel alarga 2 semanas su misión humanitaria en Venezuela y anuncia plan de reconstrucción tras terremotos",
-    "url": "https://efectococuyo.com/politica/israel-alarga-2-semanas-su-mision-humanitaria-en-venezuela-y-anuncia-plan-de-reconstruccion-tras-terremotos/"
-  },
-  {
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-08",
@@ -94,8 +94,8 @@
     "section": "Venezuela",
     "date": "2026-07-08",
     "img": "https://runrun.es/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-08-at-1.55.33-PM.jpeg",
-    "titleEs": "La Conversa de ARI | Terremotos en Venezuela podrían llevar a EE.UU. a replantear su plan de tres fases",
-    "titleEn": "La Conversa de ARI | Terremotos en Venezuela podrían llevar a EE.UU. a replantear su plan de tres fases",
+    "titleEs": "La Conversa de ARI | Terremotos en Venezuela podrían llevar a EE. UU. a replantear su plan de tres fases",
+    "titleEn": "La Conversa de ARI | Terremotos en Venezuela podrían llevar a EE. UU. a replantear su plan de tres fases",
     "url": "https://runrun.es/noticias/614126/la-conversa-de-ari-terremotos-en-venezuela-podrian-llevar-a-ee-uu-a-replantear-su-plan-de-tres-fases/"
   },
   {

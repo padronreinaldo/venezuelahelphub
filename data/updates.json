@@ -58,6 +58,34 @@
   {
     "sourceEs": "Efecto Cocuyo",
     "sourceEn": "Efecto Cocuyo",
+    "date": "2026-07-08",
+    "conf": "med",
+    "titleEs": "Venezuela se centra en la búsqueda de cuerpos cuando se cumplen dos semanas del terremoto",
+    "titleEn": "Venezuela se centra en la búsqueda de cuerpos cuando se cumplen dos semanas del terremoto",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://efectococuyo.com/la-humanidad/venezuela-se-centra-en-la-busqueda-de-cuerpos-cuando-se-cumplen-dos-semanas-del-terremoto/"
+  },
+  {
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
+    "date": "2026-07-08",
+    "conf": "med",
+    "titleEs": "Más de 100 economistas piden a EEUU levantar sanciones a Venezuela tras terremotos",
+    "titleEn": "Más de 100 economistas piden a EEUU levantar sanciones a Venezuela tras terremotos",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://efectococuyo.com/internacionales/mas-de-100-economistas-piden-a-eeuu-levantar-sanciones-a-venezuela-tras-terremotos/"
+  },
+  {
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
     "date": "2026-07-07",
     "conf": "med",
     "titleEs": "EEUU concentrados en ayuda humanitaria, sin dejar la recuperación y transición",
@@ -82,33 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://efectococuyo.com/la-humanidad/conatel-informa-sobre-afectaciones-en-internet-por-rotura-de-cable-submarino-tras-sismos/"
-  },
-  {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-07-07",
-    "conf": "med",
-    "titleEs": "Rescatista salvadoreño no encontró lingotes de oro en La Guaira como aseguran videos de TikToK",
-    "titleEn": "Rescatista salvadoreño no encontró lingotes de oro en La Guaira como aseguran videos de TikToK",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/cocuyo-chequea/rescatista-salvadoreno-no-encontro-lingotes-de-oro-en-la-guaira-como-aseguran-videos-de-tiktok/"
-  },
-  {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-07-07",
-    "conf": "med",
-    "titleEs": "Unicef cuenta 432 escuelas y 38 hospitales afectados por terremotos en Venezuela",
-    "titleEn": "Unicef cuenta 432 escuelas y 38 hospitales afectados por terremotos en Venezuela",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/internacionales/unicef-cuenta-432-escuelas-y-38-hospitales-afectados-por-terremotos-en-venezuela/"
   }
 ]

@@ -4,6 +4,20 @@
     "sourceEn": "El Pitazo",
     "date": "2026-07-09",
     "conf": "med",
+    "titleEs": "Todos por Venezuela: la campaña de medios colombianos para apoyar a los afectados por terremotos",
+    "titleEn": "Todos por Venezuela: la campaña de medios colombianos para apoyar a los afectados por terremotos",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/internacionales/todos-por-venezuela-la-campana-de-medios-colombianos-para-apoyar-a-los-afectados-por-terremotos/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-07-09",
+    "conf": "med",
     "titleEs": "OPS advierte que la respuesta sanitaria por los terremotos en Venezuela entró en fase crítica",
     "titleEn": "OPS advierte que la respuesta sanitaria por los terremotos en Venezuela entró en fase crítica",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -42,18 +56,18 @@
     "url": "https://elpitazo.net/regiones/gran-caracas/decreto-de-emergencia-por-terremotos-puede-el-estado-tomar-una-propiedad-privada/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
     "date": "2026-07-09",
     "conf": "med",
-    "titleEs": "Terremotos dejaron 25 iglesias con daños estructurales en Caracas",
-    "titleEn": "Terremotos dejaron 25 iglesias con daños estructurales en Caracas",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "titleEs": "Se acerca a 4.000 la cifra oficial de fallecidos por los terremotos en Venezuela",
+    "titleEn": "Se acerca a 4.000 la cifra oficial de fallecidos por los terremotos en Venezuela",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/caracas/terremotos-dejaron-25-iglesias-con-danos-estructurales-en-caracas/"
+    "url": "https://efectococuyo.com/la-humanidad/se-acerca-a-4-000-la-cifra-oficial-de-fallecidos-por-los-terremotos-en-venezuela/"
   },
   {
     "sourceEs": "Efecto Cocuyo",
@@ -96,19 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://efectococuyo.com/salud/ops-advierte-que-venezuela-entro-en-una-nueva-fase-sanitaria-critica-tras-los-terremotos/"
-  },
-  {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-07-09",
-    "conf": "med",
-    "titleEs": "¿Cuántos miles de millones de dólares costará la reconstrucción en Venezuela tras los terremotos y con qué recursos cuenta el país para afrontarla?",
-    "titleEn": "¿Cuántos miles de millones de dólares costará la reconstrucción en Venezuela tras los terremotos y con qué recursos cuenta el país para afrontarla?",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/la-humanidad/cuantos-miles-de-millones-de-dolares-costara-la-reconstruccion-en-venezuela-tras-los-terremotos-y-con-que-recursos-cuenta-el-pais-para-afrontarla/"
   }
 ]

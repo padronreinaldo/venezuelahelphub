@@ -4,6 +4,20 @@
     "sourceEn": "El Pitazo",
     "date": "2026-07-09",
     "conf": "med",
+    "titleEs": "OPS advierte que la respuesta sanitaria por los terremotos en Venezuela entró en fase crítica",
+    "titleEn": "OPS advierte que la respuesta sanitaria por los terremotos en Venezuela entró en fase crítica",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/salud/ops-advierte-que-la-respuesta-sanitaria-por-los-terremotos-en-venezuela-entro-en-fase-critica/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-07-09",
+    "conf": "med",
     "titleEs": "Último rescate oficial por los terremotos fue el de Hernán Gil el 2 de julio: videos virales carecen de registro",
     "titleEn": "Último rescate oficial por los terremotos fue el de Hernán Gil el 2 de julio: videos virales carecen de registro",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -42,18 +56,18 @@
     "url": "https://elpitazo.net/caracas/terremotos-dejaron-25-iglesias-con-danos-estructurales-en-caracas/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
     "date": "2026-07-09",
     "conf": "med",
-    "titleEs": "Aerolínea TAP reanudará el lunes #13Jul vuelos a Venezuela con 8,7 toneladas de material médico",
-    "titleEn": "Aerolínea TAP reanudará el lunes #13Jul vuelos a Venezuela con 8,7 toneladas de material médico",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "titleEs": "No se puede hablar de reconstrucción tras terremotos sin instituciones sólidas ni democracia, señalan analistas",
+    "titleEn": "No se puede hablar de reconstrucción tras terremotos sin instituciones sólidas ni democracia, señalan analistas",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/caracas/tap-reanudara-el-lunes-13jul-vuelos-a-venezuela-con-87-toneladas-de-material-medico/"
+    "url": "https://efectococuyo.com/politica/reconstruccion-terremotos-instituciones-democracia-analistas/"
   },
   {
     "sourceEs": "Efecto Cocuyo",
@@ -96,19 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://efectococuyo.com/la-humanidad/cuantos-miles-de-millones-de-dolares-costara-la-reconstruccion-en-venezuela-tras-los-terremotos-y-con-que-recursos-cuenta-el-pais-para-afrontarla/"
-  },
-  {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-07-09",
-    "conf": "med",
-    "titleEs": "Funcionarios de EEUU evalúan la respuesta humanitaria tras los sismos en La Guaira",
-    "titleEn": "Funcionarios de EEUU evalúan la respuesta humanitaria tras los sismos en La Guaira",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/la-humanidad/funcionarios-de-eeuu-evaluan-la-respuesta-humanitaria-tras-los-sismos-en-la-guaira/"
   }
 ]

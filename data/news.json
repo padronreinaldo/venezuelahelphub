@@ -3,6 +3,15 @@
     "source": "El Pitazo",
     "section": "Venezuela",
     "date": "2026-07-09",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/07/ops-efe.jpg",
+    "titleEs": "OPS advierte que la respuesta sanitaria por los terremotos en Venezuela entró en fase crítica",
+    "titleEn": "OPS advierte que la respuesta sanitaria por los terremotos en Venezuela entró en fase crítica",
+    "url": "https://elpitazo.net/salud/ops-advierte-que-la-respuesta-sanitaria-por-los-terremotos-en-venezuela-entro-en-fase-critica/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-07-09",
     "img": "https://elpitazo.net/wp-content/uploads/2026/07/video-madre-696x384-1.webp",
     "titleEs": "Último rescate oficial por los terremotos fue el de Hernán Gil el 2 de julio: videos virales carecen de registro",
     "titleEn": "Último rescate oficial por los terremotos fue el de Hernán Gil el 2 de julio: videos virales carecen de registro",
@@ -27,13 +36,13 @@
     "url": "https://elpitazo.net/caracas/terremotos-dejaron-25-iglesias-con-danos-estructurales-en-caracas/"
   },
   {
-    "source": "El Pitazo",
+    "source": "Efecto Cocuyo",
     "section": "Venezuela",
     "date": "2026-07-09",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/07/image-11.png",
-    "titleEs": "Aerolínea TAP reanudará el lunes #13Jul vuelos a Venezuela con 8,7 toneladas de material médico",
-    "titleEn": "Aerolínea TAP reanudará el lunes #13Jul vuelos a Venezuela con 8,7 toneladas de material médico",
-    "url": "https://elpitazo.net/caracas/tap-reanudara-el-lunes-13jul-vuelos-a-venezuela-con-87-toneladas-de-material-medico/"
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/08152356/Danos-Terremotos-Reuters-1024x683.jpg",
+    "titleEs": "No se puede hablar de reconstrucción tras terremotos sin instituciones sólidas ni democracia, señalan analistas",
+    "titleEn": "No se puede hablar de reconstrucción tras terremotos sin instituciones sólidas ni democracia, señalan analistas",
+    "url": "https://efectococuyo.com/politica/reconstruccion-terremotos-instituciones-democracia-analistas/"
   },
   {
     "source": "Efecto Cocuyo",
@@ -63,24 +72,6 @@
     "url": "https://efectococuyo.com/la-humanidad/cuantos-miles-de-millones-de-dolares-costara-la-reconstruccion-en-venezuela-tras-los-terremotos-y-con-que-recursos-cuenta-el-pais-para-afrontarla/"
   },
   {
-    "source": "Efecto Cocuyo",
-    "section": "Venezuela",
-    "date": "2026-07-09",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/09105931/HMysnALW8AAn2Wm-1024x683.jpg",
-    "titleEs": "Funcionarios de EEUU evalúan la respuesta humanitaria tras los sismos en La Guaira",
-    "titleEn": "Funcionarios de EEUU evalúan la respuesta humanitaria tras los sismos en La Guaira",
-    "url": "https://efectococuyo.com/la-humanidad/funcionarios-de-eeuu-evaluan-la-respuesta-humanitaria-tras-los-sismos-en-la-guaira/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-09",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/opp.mp4",
-    "titleEs": "Dos semanas después, la normalidad es una postal perdida entre escombros en La Guaira",
-    "titleEn": "Dos semanas después, la normalidad es una postal perdida entre escombros en La Guaira",
-    "url": "https://runrun.es/rr-es-plus/614080/dos-semanas-despues-la-normalidad-es-una-postal-perdida-entre-escombros-en-la-guaira/"
-  },
-  {
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-09",
@@ -106,5 +97,14 @@
     "titleEs": "El negocio del dolor: el alto costo de mover maquinarias en La Guaira",
     "titleEn": "El negocio del dolor: el alto costo de mover maquinarias en La Guaira",
     "url": "https://runrun.es/rr-es-plus/614204/el-negocio-del-dolor-el-alto-costo-de-mover-maquinarias-en-la-guaira/"
+  },
+  {
+    "source": "Runrun.es",
+    "section": "Venezuela",
+    "date": "2026-07-09",
+    "img": "https://runrun.es/wp-content/uploads/2026/07/fallecidos-terremotos-8jul.jpg",
+    "titleEs": "Balance #8Jul |Parte oficial eleva a 3811 los fallecidos por terremotos en Venezuela",
+    "titleEn": "Balance #8Jul |Parte oficial eleva a 3811 los fallecidos por terremotos en Venezuela",
+    "url": "https://runrun.es/noticias/614184/balance-8jul-parte-oficial-eleva-a-3811-los-fallecidos-por-terremotos-en-venezuela/"
   }
 ]

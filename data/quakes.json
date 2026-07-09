@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-09-07-2026-12:52-10.59--67.07",
+    "time": "2026-07-09T16:52:00.000Z",
+    "mag": 2.3,
+    "depth": 2.3,
+    "lat": 10.59,
+    "lon": -67.07,
+    "place": "16 Km al oeste de La Guaira",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-09-07-2026-10:54-6.93--73.48",
     "time": "2026-07-09T14:54:00.000Z",
     "mag": 2.8,
@@ -7477,21 +7492,6 @@
     "lat": 10.59,
     "lon": -66.85,
     "place": "10 km al este de la Guaira",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-30-06-2026-11:10-10.65--68.49",
-    "time": "2026-06-30T15:10:00.000Z",
-    "mag": 2.2,
-    "depth": 9.6,
-    "lat": 10.65,
-    "lon": -68.49,
-    "place": "21 km al suroeste de Boca Aroa",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

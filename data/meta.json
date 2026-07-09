@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T23:01:06.559Z",
+  "updatedAt": "2026-07-09T01:08:48.186Z",
   "stats": {
     "maxMagnitude": 4.6,
     "aftershocks": 0,
@@ -19,12 +19,12 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8yf"
     },
     "deaths": {
-      "seenAt": "2026-07-08T23:01:06.559Z",
+      "seenAt": "2026-07-09T01:08:48.186Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
     "injured": {
-      "seenAt": "2026-07-08T23:01:06.559Z",
+      "seenAt": "2026-07-09T01:08:48.186Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
@@ -36,10 +36,10 @@
   },
   "alt": {
     "deaths": {
-      "value": 3685,
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/se-eleva-a-3-685-fallecidos-y-16-740-heridos-las-cifras-oficiales-de-victimas-de-terremotos-del-24-de-junio/",
-      "seenAt": "2026-07-07T23:54:51.140Z"
+      "value": 3811,
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/regiones/sube-el-numero-de-victimas-por-los-terremotos-en-venezuela-3-811-fallecidos-y-16-740-heridos/",
+      "seenAt": "2026-07-09T01:08:48.186Z"
     },
     "injured": {
       "value": 32038,

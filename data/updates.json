@@ -58,6 +58,34 @@
   {
     "sourceEs": "Efecto Cocuyo",
     "sourceEn": "Efecto Cocuyo",
+    "date": "2026-07-10",
+    "conf": "med",
+    "titleEs": "De Caracas a Maracaibo: el trauma por el terremoto fuerza a familias a migrar",
+    "titleEn": "De Caracas a Maracaibo: el trauma por el terremoto fuerza a familias a migrar",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://efectococuyo.com/la-humanidad/de-caracas-a-maracaibo-trauma-terremoto-fuerza-familias-migrar/"
+  },
+  {
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
+    "date": "2026-07-10",
+    "conf": "med",
+    "titleEs": "“Los guaireños somos guerreros”: Maiquetía se convierte en el refugio comercial tras los terremotos",
+    "titleEn": "“Los guaireños somos guerreros”: Maiquetía se convierte en el refugio comercial tras los terremotos",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://efectococuyo.com/economia/maiquetia-se-convierte-en-el-refugio-comercial-tras-los-terremotos/"
+  },
+  {
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
     "date": "2026-07-09",
     "conf": "med",
     "titleEs": "¿Qué pasó con el rastreo de la ayuda humanitaria enviada por Panamá a Venezuela?",
@@ -82,33 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://efectococuyo.com/la-humanidad/se-acerca-a-4-000-la-cifra-oficial-de-fallecidos-por-los-terremotos-en-venezuela/"
-  },
-  {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-07-09",
-    "conf": "med",
-    "titleEs": "No se puede hablar de reconstrucción tras terremotos sin instituciones sólidas ni democracia, señalan analistas",
-    "titleEn": "No se puede hablar de reconstrucción tras terremotos sin instituciones sólidas ni democracia, señalan analistas",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/politica/reconstruccion-terremotos-instituciones-democracia-analistas/"
-  },
-  {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-07-09",
-    "conf": "med",
-    "titleEs": "FMI negocia liberar activos de Venezuela para afrontar emergencia por terremotos",
-    "titleEn": "FMI negocia liberar activos de Venezuela para afrontar emergencia por terremotos",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/economia/fmi-negocia-liberar-activos-de-venezuela-para-afrontar-emergencia-por-terremotos/"
   }
 ]

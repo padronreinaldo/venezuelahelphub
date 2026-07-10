@@ -60,6 +60,20 @@
     "sourceEn": "Efecto Cocuyo",
     "date": "2026-07-10",
     "conf": "med",
+    "titleEs": "Fundación FIFA dona $1 millón para comunidades afectadas por el terremoto en Venezuela",
+    "titleEn": "Fundación FIFA dona $1 millón para comunidades afectadas por el terremoto en Venezuela",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://efectococuyo.com/deportes/fundacion-fifa-dona-1-millon-para-comunidades-afectadas-por-el-terremoto-en-venezuela/"
+  },
+  {
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
+    "date": "2026-07-10",
+    "conf": "med",
     "titleEs": "De Caracas a Maracaibo: el trauma por el terremoto fuerza a familias a migrar",
     "titleEn": "De Caracas a Maracaibo: el trauma por el terremoto fuerza a familias a migrar",
     "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -96,19 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://efectococuyo.com/cocuyo-chequea/que-paso-con-el-rastreo-de-la-ayuda-humanitaria-enviada-por-panama-a-venezuela/"
-  },
-  {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-07-09",
-    "conf": "med",
-    "titleEs": "Se acerca a 4.000 la cifra oficial de fallecidos por los terremotos en Venezuela",
-    "titleEn": "Se acerca a 4.000 la cifra oficial de fallecidos por los terremotos en Venezuela",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/la-humanidad/se-acerca-a-4-000-la-cifra-oficial-de-fallecidos-por-los-terremotos-en-venezuela/"
   }
 ]

@@ -2,6 +2,34 @@
   {
     "sourceEs": "El Pitazo",
     "sourceEn": "El Pitazo",
+    "date": "2026-07-10",
+    "conf": "med",
+    "titleEs": "Fuerte réplica de este #10Jul asustó a caraqueños",
+    "titleEn": "Fuerte réplica de este #10Jul asustó a caraqueños",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/caracas/fuerte-replica-de-este-10jul-asusto-a-caraquenos/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-07-10",
+    "conf": "med",
+    "titleEs": "Funvisis reporta 1.115 réplicas en Venezuela desde el 24 de junio",
+    "titleEn": "Funvisis reporta 1.115 réplicas en Venezuela desde el 24 de junio",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/caracas/funvisis-reporta-1-115-replicas-en-venezuela-desde-el-24-de-junio/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
     "date": "2026-07-09",
     "conf": "med",
     "titleEs": "Sntp confirma la muerte de 12 periodistas por los terremotos de Venezuela",
@@ -28,32 +56,32 @@
     "url": "https://elpitazo.net/regiones/terremotos-en-venezuela-cifra-de-fallecidos-aumenta-a-3-899-y-la-de-heridos-se-mantiene-en-16-740/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-07-09",
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
+    "date": "2026-07-10",
     "conf": "med",
-    "titleEs": "Estados Unidos despliega el USS San Antonio en La Guaira para reforzar ayuda",
-    "titleEn": "Estados Unidos despliega el USS San Antonio en La Guaira para reforzar ayuda",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "titleEs": "Acceso a la Justicia explica cómo tramitar legalmente la presunción de muerte por sismos",
+    "titleEn": "Acceso a la Justicia explica cómo tramitar legalmente la presunción de muerte por sismos",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/regiones/estados-unidos-despliega-el-uss-san-antonio-en-la-guaira-para-reforzar-ayuda/"
+    "url": "https://efectococuyo.com/la-humanidad/acceso-a-la-justicia-explica-como-tramitar-legalmente-la-presuncion-de-muerte-por-sismos/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-07-09",
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
+    "date": "2026-07-10",
     "conf": "med",
-    "titleEs": "Todos por Venezuela: la campaña de medios colombianos para apoyar a los afectados por terremotos",
-    "titleEn": "Todos por Venezuela: la campaña de medios colombianos para apoyar a los afectados por terremotos",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "titleEs": "Ocha pide financiamiento adicional de $ 296 millones para afectados por terremotos en Venezuela",
+    "titleEn": "Ocha pide financiamiento adicional de $ 296 millones para afectados por terremotos en Venezuela",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/internacionales/todos-por-venezuela-la-campana-de-medios-colombianos-para-apoyar-a-los-afectados-por-terremotos/"
+    "url": "https://efectococuyo.com/la-humanidad/ocha-pide-financiamiento-adicional-de-296-millones-para-afectados-por-terremotos-en-venezuela/"
   },
   {
     "sourceEs": "Efecto Cocuyo",
@@ -82,33 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://efectococuyo.com/la-humanidad/de-caracas-a-maracaibo-trauma-terremoto-fuerza-familias-migrar/"
-  },
-  {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-07-10",
-    "conf": "med",
-    "titleEs": "“Los guaireños somos guerreros”: Maiquetía se convierte en el refugio comercial tras los terremotos",
-    "titleEn": "“Los guaireños somos guerreros”: Maiquetía se convierte en el refugio comercial tras los terremotos",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/economia/maiquetia-se-convierte-en-el-refugio-comercial-tras-los-terremotos/"
-  },
-  {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-07-09",
-    "conf": "med",
-    "titleEs": "¿Qué pasó con el rastreo de la ayuda humanitaria enviada por Panamá a Venezuela?",
-    "titleEn": "¿Qué pasó con el rastreo de la ayuda humanitaria enviada por Panamá a Venezuela?",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/cocuyo-chequea/que-paso-con-el-rastreo-de-la-ayuda-humanitaria-enviada-por-panama-a-venezuela/"
   }
 ]

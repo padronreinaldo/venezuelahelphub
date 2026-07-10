@@ -4,6 +4,34 @@
     "sourceEn": "El Pitazo",
     "date": "2026-07-10",
     "conf": "med",
+    "titleEs": "Táchira | Desde la ULA han enviado 62 camiones con ayuda a víctimas de los terremotos",
+    "titleEn": "Táchira | Desde la ULA han enviado 62 camiones con ayuda a víctimas de los terremotos",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/regiones/tachira-desde-la-ula-han-enviado-62-camiones-con-ayuda-a-victimas-de-los-terremotos/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-07-10",
+    "conf": "med",
+    "titleEs": "¿Por qué el internet está tan lento en Venezuela? experto explica las causas",
+    "titleEn": "¿Por qué el internet está tan lento en Venezuela? experto explica las causas",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/tecnologia/por-que-el-internet-esta-tan-lento-en-venezuela-experto-explica-las-causas/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-07-10",
+    "conf": "med",
     "titleEs": "Plan de contingencia aérea: estos son los aeropuertos habilitados en Venezuela despúes de los terremotos",
     "titleEn": "Plan de contingencia aérea: estos son los aeropuertos habilitados en Venezuela despúes de los terremotos",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -28,32 +56,18 @@
     "url": "https://elpitazo.net/regiones/interprete-durante-emergencia-israel-rivas-el-joven-venezolano-que-sirve-de-traductor-a-rescatistas-en-la-guaira/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "",
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
+    "date": "2026-07-10",
     "conf": "med",
-    "titleEs": "Quince días después del terremoto, el anhelo de recuperar a seres queridos mantiene en vilo a familias del Tahití y Oasis Beach",
-    "titleEn": "Quince días después del terremoto, el anhelo de recuperar a seres queridos mantiene en vilo a familias del Tahití y Oasis Beach",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "titleEs": "Una mujer resultó lesionada tras sismo de 3.9 sentido en Caracas este 10 de julio",
+    "titleEn": "Una mujer resultó lesionada tras sismo de 3.9 sentido en Caracas este 10 de julio",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/?p=509263"
-  },
-  {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "",
-    "conf": "med",
-    "titleEs": "Riesgos en El Ávila: conservacionista ofrece recomendaciones para actuar ante posibles deslaves",
-    "titleEn": "Riesgos en El Ávila: conservacionista ofrece recomendaciones para actuar ante posibles deslaves",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/?p=509223"
+    "url": "https://efectococuyo.com/la-humanidad/una-mujer-resulto-lesionada-tras-sismo-de-3-9-sentido-en-caracas-este-10-de-julio/"
   },
   {
     "sourceEs": "Efecto Cocuyo",
@@ -96,19 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://efectococuyo.com/la-humanidad/acceso-a-la-justicia-explica-como-tramitar-legalmente-la-presuncion-de-muerte-por-sismos/"
-  },
-  {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-07-10",
-    "conf": "med",
-    "titleEs": "Ocha pide financiamiento adicional de $ 296 millones para afectados por terremotos en Venezuela",
-    "titleEn": "Ocha pide financiamiento adicional de $ 296 millones para afectados por terremotos en Venezuela",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/la-humanidad/ocha-pide-financiamiento-adicional-de-296-millones-para-afectados-por-terremotos-en-venezuela/"
   }
 ]

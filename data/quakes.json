@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-11-07-2026-11:21-11.87--61.4",
+    "time": "2026-07-11T15:21:00.000Z",
+    "mag": 3.2,
+    "depth": 89.1,
+    "lat": 11.87,
+    "lon": -61.4,
+    "place": "40 km al sureste de Granada",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-11-07-2026-09:25-6.91--73.47",
     "time": "2026-07-11T13:25:00.000Z",
     "mag": 2.5,
@@ -7477,21 +7492,6 @@
     "lat": 10.57,
     "lon": -66.86,
     "place": "10 km al sureste  de La Guaira",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-01-07-2026-04:47-10.08--66.27",
-    "time": "2026-07-01T08:47:00.000Z",
-    "mag": 1.9,
-    "depth": 12.5,
-    "lat": 10.08,
-    "lon": -66.27,
-    "place": "27 km al noreste  de Altagracia de Orituco",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

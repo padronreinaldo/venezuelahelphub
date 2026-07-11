@@ -3,6 +3,15 @@
     "source": "El Pitazo",
     "section": "Venezuela",
     "date": "2026-07-11",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/07/imagen_2026-07-11_103722077.png",
+    "titleEs": "Familiares de víctimas en el edificio Celtamar denuncian impedimentos en las labores de búsqueda",
+    "titleEn": "Familiares de víctimas en el edificio Celtamar denuncian impedimentos en las labores de búsqueda",
+    "url": "https://elpitazo.net/sucesos/los-familiares-de-los-venezolanos-bajo-los-escombros-denuncian-impedimentos-en-las-labores-de-busqueda/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-07-11",
     "img": "https://elpitazo.net/wp-content/uploads/2026/07/terremotoyeconomia1-1024x585.jpg",
     "titleEs": "Menos crecimiento y más devaluación: terremotos podrían profundizar la crisis económica de Venezuela",
     "titleEn": "Menos crecimiento y más devaluación: terremotos podrían profundizar la crisis económica de Venezuela",
@@ -27,13 +36,13 @@
     "url": "https://elpitazo.net/regiones/tachira-desde-la-ula-han-enviado-62-camiones-con-ayuda-a-victimas-de-los-terremotos/"
   },
   {
-    "source": "El Pitazo",
+    "source": "Efecto Cocuyo",
     "section": "Venezuela",
-    "date": "2026-07-10",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/07/imagen_2026-07-10_142853852.jpg",
-    "titleEs": "¿Por qué el internet está tan lento en Venezuela? experto explica las causas",
-    "titleEn": "¿Por qué el internet está tan lento en Venezuela? experto explica las causas",
-    "url": "https://elpitazo.net/tecnologia/por-que-el-internet-esta-tan-lento-en-venezuela-experto-explica-las-causas/"
+    "date": "2026-07-11",
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/10204419/WhatsApp-Image-2026-07-10-at-8.42.29-PM-4-1024x576.jpeg",
+    "titleEs": "A 18 días del doble terremoto: El control militar y el desgaste marcan la vida en La Guaira",
+    "titleEn": "A 18 días del doble terremoto: El control militar y el desgaste marcan la vida en La Guaira",
+    "url": "https://efectococuyo.com/la-humanidad/a-18-dias-del-doble-terremoto-el-control-militar-y-el-desgaste-marcan-la-vida-en-la-guaira/"
   },
   {
     "source": "Efecto Cocuyo",
@@ -63,13 +72,13 @@
     "url": "https://efectococuyo.com/la-humanidad/muertes-por-terremotos-en-venezuela-llegan-a-4-118-y-van-16-740-lesionados-desde-el-24-de-junio/"
   },
   {
-    "source": "Efecto Cocuyo",
+    "source": "Runrun.es",
     "section": "Venezuela",
-    "date": "2026-07-10",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/10180224/aad997919717d9824cab315eda4c41a6a90fefec-1024x683.jpg",
-    "titleEs": "Crematorios y morgues de Venezuela funcionan 24/7 después de los terremotos",
-    "titleEn": "Crematorios y morgues de Venezuela funcionan 24/7 después de los terremotos",
-    "url": "https://efectococuyo.com/la-humanidad/crematorios-y-morgues-de-venezuela-funcionan-24-7-despues-de-los-terremotos/"
+    "date": "2026-07-11",
+    "img": "https://runrun.es/wp-content/uploads/2026/07/Refugios.Terremoto2026.LunaPerdomo-TalCual.-Portada.jpg",
+    "titleEs": "Refugios para damnificados operan bajo custodia de Sebin y Dgcim",
+    "titleEn": "Refugios para damnificados operan bajo custodia de Sebin y Dgcim",
+    "url": "https://runrun.es/noticias/614532/refugios-para-damnificados-operan-bajo-custodia-de-sebin-y-dgcim/"
   },
   {
     "source": "Runrun.es",
@@ -97,14 +106,5 @@
     "titleEs": "Chichiriviche de la Costa intenta levantarse sin turistas ni ayuda oficial",
     "titleEn": "Chichiriviche de la Costa intenta levantarse sin turistas ni ayuda oficial",
     "url": "https://runrun.es/rr-es-plus/614475/chichiriviche-de-la-costa-intenta-levantarse-sin-turistas-ni-ayuda-oficial/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-10",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/UKMed_VNZ_AMBOVisit-5-3.jpg",
-    "titleEs": "Reino Unido instaló un hospital de campaña en La Guaira",
-    "titleEn": "Reino Unido instaló un hospital de campaña en La Guaira",
-    "url": "https://runrun.es/noticias/614464/reino-unido-instala-hospital-de-campana-en-la-guaira/"
   }
 ]

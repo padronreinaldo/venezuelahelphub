@@ -4,6 +4,20 @@
     "sourceEn": "El Pitazo",
     "date": "2026-07-11",
     "conf": "med",
+    "titleEs": "Familiares de víctimas en el edificio Celtamar denuncian impedimentos en las labores de búsqueda",
+    "titleEn": "Familiares de víctimas en el edificio Celtamar denuncian impedimentos en las labores de búsqueda",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/sucesos/los-familiares-de-los-venezolanos-bajo-los-escombros-denuncian-impedimentos-en-las-labores-de-busqueda/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-07-11",
+    "conf": "med",
     "titleEs": "Menos crecimiento y más devaluación: terremotos podrían profundizar la crisis económica de Venezuela",
     "titleEn": "Menos crecimiento y más devaluación: terremotos podrían profundizar la crisis económica de Venezuela",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -42,18 +56,18 @@
     "url": "https://elpitazo.net/regiones/tachira-desde-la-ula-han-enviado-62-camiones-con-ayuda-a-victimas-de-los-terremotos/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-07-10",
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
+    "date": "2026-07-11",
     "conf": "med",
-    "titleEs": "¿Por qué el internet está tan lento en Venezuela? experto explica las causas",
-    "titleEn": "¿Por qué el internet está tan lento en Venezuela? experto explica las causas",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "titleEs": "A 18 días del doble terremoto: El control militar y el desgaste marcan la vida en La Guaira",
+    "titleEn": "A 18 días del doble terremoto: El control militar y el desgaste marcan la vida en La Guaira",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/tecnologia/por-que-el-internet-esta-tan-lento-en-venezuela-experto-explica-las-causas/"
+    "url": "https://efectococuyo.com/la-humanidad/a-18-dias-del-doble-terremoto-el-control-militar-y-el-desgaste-marcan-la-vida-en-la-guaira/"
   },
   {
     "sourceEs": "Efecto Cocuyo",
@@ -96,19 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://efectococuyo.com/la-humanidad/muertes-por-terremotos-en-venezuela-llegan-a-4-118-y-van-16-740-lesionados-desde-el-24-de-junio/"
-  },
-  {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-07-10",
-    "conf": "med",
-    "titleEs": "Crematorios y morgues de Venezuela funcionan 24/7 después de los terremotos",
-    "titleEn": "Crematorios y morgues de Venezuela funcionan 24/7 después de los terremotos",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/la-humanidad/crematorios-y-morgues-de-venezuela-funcionan-24-7-despues-de-los-terremotos/"
   }
 ]

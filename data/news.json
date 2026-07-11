@@ -3,6 +3,15 @@
     "source": "El Pitazo",
     "section": "Venezuela",
     "date": "2026-07-11",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/07/imagen_2026-07-11_122805822.jpg",
+    "titleEs": "Administración de Delcy Rodríguez hará censo biométrico a damnificados por los terremotos",
+    "titleEn": "Administración de Delcy Rodríguez hará censo biométrico a damnificados por los terremotos",
+    "url": "https://elpitazo.net/politica/venezuela-hara-un-censo-biometrico-de-las-personas-que-perdieron-sus-viviendas-por-sismos/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-07-11",
     "img": "https://elpitazo.net/wp-content/uploads/2026/07/image-14-791x1024.png",
     "titleEs": "Abelardo de la Espriella propone que Colombia lidere la reconstrucción de Venezuela",
     "titleEn": "Abelardo de la Espriella propone que Colombia lidere la reconstrucción de Venezuela",
@@ -27,13 +36,13 @@
     "url": "https://elpitazo.net/reportajes/menos-crecimiento-y-mas-devaluacion-terremotos-podrian-profundizar-la-crisis-economica-de-venezuela/"
   },
   {
-    "source": "El Pitazo",
+    "source": "Efecto Cocuyo",
     "section": "Venezuela",
-    "date": "2026-07-10",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/07/imagen_2026-07-10_190847163.png",
-    "titleEs": "Terremotos en Venezuela: nuevo reporte eleva a 4.118 el número de fallecidos",
-    "titleEn": "Terremotos en Venezuela: nuevo reporte eleva a 4.118 el número de fallecidos",
-    "url": "https://elpitazo.net/regiones/terremotos-en-venezuela-nuevo-reporte-eleva-a-4-118-el-numero-de-fallecidos/"
+    "date": "2026-07-11",
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/09214458/fa8fae9ee4b99c8e7417480d787ea0c5f18748bd-1024x683.jpg",
+    "titleEs": "Qué pasará con los inquilinos y los alquileres tras el doble terremoto en Venezuela",
+    "titleEn": "Qué pasará con los inquilinos y los alquileres tras el doble terremoto en Venezuela",
+    "url": "https://efectococuyo.com/la-humanidad/que-pasara-con-los-inquilinos-y-los-alquileres-tras-el-doble-terremoto-en-venezuela/"
   },
   {
     "source": "Efecto Cocuyo",
@@ -63,13 +72,13 @@
     "url": "https://efectococuyo.com/la-humanidad/no-me-ire-de-aqui-hasta-sacar-a-mi-hermana-varguenses-tras-17-dias-de-los-terremotos/"
   },
   {
-    "source": "Efecto Cocuyo",
+    "source": "Runrun.es",
     "section": "Venezuela",
-    "date": "2026-07-10",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/10182759/9cbcc4d2a759db008386fc9b3b37ada6c4e12736-1024x683.jpg",
-    "titleEs": "Muertes por terremotos en Venezuela llegan a 4.118 y van 16.740 lesionados",
-    "titleEn": "Muertes por terremotos en Venezuela llegan a 4.118 y van 16.740 lesionados",
-    "url": "https://efectococuyo.com/la-humanidad/muertes-por-terremotos-en-venezuela-llegan-a-4-118-y-van-16-740-lesionados-desde-el-24-de-junio/"
+    "date": "2026-07-11",
+    "img": "https://runrun.es/wp-content/uploads/2026/07/ElJunquitoTalCual-2373.jpg",
+    "titleEs": "Más de 1.200 afectados y Estado ausente: El Junquito está esperando respuestas tangibles",
+    "titleEn": "Más de 1.200 afectados y Estado ausente: El Junquito está esperando respuestas tangibles",
+    "url": "https://runrun.es/inicio/614544/mas-de-1-200-afectados-y-estado-ausente-el-junquito-esta-esperando-respuestas-tangibles/"
   },
   {
     "source": "Runrun.es",
@@ -97,14 +106,5 @@
     "titleEs": "Doble terremoto. ¿Doble abandono?",
     "titleEn": "Doble terremoto. ¿Doble abandono?",
     "url": "https://runrun.es/opinion/614516/doble-terremoto-alejandro-armas/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-11",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/Chichiriviche-de-la-Costa-julio-2026.jpg-1280x960.jpeg",
-    "titleEs": "Chichiriviche de la Costa intenta levantarse sin turistas ni ayuda oficial",
-    "titleEn": "Chichiriviche de la Costa intenta levantarse sin turistas ni ayuda oficial",
-    "url": "https://runrun.es/rr-es-plus/614475/chichiriviche-de-la-costa-intenta-levantarse-sin-turistas-ni-ayuda-oficial/"
   }
 ]

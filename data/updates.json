@@ -4,6 +4,20 @@
     "sourceEn": "El Pitazo",
     "date": "2026-07-10",
     "conf": "med",
+    "titleEs": "Terremotos en Venezuela: nuevo reporte eleva a 4.118 el número de fallecidos",
+    "titleEn": "Terremotos en Venezuela: nuevo reporte eleva a 4.118 el número de fallecidos",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/regiones/terremotos-en-venezuela-nuevo-reporte-eleva-a-4-118-el-numero-de-fallecidos/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-07-10",
+    "conf": "med",
     "titleEs": "Táchira | Desde la ULA han enviado 62 camiones con ayuda a víctimas de los terremotos",
     "titleEn": "Táchira | Desde la ULA han enviado 62 camiones con ayuda a víctimas de los terremotos",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -42,26 +56,26 @@
     "url": "https://elpitazo.net/regiones/plan-de-contingencia-aerea-estos-son-los-aeropuertos-habilitados-en-venezuela-despues-de-los-terremotos/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
     "date": "2026-07-10",
     "conf": "med",
-    "titleEs": "Intérprete durante emergencia: Israel Rivas, el joven venezolano que sirve de traductor a rescatistas en La Guaira",
-    "titleEn": "Intérprete durante emergencia: Israel Rivas, el joven venezolano que sirve de traductor a rescatistas en La Guaira",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "titleEs": "“No me iré de aquí hasta sacar a mi hermana”: varguenses tras 17 días de los terremotos",
+    "titleEn": "“No me iré de aquí hasta sacar a mi hermana”: varguenses tras 17 días de los terremotos",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/regiones/interprete-durante-emergencia-israel-rivas-el-joven-venezolano-que-sirve-de-traductor-a-rescatistas-en-la-guaira/"
+    "url": "https://efectococuyo.com/la-humanidad/no-me-ire-de-aqui-hasta-sacar-a-mi-hermana-varguenses-tras-17-dias-de-los-terremotos/"
   },
   {
     "sourceEs": "Efecto Cocuyo",
     "sourceEn": "Efecto Cocuyo",
     "date": "2026-07-10",
     "conf": "med",
-    "titleEs": "Muertes por terremotos en Venezuela llegan a 4.118 y van 16.740 lesionados desde el 24 de junio",
-    "titleEn": "Muertes por terremotos en Venezuela llegan a 4.118 y van 16.740 lesionados desde el 24 de junio",
+    "titleEs": "Muertes por terremotos en Venezuela llegan a 4.118 y van 16.740 lesionados",
+    "titleEn": "Muertes por terremotos en Venezuela llegan a 4.118 y van 16.740 lesionados",
     "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
     "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],
@@ -96,19 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://efectococuyo.com/la-humanidad/una-mujer-resulto-lesionada-tras-sismo-de-3-9-sentido-en-caracas-este-10-de-julio/"
-  },
-  {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-07-10",
-    "conf": "med",
-    "titleEs": "Familiares de presos políticos del Rodeo I denuncian represión y temen por vida de reclusos tras los sismos",
-    "titleEn": "Familiares de presos políticos del Rodeo I denuncian represión y temen por vida de reclusos tras los sismos",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/la-humanidad/familiares-de-presos-politicos-del-rodeo-i-denuncian-represion-y-temen-por-vida-de-reclusos-tras-los-sismos/"
   }
 ]

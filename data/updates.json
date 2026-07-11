@@ -4,6 +4,20 @@
     "sourceEn": "El Pitazo",
     "date": "2026-07-11",
     "conf": "med",
+    "titleEs": "Cashea extiende hasta el 13 de julio la exoneración de multas por retrasos en pagos",
+    "titleEn": "Cashea extiende hasta el 13 de julio la exoneración de multas por retrasos en pagos",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/economia/cashea-extiende-hasta-el-13-de-julio-la-exoneracion-de-multas-por-retrasos-en-pagos/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-07-11",
+    "conf": "med",
     "titleEs": "Cifra de fallecidos por los terremotos asciende a 4.333",
     "titleEn": "Cifra de fallecidos por los terremotos asciende a 4.333",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -42,18 +56,18 @@
     "url": "https://elpitazo.net/politica/venezuela-hara-un-censo-biometrico-de-las-personas-que-perdieron-sus-viviendas-por-sismos/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
     "date": "2026-07-11",
     "conf": "med",
-    "titleEs": "Abelardo de la Espriella propone que Colombia lidere la reconstrucción de Venezuela",
-    "titleEn": "Abelardo de la Espriella propone que Colombia lidere la reconstrucción de Venezuela",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "titleEs": "El Junquito intenta levantarse entre escombros a más de dos semanas del terremoto",
+    "titleEn": "El Junquito intenta levantarse entre escombros a más de dos semanas del terremoto",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/politica/abelardo-de-la-espriella-propone-que-colombia-lidere-la-reconstruccion-de-venezuela/"
+    "url": "https://efectococuyo.com/la-humanidad/el-junquito-intenta-levantarse-entre-escombros-a-mas-de-dos-semanas-del-terremoto/"
   },
   {
     "sourceEs": "Efecto Cocuyo",
@@ -96,19 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://efectococuyo.com/la-humanidad/a-18-dias-del-doble-terremoto-el-control-militar-y-el-desgaste-marcan-la-vida-en-la-guaira/"
-  },
-  {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-07-11",
-    "conf": "med",
-    "titleEs": "La solidaridad se instala en el parque del Este con un hospital de campaña español",
-    "titleEn": "La solidaridad se instala en el parque del Este con un hospital de campaña español",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/la-humanidad/la-solidaridad-se-instala-en-el-parque-del-este-con-un-hospital-de-campana-espanol/"
   }
 ]

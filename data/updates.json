@@ -2,6 +2,20 @@
   {
     "sourceEs": "El Pitazo",
     "sourceEn": "El Pitazo",
+    "date": "2026-07-11",
+    "conf": "med",
+    "titleEs": "Menos crecimiento y más devaluación: terremotos podrían profundizar la crisis económica de Venezuela",
+    "titleEn": "Menos crecimiento y más devaluación: terremotos podrían profundizar la crisis económica de Venezuela",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/reportajes/menos-crecimiento-y-mas-devaluacion-terremotos-podrian-profundizar-la-crisis-economica-de-venezuela/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
     "date": "2026-07-10",
     "conf": "med",
     "titleEs": "Terremotos en Venezuela: nuevo reporte eleva a 4.118 el número de fallecidos",
@@ -40,20 +54,6 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://elpitazo.net/tecnologia/por-que-el-internet-esta-tan-lento-en-venezuela-experto-explica-las-causas/"
-  },
-  {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-07-10",
-    "conf": "med",
-    "titleEs": "Plan de contingencia aérea: estos son los aeropuertos habilitados en Venezuela despúes de los terremotos",
-    "titleEn": "Plan de contingencia aérea: estos son los aeropuertos habilitados en Venezuela despúes de los terremotos",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/regiones/plan-de-contingencia-aerea-estos-son-los-aeropuertos-habilitados-en-venezuela-despues-de-los-terremotos/"
   },
   {
     "sourceEs": "Efecto Cocuyo",

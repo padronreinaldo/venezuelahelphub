@@ -39,6 +39,15 @@
     "source": "Efecto Cocuyo",
     "section": "Venezuela",
     "date": "2026-07-11",
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/11165209/Screenshot-22-1024x482.png",
+    "titleEs": "Número de fallecidos asciende a 4.333 tras el doble terremoto",
+    "titleEn": "Número de fallecidos asciende a 4.333 tras el doble terremoto",
+    "url": "https://efectococuyo.com/la-humanidad/numero-de-fallecidos-asciende-a-4-333-tras-el-doble-terremoto/"
+  },
+  {
+    "source": "Efecto Cocuyo",
+    "section": "Venezuela",
+    "date": "2026-07-11",
     "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/09214458/fa8fae9ee4b99c8e7417480d787ea0c5f18748bd-1024x683.jpg",
     "titleEs": "Qué pasará con los inquilinos y los alquileres tras el doble terremoto en Venezuela",
     "titleEn": "Qué pasará con los inquilinos y los alquileres tras el doble terremoto en Venezuela",
@@ -63,19 +72,10 @@
     "url": "https://efectococuyo.com/la-humanidad/la-solidaridad-se-instala-en-el-parque-del-este-con-un-hospital-de-campana-espanol/"
   },
   {
-    "source": "Efecto Cocuyo",
-    "section": "Venezuela",
-    "date": "2026-07-10",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/10181031/WhatsApp-Image-2026-07-10-at-6.07.40-PM-1-1024x576.jpeg",
-    "titleEs": "“No me iré de aquí hasta sacar a mi hermana”: varguenses tras 17 días de los terremotos",
-    "titleEn": "“No me iré de aquí hasta sacar a mi hermana”: varguenses tras 17 días de los terremotos",
-    "url": "https://efectococuyo.com/la-humanidad/no-me-ire-de-aqui-hasta-sacar-a-mi-hermana-varguenses-tras-17-dias-de-los-terremotos/"
-  },
-  {
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-11",
-    "img": "",
+    "img": "https://runrun.es/wp-content/uploads/2026/07/balance-1.jpg",
     "titleEs": "Balance #11Jul | Cifra de fallecidos por terremotos asciende a 4.333 mientras que la de desaparecidos continúa sin revelarse",
     "titleEn": "Balance #11Jul | Cifra de fallecidos por terremotos asciende a 4.333 mientras que la de desaparecidos continúa sin revelarse",
     "url": "https://runrun.es/inicio/614565/balance-11jul-cifra-de-fallecidos-por-terremotos-asciende-a-4-333-mientras-que-la-de-desaparecidos-continua-sin-revelarse/"
@@ -84,7 +84,7 @@
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-11",
-    "img": "",
+    "img": "https://runrun.es/wp-content/uploads/2026/07/ElJunquitoTalCual-2373.jpg",
     "titleEs": "Más de 1.200 afectados y Estado ausente: El Junquito está esperando respuestas tangibles",
     "titleEn": "Más de 1.200 afectados y Estado ausente: El Junquito está esperando respuestas tangibles",
     "url": "https://runrun.es/inicio/614544/mas-de-1-200-afectados-y-estado-ausente-el-junquito-esta-esperando-respuestas-tangibles/"
@@ -93,7 +93,7 @@
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-11",
-    "img": "",
+    "img": "https://runrun.es/wp-content/uploads/2026/07/Refugios.Terremoto2026.LunaPerdomo-TalCual.-Portada.jpg",
     "titleEs": "Refugios para damnificados operan bajo custodia de Sebin y Dgcim",
     "titleEn": "Refugios para damnificados operan bajo custodia de Sebin y Dgcim",
     "url": "https://runrun.es/noticias/614532/refugios-para-damnificados-operan-bajo-custodia-de-sebin-y-dgcim/"
@@ -102,7 +102,7 @@
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-11",
-    "img": "",
+    "img": "https://runrun.es/wp-content/uploads/2026/07/aspiracion-democratica.jpg",
     "titleEs": "Sismos del 24J no sepultaron la aspiración democrática",
     "titleEn": "Sismos del 24J no sepultaron la aspiración democrática",
     "url": "https://runrun.es/rr-es-plus/614415/sismos-del-24j-no-sepultaron-la-aspiracion-democratica/"

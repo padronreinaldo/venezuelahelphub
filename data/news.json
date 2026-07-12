@@ -39,6 +39,15 @@
     "source": "Efecto Cocuyo",
     "section": "Venezuela",
     "date": "2026-07-12",
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/12104110/venezuela_nisar_20260630.jpg",
+    "titleEs": "Nasa: Doble terremoto en Venezuela generó desplazamiento de terreno",
+    "titleEn": "Nasa: Doble terremoto en Venezuela generó desplazamiento de terreno",
+    "url": "https://efectococuyo.com/solaz/ciencia/nasa-doble-terremoto-en-venezuela-genero-desplazamiento-de-terreno/"
+  },
+  {
+    "source": "Efecto Cocuyo",
+    "section": "Venezuela",
+    "date": "2026-07-12",
     "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/09191145/WhatsApp-Image-2026-07-09-at-5.41.54-PM-1024x682.jpeg",
     "titleEs": "Tutelaje, ayuda humanitaria y control de daños de Trump: mirada de politólogos",
     "titleEn": "Tutelaje, ayuda humanitaria y control de daños de Trump: mirada de politólogos",
@@ -63,13 +72,13 @@
     "url": "https://efectococuyo.com/la-humanidad/el-junquito-intenta-levantarse-entre-escombros-a-mas-de-dos-semanas-del-terremoto/"
   },
   {
-    "source": "Efecto Cocuyo",
+    "source": "Runrun.es",
     "section": "Venezuela",
-    "date": "2026-07-11",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/11165209/Screenshot-22-1024x482.png",
-    "titleEs": "Número de fallecidos asciende a 4.333 tras el doble terremoto",
-    "titleEn": "Número de fallecidos asciende a 4.333 tras el doble terremoto",
-    "url": "https://efectococuyo.com/la-humanidad/numero-de-fallecidos-asciende-a-4-333-tras-el-doble-terremoto/"
+    "date": "2026-07-12",
+    "img": "https://runrun.es/wp-content/uploads/2026/07/2026-06-27T031454Z-866009444-RC2T1MAQTXX7-RTRMADP-3-VENEZUELA-QUAKE.jpg",
+    "titleEs": "Lanzan plataforma biométrica para reunificar a niños separados tras los sismos",
+    "titleEn": "Lanzan plataforma biométrica para reunificar a niños separados tras los sismos",
+    "url": "https://runrun.es/noticias/614596/lanzan-plataforma-biometrica-para-reunificar-a-ninos-separados-tras-los-sismos/"
   },
   {
     "source": "Runrun.es",
@@ -97,14 +106,5 @@
     "titleEs": "Más de 1.200 afectados y Estado ausente: El Junquito está esperando respuestas tangibles",
     "titleEn": "Más de 1.200 afectados y Estado ausente: El Junquito está esperando respuestas tangibles",
     "url": "https://runrun.es/inicio/614544/mas-de-1-200-afectados-y-estado-ausente-el-junquito-esta-esperando-respuestas-tangibles/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-11",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/Refugios.Terremoto2026.LunaPerdomo-TalCual.-Portada.jpg",
-    "titleEs": "Refugios para damnificados operan bajo custodia de Sebin y Dgcim",
-    "titleEn": "Refugios para damnificados operan bajo custodia de Sebin y Dgcim",
-    "url": "https://runrun.es/noticias/614532/refugios-para-damnificados-operan-bajo-custodia-de-sebin-y-dgcim/"
   }
 ]

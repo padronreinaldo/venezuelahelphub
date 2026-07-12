@@ -58,6 +58,34 @@
   {
     "sourceEs": "Efecto Cocuyo",
     "sourceEn": "Efecto Cocuyo",
+    "date": "2026-07-12",
+    "conf": "med",
+    "titleEs": "Tutelaje, ayuda humanitaria y control de daños de Trump: mirada de politólogos",
+    "titleEn": "Tutelaje, ayuda humanitaria y control de daños de Trump: mirada de politólogos",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://efectococuyo.com/politica/tutelaje-ayuda-humanitaria-y-control-de-danos-de-trump-mirada-de-politologos/"
+  },
+  {
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
+    "date": "2026-07-12",
+    "conf": "med",
+    "titleEs": "¿Construcción expedita de viviendas tras terremotos? Lo que opinan expertos",
+    "titleEn": "¿Construcción expedita de viviendas tras terremotos? Lo que opinan expertos",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://efectococuyo.com/la-humanidad/construccion-expedita-de-viviendas-tras-terremotos-lo-que-opinan-expertos/"
+  },
+  {
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
     "date": "2026-07-11",
     "conf": "med",
     "titleEs": "El Junquito intenta levantarse entre escombros a más de dos semanas del terremoto",
@@ -82,33 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://efectococuyo.com/la-humanidad/numero-de-fallecidos-asciende-a-4-333-tras-el-doble-terremoto/"
-  },
-  {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-07-11",
-    "conf": "med",
-    "titleEs": "Qué pasará con los inquilinos y los alquileres tras el doble terremoto en Venezuela",
-    "titleEn": "Qué pasará con los inquilinos y los alquileres tras el doble terremoto en Venezuela",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/la-humanidad/que-pasara-con-los-inquilinos-y-los-alquileres-tras-el-doble-terremoto-en-venezuela/"
-  },
-  {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-07-11",
-    "conf": "med",
-    "titleEs": "A 18 días del doble terremoto: El control militar y el desgaste marcan la vida en La Guaira",
-    "titleEn": "A 18 días del doble terremoto: El control militar y el desgaste marcan la vida en La Guaira",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/la-humanidad/a-18-dias-del-doble-terremoto-el-control-militar-y-el-desgaste-marcan-la-vida-en-la-guaira/"
   }
 ]

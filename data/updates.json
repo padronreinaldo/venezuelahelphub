@@ -4,6 +4,20 @@
     "sourceEn": "El Pitazo",
     "date": "2026-07-12",
     "conf": "med",
+    "titleEs": "Buscarlos sin descanso: el rastro perdido de personas vistas con vida después de los terremotos",
+    "titleEn": "Buscarlos sin descanso: el rastro perdido de personas vistas con vida después de los terremotos",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/regiones/buscarlos-sin-descanso-el-rastro-perdido-de-personas-vistas-con-vida-despues-de-los-terremotos/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-07-12",
+    "conf": "med",
     "titleEs": "Mérida | Red «Mujeres en Escena» apoya a rescatistas y familias afectadas por terremotos",
     "titleEn": "Mérida | Red «Mujeres en Escena» apoya a rescatistas y familias afectadas por terremotos",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -26,6 +40,20 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://elpitazo.net/otras-noticias/paren-las-demoliciones-creadores-de-contenido-denuncian-que-maquinas-sepultan-restos-y-frenan-busquedas/"
+  },
+  {
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
+    "date": "2026-07-12",
+    "conf": "med",
+    "titleEs": "Científicos: Doble terremoto generó pequeño cayo en costas de Trinidad",
+    "titleEn": "Científicos: Doble terremoto generó pequeño cayo en costas de Trinidad",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://efectococuyo.com/solaz/ciencia/cientificos-doble-terremoto-genero-pequeno-cayo-en-costas-de-trinidad/"
   },
   {
     "sourceEs": "Efecto Cocuyo",
@@ -70,45 +98,17 @@
     "url": "https://efectococuyo.com/politica/tutelaje-ayuda-humanitaria-y-control-de-danos-de-trump-mirada-de-politologos/"
   },
   {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-07-12",
-    "conf": "med",
-    "titleEs": "¿Construcción expedita de viviendas tras terremotos? Lo que opinan expertos",
-    "titleEn": "¿Construcción expedita de viviendas tras terremotos? Lo que opinan expertos",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/la-humanidad/construccion-expedita-de-viviendas-tras-terremotos-lo-que-opinan-expertos/"
-  },
-  {
     "sourceEs": "Runrun.es",
     "sourceEn": "Runrun.es",
     "date": "2026-07-12",
     "conf": "med",
-    "titleEs": "Lanzan plataforma biométrica para reunificar a niños separados tras los sismos",
-    "titleEn": "Lanzan plataforma biométrica para reunificar a niños separados tras los sismos",
+    "titleEs": "Balance #12Jul | Gobierno reporta 4490 fallecidos y más de 1222 réplicas",
+    "titleEn": "Balance #12Jul | Gobierno reporta 4490 fallecidos y más de 1222 réplicas",
     "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
     "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://runrun.es/noticias/614596/lanzan-plataforma-biometrica-para-reunificar-a-ninos-separados-tras-los-sismos/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-07-11",
-    "conf": "med",
-    "titleEs": "Gobierno promete 25.000 viviendas si logra acceder a los recursos “ilegalmente retenidos” en el exterior",
-    "titleEn": "Gobierno promete 25.000 viviendas si logra acceder a los recursos “ilegalmente retenidos” en el exterior",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/noticias/614581/gobierno-promete-25-000-viviendas-si-logra-acceder-a-los-recursos-ilegalmente-retenidos-en-el-exterior/"
+    "url": "https://runrun.es/noticias/614607/balance-12jul-gobierno-reporta-4490-fallecidos-y-mas-de-1222-replicas/"
   }
 ]

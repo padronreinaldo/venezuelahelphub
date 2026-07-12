@@ -3,6 +3,15 @@
     "source": "El Pitazo",
     "section": "Venezuela",
     "date": "2026-07-12",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/07/Gemelos-1024x971.jpg",
+    "titleEs": "Buscarlos sin descanso: el rastro perdido de personas vistas con vida después de los terremotos",
+    "titleEn": "Buscarlos sin descanso: el rastro perdido de personas vistas con vida después de los terremotos",
+    "url": "https://elpitazo.net/regiones/buscarlos-sin-descanso-el-rastro-perdido-de-personas-vistas-con-vida-despues-de-los-terremotos/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-07-12",
     "img": "https://elpitazo.net/wp-content/uploads/2026/07/Mujeres-en-escena.jpg",
     "titleEs": "Mérida | Red «Mujeres en Escena» apoya a rescatistas y familias afectadas por terremotos",
     "titleEn": "Mérida | Red «Mujeres en Escena» apoya a rescatistas y familias afectadas por terremotos",
@@ -16,6 +25,15 @@
     "titleEs": "«Paren las demoliciones»: creadores de contenido denuncian que máquinas sepultan restos y frenan búsquedas",
     "titleEn": "«Paren las demoliciones»: creadores de contenido denuncian que máquinas sepultan restos y frenan búsquedas",
     "url": "https://elpitazo.net/otras-noticias/paren-las-demoliciones-creadores-de-contenido-denuncian-que-maquinas-sepultan-restos-y-frenan-busquedas/"
+  },
+  {
+    "source": "Efecto Cocuyo",
+    "section": "Venezuela",
+    "date": "2026-07-12",
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/12144041/Trinidad-volcancito-1-1024x683.jpg",
+    "titleEs": "Científicos: Doble terremoto generó pequeño cayo en costas de Trinidad",
+    "titleEn": "Científicos: Doble terremoto generó pequeño cayo en costas de Trinidad",
+    "url": "https://efectococuyo.com/solaz/ciencia/cientificos-doble-terremoto-genero-pequeno-cayo-en-costas-de-trinidad/"
   },
   {
     "source": "Efecto Cocuyo",
@@ -45,13 +63,13 @@
     "url": "https://efectococuyo.com/politica/tutelaje-ayuda-humanitaria-y-control-de-danos-de-trump-mirada-de-politologos/"
   },
   {
-    "source": "Efecto Cocuyo",
+    "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-12",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/07212944/WhatsApp-Image-2026-07-07-at-9.25.21-PM-1-1024x576.jpeg",
-    "titleEs": "¿Construcción expedita de viviendas tras terremotos? Lo que opinan expertos",
-    "titleEn": "¿Construcción expedita de viviendas tras terremotos? Lo que opinan expertos",
-    "url": "https://efectococuyo.com/la-humanidad/construccion-expedita-de-viviendas-tras-terremotos-lo-que-opinan-expertos/"
+    "img": "https://runrun.es/wp-content/uploads/2026/07/terremotos-1.jpg",
+    "titleEs": "Balance #12Jul | Gobierno reporta 4490 fallecidos y más de 1222 réplicas",
+    "titleEn": "Balance #12Jul | Gobierno reporta 4490 fallecidos y más de 1222 réplicas",
+    "url": "https://runrun.es/noticias/614607/balance-12jul-gobierno-reporta-4490-fallecidos-y-mas-de-1222-replicas/"
   },
   {
     "source": "Runrun.es",
@@ -79,14 +97,5 @@
     "titleEs": "Balance #11Jul | Cifra de fallecidos por terremotos asciende a 4333 mientras que la de desaparecidos continúa sin revelarse",
     "titleEn": "Balance #11Jul | Cifra de fallecidos por terremotos asciende a 4333 mientras que la de desaparecidos continúa sin revelarse",
     "url": "https://runrun.es/inicio/614565/balance-11jul-cifra-de-fallecidos-por-terremotos-asciende-a-4-333-mientras-que-la-de-desaparecidos-continua-sin-revelarse/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-11",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/ElJunquitoTalCual-2373.jpg",
-    "titleEs": "Más de 1.200 afectados y Estado ausente: El Junquito está esperando respuestas tangibles",
-    "titleEn": "Más de 1.200 afectados y Estado ausente: El Junquito está esperando respuestas tangibles",
-    "url": "https://runrun.es/inicio/614544/mas-de-1-200-afectados-y-estado-ausente-el-junquito-esta-esperando-respuestas-tangibles/"
   }
 ]

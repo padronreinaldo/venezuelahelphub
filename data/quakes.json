@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-12-07-2026-16:22-10.59--67.45",
+    "time": "2026-07-12T20:22:00.000Z",
+    "mag": 2.3,
+    "depth": 5,
+    "lat": 10.59,
+    "lon": -67.45,
+    "place": "42 km al noreste de Maracay",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-12-07-2026-14:12-10.58--67.28",
     "time": "2026-07-12T18:12:00.000Z",
     "mag": 2.2,
@@ -7477,21 +7492,6 @@
     "lat": 10.57,
     "lon": -66.68,
     "place": "8 km al sureste  de Naiguata",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-01-07-2026-14:43-10.46--66.84",
-    "time": "2026-07-01T18:43:00.000Z",
-    "mag": 2.1,
-    "depth": 16.7,
-    "lat": 10.46,
-    "lon": -66.84,
-    "place": "10 km al sureste  de Caracas",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

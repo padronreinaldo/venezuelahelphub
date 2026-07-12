@@ -4,6 +4,34 @@
     "sourceEn": "El Pitazo",
     "date": "2026-07-12",
     "conf": "med",
+    "titleEs": "Más de 1.200 afectados y Estado ausente: El Junquito está esperando respuestas tangibles",
+    "titleEn": "Más de 1.200 afectados y Estado ausente: El Junquito está esperando respuestas tangibles",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/alianzas/mas-de-1-200-afectados-y-estado-ausente-el-junquito-esta-esperando-respuestas-tangibles/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-07-12",
+    "conf": "med",
+    "titleEs": "Funvisis descarta alerta de tsunami en Venezuela y pide no difundir rumores",
+    "titleEn": "Funvisis descarta alerta de tsunami en Venezuela y pide no difundir rumores",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/sucesos/funvisis-descarta-alerta-de-tsunami-en-venezuela-y-pide-no-difundir-rumores/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-07-12",
+    "conf": "med",
     "titleEs": "Buscarlos sin descanso: el rastro perdido de personas vistas con vida después de los terremotos",
     "titleEn": "Buscarlos sin descanso: el rastro perdido de personas vistas con vida después de los terremotos",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -26,20 +54,6 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://elpitazo.net/regiones/merida-red-mujeres-en-escena-apoya-a-rescatistas-y-familias-afectadas-por-terremotos/"
-  },
-  {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-07-12",
-    "conf": "med",
-    "titleEs": "«Paren las demoliciones»: creadores de contenido denuncian que máquinas sepultan restos y frenan búsquedas",
-    "titleEn": "«Paren las demoliciones»: creadores de contenido denuncian que máquinas sepultan restos y frenan búsquedas",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/otras-noticias/paren-las-demoliciones-creadores-de-contenido-denuncian-que-maquinas-sepultan-restos-y-frenan-busquedas/"
   },
   {
     "sourceEs": "Efecto Cocuyo",
@@ -96,19 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://efectococuyo.com/politica/tutelaje-ayuda-humanitaria-y-control-de-danos-de-trump-mirada-de-politologos/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-07-12",
-    "conf": "med",
-    "titleEs": "Balance #12Jul | Gobierno reporta 4490 fallecidos y más de 1222 réplicas",
-    "titleEn": "Balance #12Jul | Gobierno reporta 4490 fallecidos y más de 1222 réplicas",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/noticias/614607/balance-12jul-gobierno-reporta-4490-fallecidos-y-mas-de-1222-replicas/"
   }
 ]

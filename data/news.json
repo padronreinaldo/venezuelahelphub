@@ -75,6 +75,15 @@
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-11",
+    "img": "https://runrun.es/wp-content/uploads/2026/07/viviendas.jpg",
+    "titleEs": "Gobierno promete 25.000 viviendas si logra acceder a los recursos “ilegalmente retenidos” en el exterior",
+    "titleEn": "Gobierno promete 25.000 viviendas si logra acceder a los recursos “ilegalmente retenidos” en el exterior",
+    "url": "https://runrun.es/noticias/614581/gobierno-promete-25-000-viviendas-si-logra-acceder-a-los-recursos-ilegalmente-retenidos-en-el-exterior/"
+  },
+  {
+    "source": "Runrun.es",
+    "section": "Venezuela",
+    "date": "2026-07-11",
     "img": "https://runrun.es/wp-content/uploads/2026/07/balance-1.jpg",
     "titleEs": "Balance #11Jul | Cifra de fallecidos por terremotos asciende a 4.333 mientras que la de desaparecidos continúa sin revelarse",
     "titleEn": "Balance #11Jul | Cifra de fallecidos por terremotos asciende a 4.333 mientras que la de desaparecidos continúa sin revelarse",
@@ -97,14 +106,5 @@
     "titleEs": "Refugios para damnificados operan bajo custodia de Sebin y Dgcim",
     "titleEn": "Refugios para damnificados operan bajo custodia de Sebin y Dgcim",
     "url": "https://runrun.es/noticias/614532/refugios-para-damnificados-operan-bajo-custodia-de-sebin-y-dgcim/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-11",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/aspiracion-democratica.jpg",
-    "titleEs": "Sismos del 24J no sepultaron la aspiración democrática",
-    "titleEn": "Sismos del 24J no sepultaron la aspiración democrática",
-    "url": "https://runrun.es/rr-es-plus/614415/sismos-del-24j-no-sepultaron-la-aspiracion-democratica/"
   }
 ]

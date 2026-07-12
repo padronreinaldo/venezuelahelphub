@@ -11,7 +11,7 @@
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/sin-categoria/merida-red-mujeres-en-escena-apoya-a-rescatistas-y-familias-afectadas-por-terremotos/"
+    "url": "https://elpitazo.net/regiones/merida-red-mujeres-en-escena-apoya-a-rescatistas-y-familias-afectadas-por-terremotos/"
   },
   {
     "sourceEs": "El Pitazo",
@@ -26,20 +26,6 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://elpitazo.net/otras-noticias/paren-las-demoliciones-creadores-de-contenido-denuncian-que-maquinas-sepultan-restos-y-frenan-busquedas/"
-  },
-  {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-07-11",
-    "conf": "med",
-    "titleEs": "Cashea extiende hasta el 13 de julio la exoneración de multas por retrasos en pagos",
-    "titleEn": "Cashea extiende hasta el 13 de julio la exoneración de multas por retrasos en pagos",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/economia/cashea-extiende-hasta-el-13-de-julio-la-exoneracion-de-multas-por-retrasos-en-pagos/"
   },
   {
     "sourceEs": "Efecto Cocuyo",
@@ -110,5 +96,19 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://runrun.es/noticias/614596/lanzan-plataforma-biometrica-para-reunificar-a-ninos-separados-tras-los-sismos/"
+  },
+  {
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
+    "date": "2026-07-11",
+    "conf": "med",
+    "titleEs": "Gobierno promete 25.000 viviendas si logra acceder a los recursos “ilegalmente retenidos” en el exterior",
+    "titleEn": "Gobierno promete 25.000 viviendas si logra acceder a los recursos “ilegalmente retenidos” en el exterior",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://runrun.es/noticias/614581/gobierno-promete-25-000-viviendas-si-logra-acceder-a-los-recursos-ilegalmente-retenidos-en-el-exterior/"
   }
 ]

@@ -42,20 +42,6 @@
     "url": "https://elpitazo.net/regiones/buscarlos-sin-descanso-el-rastro-perdido-de-personas-vistas-con-vida-despues-de-los-terremotos/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-07-12",
-    "conf": "med",
-    "titleEs": "Mérida | Red «Mujeres en Escena» apoya a rescatistas y familias afectadas por terremotos",
-    "titleEn": "Mérida | Red «Mujeres en Escena» apoya a rescatistas y familias afectadas por terremotos",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/regiones/merida-red-mujeres-en-escena-apoya-a-rescatistas-y-familias-afectadas-por-terremotos/"
-  },
-  {
     "sourceEs": "Efecto Cocuyo",
     "sourceEn": "Efecto Cocuyo",
     "date": "2026-07-12",
@@ -110,5 +96,19 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://efectococuyo.com/politica/tutelaje-ayuda-humanitaria-y-control-de-danos-de-trump-mirada-de-politologos/"
+  },
+  {
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
+    "date": "2026-07-12",
+    "conf": "med",
+    "titleEs": "Balance #12Jul | Gobierno reporta 4490 fallecidos y más de 1200 réplicas",
+    "titleEn": "Balance #12Jul | Gobierno reporta 4490 fallecidos y más de 1200 réplicas",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://runrun.es/noticias/614607/balance-12jul-gobierno-reporta-4490-fallecidos-y-mas-de-1222-replicas/"
   }
 ]

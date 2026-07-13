@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-13T18:41:29.559Z",
+  "updatedAt": "2026-07-13T20:10:16.783Z",
   "stats": {
     "maxMagnitude": 4.6,
     "aftershocks": 0,
@@ -19,12 +19,12 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8yf"
     },
     "deaths": {
-      "seenAt": "2026-07-13T18:41:29.559Z",
+      "seenAt": "2026-07-13T20:10:16.783Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
     "injured": {
-      "seenAt": "2026-07-13T18:41:29.559Z",
+      "seenAt": "2026-07-13T20:10:16.783Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
@@ -39,7 +39,7 @@
       "value": 4490,
       "source": "Runrun.es",
       "url": "https://runrun.es/noticias/614607/balance-12jul-gobierno-reporta-4490-fallecidos-y-mas-de-1222-replicas/",
-      "seenAt": "2026-07-13T18:41:29.559Z"
+      "seenAt": "2026-07-13T20:10:16.783Z"
     },
     "injured": {
       "value": 32038,
@@ -57,13 +57,13 @@
   "sources": {
     "usgs": 0,
     "reliefweb": 0,
-    "press": 11,
+    "press": 12,
     "wikipedia": 1,
     "funvisis": 20
   },
   "counts": {
     "updates": 8,
-    "news": 11,
+    "news": 12,
     "quakes": 500
   }
 }

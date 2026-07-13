@@ -74,6 +74,15 @@
   {
     "source": "Runrun.es",
     "section": "Venezuela",
+    "date": "2026-07-13",
+    "img": "https://runrun.es/wp-content/uploads/2026/07/Despues-del-terremoto-que-no-tiemble-la-justicia-por-Carolina-Jaimes-Branger-@cjaimesb.jpg",
+    "titleEs": "Después del terremoto, que no tiemble la justicia",
+    "titleEn": "Después del terremoto, que no tiemble la justicia",
+    "url": "https://runrun.es/opinion/614622/desastre-en-venezuela/"
+  },
+  {
+    "source": "Runrun.es",
+    "section": "Venezuela",
     "date": "2026-07-12",
     "img": "https://runrun.es/wp-content/uploads/2026/07/desaparecidos.jpg",
     "titleEs": "Vistos con vida, desaparecidos después: la búsqueda que no termina 18 días después del sismo",
@@ -97,14 +106,5 @@
     "titleEs": "Lanzan plataforma biométrica para reunificar a niños separados tras los sismos",
     "titleEn": "Lanzan plataforma biométrica para reunificar a niños separados tras los sismos",
     "url": "https://runrun.es/noticias/614596/lanzan-plataforma-biometrica-para-reunificar-a-ninos-separados-tras-los-sismos/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-11",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/viviendas.jpg",
-    "titleEs": "Gobierno promete 25.000 viviendas si logra acceder a los recursos “ilegalmente retenidos” en el exterior",
-    "titleEn": "Gobierno promete 25.000 viviendas si logra acceder a los recursos “ilegalmente retenidos” en el exterior",
-    "url": "https://runrun.es/noticias/614581/gobierno-promete-25-000-viviendas-si-logra-acceder-a-los-recursos-ilegalmente-retenidos-en-el-exterior/"
   }
 ]

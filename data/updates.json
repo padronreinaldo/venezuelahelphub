@@ -4,6 +4,34 @@
     "sourceEn": "El Pitazo",
     "date": "2026-07-13",
     "conf": "med",
+    "titleEs": "Caracas | Terremotos devastaron un ala del hospital Rísquez: vecinos denuncian que la estructura «cruje» con las réplicas",
+    "titleEn": "Caracas | Terremotos devastaron un ala del hospital Rísquez: vecinos denuncian que la estructura «cruje» con las réplicas",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/regiones/caracas-terremotos-devastaron-un-ala-del-hospital-risquez-vecinos-denuncian-que-la-estructura-cruje-con-las-replicas/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-07-13",
+    "conf": "med",
+    "titleEs": "Junio cerró en Venezuela marcado por terremotos y una inflación que se duplicó al 13,8 %",
+    "titleEn": "Junio cerró en Venezuela marcado por terremotos y una inflación que se duplicó al 13,8 %",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/economia/junio-cerro-en-venezuela-marcado-por-terremotos-y-una-inflacion-que-se-duplico-al-138/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-07-13",
+    "conf": "med",
     "titleEs": "Gobierno de Chile: 911 migrantes salieron voluntariamente  del país después de los terremotos en Venezuela",
     "titleEn": "Gobierno de Chile: 911 migrantes salieron voluntariamente  del país después de los terremotos en Venezuela",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -12,48 +40,6 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://elpitazo.net/migracion/gobierno-de-chile-911-migrantes-salieron-voluntariamente-del-pais-despues-de-los-terremotos-en-venezuela/"
-  },
-  {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-07-13",
-    "conf": "med",
-    "titleEs": "Fallecidos por los terremotos en Venezuela aumentan a 4.561, según el nuevo balance oficial",
-    "titleEn": "Fallecidos por los terremotos en Venezuela aumentan a 4.561, según el nuevo balance oficial",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/caracas/fallecidos-por-los-terremotos-en-venezuela-aumentan-a-4-561-segun-el-nuevo-balance-oficial/"
-  },
-  {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-07-13",
-    "conf": "med",
-    "titleEs": "Cuentas en Instagram difunden rescates viejos como actuales: claves para no caer en la desinformación",
-    "titleEn": "Cuentas en Instagram difunden rescates viejos como actuales: claves para no caer en la desinformación",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/tecnologia/cuentas-en-instagram-difunden-rescates-viejos-como-actuales-claves-para-no-caer-en-la-desinformacion/"
-  },
-  {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-07-13",
-    "conf": "med",
-    "titleEs": "Terremotos: Chacao reporta 31 edificios con daños severos y busca apoyo del sector privado para sus reparaciones",
-    "titleEn": "Terremotos: Chacao reporta 31 edificios con daños severos y busca apoyo del sector privado para sus reparaciones",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/caracas/terremotos-chacao-reporta-31-edificios-con-danos-severos-y-busca-apoyo-del-sector-privado-para-sus-reparaciones/"
   },
   {
     "sourceEs": "Efecto Cocuyo",
@@ -110,5 +96,19 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://efectococuyo.com/la-humanidad/centro-de-acopio-de-la-ucv-reporta-baja-en-donaciones-urge-agua-alimentos-y-medicamentos/"
+  },
+  {
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
+    "date": "2026-07-13",
+    "conf": "med",
+    "titleEs": "¿Cómo mitigar riesgos sanitarios en refugios? Propuestas de la SAV",
+    "titleEn": "¿Cómo mitigar riesgos sanitarios en refugios? Propuestas de la SAV",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://runrun.es/noticias/614693/como-mitigar-riesgos-sanitarios-en-refugios-propuestas-de-la-sav/"
   }
 ]

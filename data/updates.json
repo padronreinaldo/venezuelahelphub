@@ -2,6 +2,20 @@
   {
     "sourceEs": "El Pitazo",
     "sourceEn": "El Pitazo",
+    "date": "2026-07-13",
+    "conf": "med",
+    "titleEs": "Rescatistas encuentran los cuerpos del niño Fabio y su madre entre los escombros",
+    "titleEn": "Rescatistas encuentran los cuerpos del niño Fabio y su madre entre los escombros",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/regiones/rescatistas-encuentran-los-cuerpos-del-nino-fabio-y-su-madre-entre-los-escombros/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
     "date": "2026-07-12",
     "conf": "med",
     "titleEs": "Carpintero que reclamó por urnas donadas aclara: “No estoy detenido ni he estado preso”",
@@ -42,18 +56,18 @@
     "url": "https://elpitazo.net/alianzas/mas-de-1-200-afectados-y-estado-ausente-el-junquito-esta-esperando-respuestas-tangibles/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-07-12",
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
+    "date": "2026-07-13",
     "conf": "med",
-    "titleEs": "Funvisis descarta alerta de tsunami en Venezuela y pide no difundir rumores",
-    "titleEn": "Funvisis descarta alerta de tsunami en Venezuela y pide no difundir rumores",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "titleEs": "Centro de acopio de la UCV reporta baja en donaciones: urge agua, alimentos y medicamentos",
+    "titleEn": "Centro de acopio de la UCV reporta baja en donaciones: urge agua, alimentos y medicamentos",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/sucesos/funvisis-descarta-alerta-de-tsunami-en-venezuela-y-pide-no-difundir-rumores/"
+    "url": "https://efectococuyo.com/la-humanidad/centro-de-acopio-de-la-ucv-reporta-baja-en-donaciones-urge-agua-alimentos-y-medicamentos/"
   },
   {
     "sourceEs": "Efecto Cocuyo",
@@ -84,31 +98,17 @@
     "url": "https://efectococuyo.com/solaz/ciencia/cientificos-doble-terremoto-genero-pequeno-cayo-en-costas-de-trinidad/"
   },
   {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-07-12",
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
+    "date": "2026-07-13",
     "conf": "med",
-    "titleEs": "Gobierno regional activa Estado Mayor por lluvias en Amazonas",
-    "titleEn": "Gobierno regional activa Estado Mayor por lluvias en Amazonas",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
+    "titleEs": "Después del terremoto, que no tiemble la justicia",
+    "titleEn": "Después del terremoto, que no tiemble la justicia",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://efectococuyo.com/la-humanidad/gobierno-regional-activa-estado-mayor-por-lluvias-en-amazonas/"
-  },
-  {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-07-12",
-    "conf": "med",
-    "titleEs": "Nasa: Doble terremoto en Venezuela generó desplazamiento de terreno",
-    "titleEn": "Nasa: Doble terremoto en Venezuela generó desplazamiento de terreno",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/solaz/ciencia/nasa-doble-terremoto-en-venezuela-genero-desplazamiento-de-terreno/"
+    "url": "https://runrun.es/opinion/614622/desastre-en-venezuela/"
   }
 ]

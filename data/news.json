@@ -3,10 +3,19 @@
     "source": "El Pitazo",
     "section": "Venezuela",
     "date": "2026-07-12",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/07/para-fotos-de-la-web-5.png",
+    "titleEs": "Carpintero que reclamó por urnas donadas aclara: “No estoy detenido ni he estado preso”",
+    "titleEn": "Carpintero que reclamó por urnas donadas aclara: “No estoy detenido ni he estado preso”",
+    "url": "https://elpitazo.net/regiones/carpintero-que-reclamo-por-urnas-donadas-aclara-no-estoy-detenido-ni-he-estado-preso/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-07-12",
     "img": "https://elpitazo.net/wp-content/uploads/2026/07/Terremotos-1.jpg",
     "titleEs": "Se incrementa a 4.490 los fallecidos por los terremotos en Venezuela",
     "titleEn": "Se incrementa a 4.490 los fallecidos por los terremotos en Venezuela",
-    "url": "https://elpitazo.net/regiones/se-incrementa-a-4-490-los-fallecidos-por-los-terremotos-en-venezuela/"
+    "url": "https://elpitazo.net/sin-categoria/se-incrementa-a-4-490-los-fallecidos-por-los-terremotos-en-venezuela/"
   },
   {
     "source": "El Pitazo",
@@ -25,15 +34,6 @@
     "titleEs": "Funvisis descarta alerta de tsunami en Venezuela y pide no difundir rumores",
     "titleEn": "Funvisis descarta alerta de tsunami en Venezuela y pide no difundir rumores",
     "url": "https://elpitazo.net/sucesos/funvisis-descarta-alerta-de-tsunami-en-venezuela-y-pide-no-difundir-rumores/"
-  },
-  {
-    "source": "El Pitazo",
-    "section": "Venezuela",
-    "date": "2026-07-12",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/07/Gemelos-1024x971.jpg",
-    "titleEs": "Buscarlos sin descanso: el rastro perdido de personas vistas con vida después de los terremotos",
-    "titleEn": "Buscarlos sin descanso: el rastro perdido de personas vistas con vida después de los terremotos",
-    "url": "https://elpitazo.net/regiones/buscarlos-sin-descanso-el-rastro-perdido-de-personas-vistas-con-vida-despues-de-los-terremotos/"
   },
   {
     "source": "Efecto Cocuyo",
@@ -75,6 +75,15 @@
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-12",
+    "img": "https://runrun.es/wp-content/uploads/2026/07/desaparecidos.jpg",
+    "titleEs": "Vistos con vida, desaparecidos después: la búsqueda que no termina 18 días después del sismo",
+    "titleEn": "Vistos con vida, desaparecidos después: la búsqueda que no termina 18 días después del sismo",
+    "url": "https://runrun.es/noticias/614615/vistos-con-vida-desaparecidos-despues-la-busqueda-que-no-termina-18-dias-despues-del-sismo/"
+  },
+  {
+    "source": "Runrun.es",
+    "section": "Venezuela",
+    "date": "2026-07-12",
     "img": "https://runrun.es/wp-content/uploads/2026/07/terremotos-1.jpg",
     "titleEs": "Balance #12Jul | Gobierno reporta 4490 fallecidos y más de 1200 réplicas",
     "titleEn": "Balance #12Jul | Gobierno reporta 4490 fallecidos y más de 1200 réplicas",
@@ -97,14 +106,5 @@
     "titleEs": "Gobierno promete 25.000 viviendas si logra acceder a los recursos “ilegalmente retenidos” en el exterior",
     "titleEn": "Gobierno promete 25.000 viviendas si logra acceder a los recursos “ilegalmente retenidos” en el exterior",
     "url": "https://runrun.es/noticias/614581/gobierno-promete-25-000-viviendas-si-logra-acceder-a-los-recursos-ilegalmente-retenidos-en-el-exterior/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-11",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/balance-1.jpg",
-    "titleEs": "Balance #11Jul | Cifra de fallecidos por terremotos asciende a 4333 mientras que la de desaparecidos continúa sin revelarse",
-    "titleEn": "Balance #11Jul | Cifra de fallecidos por terremotos asciende a 4333 mientras que la de desaparecidos continúa sin revelarse",
-    "url": "https://runrun.es/inicio/614565/balance-11jul-cifra-de-fallecidos-por-terremotos-asciende-a-4-333-mientras-que-la-de-desaparecidos-continua-sin-revelarse/"
   }
 ]

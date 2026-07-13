@@ -3,6 +3,15 @@
     "source": "El Pitazo",
     "section": "Venezuela",
     "date": "2026-07-13",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/05/venezolanos-en-Chile.jpg",
+    "titleEs": "Gobierno de Chile: 911 migrantes salieron voluntariamente  del país después de los terremotos en Venezuela",
+    "titleEn": "Gobierno de Chile: 911 migrantes salieron voluntariamente  del país después de los terremotos en Venezuela",
+    "url": "https://elpitazo.net/migracion/gobierno-de-chile-911-migrantes-salieron-voluntariamente-del-pais-despues-de-los-terremotos-en-venezuela/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-07-13",
     "img": "https://elpitazo.net/wp-content/uploads/2026/07/image-19.png",
     "titleEs": "Fallecidos por los terremotos en Venezuela aumentan a 4.561, según el nuevo balance oficial",
     "titleEn": "Fallecidos por los terremotos en Venezuela aumentan a 4.561, según el nuevo balance oficial",
@@ -27,13 +36,13 @@
     "url": "https://elpitazo.net/caracas/terremotos-chacao-reporta-31-edificios-con-danos-severos-y-busca-apoyo-del-sector-privado-para-sus-reparaciones/"
   },
   {
-    "source": "El Pitazo",
+    "source": "Efecto Cocuyo",
     "section": "Venezuela",
     "date": "2026-07-13",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/07/303a843f1bd65506bd127823141f27fee439edf9w.jpg",
-    "titleEs": "¿Qué hace falta para reactivar el aeropuerto de Maiquetía?",
-    "titleEn": "¿Qué hace falta para reactivar el aeropuerto de Maiquetía?",
-    "url": "https://elpitazo.net/ultimas-noticias/que-hace-falta-para-reactivar-el-aeropuerto-de-maiquetia/"
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/06/19143325/WhatsApp-Image-2026-06-18-at-9.13.49-PM-1024x777.jpeg",
+    "titleEs": "Dirigentes advierten que negociaciones políticas no pueden congelarse indefinidamente",
+    "titleEn": "Dirigentes advierten que negociaciones políticas no pueden congelarse indefinidamente",
+    "url": "https://efectococuyo.com/politica/dirigentes-negociaciones-politicas-no-pueden-congelarse-indefinidamente/"
   },
   {
     "source": "Efecto Cocuyo",
@@ -63,13 +72,13 @@
     "url": "https://efectococuyo.com/la-humanidad/centro-de-acopio-de-la-ucv-reporta-baja-en-donaciones-urge-agua-alimentos-y-medicamentos/"
   },
   {
-    "source": "Efecto Cocuyo",
+    "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-13",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/13085101/92bf76c0-7ca7-11f1-ae7a-17343cbf3bfa.jpg.webp",
-    "titleEs": "“Eran de cartón”: el colapso de más de 100 viviendas sociales turcas en el terremoto de Venezuela",
-    "titleEn": "“Eran de cartón”: el colapso de más de 100 viviendas sociales turcas en el terremoto de Venezuela",
-    "url": "https://efectococuyo.com/la-humanidad/eran-de-carton-el-colapso-de-mas-de-100-viviendas-sociales-turcas-en-el-terremoto-de-venezuela/"
+    "img": "https://runrun.es/wp-content/uploads/2026/07/Pautas-Epidemiologicas-1280x853.png",
+    "titleEs": "¿Cómo mitigar riesgos sanitarios en refugios? Propuestas de la SAV",
+    "titleEn": "¿Cómo mitigar riesgos sanitarios en refugios? Propuestas de la SAV",
+    "url": "https://runrun.es/noticias/614693/como-mitigar-riesgos-sanitarios-en-refugios-propuestas-de-la-sav/"
   },
   {
     "source": "Runrun.es",
@@ -97,14 +106,5 @@
     "titleEs": "Ángel pausó su vida para ayudar en los rescates de La Guaira",
     "titleEn": "Ángel pausó su vida para ayudar en los rescates de La Guaira",
     "url": "https://runrun.es/rr-es-plus/614657/angel-pauso-su-vida-para-ayudar-en-los-rescates-de-la-guaira/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-13",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/Despues-del-terremoto-que-no-tiemble-la-justicia-por-Carolina-Jaimes-Branger-@cjaimesb.jpg",
-    "titleEs": "Después del terremoto, que no tiemble la justicia",
-    "titleEn": "Después del terremoto, que no tiemble la justicia",
-    "url": "https://runrun.es/opinion/614622/desastre-en-venezuela/"
   }
 ]

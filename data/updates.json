@@ -4,6 +4,20 @@
     "sourceEn": "El Pitazo",
     "date": "2026-07-13",
     "conf": "med",
+    "titleEs": "Gobierno de Chile: 911 migrantes salieron voluntariamente  del país después de los terremotos en Venezuela",
+    "titleEn": "Gobierno de Chile: 911 migrantes salieron voluntariamente  del país después de los terremotos en Venezuela",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/migracion/gobierno-de-chile-911-migrantes-salieron-voluntariamente-del-pais-despues-de-los-terremotos-en-venezuela/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-07-13",
+    "conf": "med",
     "titleEs": "Fallecidos por los terremotos en Venezuela aumentan a 4.561, según el nuevo balance oficial",
     "titleEn": "Fallecidos por los terremotos en Venezuela aumentan a 4.561, según el nuevo balance oficial",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -42,18 +56,18 @@
     "url": "https://elpitazo.net/caracas/terremotos-chacao-reporta-31-edificios-con-danos-severos-y-busca-apoyo-del-sector-privado-para-sus-reparaciones/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
     "date": "2026-07-13",
     "conf": "med",
-    "titleEs": "¿Qué hace falta para reactivar el aeropuerto de Maiquetía?",
-    "titleEn": "¿Qué hace falta para reactivar el aeropuerto de Maiquetía?",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "titleEs": "Dirigentes advierten que negociaciones políticas no pueden congelarse indefinidamente",
+    "titleEn": "Dirigentes advierten que negociaciones políticas no pueden congelarse indefinidamente",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/ultimas-noticias/que-hace-falta-para-reactivar-el-aeropuerto-de-maiquetia/"
+    "url": "https://efectococuyo.com/politica/dirigentes-negociaciones-politicas-no-pueden-congelarse-indefinidamente/"
   },
   {
     "sourceEs": "Efecto Cocuyo",
@@ -96,19 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://efectococuyo.com/la-humanidad/centro-de-acopio-de-la-ucv-reporta-baja-en-donaciones-urge-agua-alimentos-y-medicamentos/"
-  },
-  {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-07-13",
-    "conf": "med",
-    "titleEs": "“Eran de cartón”: el colapso de más de 100 viviendas sociales turcas en el terremoto de Venezuela",
-    "titleEn": "“Eran de cartón”: el colapso de más de 100 viviendas sociales turcas en el terremoto de Venezuela",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/la-humanidad/eran-de-carton-el-colapso-de-mas-de-100-viviendas-sociales-turcas-en-el-terremoto-de-venezuela/"
   }
 ]

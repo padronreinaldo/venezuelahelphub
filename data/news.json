@@ -3,6 +3,24 @@
     "source": "El Pitazo",
     "section": "Venezuela",
     "date": "2026-07-13",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/07/image-19.png",
+    "titleEs": "Fallecidos por los terremotos en Venezuela aumentan a 4.561, según el nuevo balance oficial",
+    "titleEn": "Fallecidos por los terremotos en Venezuela aumentan a 4.561, según el nuevo balance oficial",
+    "url": "https://elpitazo.net/caracas/fallecidos-por-los-terremotos-en-venezuela-aumentan-a-4-561-segun-el-nuevo-balance-oficial/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-07-13",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/07/rescate.jpg",
+    "titleEs": "Cuentas en Instagram difunden rescates viejos como actuales: claves para no caer en la desinformación",
+    "titleEn": "Cuentas en Instagram difunden rescates viejos como actuales: claves para no caer en la desinformación",
+    "url": "https://elpitazo.net/tecnologia/cuentas-en-instagram-difunden-rescates-viejos-como-actuales-claves-para-no-caer-en-la-desinformacion/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-07-13",
     "img": "https://elpitazo.net/wp-content/uploads/2026/07/1001412908-1024x683.jpg",
     "titleEs": "Terremotos: Chacao reporta 31 edificios con daños severos y busca apoyo del sector privado para sus reparaciones",
     "titleEn": "Terremotos: Chacao reporta 31 edificios con daños severos y busca apoyo del sector privado para sus reparaciones",
@@ -16,24 +34,6 @@
     "titleEs": "¿Qué hace falta para reactivar el aeropuerto de Maiquetía?",
     "titleEn": "¿Qué hace falta para reactivar el aeropuerto de Maiquetía?",
     "url": "https://elpitazo.net/ultimas-noticias/que-hace-falta-para-reactivar-el-aeropuerto-de-maiquetia/"
-  },
-  {
-    "source": "El Pitazo",
-    "section": "Venezuela",
-    "date": "2026-07-13",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/07/Dolar.jpg",
-    "titleEs": "Dólar en Venezuela: ¿qué pasó en el mercado cambiario después de los terremotos?",
-    "titleEn": "Dólar en Venezuela: ¿qué pasó en el mercado cambiario después de los terremotos?",
-    "url": "https://elpitazo.net/economia/dolar-en-venezuela-que-paso-en-el-mercado-cambiario-despues-de-los-terremotos/"
-  },
-  {
-    "source": "El Pitazo",
-    "section": "Venezuela",
-    "date": "2026-07-13",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/07/escombros.jpg",
-    "titleEs": "Min Ecosocialismo: cárcel y multas para quienes lancen escombros de los terremotos al mar",
-    "titleEn": "Min Ecosocialismo: cárcel y multas para quienes lancen escombros de los terremotos al mar",
-    "url": "https://elpitazo.net/politica/min-ecosocialismo-carcel-y-multas-para-quienes-lancen-escombros-del-terremoto-al-mar/"
   },
   {
     "source": "Efecto Cocuyo",
@@ -75,9 +75,18 @@
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-13",
+    "img": "https://runrun.es/wp-content/uploads/2026/07/photo_2026-07-13_14-30-33.jpg",
+    "titleEs": "Historiadores advierten que Venezuela ha olvidado su condición de país sísmico",
+    "titleEn": "Historiadores advierten que Venezuela ha olvidado su condición de país sísmico",
+    "url": "https://runrun.es/inicio/614679/historiadores-alertan-que-venezuela-ha-olvidado-su-condicion-de-pais-sismico/"
+  },
+  {
+    "source": "Runrun.es",
+    "section": "Venezuela",
+    "date": "2026-07-13",
     "img": "https://runrun.es/wp-content/uploads/2026/07/shakira.jpg",
-    "titleEs": "Shakira impulsa apoyo internacional para reconstruir la educación en Venezuela tras los sismos",
-    "titleEn": "Shakira impulsa apoyo internacional para reconstruir la educación en Venezuela tras los sismos",
+    "titleEs": "Shakira impulsa solidaridad en favor de los niños venezolanos",
+    "titleEn": "Shakira impulsa solidaridad en favor de los niños venezolanos",
     "url": "https://runrun.es/inicio/614669/shakira-impulsa-apoyo-internacional-para-reconstruir-la-educacion-en-venezuela-tras-los-sismos/"
   },
   {
@@ -97,14 +106,5 @@
     "titleEs": "Después del terremoto, que no tiemble la justicia",
     "titleEn": "Después del terremoto, que no tiemble la justicia",
     "url": "https://runrun.es/opinion/614622/desastre-en-venezuela/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-12",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/desaparecidos.jpg",
-    "titleEs": "Vistos con vida, desaparecidos después: la búsqueda que no termina a 18 días del sismo",
-    "titleEn": "Vistos con vida, desaparecidos después: la búsqueda que no termina a 18 días del sismo",
-    "url": "https://runrun.es/noticias/614615/vistos-con-vida-desaparecidos-despues-la-busqueda-que-no-termina-18-dias-despues-del-sismo/"
   }
 ]

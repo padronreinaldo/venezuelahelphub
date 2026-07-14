@@ -4,6 +4,20 @@
     "sourceEn": "El Pitazo",
     "date": "2026-07-14",
     "conf": "med",
+    "titleEs": "Basílica Santa Teresa fue señalada con etiqueta roja después de los terremotos",
+    "titleEn": "Basílica Santa Teresa fue señalada con etiqueta roja después de los terremotos",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/caracas/basilica-santa-teresa-fue-senalada-con-etiqueta-roja-despues-de-los-terremotos/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-07-14",
+    "conf": "med",
     "titleEs": "¿Cómo reagendar la cita del pasaporte en el Saime luego de los terremotos?",
     "titleEn": "¿Cómo reagendar la cita del pasaporte en el Saime luego de los terremotos?",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -42,18 +56,18 @@
     "url": "https://elpitazo.net/regiones/fmv-denuncia-presunto-intrusismo-y-hostigamiento-contra-medicos-en-hospital-de-portuguesa/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-07-13",
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
+    "date": "2026-07-14",
     "conf": "med",
-    "titleEs": "Caracas | Terremotos devastaron un ala del hospital Rísquez: vecinos denuncian que la estructura «cruje» con las réplicas",
-    "titleEn": "Caracas | Terremotos devastaron un ala del hospital Rísquez: vecinos denuncian que la estructura «cruje» con las réplicas",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "titleEs": "Ayuda internacional suma: Hospitales de campaña de Reino Unido, Japón y ONU brindan atención tras terremotos",
+    "titleEn": "Ayuda internacional suma: Hospitales de campaña de Reino Unido, Japón y ONU brindan atención tras terremotos",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/regiones/caracas-terremotos-devastaron-un-ala-del-hospital-risquez-vecinos-denuncian-que-la-estructura-cruje-con-las-replicas/"
+    "url": "https://efectococuyo.com/la-humanidad/ayuda-internacional-suma-hospitales-de-campana-de-reino-unido-japon-y-onu-brindan-atencion-tras-terremotos/"
   },
   {
     "sourceEs": "Efecto Cocuyo",
@@ -96,19 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://efectococuyo.com/la-humanidad/a-20-dias-de-los-terremotos-damnificados-enfrentan-la-emergencia-en-aragua-carabobo-y-falcon/"
-  },
-  {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-07-14",
-    "conf": "med",
-    "titleEs": "Miraflores dice que mantendrá proceso de reestructuración de la deuda externa",
-    "titleEn": "Miraflores dice que mantendrá proceso de reestructuración de la deuda externa",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/economia/miraflores-asegura-mantendra-reestructuracion-deuda-externa/"
   }
 ]

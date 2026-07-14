@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-14-07-2026-12:00-9.1--66.54",
+    "time": "2026-07-14T16:00:00.000Z",
+    "mag": 2.3,
+    "depth": 5,
+    "lat": 9.1,
+    "lon": -66.54,
+    "place": "62 Km al oeste de Valle de la Pascua",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-14-07-2026-08:37-10.63--66.94",
     "time": "2026-07-14T12:37:00.000Z",
     "mag": 2.4,
@@ -7477,21 +7492,6 @@
     "lat": 10.53,
     "lon": -68.19,
     "place": "20 km al oeste    de Moron",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-02-07-2026-10:39-10.59--66.61",
-    "time": "2026-07-02T14:39:00.000Z",
-    "mag": 2.3,
-    "depth": 5,
-    "lat": 10.59,
-    "lon": -66.61,
-    "place": "6 km al suroeste de Los Caracas",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

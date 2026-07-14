@@ -39,15 +39,6 @@
     "source": "Efecto Cocuyo",
     "section": "Venezuela",
     "date": "2026-07-14",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/14172448/WhatsApp-Image-2026-07-14-at-3.20.46-PM.jpeg",
-    "titleEs": "AN aprueba en primera discusión leyes para estimular alquileres y construcción de viviendas tras terremotos",
-    "titleEn": "AN aprueba en primera discusión leyes para estimular alquileres y construcción de viviendas tras terremotos",
-    "url": "https://efectococuyo.com/politica/an-discusion-ley-arrendamiento-estimular-mercado-terremotos/"
-  },
-  {
-    "source": "Efecto Cocuyo",
-    "section": "Venezuela",
-    "date": "2026-07-14",
     "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/14174933/HNN_OzFX0AAO_GL-1024x592.jpg",
     "titleEs": "Michael Kozak: EEUU no quiere elecciones “demasiado pronto” ni “demasiado lejos” en Venezuela",
     "titleEn": "Michael Kozak: EEUU no quiere elecciones “demasiado pronto” ni “demasiado lejos” en Venezuela",
@@ -70,6 +61,24 @@
     "titleEs": "American Airlines inaugura vuelo entre Miami y Maracaibo tras terremotos",
     "titleEn": "American Airlines inaugura vuelo entre Miami y Maracaibo tras terremotos",
     "url": "https://efectococuyo.com/economia/american-airlines-inaugura-vuelo-entre-miami-y-maracaibo-tras-terremotos/"
+  },
+  {
+    "source": "Efecto Cocuyo",
+    "section": "Venezuela",
+    "date": "2026-07-14",
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/14133109/uruguayvnzlaayuda22-1024x683.webp",
+    "titleEs": "Uruguay pospone vuelo con ayuda humanitaria a Venezuela por “cambio de reglas”",
+    "titleEn": "Uruguay pospone vuelo con ayuda humanitaria a Venezuela por “cambio de reglas”",
+    "url": "https://efectococuyo.com/internacionales/uruguay-suspende-vuelo-con-ayuda-humanitaria-a-venezuela-por-cambio-de-reglas/"
+  },
+  {
+    "source": "Runrun.es",
+    "section": "Venezuela",
+    "date": "2026-07-14",
+    "img": "https://runrun.es/wp-content/uploads/2026/07/Con-la-LUZ.jpg",
+    "titleEs": "La Conversa de ARI con La Luz | ¿Cómo gestionar el manejo digno de los cadáveres sin identificar en los terremotos?",
+    "titleEn": "La Conversa de ARI con La Luz | ¿Cómo gestionar el manejo digno de los cadáveres sin identificar en los terremotos?",
+    "url": "https://runrun.es/inicio/614851/la-conversa-de-ari-con-la-luz-como-gestionar-el-manejo-digno-de-los-cadaveres-sin-identificar-en-los-terremotos/"
   },
   {
     "source": "Runrun.es",
@@ -97,14 +106,5 @@
     "titleEs": "Registro único de vivienda: estos son los requisitos y cómo será el censo para afectados por los terremotos",
     "titleEn": "Registro único de vivienda: estos son los requisitos y cómo será el censo para afectados por los terremotos",
     "url": "https://runrun.es/inicio/614826/registro-unico-de-vivienda-estos-son-los-requisitos-y-como-sera-el-censo-para-afectados-por-los-terremotos/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-14",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/7b9f5f87-77a6-4617-bbab-4b9fbef3de91.jpg",
-    "titleEs": "Imagina Venezuela, el proyecto de Kurios Education para el alivio de la tragedia",
-    "titleEn": "Imagina Venezuela, el proyecto de Kurios Education para el alivio de la tragedia",
-    "url": "https://runrun.es/noticias/con-proposito/614755/kurios-education-transforma-su-tecnologia-en-alivio-humanitario-gracias-al-proyecto-imagina-venezuela-tras-contingencia/"
   }
 ]

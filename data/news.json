@@ -2,6 +2,24 @@
   {
     "source": "El Pitazo",
     "section": "Venezuela",
+    "date": "2026-07-14",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/07/Puntos-de-Ventas.jpg",
+    "titleEs": "Banca exonerará por 90 días las comisiones en operaciones de puntos de ventas en La Guaira",
+    "titleEn": "Banca exonerará por 90 días las comisiones en operaciones de puntos de ventas en La Guaira",
+    "url": "https://elpitazo.net/economia/banca-exonerara-por-90-dias-las-comisiones-en-operaciones-de-puntos-de-ventas-en-la-guaira/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-07-13",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/07/FVM-Hospital-de-Portuguesa.jpg",
+    "titleEs": "FMV denuncia presunto intrusismo y hostigamiento contra médicos en hospital de Portuguesa",
+    "titleEn": "FMV denuncia presunto intrusismo y hostigamiento contra médicos en hospital de Portuguesa",
+    "url": "https://elpitazo.net/regiones/fmv-denuncia-presunto-intrusismo-y-hostigamiento-contra-medicos-en-hospital-de-portuguesa/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
     "date": "2026-07-13",
     "img": "https://elpitazo.net/wp-content/uploads/2026/07/IMG_0170-1-1-1024x768.jpeg",
     "titleEs": "Caracas | Terremotos devastaron un ala del hospital Rísquez: vecinos denuncian que la estructura «cruje» con las réplicas",
@@ -16,15 +34,6 @@
     "titleEs": "Junio cerró en Venezuela marcado por terremotos y una inflación que se duplicó al 13,8 %",
     "titleEn": "Junio cerró en Venezuela marcado por terremotos y una inflación que se duplicó al 13,8 %",
     "url": "https://elpitazo.net/economia/junio-cerro-en-venezuela-marcado-por-terremotos-y-una-inflacion-que-se-duplico-al-138/"
-  },
-  {
-    "source": "El Pitazo",
-    "section": "Venezuela",
-    "date": "2026-07-13",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/05/venezolanos-en-Chile.jpg",
-    "titleEs": "Gobierno de Chile: 911 migrantes salieron voluntariamente  del país después de los terremotos en Venezuela",
-    "titleEn": "Gobierno de Chile: 911 migrantes salieron voluntariamente  del país después de los terremotos en Venezuela",
-    "url": "https://elpitazo.net/migracion/gobierno-de-chile-911-migrantes-salieron-voluntariamente-del-pais-despues-de-los-terremotos-en-venezuela/"
   },
   {
     "source": "Efecto Cocuyo",
@@ -66,6 +75,15 @@
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-13",
+    "img": "https://runrun.es/wp-content/uploads/2026/07/Santa-en-las-calles.jpg",
+    "titleEs": "Fundación Santa en las Calles escala operación humanitaria con el “Plan de Atención Integral Post Terremoto”",
+    "titleEn": "Fundación Santa en las Calles escala operación humanitaria con el “Plan de Atención Integral Post Terremoto”",
+    "url": "https://runrun.es/noticias/614721/fundacion-santa-en-las-calles-escala-operacion-humanitaria-con-el-plan-de-atencion-integral-post-terremoto/"
+  },
+  {
+    "source": "Runrun.es",
+    "section": "Venezuela",
+    "date": "2026-07-13",
     "img": "https://runrun.es/wp-content/uploads/2026/07/Pautas-Epidemiologicas-1280x853.png",
     "titleEs": "¿Cómo mitigar riesgos sanitarios en refugios? Propuestas de la SAV",
     "titleEn": "¿Cómo mitigar riesgos sanitarios en refugios? Propuestas de la SAV",
@@ -88,14 +106,5 @@
     "titleEs": "Shakira impulsa solidaridad en favor de los niños venezolanos",
     "titleEn": "Shakira impulsa solidaridad en favor de los niños venezolanos",
     "url": "https://runrun.es/inicio/614669/shakira-impulsa-apoyo-internacional-para-reconstruir-la-educacion-en-venezuela-tras-los-sismos/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-13",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/angel-moreno-rescatista-1.jpg",
-    "titleEs": "Ángel pausó su vida para ayudar en los rescates de La Guaira",
-    "titleEn": "Ángel pausó su vida para ayudar en los rescates de La Guaira",
-    "url": "https://runrun.es/rr-es-plus/614657/angel-pauso-su-vida-para-ayudar-en-los-rescates-de-la-guaira/"
   }
 ]

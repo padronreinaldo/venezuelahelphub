@@ -2,6 +2,34 @@
   {
     "sourceEs": "El Pitazo",
     "sourceEn": "El Pitazo",
+    "date": "2026-07-14",
+    "conf": "med",
+    "titleEs": "Banca exonerará por 90 días las comisiones en operaciones de puntos de ventas en La Guaira",
+    "titleEn": "Banca exonerará por 90 días las comisiones en operaciones de puntos de ventas en La Guaira",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/economia/banca-exonerara-por-90-dias-las-comisiones-en-operaciones-de-puntos-de-ventas-en-la-guaira/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-07-13",
+    "conf": "med",
+    "titleEs": "FMV denuncia presunto intrusismo y hostigamiento contra médicos en hospital de Portuguesa",
+    "titleEn": "FMV denuncia presunto intrusismo y hostigamiento contra médicos en hospital de Portuguesa",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/regiones/fmv-denuncia-presunto-intrusismo-y-hostigamiento-contra-medicos-en-hospital-de-portuguesa/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
     "date": "2026-07-13",
     "conf": "med",
     "titleEs": "Caracas | Terremotos devastaron un ala del hospital Rísquez: vecinos denuncian que la estructura «cruje» con las réplicas",
@@ -26,20 +54,6 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://elpitazo.net/economia/junio-cerro-en-venezuela-marcado-por-terremotos-y-una-inflacion-que-se-duplico-al-138/"
-  },
-  {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-07-13",
-    "conf": "med",
-    "titleEs": "Gobierno de Chile: 911 migrantes salieron voluntariamente  del país después de los terremotos en Venezuela",
-    "titleEn": "Gobierno de Chile: 911 migrantes salieron voluntariamente  del país después de los terremotos en Venezuela",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/migracion/gobierno-de-chile-911-migrantes-salieron-voluntariamente-del-pais-despues-de-los-terremotos-en-venezuela/"
   },
   {
     "sourceEs": "Efecto Cocuyo",
@@ -96,19 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://efectococuyo.com/la-humanidad/centro-de-acopio-de-la-ucv-reporta-baja-en-donaciones-urge-agua-alimentos-y-medicamentos/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-07-13",
-    "conf": "med",
-    "titleEs": "¿Cómo mitigar riesgos sanitarios en refugios? Propuestas de la SAV",
-    "titleEn": "¿Cómo mitigar riesgos sanitarios en refugios? Propuestas de la SAV",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/noticias/614693/como-mitigar-riesgos-sanitarios-en-refugios-propuestas-de-la-sav/"
   }
 ]

@@ -39,6 +39,24 @@
     "source": "Efecto Cocuyo",
     "section": "Venezuela",
     "date": "2026-07-14",
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/06/17222630/8e18c5700922a07fc3800ba08d99904a0e16cf7a-1024x683.jpg",
+    "titleEs": "ONG denuncia grave riesgo para 518 presos políticos en Venezuela tras sismos",
+    "titleEn": "ONG denuncia grave riesgo para 518 presos políticos en Venezuela tras sismos",
+    "url": "https://efectococuyo.com/la-humanidad/ong-denuncia-grave-riesgo-para-518-presos-politicos-en-venezuela-tras-sismos/"
+  },
+  {
+    "source": "Efecto Cocuyo",
+    "section": "Venezuela",
+    "date": "2026-07-14",
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/13191846/image-56-1024x768.png",
+    "titleEs": "A 20 días de los terremotos, damnificados enfrentan la emergencia en Aragua, Carabobo y Falcón",
+    "titleEn": "A 20 días de los terremotos, damnificados enfrentan la emergencia en Aragua, Carabobo y Falcón",
+    "url": "https://efectococuyo.com/la-humanidad/a-20-dias-de-los-terremotos-damnificados-enfrentan-la-emergencia-en-aragua-carabobo-y-falcon/"
+  },
+  {
+    "source": "Efecto Cocuyo",
+    "section": "Venezuela",
+    "date": "2026-07-14",
     "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/13214628/WhatsApp-Image-2026-07-13-at-9.43.58-PM.jpeg",
     "titleEs": "Miraflores dice que mantendrá proceso de reestructuración de la deuda externa",
     "titleEn": "Miraflores dice que mantendrá proceso de reestructuración de la deuda externa",
@@ -54,57 +72,39 @@
     "url": "https://efectococuyo.com/politica/dirigentes-negociaciones-politicas-no-pueden-congelarse-indefinidamente/"
   },
   {
-    "source": "Efecto Cocuyo",
+    "source": "Runrun.es",
     "section": "Venezuela",
-    "date": "2026-07-13",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/13150423/89c230e2b4f789454d59b5be95c2c1770772f5ff-1024x683.jpg",
-    "titleEs": "Número de fallecidos por terremotos del 24 de junio alcanza las 4.561 víctimas, según parte oficial",
-    "titleEn": "Número de fallecidos por terremotos del 24 de junio alcanza las 4.561 víctimas, según parte oficial",
-    "url": "https://efectococuyo.com/la-humanidad/numero-de-fallecidos-por-terremotos-del-24-de-junio-alcanza-las-4-561-victimas-segun-parte-oficial/"
+    "date": "2026-07-14",
+    "img": "https://runrun.es/wp-content/uploads/2026/07/holahola.jpg",
+    "titleEs": "Laser Airlines retoma vuelos a Madrid, Colombia y Santo Domingo",
+    "titleEn": "Laser Airlines retoma vuelos a Madrid, Colombia y Santo Domingo",
+    "url": "https://runrun.es/noticias/con-proposito/614737/laser-airlines-retoma-vuelos-a-madrid-colombia-y-santo-domingo/"
   },
   {
-    "source": "Efecto Cocuyo",
+    "source": "Runrun.es",
     "section": "Venezuela",
-    "date": "2026-07-13",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/13144810/2f1a5b8f83d30ebbd7376e029ab205b732f5487d-1024x683.jpg",
-    "titleEs": "Gobierno advierte sanciones por arrojar escombros al mar tras los terremotos",
-    "titleEn": "Gobierno advierte sanciones por arrojar escombros al mar tras los terremotos",
-    "url": "https://efectococuyo.com/politica/gobierno-advierte-sanciones-por-arrojar-escombros-al-mar-tras-los-terremotos/"
+    "date": "2026-07-14",
+    "img": "https://runrun.es/wp-content/uploads/2026/07/salud-mental.jpg",
+    "titleEs": "Especialista destaca la atención psicológica temprana para niños afectados por sismos",
+    "titleEn": "Especialista destaca la atención psicológica temprana para niños afectados por sismos",
+    "url": "https://runrun.es/inicio/614733/especialista-destaca-la-atencion-psicologica-temprana-para-ninos-afectados-por-sismos/"
+  },
+  {
+    "source": "Runrun.es",
+    "section": "Venezuela",
+    "date": "2026-07-14",
+    "img": "https://runrun.es/wp-content/uploads/2026/07/LE-RRES.jpg",
+    "titleEs": "Joaquín Benitez: Es el momento perfecto para mejorar la proporción de áreas verdes y la canalización de agua urbana de La Guaira",
+    "titleEn": "Joaquín Benitez: Es el momento perfecto para mejorar la proporción de áreas verdes y la canalización de agua urbana de La Guaira",
+    "url": "https://runrun.es/inicio/614730/joaquin-benitez-es-el-momento-perfecto-para-mejorar-la-proporcion-de-areas-verdes-y-la-canalizacion-de-agua-urbana-de-la-guaira/"
   },
   {
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-13",
     "img": "https://runrun.es/wp-content/uploads/2026/07/Santa-en-las-calles.jpg",
-    "titleEs": "Fundación Santa en las Calles escala operación humanitaria con el “Plan de Atención Integral Post Terremoto”",
-    "titleEn": "Fundación Santa en las Calles escala operación humanitaria con el “Plan de Atención Integral Post Terremoto”",
+    "titleEs": "Fundación Santa en las Calles amplía operación humanitaria con el Plan de Atención Integral Posterremoto",
+    "titleEn": "Fundación Santa en las Calles amplía operación humanitaria con el Plan de Atención Integral Posterremoto",
     "url": "https://runrun.es/noticias/614721/fundacion-santa-en-las-calles-escala-operacion-humanitaria-con-el-plan-de-atencion-integral-post-terremoto/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-13",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/Pautas-Epidemiologicas-1280x853.png",
-    "titleEs": "¿Cómo mitigar riesgos sanitarios en refugios? Propuestas de la SAV",
-    "titleEn": "¿Cómo mitigar riesgos sanitarios en refugios? Propuestas de la SAV",
-    "url": "https://runrun.es/noticias/614693/como-mitigar-riesgos-sanitarios-en-refugios-propuestas-de-la-sav/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-13",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/photo_2026-07-13_14-30-33.jpg",
-    "titleEs": "Historiadores advierten que Venezuela ha olvidado su condición de país sísmico",
-    "titleEn": "Historiadores advierten que Venezuela ha olvidado su condición de país sísmico",
-    "url": "https://runrun.es/inicio/614679/historiadores-alertan-que-venezuela-ha-olvidado-su-condicion-de-pais-sismico/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-13",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/shakira.jpg",
-    "titleEs": "Shakira impulsa solidaridad en favor de los niños venezolanos",
-    "titleEn": "Shakira impulsa solidaridad en favor de los niños venezolanos",
-    "url": "https://runrun.es/inicio/614669/shakira-impulsa-apoyo-internacional-para-reconstruir-la-educacion-en-venezuela-tras-los-sismos/"
   }
 ]

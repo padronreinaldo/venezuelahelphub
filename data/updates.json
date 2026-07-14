@@ -4,6 +4,20 @@
     "sourceEn": "El Pitazo",
     "date": "2026-07-14",
     "conf": "med",
+    "titleEs": "¿Cómo reagendar la cita del pasaporte en el Saime luego de los terremotos?",
+    "titleEn": "¿Cómo reagendar la cita del pasaporte en el Saime luego de los terremotos?",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/regiones/gran-caracas/como-reagendar-la-cita-del-pasaporte-en-el-saime-luego-de-los-terremotos/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-07-14",
+    "conf": "med",
     "titleEs": "Banca exonerará por 90 días las comisiones en operaciones de puntos de ventas en La Guaira",
     "titleEn": "Banca exonerará por 90 días las comisiones en operaciones de puntos de ventas en La Guaira",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -42,18 +56,18 @@
     "url": "https://elpitazo.net/regiones/caracas-terremotos-devastaron-un-ala-del-hospital-risquez-vecinos-denuncian-que-la-estructura-cruje-con-las-replicas/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-07-13",
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
+    "date": "2026-07-14",
     "conf": "med",
-    "titleEs": "Junio cerró en Venezuela marcado por terremotos y una inflación que se duplicó al 13,8 %",
-    "titleEn": "Junio cerró en Venezuela marcado por terremotos y una inflación que se duplicó al 13,8 %",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "titleEs": "Morris Tidball-Binz: “La preparación salva vidas” ante los terremotos en Venezuela #ConLaLuz",
+    "titleEn": "Morris Tidball-Binz: “La preparación salva vidas” ante los terremotos en Venezuela #ConLaLuz",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/economia/junio-cerro-en-venezuela-marcado-por-terremotos-y-una-inflacion-que-se-duplico-al-138/"
+    "url": "https://efectococuyo.com/la-humanidad/morris-tidball-binz-la-preparacion-salva-vidas-ante-los-terremotos-en-venezuela-conlaluz/"
   },
   {
     "sourceEs": "Efecto Cocuyo",
@@ -96,19 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://efectococuyo.com/economia/miraflores-asegura-mantendra-reestructuracion-deuda-externa/"
-  },
-  {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-07-13",
-    "conf": "med",
-    "titleEs": "Dirigentes advierten que negociaciones políticas no pueden congelarse indefinidamente",
-    "titleEn": "Dirigentes advierten que negociaciones políticas no pueden congelarse indefinidamente",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/politica/dirigentes-negociaciones-politicas-no-pueden-congelarse-indefinidamente/"
   }
 ]

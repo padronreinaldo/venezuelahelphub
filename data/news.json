@@ -3,6 +3,15 @@
     "source": "El Pitazo",
     "section": "Venezuela",
     "date": "2026-07-14",
+    "img": "https://elpitazo.net/wp-content/uploads/2018/12/pasaporte-mpprijvenezuela.jpg",
+    "titleEs": "¿Cómo reagendar la cita del pasaporte en el Saime luego de los terremotos?",
+    "titleEn": "¿Cómo reagendar la cita del pasaporte en el Saime luego de los terremotos?",
+    "url": "https://elpitazo.net/regiones/gran-caracas/como-reagendar-la-cita-del-pasaporte-en-el-saime-luego-de-los-terremotos/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-07-14",
     "img": "https://elpitazo.net/wp-content/uploads/2026/07/Puntos-de-Ventas.jpg",
     "titleEs": "Banca exonerará por 90 días las comisiones en operaciones de puntos de ventas en La Guaira",
     "titleEn": "Banca exonerará por 90 días las comisiones en operaciones de puntos de ventas en La Guaira",
@@ -27,13 +36,13 @@
     "url": "https://elpitazo.net/regiones/caracas-terremotos-devastaron-un-ala-del-hospital-risquez-vecinos-denuncian-que-la-estructura-cruje-con-las-replicas/"
   },
   {
-    "source": "El Pitazo",
+    "source": "Efecto Cocuyo",
     "section": "Venezuela",
-    "date": "2026-07-13",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/07/inflacion.jpg",
-    "titleEs": "Junio cerró en Venezuela marcado por terremotos y una inflación que se duplicó al 13,8 %",
-    "titleEn": "Junio cerró en Venezuela marcado por terremotos y una inflación que se duplicó al 13,8 %",
-    "url": "https://elpitazo.net/economia/junio-cerro-en-venezuela-marcado-por-terremotos-y-una-inflacion-que-se-duplico-al-138/"
+    "date": "2026-07-14",
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/14111027/bcfe1d45bc8a718041f77d7430c1de7858b431d3-1024x683.jpg",
+    "titleEs": "Morris Tidball-Binz: “La preparación salva vidas” ante los terremotos en Venezuela #ConLaLuz",
+    "titleEn": "Morris Tidball-Binz: “La preparación salva vidas” ante los terremotos en Venezuela #ConLaLuz",
+    "url": "https://efectococuyo.com/la-humanidad/morris-tidball-binz-la-preparacion-salva-vidas-ante-los-terremotos-en-venezuela-conlaluz/"
   },
   {
     "source": "Efecto Cocuyo",
@@ -63,30 +72,30 @@
     "url": "https://efectococuyo.com/economia/miraflores-asegura-mantendra-reestructuracion-deuda-externa/"
   },
   {
-    "source": "Efecto Cocuyo",
+    "source": "Runrun.es",
     "section": "Venezuela",
-    "date": "2026-07-13",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/06/19143325/WhatsApp-Image-2026-06-18-at-9.13.49-PM-1024x777.jpeg",
-    "titleEs": "Dirigentes advierten que negociaciones políticas no pueden congelarse indefinidamente",
-    "titleEn": "Dirigentes advierten que negociaciones políticas no pueden congelarse indefinidamente",
-    "url": "https://efectococuyo.com/politica/dirigentes-negociaciones-politicas-no-pueden-congelarse-indefinidamente/"
+    "date": "2026-07-14",
+    "img": "https://runrun.es/wp-content/uploads/2026/07/7b9f5f87-77a6-4617-bbab-4b9fbef3de91.jpg",
+    "titleEs": "Kurios Education transforma su tecnología en alivio humanitario gracias al proyecto “Imagina Venezuela” tras contingencia",
+    "titleEn": "Kurios Education transforma su tecnología en alivio humanitario gracias al proyecto “Imagina Venezuela” tras contingencia",
+    "url": "https://runrun.es/noticias/con-proposito/614755/kurios-education-transforma-su-tecnologia-en-alivio-humanitario-gracias-al-proyecto-imagina-venezuela-tras-contingencia/"
   },
   {
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-14",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/holahola.jpg",
-    "titleEs": "Laser Airlines retoma vuelos a Madrid, Colombia y Santo Domingo",
-    "titleEn": "Laser Airlines retoma vuelos a Madrid, Colombia y Santo Domingo",
-    "url": "https://runrun.es/noticias/con-proposito/614737/laser-airlines-retoma-vuelos-a-madrid-colombia-y-santo-domingo/"
+    "img": "https://runrun.es/wp-content/uploads/2026/07/photo_2026-07-14_08-19-25.jpg",
+    "titleEs": "Veppex pide al Congreso de EE. UU. impulsar el TPS para venezolanos debido a los terremotos",
+    "titleEn": "Veppex pide al Congreso de EE. UU. impulsar el TPS para venezolanos debido a los terremotos",
+    "url": "https://runrun.es/inicio/614750/veppex-pide-al-congreso-de-ee-uu-impulsar-el-tps-para-venezolanos-tras-los-terremotos/"
   },
   {
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-14",
     "img": "https://runrun.es/wp-content/uploads/2026/07/salud-mental.jpg",
-    "titleEs": "Especialista destaca la atención psicológica temprana para niños afectados por sismos",
-    "titleEn": "Especialista destaca la atención psicológica temprana para niños afectados por sismos",
+    "titleEs": "Atención psicológica temprana: una urgencia para los niños afectados por los sismos",
+    "titleEn": "Atención psicológica temprana: una urgencia para los niños afectados por los sismos",
     "url": "https://runrun.es/inicio/614733/especialista-destaca-la-atencion-psicologica-temprana-para-ninos-afectados-por-sismos/"
   },
   {
@@ -94,17 +103,8 @@
     "section": "Venezuela",
     "date": "2026-07-14",
     "img": "https://runrun.es/wp-content/uploads/2026/07/LE-RRES.jpg",
-    "titleEs": "Joaquín Benitez: Es el momento perfecto para mejorar la proporción de áreas verdes y la canalización de agua urbana de La Guaira",
-    "titleEn": "Joaquín Benitez: Es el momento perfecto para mejorar la proporción de áreas verdes y la canalización de agua urbana de La Guaira",
+    "titleEs": "Benítez: Manejo de los escombros requiere una gestión transparente y circular",
+    "titleEn": "Benítez: Manejo de los escombros requiere una gestión transparente y circular",
     "url": "https://runrun.es/inicio/614730/joaquin-benitez-es-el-momento-perfecto-para-mejorar-la-proporcion-de-areas-verdes-y-la-canalizacion-de-agua-urbana-de-la-guaira/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-13",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/Santa-en-las-calles.jpg",
-    "titleEs": "Fundación Santa en las Calles amplía operación humanitaria con el Plan de Atención Integral Posterremoto",
-    "titleEn": "Fundación Santa en las Calles amplía operación humanitaria con el Plan de Atención Integral Posterremoto",
-    "url": "https://runrun.es/noticias/614721/fundacion-santa-en-las-calles-escala-operacion-humanitaria-con-el-plan-de-atencion-integral-post-terremoto/"
   }
 ]

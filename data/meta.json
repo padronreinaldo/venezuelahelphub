@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T09:29:13.686Z",
+  "updatedAt": "2026-07-15T11:11:08.801Z",
   "stats": {
     "maxMagnitude": 4.6,
     "aftershocks": 0,
@@ -19,12 +19,12 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8yf"
     },
     "deaths": {
-      "seenAt": "2026-07-15T09:29:13.686Z",
+      "seenAt": "2026-07-15T11:11:08.801Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
     "injured": {
-      "seenAt": "2026-07-15T09:29:13.686Z",
+      "seenAt": "2026-07-15T11:11:08.801Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
@@ -39,7 +39,7 @@
       "value": 4734,
       "source": "El Pitazo",
       "url": "https://elpitazo.net/politica/pcv-denuncia-escalamiento-de-la-presencia-estadounidense-en-venezuela-luego-de-los-terremotos/",
-      "seenAt": "2026-07-15T09:29:13.686Z"
+      "seenAt": "2026-07-15T11:11:08.801Z"
     },
     "injured": {
       "value": 32038,

@@ -2,6 +2,15 @@
   {
     "source": "El Pitazo",
     "section": "Venezuela",
+    "date": "2026-07-15",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/07/Camara-Construccion.jpg",
+    "titleEs": "Cámara de la Construcción propone culminar obras de la Misión Vivienda mediante alianzas público-privadas",
+    "titleEn": "Cámara de la Construcción propone culminar obras de la Misión Vivienda mediante alianzas público-privadas",
+    "url": "https://elpitazo.net/economia/camara-de-la-construccion-propone-culminar-obras-de-la-mision-vivienda-mediante-alianzas-publico-privadas/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
     "date": "2026-07-14",
     "img": "https://elpitazo.net/wp-content/uploads/2026/07/pcv.jpg",
     "titleEs": "PCV denuncia «escalamiento» de la presencia estadounidense en Venezuela luego de los terremotos",
@@ -27,15 +36,6 @@
     "url": "https://elpitazo.net/regiones/conoce-cuales-son-los-albergues-que-reciben-a-mascotas-rescatadas-de-los-terremotos/"
   },
   {
-    "source": "El Pitazo",
-    "section": "Venezuela",
-    "date": "2026-07-14",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/07/TERREMOTO-VENEZUELA-FOTO-DE-EFE.jpg",
-    "titleEs": "¿Qué fue peor: los terremotos o 28 años de chavismo? Vamos a los datos",
-    "titleEn": "¿Qué fue peor: los terremotos o 28 años de chavismo? Vamos a los datos",
-    "url": "https://elpitazo.net/opinion/que-fue-peor-los-terremotos-o-28-anos-de-chavismo-vamos-a-los-datos/"
-  },
-  {
     "source": "Efecto Cocuyo",
     "section": "Venezuela",
     "date": "2026-07-14",
@@ -49,8 +49,8 @@
     "section": "Venezuela",
     "date": "2026-07-14",
     "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/14152458/c61f29da1b8bed0e8a64797709b44cc1f94be1ce-1024x683.jpg",
-    "titleEs": "Parte reporta más de 4.700 fallecidos por terremotos en Venezuela",
-    "titleEn": "Parte reporta más de 4.700 fallecidos por terremotos en Venezuela",
+    "titleEs": "Parte reporta 4.734 fallecidos por terremotos en Venezuela",
+    "titleEn": "Parte reporta 4.734 fallecidos por terremotos en Venezuela",
     "url": "https://efectococuyo.com/la-humanidad/parte-reporta-mas-de-4-700-fallecidos-por-terremotos-en-venezuela/"
   },
   {

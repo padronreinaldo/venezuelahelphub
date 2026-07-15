@@ -2,6 +2,20 @@
   {
     "sourceEs": "El Pitazo",
     "sourceEn": "El Pitazo",
+    "date": "2026-07-15",
+    "conf": "med",
+    "titleEs": "Cámara de la Construcción propone culminar obras de la Misión Vivienda mediante alianzas público-privadas",
+    "titleEn": "Cámara de la Construcción propone culminar obras de la Misión Vivienda mediante alianzas público-privadas",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/economia/camara-de-la-construccion-propone-culminar-obras-de-la-mision-vivienda-mediante-alianzas-publico-privadas/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
     "date": "2026-07-14",
     "conf": "med",
     "titleEs": "PCV denuncia «escalamiento» de la presencia estadounidense en Venezuela luego de los terremotos",
@@ -42,20 +56,6 @@
     "url": "https://elpitazo.net/regiones/conoce-cuales-son-los-albergues-que-reciben-a-mascotas-rescatadas-de-los-terremotos/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-07-14",
-    "conf": "med",
-    "titleEs": "¿Qué fue peor: los terremotos o 28 años de chavismo? Vamos a los datos",
-    "titleEn": "¿Qué fue peor: los terremotos o 28 años de chavismo? Vamos a los datos",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/opinion/que-fue-peor-los-terremotos-o-28-anos-de-chavismo-vamos-a-los-datos/"
-  },
-  {
     "sourceEs": "Efecto Cocuyo",
     "sourceEn": "Efecto Cocuyo",
     "date": "2026-07-14",
@@ -74,8 +74,8 @@
     "sourceEn": "Efecto Cocuyo",
     "date": "2026-07-14",
     "conf": "med",
-    "titleEs": "Parte reporta más de 4.700 fallecidos por terremotos en Venezuela",
-    "titleEn": "Parte reporta más de 4.700 fallecidos por terremotos en Venezuela",
+    "titleEs": "Parte reporta 4.734 fallecidos por terremotos en Venezuela",
+    "titleEn": "Parte reporta 4.734 fallecidos por terremotos en Venezuela",
     "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
     "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],

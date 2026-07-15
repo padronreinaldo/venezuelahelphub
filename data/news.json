@@ -3,6 +3,24 @@
     "source": "El Pitazo",
     "section": "Venezuela",
     "date": "2026-07-15",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/07/Metro-Cablre.jpg",
+    "titleEs": "Sistema Metrocable de Caracas se reactiva este #15Jul",
+    "titleEn": "Sistema Metrocable de Caracas se reactiva este #15Jul",
+    "url": "https://elpitazo.net/regiones/sistema-metrocable-de-caracas-se-reactiva-este-15jul/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-07-15",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/07/Educadora-1024x887.jpg",
+    "titleEs": "Educadores continúan con la exigencia de salarios dignos: «la lucha sigue en pie»",
+    "titleEn": "Educadores continúan con la exigencia de salarios dignos: «la lucha sigue en pie»",
+    "url": "https://elpitazo.net/regiones/educadores-continuan-con-la-exigencia-de-salarios-dignos-la-lucha-sigue-en-pie/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-07-15",
     "img": "https://elpitazo.net/wp-content/uploads/2018/05/cuba-ayuda-humanitaria-f1.jpg",
     "titleEs": "EE. UU. envía un sexto puente aéreo con más de 45 toneladas de ayuda humanitaria para Venezuela",
     "titleEn": "EE. UU. envía un sexto puente aéreo con más de 45 toneladas de ayuda humanitaria para Venezuela",
@@ -18,15 +36,6 @@
     "url": "https://elpitazo.net/caracas/parroco-de-la-basilica-santa-teresa-senala-contradicciones-en-inspecciones-al-templo-despues-de-terremotos/"
   },
   {
-    "source": "El Pitazo",
-    "section": "Venezuela",
-    "date": "2026-07-15",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/07/terremotos-efe.jpg",
-    "titleEs": "AN aprueba proyecto para estimular arrendamientos luego de los terremotos: promete protección al propietario",
-    "titleEn": "AN aprueba proyecto para estimular arrendamientos luego de los terremotos: promete protección al propietario",
-    "url": "https://elpitazo.net/politica/an-aprueba-proyecto-para-estimular-arrendamientos-luego-de-los-terremotos-promete-proteccion-al-propietario/"
-  },
-  {
     "source": "Efecto Cocuyo",
     "section": "Venezuela",
     "date": "2026-07-15",
@@ -36,15 +45,6 @@
     "url": "https://efectococuyo.com/sucesos/a-4829-aumenta-numero-de-muertos-terremotos/"
   },
   {
-    "source": "Efecto Cocuyo",
-    "section": "Venezuela",
-    "date": "2026-07-15",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/04/24200017/Comercios-Zapaterias-MC-1024x768.jpeg",
-    "titleEs": "Asdrúbal Oliveros plantea reforma tributaria para enfrentar emergencia por los terremotos",
-    "titleEn": "Asdrúbal Oliveros plantea reforma tributaria para enfrentar emergencia por los terremotos",
-    "url": "https://efectococuyo.com/economia/asdrubal-oliveros-plantea-reforma-tributaria-para-enfrentar-emergencia-por-los-terremotos/"
-  },
-  {
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-15",
@@ -52,14 +52,5 @@
     "titleEs": "Empresas y marcas se transforman en infraestructura de asistencia humanitaria tras terremotos",
     "titleEn": "Empresas y marcas se transforman en infraestructura de asistencia humanitaria tras terremotos",
     "url": "https://runrun.es/noticias/614897/empresas-y-marcas-se-transforman-en-infraestructura-de-asistencia-humanitaria-tras-terremotos/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-14",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/Con-la-LUZ.jpg",
-    "titleEs": "La Conversa de ARI con La Luz | ¿Cómo gestionar el manejo digno de los cadáveres sin identificar en los terremotos?",
-    "titleEn": "La Conversa de ARI con La Luz | ¿Cómo gestionar el manejo digno de los cadáveres sin identificar en los terremotos?",
-    "url": "https://runrun.es/inicio/614851/la-conversa-de-ari-con-la-luz-como-gestionar-el-manejo-digno-de-los-cadaveres-sin-identificar-en-los-terremotos/"
   }
 ]

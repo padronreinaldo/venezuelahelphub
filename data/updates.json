@@ -4,6 +4,34 @@
     "sourceEn": "El Pitazo",
     "date": "2026-07-15",
     "conf": "med",
+    "titleEs": "Sistema Metrocable de Caracas se reactiva este #15Jul",
+    "titleEn": "Sistema Metrocable de Caracas se reactiva este #15Jul",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/regiones/sistema-metrocable-de-caracas-se-reactiva-este-15jul/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-07-15",
+    "conf": "med",
+    "titleEs": "Educadores continúan con la exigencia de salarios dignos: «la lucha sigue en pie»",
+    "titleEn": "Educadores continúan con la exigencia de salarios dignos: «la lucha sigue en pie»",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/regiones/educadores-continuan-con-la-exigencia-de-salarios-dignos-la-lucha-sigue-en-pie/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-07-15",
+    "conf": "med",
     "titleEs": "EE. UU. envía un sexto puente aéreo con más de 45 toneladas de ayuda humanitaria para Venezuela",
     "titleEn": "EE. UU. envía un sexto puente aéreo con más de 45 toneladas de ayuda humanitaria para Venezuela",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -28,20 +56,6 @@
     "url": "https://elpitazo.net/caracas/parroco-de-la-basilica-santa-teresa-senala-contradicciones-en-inspecciones-al-templo-despues-de-terremotos/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-07-15",
-    "conf": "med",
-    "titleEs": "AN aprueba proyecto para estimular arrendamientos luego de los terremotos: promete protección al propietario",
-    "titleEn": "AN aprueba proyecto para estimular arrendamientos luego de los terremotos: promete protección al propietario",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/politica/an-aprueba-proyecto-para-estimular-arrendamientos-luego-de-los-terremotos-promete-proteccion-al-propietario/"
-  },
-  {
     "sourceEs": "Efecto Cocuyo",
     "sourceEn": "Efecto Cocuyo",
     "date": "2026-07-15",
@@ -56,20 +70,6 @@
     "url": "https://efectococuyo.com/sucesos/a-4829-aumenta-numero-de-muertos-terremotos/"
   },
   {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-07-15",
-    "conf": "med",
-    "titleEs": "Asdrúbal Oliveros plantea reforma tributaria para enfrentar emergencia por los terremotos",
-    "titleEn": "Asdrúbal Oliveros plantea reforma tributaria para enfrentar emergencia por los terremotos",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/economia/asdrubal-oliveros-plantea-reforma-tributaria-para-enfrentar-emergencia-por-los-terremotos/"
-  },
-  {
     "sourceEs": "Runrun.es",
     "sourceEn": "Runrun.es",
     "date": "2026-07-15",
@@ -82,19 +82,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://runrun.es/noticias/614897/empresas-y-marcas-se-transforman-en-infraestructura-de-asistencia-humanitaria-tras-terremotos/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-07-14",
-    "conf": "med",
-    "titleEs": "La Conversa de ARI con La Luz | ¿Cómo gestionar el manejo digno de los cadáveres sin identificar en los terremotos?",
-    "titleEn": "La Conversa de ARI con La Luz | ¿Cómo gestionar el manejo digno de los cadáveres sin identificar en los terremotos?",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/inicio/614851/la-conversa-de-ari-con-la-luz-como-gestionar-el-manejo-digno-de-los-cadaveres-sin-identificar-en-los-terremotos/"
   }
 ]

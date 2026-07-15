@@ -3,6 +3,15 @@
     "source": "El Pitazo",
     "section": "Venezuela",
     "date": "2026-07-15",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/07/CINTILLO-ARI-MAS-ALLA-DE-LA-ZONA-0.jpg-1024x127.jpeg",
+    "titleEs": "Naiguatá entre ruinas: un pueblo turístico que quedó en silencio tras el doble terremoto",
+    "titleEn": "Naiguatá entre ruinas: un pueblo turístico que quedó en silencio tras el doble terremoto",
+    "url": "https://elpitazo.net/cronicas/naiguata-entre-ruinas-un-pueblo-turistico-que-quedo-en-silencio-tras-el-doble-terremoto/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-07-15",
     "img": "https://elpitazo.net/wp-content/uploads/2026/07/damnificados-terremotos.jpg",
     "titleEs": "Jorge Rodríguez anuncia entrega de 200 apartamentos en Fuerte Tiuna a damnificados por terremotos",
     "titleEn": "Jorge Rodríguez anuncia entrega de 200 apartamentos en Fuerte Tiuna a damnificados por terremotos",
@@ -27,15 +36,6 @@
     "url": "https://elpitazo.net/regiones/gran-caracas/cambios-geografia-submarina-chichiriviche-costa/"
   },
   {
-    "source": "El Pitazo",
-    "section": "Venezuela",
-    "date": "2026-07-15",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/07/Camara-Construccion.jpg",
-    "titleEs": "Cámara de la Construcción propone culminar obras de la Misión Vivienda mediante alianzas público-privadas",
-    "titleEn": "Cámara de la Construcción propone culminar obras de la Misión Vivienda mediante alianzas público-privadas",
-    "url": "https://elpitazo.net/economia/camara-de-la-construccion-propone-culminar-obras-de-la-mision-vivienda-mediante-alianzas-publico-privadas/"
-  },
-  {
     "source": "Efecto Cocuyo",
     "section": "Venezuela",
     "date": "2026-07-15",
@@ -57,7 +57,7 @@
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-14",
-    "img": "",
+    "img": "https://runrun.es/wp-content/uploads/2026/07/Con-la-LUZ.jpg",
     "titleEs": "La Conversa de ARI con La Luz | ¿Cómo gestionar el manejo digno de los cadáveres sin identificar en los terremotos?",
     "titleEn": "La Conversa de ARI con La Luz | ¿Cómo gestionar el manejo digno de los cadáveres sin identificar en los terremotos?",
     "url": "https://runrun.es/inicio/614851/la-conversa-de-ari-con-la-luz-como-gestionar-el-manejo-digno-de-los-cadaveres-sin-identificar-en-los-terremotos/"
@@ -66,27 +66,9 @@
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-14",
-    "img": "",
+    "img": "https://runrun.es/wp-content/uploads/2026/07/balance-terremotos-14jul.jpg",
     "titleEs": "Balance #14Jul | Registran más de 4700 fallecidos por doblete sísmico en Venezuela",
     "titleEn": "Balance #14Jul | Registran más de 4700 fallecidos por doblete sísmico en Venezuela",
     "url": "https://runrun.es/noticias/614832/balance-14jul-registran-mas-de-4700-fallecidos-por-doblete-sismico-en-venezuela/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-14",
-    "img": "",
-    "titleEs": "Infecciones respiratorias, diarreas y sospechas de sarampión aumentaban en Venezuela antes de los sismos",
-    "titleEn": "Infecciones respiratorias, diarreas y sospechas de sarampión aumentaban en Venezuela antes de los sismos",
-    "url": "https://runrun.es/noticias/614766/infecciones-respiratorias-diarreas-y-sospechas-de-sarampion-aumentaban-en-venezuela-antes-de-los-sismos/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-14",
-    "img": "",
-    "titleEs": "Registro único de vivienda: estos son los requisitos y cómo será el censo para afectados por los terremotos",
-    "titleEn": "Registro único de vivienda: estos son los requisitos y cómo será el censo para afectados por los terremotos",
-    "url": "https://runrun.es/inicio/614826/registro-unico-de-vivienda-estos-son-los-requisitos-y-como-sera-el-censo-para-afectados-por-los-terremotos/"
   }
 ]

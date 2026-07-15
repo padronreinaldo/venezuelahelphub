@@ -15,6 +15,21 @@
     "source": "FUNVISIS"
   },
   {
+    "id": "fv-15-07-2026-18:46-10.65--61.92",
+    "time": "2026-07-15T22:46:00.000Z",
+    "mag": 3.7,
+    "depth": 23.7,
+    "lat": 10.65,
+    "lon": -61.92,
+    "place": "4 km al sureste  de Macuro",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-15-07-2026-17:01-10.44--68.48",
     "time": "2026-07-15T21:01:00.000Z",
     "mag": 2.2,
@@ -7477,21 +7492,6 @@
     "lat": 10.63,
     "lon": -66.74,
     "place": "1 km al norte    de Naiguata",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-03-07-2026-06:27-10.61--66.69",
-    "time": "2026-07-03T10:27:00.000Z",
-    "mag": 2.2,
-    "depth": 5,
-    "lat": 10.61,
-    "lon": -66.69,
-    "place": "6 km al este     de Naiguata",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

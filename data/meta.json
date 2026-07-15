@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-07-15T22:55:34.656Z",
+  "updatedAt": "2026-07-15T23:56:43.514Z",
   "stats": {
     "maxMagnitude": 4.6,
     "aftershocks": 0,
     "deaths": 4829,
-    "injured": 840,
+    "injured": 16740,
     "missing": 29995
   },
   "prov": {
@@ -19,14 +19,14 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8yf"
     },
     "deaths": {
-      "seenAt": "2026-07-15T22:55:34.656Z",
+      "seenAt": "2026-07-15T23:56:43.514Z",
       "source": "ONU/OCHA · ref. internacional (Wikipedia EN)",
       "url": "https://en.wikipedia.org/wiki/2026_Venezuela_earthquakes"
     },
     "injured": {
-      "seenAt": "2026-07-15T20:31:26.488Z",
-      "source": "Parte oficial (Wikipedia ES)",
-      "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
+      "seenAt": "2026-07-15T23:56:43.514Z",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/cultura/marc-anthony-feid-y-ricardo-montaner-haran-concierto-benefico-por-venezuela-en-miami-el-16ago/"
     },
     "missing": {
       "seenAt": "2026-07-12T23:24:40.351Z",
@@ -38,8 +38,8 @@
     "deaths": {
       "value": 4734,
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/pcv-denuncia-escalamiento-de-la-presencia-estadounidense-en-venezuela-luego-de-los-terremotos/",
-      "seenAt": "2026-07-15T12:51:04.051Z"
+      "url": "https://elpitazo.net/cultura/marc-anthony-feid-y-ricardo-montaner-haran-concierto-benefico-por-venezuela-en-miami-el-16ago/",
+      "seenAt": "2026-07-15T23:56:43.514Z"
     },
     "injured": {
       "value": 32038,
@@ -57,13 +57,13 @@
   "sources": {
     "usgs": 0,
     "reliefweb": 0,
-    "press": 6,
+    "press": 7,
     "wikipedia": 1,
     "funvisis": 20
   },
   "counts": {
-    "updates": 6,
-    "news": 6,
+    "updates": 7,
+    "news": 7,
     "quakes": 500
   }
 }

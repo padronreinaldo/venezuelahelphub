@@ -4,6 +4,20 @@
     "sourceEn": "El Pitazo",
     "date": "2026-07-15",
     "conf": "med",
+    "titleEs": "Marc Anthony, Feid y Ricardo Montaner harán concierto benéfico por Venezuela en Miami el #16Ago",
+    "titleEn": "Marc Anthony, Feid y Ricardo Montaner harán concierto benéfico por Venezuela en Miami el #16Ago",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/cultura/marc-anthony-feid-y-ricardo-montaner-haran-concierto-benefico-por-venezuela-en-miami-el-16ago/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-07-15",
+    "conf": "med",
     "titleEs": "Sistema Metrocable de Caracas se reactiva este #15Jul",
     "titleEn": "Sistema Metrocable de Caracas se reactiva este #15Jul",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -39,21 +53,7 @@
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/caracas/ee-uu-envia-un-sexto-puente-aereo-con-mas-de-45-toneladas-de-ayuda-humanitaria-para-venezuela/"
-  },
-  {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-07-15",
-    "conf": "med",
-    "titleEs": "Párroco de la Basílica Santa Teresa señala contradicciones en inspecciones al templo después de terremotos",
-    "titleEn": "Párroco de la Basílica Santa Teresa señala contradicciones en inspecciones al templo después de terremotos",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/caracas/parroco-de-la-basilica-santa-teresa-senala-contradicciones-en-inspecciones-al-templo-despues-de-terremotos/"
+    "url": "https://elpitazo.net/sucesos/ee-uu-envia-un-sexto-puente-aereo-con-mas-de-45-toneladas-de-ayuda-humanitaria-para-venezuela/"
   },
   {
     "sourceEs": "Efecto Cocuyo",
@@ -68,6 +68,20 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://efectococuyo.com/sucesos/a-4829-aumenta-numero-de-muertos-terremotos/"
+  },
+  {
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
+    "date": "2026-07-15",
+    "conf": "med",
+    "titleEs": "Balance #15Jul | Cifra de fallecidos a causa de los terremotos se eleva a 4829",
+    "titleEn": "Balance #15Jul | Cifra de fallecidos a causa de los terremotos se eleva a 4829",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://runrun.es/inicio/614930/balance-15jul-cifra-de-fallecidos-tras-doblete-sismico-se-eleva-a-4829/"
   },
   {
     "sourceEs": "Runrun.es",

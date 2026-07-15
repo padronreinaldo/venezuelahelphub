@@ -3,6 +3,15 @@
     "source": "El Pitazo",
     "section": "Venezuela",
     "date": "2026-07-15",
+    "img": "https://elpitazo.net/wp-content/uploads/2018/05/cuba-ayuda-humanitaria-f1.jpg",
+    "titleEs": "EE. UU. envía un sexto puente aéreo con más de 45 toneladas de ayuda humanitaria para Venezuela",
+    "titleEn": "EE. UU. envía un sexto puente aéreo con más de 45 toneladas de ayuda humanitaria para Venezuela",
+    "url": "https://elpitazo.net/caracas/ee-uu-envia-un-sexto-puente-aereo-con-mas-de-45-toneladas-de-ayuda-humanitaria-para-venezuela/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-07-15",
     "img": "https://elpitazo.net/wp-content/uploads/2026/07/basilica-de-santa-teresa.jpg",
     "titleEs": "Párroco de la Basílica Santa Teresa señala contradicciones en inspecciones al templo después de terremotos",
     "titleEn": "Párroco de la Basílica Santa Teresa señala contradicciones en inspecciones al templo después de terremotos",
@@ -18,13 +27,13 @@
     "url": "https://elpitazo.net/politica/an-aprueba-proyecto-para-estimular-arrendamientos-luego-de-los-terremotos-promete-proteccion-al-propietario/"
   },
   {
-    "source": "El Pitazo",
+    "source": "Efecto Cocuyo",
     "section": "Venezuela",
     "date": "2026-07-15",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/07/CINTILLO-ARI-MAS-ALLA-DE-LA-ZONA-0.jpg-1024x127.jpeg",
-    "titleEs": "Naiguatá entre ruinas: un pueblo turístico que quedó en silencio tras el doble terremoto",
-    "titleEn": "Naiguatá entre ruinas: un pueblo turístico que quedó en silencio tras el doble terremoto",
-    "url": "https://elpitazo.net/cronicas/naiguata-entre-ruinas-un-pueblo-turistico-que-quedo-en-silencio-tras-el-doble-terremoto/"
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/03114005/8f25c9fd9604be11b07010b52aa4c8a38e9e2b01-1024x768.jpg",
+    "titleEs": "A 4.829 aumenta número de muertos por los dos terremotos",
+    "titleEn": "A 4.829 aumenta número de muertos por los dos terremotos",
+    "url": "https://efectococuyo.com/sucesos/a-4829-aumenta-numero-de-muertos-terremotos/"
   },
   {
     "source": "Efecto Cocuyo",
@@ -36,13 +45,13 @@
     "url": "https://efectococuyo.com/economia/asdrubal-oliveros-plantea-reforma-tributaria-para-enfrentar-emergencia-por-los-terremotos/"
   },
   {
-    "source": "Efecto Cocuyo",
+    "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-15",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/14193610/WhatsApp-Image-2026-07-14-at-7.33.19-PM-1-1024x576.jpeg",
-    "titleEs": "Con cintas de seguridad y evaluaciones técnicas: así están las iglesias en Caracas tras terremotos",
-    "titleEn": "Con cintas de seguridad y evaluaciones técnicas: así están las iglesias en Caracas tras terremotos",
-    "url": "https://efectococuyo.com/la-humanidad/con-cintas-de-seguridad-y-evaluaciones-tecnicas-asi-estan-las-iglesias-en-caracas-tras-terremotos/"
+    "img": "https://runrun.es/wp-content/uploads/2026/07/empresas-solidarias-terremotos.jpg",
+    "titleEs": "Empresas y marcas se transforman en infraestructura de asistencia humanitaria tras terremotos",
+    "titleEn": "Empresas y marcas se transforman en infraestructura de asistencia humanitaria tras terremotos",
+    "url": "https://runrun.es/noticias/614897/empresas-y-marcas-se-transforman-en-infraestructura-de-asistencia-humanitaria-tras-terremotos/"
   },
   {
     "source": "Runrun.es",
@@ -52,14 +61,5 @@
     "titleEs": "La Conversa de ARI con La Luz | ¿Cómo gestionar el manejo digno de los cadáveres sin identificar en los terremotos?",
     "titleEn": "La Conversa de ARI con La Luz | ¿Cómo gestionar el manejo digno de los cadáveres sin identificar en los terremotos?",
     "url": "https://runrun.es/inicio/614851/la-conversa-de-ari-con-la-luz-como-gestionar-el-manejo-digno-de-los-cadaveres-sin-identificar-en-los-terremotos/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-14",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/balance-terremotos-14jul.jpg",
-    "titleEs": "Balance #14Jul | Registran más de 4700 fallecidos por doblete sísmico en Venezuela",
-    "titleEn": "Balance #14Jul | Registran más de 4700 fallecidos por doblete sísmico en Venezuela",
-    "url": "https://runrun.es/noticias/614832/balance-14jul-registran-mas-de-4700-fallecidos-por-doblete-sismico-en-venezuela/"
   }
 ]

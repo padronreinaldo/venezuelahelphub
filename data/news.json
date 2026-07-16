@@ -3,6 +3,15 @@
     "source": "El Pitazo",
     "section": "Venezuela",
     "date": "2026-07-16",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/07/mathias-y-mateo.jpg",
+    "titleEs": "Familiares confirman muerte de gemelos Mathías y Mateo Peña: su papá los encontró bajo los escombros",
+    "titleEn": "Familiares confirman muerte de gemelos Mathías y Mateo Peña: su papá los encontró bajo los escombros",
+    "url": "https://elpitazo.net/regiones/gran-caracas/familiares-confirman-muerte-de-gemelos-mathias-y-mateo-pena-su-papa-los-encontro-bajo-los-escombros/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-07-16",
     "img": "https://elpitazo.net/wp-content/uploads/2026/03/cashea.jpg",
     "titleEs": "Cashea suma beneficios para sus clientes y extiende el tiempo de vigencia por los terremotos",
     "titleEn": "Cashea suma beneficios para sus clientes y extiende el tiempo de vigencia por los terremotos",
@@ -25,15 +34,6 @@
     "titleEs": "EE. UU. dice que Ley de Amnistía no garantiza retorno seguro de María Corina Machado a Venezuela",
     "titleEn": "EE. UU. dice que Ley de Amnistía no garantiza retorno seguro de María Corina Machado a Venezuela",
     "url": "https://elpitazo.net/politica/ee-uu-dice-que-ley-de-amnistia-no-asegura-retorno-seguro-de-maria-corina-machado-a-venezuela/"
-  },
-  {
-    "source": "El Pitazo",
-    "section": "Venezuela",
-    "date": "2026-07-16",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/07/e13d6506bdd7eecd2c61a7f7049af93226a797fdw-819x1024.jpg",
-    "titleEs": "Cifra de fallecidos por terremotos en Venezuela asciende a 4.829 este #15Jul",
-    "titleEn": "Cifra de fallecidos por terremotos en Venezuela asciende a 4.829 este #15Jul",
-    "url": "https://elpitazo.net/politica/terremotos-en-venezuela-suman-4-829-fallecidos-para-este-15jul/"
   },
   {
     "source": "Efecto Cocuyo",
@@ -75,6 +75,15 @@
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-16",
+    "img": "https://runrun.es/wp-content/uploads/2026/07/photo_2026-07-16_09-58-58.jpg",
+    "titleEs": "Etiqueta roja no implica demolición inmediata de edificios dañados, aclara el CIV",
+    "titleEn": "Etiqueta roja no implica demolición inmediata de edificios dañados, aclara el CIV",
+    "url": "https://runrun.es/inicio/614972/etiqueta-roja-no-implica-demolicion-inmediata-de-edificios-danados-aclara-el-civ/"
+  },
+  {
+    "source": "Runrun.es",
+    "section": "Venezuela",
+    "date": "2026-07-16",
     "img": "https://runrun.es/wp-content/uploads/2026/07/hospital-de-campana.jpg",
     "titleEs": "Hospital de campaña español también alivia el colapso sanitario estructural",
     "titleEn": "Hospital de campaña español también alivia el colapso sanitario estructural",
@@ -97,14 +106,5 @@
     "titleEs": "Balance #15Jul | Cifra de fallecidos a causa de los terremotos se eleva a 4829",
     "titleEn": "Balance #15Jul | Cifra de fallecidos a causa de los terremotos se eleva a 4829",
     "url": "https://runrun.es/inicio/614930/balance-15jul-cifra-de-fallecidos-tras-doblete-sismico-se-eleva-a-4829/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-15",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/empresas-solidarias-terremotos.jpg",
-    "titleEs": "Empresas y marcas se transforman en infraestructura de asistencia humanitaria tras terremotos",
-    "titleEn": "Empresas y marcas se transforman en infraestructura de asistencia humanitaria tras terremotos",
-    "url": "https://runrun.es/noticias/614897/empresas-y-marcas-se-transforman-en-infraestructura-de-asistencia-humanitaria-tras-terremotos/"
   }
 ]

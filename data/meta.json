@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T22:28:06.122Z",
+  "updatedAt": "2026-07-16T23:26:17.759Z",
   "stats": {
     "maxMagnitude": 4.6,
     "aftershocks": 0,
@@ -19,12 +19,12 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8yf"
     },
     "deaths": {
-      "seenAt": "2026-07-16T22:28:06.122Z",
+      "seenAt": "2026-07-16T23:26:17.759Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
     "injured": {
-      "seenAt": "2026-07-16T22:28:06.122Z",
+      "seenAt": "2026-07-16T23:26:17.759Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
@@ -36,10 +36,10 @@
   },
   "alt": {
     "deaths": {
-      "value": 4734,
+      "value": 4930,
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/cultura/marc-anthony-feid-y-ricardo-montaner-haran-concierto-benefico-por-venezuela-en-miami-el-16ago/",
-      "seenAt": "2026-07-16T14:06:10.767Z"
+      "url": "https://elpitazo.net/politica/terremotos-en-venezuela-suman-4-930-muertos-y-17-907-personas-sin-vivienda/",
+      "seenAt": "2026-07-16T23:26:17.759Z"
     },
     "injured": {
       "value": 32038,
@@ -57,13 +57,13 @@
   "sources": {
     "usgs": 0,
     "reliefweb": 0,
-    "press": 9,
+    "press": 11,
     "wikipedia": 1,
     "funvisis": 20
   },
   "counts": {
     "updates": 8,
-    "news": 9,
+    "news": 11,
     "quakes": 500
   }
 }

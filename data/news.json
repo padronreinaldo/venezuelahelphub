@@ -3,28 +3,46 @@
     "source": "El Pitazo",
     "section": "Venezuela",
     "date": "2026-07-16",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/04/Puerto-de-la-Guaira.jpg",
+    "titleEs": "Fedecámaras Carabobo asegura que reparaciones en el puerto de La Guaira avanzan a paso acelerado",
+    "titleEn": "Fedecámaras Carabobo asegura que reparaciones en el puerto de La Guaira avanzan a paso acelerado",
+    "url": "https://elpitazo.net/economia/fedecamaras-carabobo-asegura-que-reparaciones-en-el-puerto-de-la-guaira-avanzan-a-paso-acelerado/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-07-16",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/07/terremotos-en-venezuela.jpg",
+    "titleEs": "Terremotos en Venezuela suman 4.930 muertos y 17.907 personas sin vivienda",
+    "titleEn": "Terremotos en Venezuela suman 4.930 muertos y 17.907 personas sin vivienda",
+    "url": "https://elpitazo.net/politica/terremotos-en-venezuela-suman-4-930-muertos-y-17-907-personas-sin-vivienda/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-07-16",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/07/1628599-1024x798.jpg",
+    "titleEs": "Centro de conectividad para periodistas en La Guaira busca garantizar la cobertura informativa tras los sismos",
+    "titleEn": "Centro de conectividad para periodistas en La Guaira busca garantizar la cobertura informativa tras los sismos",
+    "url": "https://elpitazo.net/regiones/gran-caracas/centro-de-conectividad-para-periodistas-en-la-guaira-busca-garantizar-la-cobertura-informativa-tras-los-sismos/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-07-16",
     "img": "https://elpitazo.net/wp-content/uploads/2026/07/CNP.jpg",
     "titleEs": "CNP ante noticias no verificadas de los terremotos: «No es un juego de likes»",
     "titleEn": "CNP ante noticias no verificadas de los terremotos: «No es un juego de likes»",
     "url": "https://elpitazo.net/regiones/cnp-ante-noticias-no-verificadas-de-los-terremotos-no-es-un-juego-de-likes/"
   },
   {
-    "source": "El Pitazo",
-    "section": "Venezuela",
-    "date": "2026-07-16",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/07/fallecidos-1.jpg",
-    "titleEs": "Las miles de luces que el terremoto apagó",
-    "titleEn": "Las miles de luces que el terremoto apagó",
-    "url": "https://elpitazo.net/alianzas/las-miles-de-luces-que-el-terremoto-apago/"
-  },
-  {
     "source": "Efecto Cocuyo",
     "section": "Venezuela",
     "date": "2026-07-16",
     "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/16181812/d96a4cab10567ecac790cfca6f57b8509e52f975-1024x683.jpg",
-    "titleEs": "Sigue el rescate de fallecidos por los terremotos en Venezuela: 4.930 la cifra oficial",
-    "titleEn": "Sigue el rescate de fallecidos por los terremotos en Venezuela: 4.930 la cifra oficial",
-    "url": "https://efectococuyo.com/la-humanidad/sigue-el-rescate-de-fallecidos-por-los-terremotos-en-venezuela-4-930-la-cifra-oficial/"
+    "titleEs": "Cifra oficial registra 4.930 el número de fallecidos al 16 de julio",
+    "titleEn": "Cifra oficial registra 4.930 el número de fallecidos al 16 de julio",
+    "url": "https://efectococuyo.com/la-humanidad/cifra-oficial-registra-4930-fallecidos-por-los-terremotos-en-venezuela/"
   },
   {
     "source": "Efecto Cocuyo",

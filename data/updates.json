@@ -42,20 +42,6 @@
     "url": "https://elpitazo.net/regiones/gran-caracas/pacientes-del-risquez-no-saben-donde-continuaran-tratamientos-el-hospital-fue-cerrado-por-los-terremotos/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-07-16",
-    "conf": "med",
-    "titleEs": "EE. UU. dice que Ley de Amnistía no garantiza retorno seguro de María Corina Machado a Venezuela",
-    "titleEn": "EE. UU. dice que Ley de Amnistía no garantiza retorno seguro de María Corina Machado a Venezuela",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/politica/ee-uu-dice-que-ley-de-amnistia-no-asegura-retorno-seguro-de-maria-corina-machado-a-venezuela/"
-  },
-  {
     "sourceEs": "Efecto Cocuyo",
     "sourceEn": "Efecto Cocuyo",
     "date": "2026-07-16",
@@ -110,5 +96,19 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://efectococuyo.com/sucesos/a-4829-aumenta-numero-de-muertos-terremotos/"
+  },
+  {
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
+    "date": "2026-07-16",
+    "conf": "med",
+    "titleEs": "Etiqueta roja no implica demolición inmediata de edificios dañados, aclara el CIV",
+    "titleEn": "Etiqueta roja no implica demolición inmediata de edificios dañados, aclara el CIV",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://runrun.es/inicio/614972/etiqueta-roja-no-implica-demolicion-inmediata-de-edificios-danados-aclara-el-civ/"
   }
 ]

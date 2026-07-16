@@ -86,6 +86,20 @@
   {
     "sourceEs": "Runrun.es",
     "sourceEn": "Runrun.es",
+    "date": "2026-07-16",
+    "conf": "med",
+    "titleEs": "Cuando el aula también tiembla: una lección fuera del currículo",
+    "titleEn": "Cuando el aula también tiembla: una lección fuera del currículo",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://runrun.es/inicio/614953/cuando-el-aula-tambien-tiembla-una-leccion-fuera-del-curriculo/"
+  },
+  {
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
     "date": "2026-07-15",
     "conf": "med",
     "titleEs": "Balance #15Jul | Cifra de fallecidos a causa de los terremotos se eleva a 4829",
@@ -96,19 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://runrun.es/inicio/614930/balance-15jul-cifra-de-fallecidos-tras-doblete-sismico-se-eleva-a-4829/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-07-15",
-    "conf": "med",
-    "titleEs": "Empresas y marcas se transforman en infraestructura de asistencia humanitaria tras terremotos",
-    "titleEn": "Empresas y marcas se transforman en infraestructura de asistencia humanitaria tras terremotos",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/noticias/614897/empresas-y-marcas-se-transforman-en-infraestructura-de-asistencia-humanitaria-tras-terremotos/"
   }
 ]

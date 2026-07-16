@@ -3,19 +3,28 @@
     "source": "El Pitazo",
     "section": "Venezuela",
     "date": "2026-07-16",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/07/CNP.jpg",
+    "titleEs": "CNP ante noticias no verificadas de los terremotos: «No es un juego de likes»",
+    "titleEn": "CNP ante noticias no verificadas de los terremotos: «No es un juego de likes»",
+    "url": "https://elpitazo.net/regiones/cnp-ante-noticias-no-verificadas-de-los-terremotos-no-es-un-juego-de-likes/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-07-16",
     "img": "https://elpitazo.net/wp-content/uploads/2026/07/fallecidos-1.jpg",
     "titleEs": "Las miles de luces que el terremoto apagó",
     "titleEn": "Las miles de luces que el terremoto apagó",
     "url": "https://elpitazo.net/alianzas/las-miles-de-luces-que-el-terremoto-apago/"
   },
   {
-    "source": "El Pitazo",
+    "source": "Efecto Cocuyo",
     "section": "Venezuela",
     "date": "2026-07-16",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/07/Rutaca-768x1024.webp",
-    "titleEs": "Aviación civil de luto: al menos 50 trabajadores de aerolíneas fallecieron por doble terremoto",
-    "titleEn": "Aviación civil de luto: al menos 50 trabajadores de aerolíneas fallecieron por doble terremoto",
-    "url": "https://elpitazo.net/ultimas-noticias/aviacion-civil-de-luto-al-menos-50-trabajadores-de-aerolineas-fallecieron-por-doble-terremoto/"
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/16181812/d96a4cab10567ecac790cfca6f57b8509e52f975-1024x683.jpg",
+    "titleEs": "Sigue el rescate de fallecidos por los terremotos en Venezuela: 4.930 la cifra oficial",
+    "titleEn": "Sigue el rescate de fallecidos por los terremotos en Venezuela: 4.930 la cifra oficial",
+    "url": "https://efectococuyo.com/la-humanidad/sigue-el-rescate-de-fallecidos-por-los-terremotos-en-venezuela-4-930-la-cifra-oficial/"
   },
   {
     "source": "Efecto Cocuyo",
@@ -36,13 +45,13 @@
     "url": "https://efectococuyo.com/destacado-3/sebastian-corro-topito-venezolano-salvo-dos-mascotas/"
   },
   {
-    "source": "Efecto Cocuyo",
+    "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-16",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/16082947/e30d6b402aa559e5a942133c76e27aad7c5f4175-1024x683.jpg",
-    "titleEs": "Actividad sísmica persiste en Venezuela tras el doble terremoto",
-    "titleEn": "Actividad sísmica persiste en Venezuela tras el doble terremoto",
-    "url": "https://efectococuyo.com/la-humanidad/actividad-sismica-persiste-en-venezuela-tras-el-doble-terremoto-de-junio/"
+    "img": "https://runrun.es/wp-content/uploads/2026/07/balance-terremotos-16jul.jpg",
+    "titleEs": "Balance #16Jul | Van 4930 personas fallecidas por los terremotos en Venezuela",
+    "titleEn": "Balance #16Jul | Van 4930 personas fallecidas por los terremotos en Venezuela",
+    "url": "https://runrun.es/noticias/615054/balance-16jul-van-4930-personas-fallecidas-por-los-terremotos-en-venezuela/"
   },
   {
     "source": "Runrun.es",
@@ -70,14 +79,5 @@
     "titleEs": "Apure enfrenta nuevas inundaciones mientras persiste la emergencia por el doble sismo",
     "titleEn": "Apure enfrenta nuevas inundaciones mientras persiste la emergencia por el doble sismo",
     "url": "https://runrun.es/noticias/614988/apure-enfrenta-nuevas-inundaciones-mientras-persiste-la-emergencia-tras-el-doble-sismo/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-16",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/Screenshot-2026-07-16-145224.png",
-    "titleEs": "Identidades contra el olvido",
-    "titleEn": "Identidades contra el olvido",
-    "url": "https://runrun.es/monitor-de-victimas/614996/identidades-contra-el-olvido-terremotos/"
   }
 ]

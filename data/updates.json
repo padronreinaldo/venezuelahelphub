@@ -4,6 +4,20 @@
     "sourceEn": "El Pitazo",
     "date": "2026-07-16",
     "conf": "med",
+    "titleEs": "CNP ante noticias no verificadas de los terremotos: «No es un juego de likes»",
+    "titleEn": "CNP ante noticias no verificadas de los terremotos: «No es un juego de likes»",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/regiones/cnp-ante-noticias-no-verificadas-de-los-terremotos-no-es-un-juego-de-likes/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-07-16",
+    "conf": "med",
     "titleEs": "Las miles de luces que el terremoto apagó",
     "titleEn": "Las miles de luces que el terremoto apagó",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -14,18 +28,18 @@
     "url": "https://elpitazo.net/alianzas/las-miles-de-luces-que-el-terremoto-apago/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
     "date": "2026-07-16",
     "conf": "med",
-    "titleEs": "Aviación civil de luto: al menos 50 trabajadores de aerolíneas fallecieron por doble terremoto",
-    "titleEn": "Aviación civil de luto: al menos 50 trabajadores de aerolíneas fallecieron por doble terremoto",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "titleEs": "Sigue el rescate de fallecidos por los terremotos en Venezuela: 4.930 la cifra oficial",
+    "titleEn": "Sigue el rescate de fallecidos por los terremotos en Venezuela: 4.930 la cifra oficial",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/ultimas-noticias/aviacion-civil-de-luto-al-menos-50-trabajadores-de-aerolineas-fallecieron-por-doble-terremoto/"
+    "url": "https://efectococuyo.com/la-humanidad/sigue-el-rescate-de-fallecidos-por-los-terremotos-en-venezuela-4-930-la-cifra-oficial/"
   },
   {
     "sourceEs": "Efecto Cocuyo",
@@ -56,18 +70,18 @@
     "url": "https://efectococuyo.com/destacado-3/sebastian-corro-topito-venezolano-salvo-dos-mascotas/"
   },
   {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
     "date": "2026-07-16",
     "conf": "med",
-    "titleEs": "Actividad sísmica persiste en Venezuela tras el doble terremoto",
-    "titleEn": "Actividad sísmica persiste en Venezuela tras el doble terremoto",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
+    "titleEs": "Balance #16Jul | Van 4930 personas fallecidas por los terremotos en Venezuela",
+    "titleEn": "Balance #16Jul | Van 4930 personas fallecidas por los terremotos en Venezuela",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://efectococuyo.com/la-humanidad/actividad-sismica-persiste-en-venezuela-tras-el-doble-terremoto-de-junio/"
+    "url": "https://runrun.es/noticias/615054/balance-16jul-van-4930-personas-fallecidas-por-los-terremotos-en-venezuela/"
   },
   {
     "sourceEs": "Runrun.es",
@@ -96,19 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://runrun.es/rr-es-plus/615006/los-voluntarios-independientes-que-socorrieron-a-la-guaira-tras-los-terremotos/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-07-16",
-    "conf": "med",
-    "titleEs": "Apure enfrenta nuevas inundaciones mientras persiste la emergencia por el doble sismo",
-    "titleEn": "Apure enfrenta nuevas inundaciones mientras persiste la emergencia por el doble sismo",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/noticias/614988/apure-enfrenta-nuevas-inundaciones-mientras-persiste-la-emergencia-tras-el-doble-sismo/"
   }
 ]

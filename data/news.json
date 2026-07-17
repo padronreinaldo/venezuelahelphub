@@ -27,15 +27,6 @@
     "url": "https://elpitazo.net/regiones/templos-casas-parroquiales-y-el-seminario-de-macuto-entre-las-estructuras-afectadas-por-los-terremotos-en-la-diocesis-de-la-guaira/"
   },
   {
-    "source": "El Pitazo",
-    "section": "Venezuela",
-    "date": "2026-07-17",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-17-at-11.52.33-AM-1.jpeg",
-    "titleEs": "Terremoto de magnitud 7,4 sacude el sur de México en la frontera con Guatemala",
-    "titleEn": "Terremoto de magnitud 7,4 sacude el sur de México en la frontera con Guatemala",
-    "url": "https://elpitazo.net/internacionales/terremoto-de-magnitud-74-sacude-el-sur-de-mexico-en-la-frontera-con-guatemala/"
-  },
-  {
     "source": "Efecto Cocuyo",
     "section": "Venezuela",
     "date": "2026-07-17",
@@ -63,13 +54,22 @@
     "url": "https://efectococuyo.com/la-humanidad/autoridades-evaluan-incendio-subterraneo-en-veta-carbonifera-del-tachira/"
   },
   {
-    "source": "Efecto Cocuyo",
+    "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-17",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/16213050/WhatsApp-Image-2026-07-16-at-8.41.23-AM-1024x576.jpeg",
-    "titleEs": "Engañoso: niño rescatado con vida no pasó 17 días bajo los escombros como aseguran redes sociales",
-    "titleEn": "Engañoso: niño rescatado con vida no pasó 17 días bajo los escombros como aseguran redes sociales",
-    "url": "https://efectococuyo.com/cocuyo-chequea/enganoso-nino-rescatado-con-vida-no-paso-17-dias-bajo-los-escombros-como-aseguran-redes-sociales/"
+    "img": "https://runrun.es/wp-content/uploads/2026/07/Funvisis.-Foto-referencial.-Terremotos-en-Venezuela-24-de-junio-1280x960.jpg",
+    "titleEs": "Cuando el uniforme militar sustituyó a la ciencia: radiografía de la crisis en Funvisis",
+    "titleEn": "Cuando el uniforme militar sustituyó a la ciencia: radiografía de la crisis en Funvisis",
+    "url": "https://runrun.es/rr-es-plus/615106/cuando-el-uniforme-militar-sustituyo-a-la-ciencia-radiografia-de-la-crisis-en-funvisis/"
+  },
+  {
+    "source": "Runrun.es",
+    "section": "Venezuela",
+    "date": "2026-07-17",
+    "img": "https://runrun.es/wp-content/uploads/2025/04/runrunes.jpeg",
+    "titleEs": "Claves | El informe que mide la brecha de la respuesta estatal al doblete sísmico",
+    "titleEn": "Claves | El informe que mide la brecha de la respuesta estatal al doblete sísmico",
+    "url": "https://runrun.es/inicio/615114/claves-el-informe-que-mide-la-brecha-de-la-respuesta-estatal-al-doblete-sismico/"
   },
   {
     "source": "Runrun.es",
@@ -88,23 +88,5 @@
     "titleEs": "Balance #16Jul | Van 4930 personas fallecidas por los terremotos en Venezuela",
     "titleEn": "Balance #16Jul | Van 4930 personas fallecidas por los terremotos en Venezuela",
     "url": "https://runrun.es/noticias/615054/balance-16jul-van-4930-personas-fallecidas-por-los-terremotos-en-venezuela/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-16",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/Nuevo-Circo.jpg",
-    "titleEs": "El Nuevo Circo: epicentro de los damnificados de la Misión Vivienda",
-    "titleEn": "El Nuevo Circo: epicentro de los damnificados de la Misión Vivienda",
-    "url": "https://runrun.es/inicio/614971/el-nuevo-circo-epicentro-de-los-damnificados-de-la-mision-vivienda/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-16",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/voluntarios-terremotos.jpg",
-    "titleEs": "Los voluntarios independientes que socorrieron a La Guaira tras los terremotos",
-    "titleEn": "Los voluntarios independientes que socorrieron a La Guaira tras los terremotos",
-    "url": "https://runrun.es/rr-es-plus/615006/los-voluntarios-independientes-que-socorrieron-a-la-guaira-tras-los-terremotos/"
   }
 ]

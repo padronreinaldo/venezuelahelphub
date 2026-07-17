@@ -42,20 +42,6 @@
     "url": "https://elpitazo.net/regiones/templos-casas-parroquiales-y-el-seminario-de-macuto-entre-las-estructuras-afectadas-por-los-terremotos-en-la-diocesis-de-la-guaira/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-07-17",
-    "conf": "med",
-    "titleEs": "Terremoto de magnitud 7,4 sacude el sur de México en la frontera con Guatemala",
-    "titleEn": "Terremoto de magnitud 7,4 sacude el sur de México en la frontera con Guatemala",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/internacionales/terremoto-de-magnitud-74-sacude-el-sur-de-mexico-en-la-frontera-con-guatemala/"
-  },
-  {
     "sourceEs": "Efecto Cocuyo",
     "sourceEn": "Efecto Cocuyo",
     "date": "2026-07-17",
@@ -98,17 +84,31 @@
     "url": "https://efectococuyo.com/la-humanidad/autoridades-evaluan-incendio-subterraneo-en-veta-carbonifera-del-tachira/"
   },
   {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
     "date": "2026-07-17",
     "conf": "med",
-    "titleEs": "Engañoso: niño rescatado con vida no pasó 17 días bajo los escombros como aseguran redes sociales",
-    "titleEn": "Engañoso: niño rescatado con vida no pasó 17 días bajo los escombros como aseguran redes sociales",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
+    "titleEs": "Cuando el uniforme militar sustituyó a la ciencia: radiografía de la crisis en Funvisis",
+    "titleEn": "Cuando el uniforme militar sustituyó a la ciencia: radiografía de la crisis en Funvisis",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://efectococuyo.com/cocuyo-chequea/enganoso-nino-rescatado-con-vida-no-paso-17-dias-bajo-los-escombros-como-aseguran-redes-sociales/"
+    "url": "https://runrun.es/rr-es-plus/615106/cuando-el-uniforme-militar-sustituyo-a-la-ciencia-radiografia-de-la-crisis-en-funvisis/"
+  },
+  {
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
+    "date": "2026-07-17",
+    "conf": "med",
+    "titleEs": "Claves | El informe que mide la brecha de la respuesta estatal al doblete sísmico",
+    "titleEn": "Claves | El informe que mide la brecha de la respuesta estatal al doblete sísmico",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://runrun.es/inicio/615114/claves-el-informe-que-mide-la-brecha-de-la-respuesta-estatal-al-doblete-sismico/"
   }
 ]

@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-16-07-2026-20:19-10.69--71.08",
+    "time": "2026-07-17T00:19:00.000Z",
+    "mag": 2.6,
+    "depth": 26.8,
+    "lat": 10.69,
+    "lon": -71.08,
+    "place": "6 km al oeste    de Mene de Mauroa",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-16-07-2026-18:28-10.2--67.26",
     "time": "2026-07-16T22:28:00.000Z",
     "mag": 2,
@@ -7477,21 +7492,6 @@
     "lat": 10.59,
     "lon": -66.77,
     "place": "5 km al suroeste de Naiguata",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-03-07-2026-17:39-10.26--67.29",
-    "time": "2026-07-03T21:39:00.000Z",
-    "mag": 2.2,
-    "depth": 11.2,
-    "lat": 10.26,
-    "lon": -67.29,
-    "place": "6 km al noreste  de La Victoria",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

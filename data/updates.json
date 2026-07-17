@@ -4,6 +4,34 @@
     "sourceEn": "El Pitazo",
     "date": "2026-07-17",
     "conf": "med",
+    "titleEs": "Cifra de muertos por los terremotos en Venezuela ya supera los 5.000",
+    "titleEn": "Cifra de muertos por los terremotos en Venezuela ya supera los 5.000",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/sucesos/cifra-de-muertos-por-los-terremotos-en-venezuela-ya-supera-los-5-000/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-07-17",
+    "conf": "med",
+    "titleEs": "Audiencia de El Pitazo: Diosdado Cabello usa tragedia de Tacoa para desviar atención de la emergencia por terremotos",
+    "titleEn": "Audiencia de El Pitazo: Diosdado Cabello usa tragedia de Tacoa para desviar atención de la emergencia por terremotos",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/politica/audiencia-de-el-pitazo-diosdado-cabello-usa-tragedia-de-tacoa-para-desviar-atencion-de-la-emergencia-por-terremotos/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-07-17",
+    "conf": "med",
     "titleEs": "La emergencia no termina: así se mueve la ayuda",
     "titleEn": "La emergencia no termina: así se mueve la ayuda",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -28,18 +56,18 @@
     "url": "https://elpitazo.net/regiones/gran-caracas/papa-esta-temblando-el-grito-que-inicio-la-tragedia-de-amir-y-el-laberinto-de-su-padre-para-encontrarlo/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
     "date": "2026-07-17",
     "conf": "med",
-    "titleEs": "Templos, casas parroquiales y el seminario de Macuto entre las estructuras afectadas por los terremotos en la diócesis de La Guaira",
-    "titleEn": "Templos, casas parroquiales y el seminario de Macuto entre las estructuras afectadas por los terremotos en la diócesis de La Guaira",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "titleEs": "Muertes tras los terremotos en Venezuela llegan a 5.069",
+    "titleEn": "Muertes tras los terremotos en Venezuela llegan a 5.069",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/regiones/templos-casas-parroquiales-y-el-seminario-de-macuto-entre-las-estructuras-afectadas-por-los-terremotos-en-la-diocesis-de-la-guaira/"
+    "url": "https://efectococuyo.com/la-humanidad/muertes-tras-los-terremotos-en-venezuela-llegan-a-5-069/"
   },
   {
     "sourceEs": "Efecto Cocuyo",
@@ -82,33 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://efectococuyo.com/la-humanidad/autoridades-evaluan-incendio-subterraneo-en-veta-carbonifera-del-tachira/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-07-17",
-    "conf": "med",
-    "titleEs": "Balance #17Jul | Ya son más de 5000 fallecidos por los terremotos en Venezuela según el gobierno",
-    "titleEn": "Balance #17Jul | Ya son más de 5000 fallecidos por los terremotos en Venezuela según el gobierno",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/noticias/615132/balance-17jul-ya-son-mas-de-5000-fallecidos-por-los-terremotos-en-venezuela-segun-el-gobierno/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-07-17",
-    "conf": "med",
-    "titleEs": "Cuando el uniforme militar sustituyó a la ciencia: radiografía de la crisis en Funvisis",
-    "titleEn": "Cuando el uniforme militar sustituyó a la ciencia: radiografía de la crisis en Funvisis",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/rr-es-plus/615106/cuando-el-uniforme-militar-sustituyo-a-la-ciencia-radiografia-de-la-crisis-en-funvisis/"
   }
 ]

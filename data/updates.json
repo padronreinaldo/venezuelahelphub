@@ -2,6 +2,20 @@
   {
     "sourceEs": "El Pitazo",
     "sourceEn": "El Pitazo",
+    "date": "2026-07-17",
+    "conf": "med",
+    "titleEs": "Terremoto de magnitud 7,4 sacude el sur de México en la frontera con Guatemala",
+    "titleEn": "Terremoto de magnitud 7,4 sacude el sur de México en la frontera con Guatemala",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/internacionales/terremoto-de-magnitud-74-sacude-el-sur-de-mexico-en-la-frontera-con-guatemala/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
     "date": "2026-07-16",
     "conf": "med",
     "titleEs": "Fedecámaras Carabobo asegura que reparaciones en el puerto de La Guaira avanzan a paso acelerado",
@@ -42,18 +56,18 @@
     "url": "https://elpitazo.net/regiones/gran-caracas/centro-de-conectividad-para-periodistas-en-la-guaira-busca-garantizar-la-cobertura-informativa-tras-los-sismos/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-07-16",
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
+    "date": "2026-07-17",
     "conf": "med",
-    "titleEs": "CNP ante noticias no verificadas de los terremotos: «No es un juego de likes»",
-    "titleEn": "CNP ante noticias no verificadas de los terremotos: «No es un juego de likes»",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "titleEs": "Autoridades evalúan incendio subterráneo en veta carbonífera del Táchira",
+    "titleEn": "Autoridades evalúan incendio subterráneo en veta carbonífera del Táchira",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/regiones/cnp-ante-noticias-no-verificadas-de-los-terremotos-no-es-un-juego-de-likes/"
+    "url": "https://efectococuyo.com/la-humanidad/autoridades-evaluan-incendio-subterraneo-en-veta-carbonifera-del-tachira/"
   },
   {
     "sourceEs": "Efecto Cocuyo",
@@ -96,19 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://runrun.es/noticias/615054/balance-16jul-van-4930-personas-fallecidas-por-los-terremotos-en-venezuela/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-07-16",
-    "conf": "med",
-    "titleEs": "El Nuevo Circo: epicentro de los damnificados de la Misión Vivienda",
-    "titleEn": "El Nuevo Circo: epicentro de los damnificados de la Misión Vivienda",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/inicio/614971/el-nuevo-circo-epicentro-de-los-damnificados-de-la-mision-vivienda/"
   }
 ]

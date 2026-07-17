@@ -3,6 +3,24 @@
     "source": "El Pitazo",
     "section": "Venezuela",
     "date": "2026-07-17",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/07/gobernacion-monagas-censura-previa-1.jpg",
+    "titleEs": "Sntp y CNP en Monagas rechazan llamados de la gobernación a limitar cobertura de personas damnificadas por terremotos",
+    "titleEn": "Sntp y CNP en Monagas rechazan llamados de la gobernación a limitar cobertura de personas damnificadas por terremotos",
+    "url": "https://elpitazo.net/regiones/sntp-y-cnp-en-monagas-rechazan-llamados-de-la-gobernacion-a-limitar-cobertura-de-personas-damnificadas-por-terremotos/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-07-17",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-17-at-11.39.36-AM.jpeg",
+    "titleEs": "Recuperación de termoeléctrica afectada por terremotos tardará un mes y medio, según ministro",
+    "titleEn": "Recuperación de termoeléctrica afectada por terremotos tardará un mes y medio, según ministro",
+    "url": "https://elpitazo.net/economia/recuperacion-de-termoelectrica-afectada-por-terremotos-tardara-un-mes-y-medio-segun-ministro/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-07-17",
     "img": "https://elpitazo.net/wp-content/uploads/2026/07/Cifra-de-muertos-845x1024.jpeg",
     "titleEs": "Cifra de muertos por los terremotos en Venezuela ya supera los 5.000",
     "titleEn": "Cifra de muertos por los terremotos en Venezuela ya supera los 5.000",
@@ -16,24 +34,6 @@
     "titleEs": "Audiencia de El Pitazo: Diosdado Cabello usa tragedia de Tacoa para desviar atención de la emergencia por terremotos",
     "titleEn": "Audiencia de El Pitazo: Diosdado Cabello usa tragedia de Tacoa para desviar atención de la emergencia por terremotos",
     "url": "https://elpitazo.net/politica/audiencia-de-el-pitazo-diosdado-cabello-usa-tragedia-de-tacoa-para-desviar-atencion-de-la-emergencia-por-terremotos/"
-  },
-  {
-    "source": "El Pitazo",
-    "section": "Venezuela",
-    "date": "2026-07-17",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/07/Untitled-design-1.jpeg",
-    "titleEs": "La emergencia no termina: así se mueve la ayuda",
-    "titleEn": "La emergencia no termina: así se mueve la ayuda",
-    "url": "https://elpitazo.net/economia/la-emergencia-no-termina-asi-se-mueve-la-ayuda/"
-  },
-  {
-    "source": "El Pitazo",
-    "section": "Venezuela",
-    "date": "2026-07-17",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/07/acta-de-defuncion-de-amir-643x1024.jpg",
-    "titleEs": "«Papá, está temblando»: el grito que inició la tragedia de Amir y el laberinto de su padre para encontrarlo",
-    "titleEn": "«Papá, está temblando»: el grito que inició la tragedia de Amir y el laberinto de su padre para encontrarlo",
-    "url": "https://elpitazo.net/regiones/gran-caracas/papa-esta-temblando-el-grito-que-inicio-la-tragedia-de-amir-y-el-laberinto-de-su-padre-para-encontrarlo/"
   },
   {
     "source": "Efecto Cocuyo",
@@ -102,9 +102,9 @@
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-17",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/Auxilios-emocionales-1280x698.png",
-    "titleEs": "SAV difunde primeros auxilios psicológicos para afrontar el trauma tras la emergencia sísmica",
-    "titleEn": "SAV difunde primeros auxilios psicológicos para afrontar el trauma tras la emergencia sísmica",
-    "url": "https://runrun.es/noticias/con-proposito/615085/sav-difunde-primeros-auxilios-psicologicos-para-afrontar-el-trauma-tras-la-emergencia-sismica/"
+    "img": "https://runrun.es/wp-content/uploads/2026/07/JVRTS5U4O5N7XHQSNVZEU27UYA.jpg",
+    "titleEs": "Un tercio de los comercios de Caracas y La Guaira continúan cerrados tras los terremotos",
+    "titleEn": "Un tercio de los comercios de Caracas y La Guaira continúan cerrados tras los terremotos",
+    "url": "https://runrun.es/noticias/615143/un-tercio-de-los-comercios-de-caracas-y-la-guaira-continuan-cerrados-tras-los-terremotos/"
   }
 ]

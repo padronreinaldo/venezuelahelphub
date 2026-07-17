@@ -88,6 +88,20 @@
     "sourceEn": "Runrun.es",
     "date": "2026-07-17",
     "conf": "med",
+    "titleEs": "Balance #17Jul | Ya son más de 5000 fallecidos por los terremotos en Venezuela según el gobierno",
+    "titleEn": "Balance #17Jul | Ya son más de 5000 fallecidos por los terremotos en Venezuela según el gobierno",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://runrun.es/noticias/615132/balance-17jul-ya-son-mas-de-5000-fallecidos-por-los-terremotos-en-venezuela-segun-el-gobierno/"
+  },
+  {
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
+    "date": "2026-07-17",
+    "conf": "med",
     "titleEs": "Cuando el uniforme militar sustituyó a la ciencia: radiografía de la crisis en Funvisis",
     "titleEn": "Cuando el uniforme militar sustituyó a la ciencia: radiografía de la crisis en Funvisis",
     "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
@@ -96,19 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://runrun.es/rr-es-plus/615106/cuando-el-uniforme-militar-sustituyo-a-la-ciencia-radiografia-de-la-crisis-en-funvisis/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-07-17",
-    "conf": "med",
-    "titleEs": "Claves | El informe que mide la brecha de la respuesta estatal al doblete sísmico",
-    "titleEn": "Claves | El informe que mide la brecha de la respuesta estatal al doblete sísmico",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/inicio/615114/claves-el-informe-que-mide-la-brecha-de-la-respuesta-estatal-al-doblete-sismico/"
   }
 ]

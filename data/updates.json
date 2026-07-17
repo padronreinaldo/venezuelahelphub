@@ -4,6 +4,20 @@
     "sourceEn": "El Pitazo",
     "date": "2026-07-17",
     "conf": "med",
+    "titleEs": "La emergencia no termina: así se mueve la ayuda",
+    "titleEn": "La emergencia no termina: así se mueve la ayuda",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/economia/la-emergencia-no-termina-asi-se-mueve-la-ayuda/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-07-17",
+    "conf": "med",
     "titleEs": "«Papá, está temblando»: el grito que inició la tragedia de Amir y el laberinto de su padre para encontrarlo",
     "titleEn": "«Papá, está temblando»: el grito que inició la tragedia de Amir y el laberinto de su padre para encontrarlo",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -96,19 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://efectococuyo.com/cocuyo-chequea/enganoso-nino-rescatado-con-vida-no-paso-17-dias-bajo-los-escombros-como-aseguran-redes-sociales/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-07-16",
-    "conf": "med",
-    "titleEs": "Balance #16Jul | Van 4930 personas fallecidas por los terremotos en Venezuela",
-    "titleEn": "Balance #16Jul | Van 4930 personas fallecidas por los terremotos en Venezuela",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/noticias/615054/balance-16jul-van-4930-personas-fallecidas-por-los-terremotos-en-venezuela/"
   }
 ]

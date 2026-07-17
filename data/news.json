@@ -3,6 +3,15 @@
     "source": "El Pitazo",
     "section": "Venezuela",
     "date": "2026-07-17",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/07/Untitled-design-1.jpeg",
+    "titleEs": "La emergencia no termina: así se mueve la ayuda",
+    "titleEn": "La emergencia no termina: así se mueve la ayuda",
+    "url": "https://elpitazo.net/economia/la-emergencia-no-termina-asi-se-mueve-la-ayuda/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-07-17",
     "img": "https://elpitazo.net/wp-content/uploads/2026/07/acta-de-defuncion-de-amir-643x1024.jpg",
     "titleEs": "«Papá, está temblando»: el grito que inició la tragedia de Amir y el laberinto de su padre para encontrarlo",
     "titleEn": "«Papá, está temblando»: el grito que inició la tragedia de Amir y el laberinto de su padre para encontrarlo",
@@ -65,6 +74,15 @@
   {
     "source": "Runrun.es",
     "section": "Venezuela",
+    "date": "2026-07-17",
+    "img": "https://runrun.es/wp-content/uploads/2026/07/Auxilios-emocionales-1280x698.png",
+    "titleEs": "SAV difunde primeros auxilios psicológicos para afrontar el trauma tras la emergencia sísmica",
+    "titleEn": "SAV difunde primeros auxilios psicológicos para afrontar el trauma tras la emergencia sísmica",
+    "url": "https://runrun.es/noticias/con-proposito/615085/sav-difunde-primeros-auxilios-psicologicos-para-afrontar-el-trauma-tras-la-emergencia-sismica/"
+  },
+  {
+    "source": "Runrun.es",
+    "section": "Venezuela",
     "date": "2026-07-16",
     "img": "https://runrun.es/wp-content/uploads/2026/07/balance-terremotos-16jul.jpg",
     "titleEs": "Balance #16Jul | Van 4930 personas fallecidas por los terremotos en Venezuela",
@@ -88,14 +106,5 @@
     "titleEs": "Los voluntarios independientes que socorrieron a La Guaira tras los terremotos",
     "titleEn": "Los voluntarios independientes que socorrieron a La Guaira tras los terremotos",
     "url": "https://runrun.es/rr-es-plus/615006/los-voluntarios-independientes-que-socorrieron-a-la-guaira-tras-los-terremotos/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-16",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/Apure.jpg",
-    "titleEs": "Apure enfrenta nuevas inundaciones mientras persiste la emergencia por el doble sismo",
-    "titleEn": "Apure enfrenta nuevas inundaciones mientras persiste la emergencia por el doble sismo",
-    "url": "https://runrun.es/noticias/614988/apure-enfrenta-nuevas-inundaciones-mientras-persiste-la-emergencia-tras-el-doble-sismo/"
   }
 ]

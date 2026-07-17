@@ -84,20 +84,6 @@
     "url": "https://efectococuyo.com/la-humanidad/cifra-oficial-registra-4930-fallecidos-por-los-terremotos-en-venezuela/"
   },
   {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-07-16",
-    "conf": "med",
-    "titleEs": "Sntp rechaza declaraciones de Diosdado Cabello contra la prensa en cobertura de emergencia sísmica",
-    "titleEn": "Sntp rechaza declaraciones de Diosdado Cabello contra la prensa en cobertura de emergencia sísmica",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/la-humanidad/sntp-rechaza-declaraciones-de-diosdado-cabello-contra-la-prensa-en-cobertura-de-emergencia-sismica/"
-  },
-  {
     "sourceEs": "Runrun.es",
     "sourceEn": "Runrun.es",
     "date": "2026-07-16",
@@ -110,5 +96,19 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://runrun.es/noticias/615054/balance-16jul-van-4930-personas-fallecidas-por-los-terremotos-en-venezuela/"
+  },
+  {
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
+    "date": "2026-07-16",
+    "conf": "med",
+    "titleEs": "El Nuevo Circo: epicentro de los damnificados de la Misión Vivienda",
+    "titleEn": "El Nuevo Circo: epicentro de los damnificados de la Misión Vivienda",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://runrun.es/inicio/614971/el-nuevo-circo-epicentro-de-los-damnificados-de-la-mision-vivienda/"
   }
 ]

@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-18-07-2026-16:20-10.62--66.73",
+    "time": "2026-07-18T20:20:00.000Z",
+    "mag": 2.1,
+    "depth": 3.3,
+    "lat": 10.62,
+    "lon": -66.73,
+    "place": "1 km al sureste  de Naiguata",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-18-07-2026-15:36-10.59--66.82",
     "time": "2026-07-18T19:36:00.000Z",
     "mag": 2,
@@ -7477,21 +7492,6 @@
     "lat": 10.47,
     "lon": -68.56,
     "place": "24 km al noreste  de San Felipe",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-04-07-2026-21:43-10.1--64.88",
-    "time": "2026-07-05T01:43:00.000Z",
-    "mag": 2.4,
-    "depth": 5.2,
-    "lat": 10.1,
-    "lon": -64.88,
-    "place": "18 km al noreste  de Puerto Piritu",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

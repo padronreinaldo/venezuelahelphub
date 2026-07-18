@@ -60,6 +60,20 @@
     "sourceEn": "Efecto Cocuyo",
     "date": "2026-07-18",
     "conf": "med",
+    "titleEs": "Sin hogar, pero evaluando viviendas: el rostro de la ingeniería tras sismos en Venezuela",
+    "titleEn": "Sin hogar, pero evaluando viviendas: el rostro de la ingeniería tras sismos en Venezuela",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://efectococuyo.com/la-humanidad/sin-hogar-pero-evaluando-viviendas-el-rostro-de-la-ingenieria-tras-sismos-en-venezuela/"
+  },
+  {
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
+    "date": "2026-07-18",
+    "conf": "med",
     "titleEs": "Reactivar aeropuerto de Maiquetía pasa también por capacitar personal que ya no está por el terremoto",
     "titleEn": "Reactivar aeropuerto de Maiquetía pasa también por capacitar personal que ya no está por el terremoto",
     "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -96,19 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://efectococuyo.com/opinion/la-guaira-ventana-critica-vulnerabilidad-estructural/"
-  },
-  {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-07-18",
-    "conf": "med",
-    "titleEs": "Desastres naturales y resiliencia ciudadana",
-    "titleEn": "Desastres naturales y resiliencia ciudadana",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/opinion/desastres-naturales-resiliencia-ciudadana/"
   }
 ]

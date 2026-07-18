@@ -2,6 +2,15 @@
   {
     "source": "El Pitazo",
     "section": "Venezuela",
+    "date": "2026-07-18",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/07/Crisis-laboral-en-La-Guaira-2.jpg",
+    "titleEs": "Negocios destruidos y empleos suspendidos: terremotos generan crisis laboral en La Guaira",
+    "titleEn": "Negocios destruidos y empleos suspendidos: terremotos generan crisis laboral en La Guaira",
+    "url": "https://elpitazo.net/regiones/centro/negocios-destruidos-y-empleos-suspendidos-terremotos-generan-crisis-laboral-en-la-guaira/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
     "date": "2026-07-17",
     "img": "https://elpitazo.net/wp-content/uploads/2026/07/gobernacion-monagas-censura-previa-1.jpg",
     "titleEs": "Sntp y CNP en Monagas rechazan llamados de la gobernación a limitar cobertura de personas damnificadas por terremotos",
@@ -27,13 +36,13 @@
     "url": "https://elpitazo.net/sucesos/cifra-de-muertos-por-los-terremotos-en-venezuela-ya-supera-los-5-000/"
   },
   {
-    "source": "El Pitazo",
+    "source": "Efecto Cocuyo",
     "section": "Venezuela",
-    "date": "2026-07-17",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/07/Diosdado-2.jpg",
-    "titleEs": "Audiencia de El Pitazo: Diosdado Cabello usa tragedia de Tacoa para desviar atención de la emergencia por terremotos",
-    "titleEn": "Audiencia de El Pitazo: Diosdado Cabello usa tragedia de Tacoa para desviar atención de la emergencia por terremotos",
-    "url": "https://elpitazo.net/politica/audiencia-de-el-pitazo-diosdado-cabello-usa-tragedia-de-tacoa-para-desviar-atencion-de-la-emergencia-por-terremotos/"
+    "date": "2026-07-18",
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/04/27111443/FMI-3-1024x567.jpg",
+    "titleEs": "Venezuela accede a 346 millones de dólares del FMI para la recuperación tras los sismos",
+    "titleEn": "Venezuela accede a 346 millones de dólares del FMI para la recuperación tras los sismos",
+    "url": "https://efectococuyo.com/destacado-1/venezuela-accede-a-346-millones-de-dolares-del-fmi-para-la-recuperacion-tras-los-sismos/"
   },
   {
     "source": "Efecto Cocuyo",
@@ -63,15 +72,6 @@
     "url": "https://efectococuyo.com/la-humanidad/muertes-tras-los-terremotos-en-venezuela-llegan-a-5-069/"
   },
   {
-    "source": "Efecto Cocuyo",
-    "section": "Venezuela",
-    "date": "2026-07-17",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/17131345/55af98929aae564c0141262f05b6e1dcb55d2a2e-1024x683.jpg",
-    "titleEs": "Terremotos en Venezuela han dejado más de 2 millones de toneladas de escombros",
-    "titleEn": "Terremotos en Venezuela han dejado más de 2 millones de toneladas de escombros",
-    "url": "https://efectococuyo.com/la-humanidad/terremotos-en-venezuela-han-dejado-mas-de-2-millones-de-toneladas-de-escombros/"
-  },
-  {
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-17",
@@ -97,14 +97,5 @@
     "titleEs": "Claves | El informe que mide la brecha de la respuesta estatal al doblete sísmico",
     "titleEn": "Claves | El informe que mide la brecha de la respuesta estatal al doblete sísmico",
     "url": "https://runrun.es/inicio/615114/claves-el-informe-que-mide-la-brecha-de-la-respuesta-estatal-al-doblete-sismico/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-17",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/JVRTS5U4O5N7XHQSNVZEU27UYA.jpg",
-    "titleEs": "Un tercio de los comercios de Caracas y La Guaira continúan cerrados tras los terremotos",
-    "titleEn": "Un tercio de los comercios de Caracas y La Guaira continúan cerrados tras los terremotos",
-    "url": "https://runrun.es/noticias/615143/un-tercio-de-los-comercios-de-caracas-y-la-guaira-continuan-cerrados-tras-los-terremotos/"
   }
 ]

@@ -2,6 +2,20 @@
   {
     "sourceEs": "El Pitazo",
     "sourceEn": "El Pitazo",
+    "date": "2026-07-18",
+    "conf": "med",
+    "titleEs": "Negocios destruidos y empleos suspendidos: terremotos generan crisis laboral en La Guaira",
+    "titleEn": "Negocios destruidos y empleos suspendidos: terremotos generan crisis laboral en La Guaira",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/regiones/centro/negocios-destruidos-y-empleos-suspendidos-terremotos-generan-crisis-laboral-en-la-guaira/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
     "date": "2026-07-17",
     "conf": "med",
     "titleEs": "Sntp y CNP en Monagas rechazan llamados de la gobernación a limitar cobertura de personas damnificadas por terremotos",
@@ -42,18 +56,18 @@
     "url": "https://elpitazo.net/sucesos/cifra-de-muertos-por-los-terremotos-en-venezuela-ya-supera-los-5-000/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-07-17",
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
+    "date": "2026-07-18",
     "conf": "med",
-    "titleEs": "Audiencia de El Pitazo: Diosdado Cabello usa tragedia de Tacoa para desviar atención de la emergencia por terremotos",
-    "titleEn": "Audiencia de El Pitazo: Diosdado Cabello usa tragedia de Tacoa para desviar atención de la emergencia por terremotos",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "titleEs": "Venezuela accede a 346 millones de dólares del FMI para la recuperación tras los sismos",
+    "titleEn": "Venezuela accede a 346 millones de dólares del FMI para la recuperación tras los sismos",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/politica/audiencia-de-el-pitazo-diosdado-cabello-usa-tragedia-de-tacoa-para-desviar-atencion-de-la-emergencia-por-terremotos/"
+    "url": "https://efectococuyo.com/destacado-1/venezuela-accede-a-346-millones-de-dolares-del-fmi-para-la-recuperacion-tras-los-sismos/"
   },
   {
     "sourceEs": "Efecto Cocuyo",
@@ -96,19 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://efectococuyo.com/la-humanidad/muertes-tras-los-terremotos-en-venezuela-llegan-a-5-069/"
-  },
-  {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-07-17",
-    "conf": "med",
-    "titleEs": "Terremotos en Venezuela han dejado más de 2 millones de toneladas de escombros",
-    "titleEn": "Terremotos en Venezuela han dejado más de 2 millones de toneladas de escombros",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/la-humanidad/terremotos-en-venezuela-han-dejado-mas-de-2-millones-de-toneladas-de-escombros/"
   }
 ]

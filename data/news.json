@@ -75,10 +75,19 @@
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-18",
+    "img": "https://runrun.es/wp-content/uploads/2026/07/edificacion.jpg",
+    "titleEs": "Cifra de fallecidos por terremotos sube a 5119 y ya van 1530 réplicas",
+    "titleEn": "Cifra de fallecidos por terremotos sube a 5119 y ya van 1530 réplicas",
+    "url": "https://runrun.es/noticias/615253/cifra-de-fallecidos-por-terremotos-sube-a-5119-y-ya-van-1530-replicas/"
+  },
+  {
+    "source": "Runrun.es",
+    "section": "Venezuela",
+    "date": "2026-07-18",
     "img": "https://runrun.es/wp-content/uploads/2026/07/escuwela.jpg",
-    "titleEs": "14 colegios colapsaron en La Guaira por sismos y desde el Madre Emilia clama apoyo para reconstrucción",
-    "titleEn": "14 colegios colapsaron en La Guaira por sismos y desde el Madre Emilia clama apoyo para reconstrucción",
-    "url": "https://runrun.es/noticias/615224/terremoto-dejo-al-menos-14-colegios-colapsados-en-la-guaira-madre-emilia-clama-apoyo-para-reconstruirse/"
+    "titleEs": "14 colegios colapsaron en La Guaira por sismos del 24J",
+    "titleEn": "14 colegios colapsaron en La Guaira por sismos del 24J",
+    "url": "https://runrun.es/noticias/615224/terremoto-dejo-al-menos-14-colegios-colapsados-en-la-guaira/"
   },
   {
     "source": "Runrun.es",
@@ -97,14 +106,5 @@
     "titleEs": "Balance #17Jul | Ya son más de 5000 los fallecidos por los terremotos en Venezuela, según el Gobierno",
     "titleEn": "Balance #17Jul | Ya son más de 5000 los fallecidos por los terremotos en Venezuela, según el Gobierno",
     "url": "https://runrun.es/noticias/615132/balance-17jul-ya-son-mas-de-5000-los-fallecidos-por-los-terremotos-en-venezuela-segun-el-gobierno/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-17",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/Funvisis.-Foto-referencial.-Terremotos-en-Venezuela-24-de-junio-1280x960.jpg",
-    "titleEs": "Cuando el uniforme militar sustituyó a la ciencia: radiografía de la crisis en Funvisis",
-    "titleEn": "Cuando el uniforme militar sustituyó a la ciencia: radiografía de la crisis en Funvisis",
-    "url": "https://runrun.es/rr-es-plus/615106/cuando-el-uniforme-militar-sustituyo-a-la-ciencia-radiografia-de-la-crisis-en-funvisis/"
   }
 ]

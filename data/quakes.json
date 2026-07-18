@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-18-07-2026-10:52-10.62--62.91",
+    "time": "2026-07-18T14:52:00.000Z",
+    "mag": 3.1,
+    "depth": 8.8,
+    "lat": 10.62,
+    "lon": -62.91,
+    "place": "9 km al noroeste de Yaguaraparo",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-18-07-2026-08:25-10.56--67.41",
     "time": "2026-07-18T12:25:00.000Z",
     "mag": 2.1,
@@ -7477,21 +7492,6 @@
     "lat": 10.4,
     "lon": -68.57,
     "place": "20 km al noreste  de San Felipe",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-04-07-2026-20:07-10.4--68.55",
-    "time": "2026-07-05T00:07:00.000Z",
-    "mag": 2.7,
-    "depth": 13.8,
-    "lat": 10.4,
-    "lon": -68.55,
-    "place": "22 km al noreste  de San Felipe",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-18-07-2026-17:13-10.6--66.84",
+    "time": "2026-07-18T21:13:00.000Z",
+    "mag": 2.4,
+    "depth": 5,
+    "lat": 10.6,
+    "lon": -66.84,
+    "place": "10 km al este     de La Guaira",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-18-07-2026-16:20-10.62--66.73",
     "time": "2026-07-18T20:20:00.000Z",
     "mag": 2.1,
@@ -7477,21 +7492,6 @@
     "lat": 7.65,
     "lon": -71.88,
     "place": "41 km al norte    de El Nula",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-04-07-2026-21:52-10.47--68.56",
-    "time": "2026-07-05T01:52:00.000Z",
-    "mag": 2.2,
-    "depth": 9.6,
-    "lat": 10.47,
-    "lon": -68.56,
-    "place": "24 km al noreste  de San Felipe",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

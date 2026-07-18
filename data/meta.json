@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T21:13:19.659Z",
+  "updatedAt": "2026-07-18T22:13:10.613Z",
   "stats": {
     "maxMagnitude": 4.6,
     "aftershocks": 0,
@@ -19,12 +19,12 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8yf"
     },
     "deaths": {
-      "seenAt": "2026-07-18T21:13:19.659Z",
+      "seenAt": "2026-07-18T22:13:10.613Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
     "injured": {
-      "seenAt": "2026-07-18T21:13:19.659Z",
+      "seenAt": "2026-07-18T22:13:10.613Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
@@ -36,10 +36,10 @@
   },
   "alt": {
     "deaths": {
-      "value": 5000,
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/615132/balance-17jul-ya-son-mas-de-5000-fallecidos-por-los-terremotos-en-venezuela-segun-el-gobierno/",
-      "seenAt": "2026-07-17T23:22:07.145Z"
+      "value": 5119,
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/balance-de-terremotos-5-119-fallecidos-y-16-740-heridos-hasta-este-18-de-julio/",
+      "seenAt": "2026-07-18T22:13:10.613Z"
     },
     "injured": {
       "value": 32038,

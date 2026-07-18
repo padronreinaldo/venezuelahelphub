@@ -4,6 +4,34 @@
     "sourceEn": "El Pitazo",
     "date": "2026-07-18",
     "conf": "med",
+    "titleEs": "Entre panes dulces y cotillones: la solidaridad busca devolver una sonrisa a los niños afectados por los terremotos",
+    "titleEn": "Entre panes dulces y cotillones: la solidaridad busca devolver una sonrisa a los niños afectados por los terremotos",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/regiones/gran-caracas/entre-panes-dulces-y-cotillones-la-solidaridad-busca-devolver-una-sonrisa-a-los-ninos-afectados-por-los-terremotos/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-07-18",
+    "conf": "med",
+    "titleEs": "Personal médico y voluntarios denuncian que Guardia Nacional restringe paso de motorizados a La Guaira",
+    "titleEn": "Personal médico y voluntarios denuncian que Guardia Nacional restringe paso de motorizados a La Guaira",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/regiones/gran-caracas/personal-medico-y-voluntarios-denuncian-que-guardia-nacional-restringe-paso-de-motorizados-a-la-guaira/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-07-18",
+    "conf": "med",
     "titleEs": "«No son sacos de papas»: el dolor de la madre de un deportado que murió en los terremotos",
     "titleEn": "«No son sacos de papas»: el dolor de la madre de un deportado que murió en los terremotos",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -28,32 +56,18 @@
     "url": "https://elpitazo.net/ultimas-noticias/vecinos-de-diego-lozada-no-quieren-dejar-sus-apartamentos-danos-por-terremotos-fueron-clasificados-en-amarillo-y-rojo/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
     "date": "2026-07-18",
     "conf": "med",
-    "titleEs": "Fedecámaras insiste en que se deben revisar impuestos y servicios para apalancar la recuperación tras los terremotos",
-    "titleEn": "Fedecámaras insiste en que se deben revisar impuestos y servicios para apalancar la recuperación tras los terremotos",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "titleEs": "Balance de terremotos: 5.119 fallecidos y 16.740 heridos hasta este 18 de julio",
+    "titleEn": "Balance de terremotos: 5.119 fallecidos y 16.740 heridos hasta este 18 de julio",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/economia/fedecamaras-insiste-en-que-se-deben-revisar-impuestos-y-servicios-para-apalancar-la-recuperacion-tras-los-terremotos/"
-  },
-  {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-07-18",
-    "conf": "med",
-    "titleEs": "Buque especializado llega a Venezuela para reparar el cable submarino de Internet afectado por los terremotos",
-    "titleEn": "Buque especializado llega a Venezuela para reparar el cable submarino de Internet afectado por los terremotos",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/ultimas-noticias/buque-especializado-llega-a-venezuela-para-reparar-el-cable-submarino-de-internet-afectado-por-los-terremotos/"
+    "url": "https://efectococuyo.com/la-humanidad/balance-de-terremotos-5-119-fallecidos-y-16-740-heridos-hasta-este-18-de-julio/"
   },
   {
     "sourceEs": "Efecto Cocuyo",
@@ -96,19 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://efectococuyo.com/la-humanidad/reactivar-aeropuerto-maiquetia-pasa-capacitar-personal-ya-esta/"
-  },
-  {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-07-18",
-    "conf": "med",
-    "titleEs": "Venezuela accede a 346 millones de dólares del FMI para la recuperación tras los sismos",
-    "titleEn": "Venezuela accede a 346 millones de dólares del FMI para la recuperación tras los sismos",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/destacado-1/venezuela-accede-a-346-millones-de-dolares-del-fmi-para-la-recuperacion-tras-los-sismos/"
   }
 ]

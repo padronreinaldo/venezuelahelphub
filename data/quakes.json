@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-17-07-2026-19:05-9.82--70.76",
+    "time": "2026-07-17T23:05:00.000Z",
+    "mag": 3,
+    "depth": 3.6,
+    "lat": 9.82,
+    "lon": -70.76,
+    "place": "42 km al sureste  de Bachaquero",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-17-07-2026-17:17-10.63--66.8",
     "time": "2026-07-17T21:17:00.000Z",
     "mag": 2.3,
@@ -7477,21 +7492,6 @@
     "lat": 10.63,
     "lon": -66.81,
     "place": "8 km al oeste    de Naiguata",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-04-07-2026-05:15-10.33--68.58",
-    "time": "2026-07-04T09:15:00.000Z",
-    "mag": 2.2,
-    "depth": 19.1,
-    "lat": 10.33,
-    "lon": -68.58,
-    "place": "18 km al este     de San Felipe",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

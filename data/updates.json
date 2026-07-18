@@ -60,6 +60,20 @@
     "sourceEn": "Efecto Cocuyo",
     "date": "2026-07-18",
     "conf": "med",
+    "titleEs": "ONG de EEUU calcula pasar cinco años en Venezuela para ayudar a afectados del doble terremoto",
+    "titleEn": "ONG de EEUU calcula pasar cinco años en Venezuela para ayudar a afectados del doble terremoto",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://efectococuyo.com/la-humanidad/ong-de-eeuu-calcula-pasar-cinco-anos-en-venezuela-para-ayudar-a-afectados-del-doble-terremoto/"
+  },
+  {
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
+    "date": "2026-07-18",
+    "conf": "med",
     "titleEs": "Sin hogar, pero evaluando viviendas: el rostro de la ingeniería tras sismos en Venezuela",
     "titleEn": "Sin hogar, pero evaluando viviendas: el rostro de la ingeniería tras sismos en Venezuela",
     "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -96,19 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://efectococuyo.com/destacado-1/venezuela-accede-a-346-millones-de-dolares-del-fmi-para-la-recuperacion-tras-los-sismos/"
-  },
-  {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-07-18",
-    "conf": "med",
-    "titleEs": "La Guaira: Ventana crítica hacia una vulnerabilidad estructural",
-    "titleEn": "La Guaira: Ventana crítica hacia una vulnerabilidad estructural",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/opinion/la-guaira-ventana-critica-vulnerabilidad-estructural/"
   }
 ]

@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-19-07-2026-15:19-10.44--70.36",
+    "time": "2026-07-19T19:19:00.000Z",
+    "mag": 3.1,
+    "depth": 19.7,
+    "lat": 10.44,
+    "lon": -70.36,
+    "place": "42 km al noroeste de Carora",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-19-07-2026-13:11-10.42--68.59",
     "time": "2026-07-19T17:11:00.000Z",
     "mag": 2.1,
@@ -7477,21 +7492,6 @@
     "lat": 10.46,
     "lon": -66.41,
     "place": "23 km al este     de Guarenas",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-05-07-2026-03:00-10.57--66.81",
-    "time": "2026-07-05T07:00:00.000Z",
-    "mag": 1.8,
-    "depth": 8.5,
-    "lat": 10.57,
-    "lon": -66.81,
-    "place": "10 km al suroeste de Naiguata",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

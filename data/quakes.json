@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-19-07-2026-17:58-7.06--73.18",
+    "time": "2026-07-19T21:58:00.000Z",
+    "mag": 2.6,
+    "depth": 5,
+    "lat": 7.06,
+    "lon": -73.18,
+    "place": "9 km al suroeste de Bucaramanga",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-19-07-2026-17:46-9.95--69.83",
     "time": "2026-07-19T21:46:00.000Z",
     "mag": 2,
@@ -7477,21 +7492,6 @@
     "lat": 10.05,
     "lon": -69.43,
     "place": "13 km al oeste    de Barquisimeto",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-05-07-2026-03:54-10.65--67.5",
-    "time": "2026-07-05T07:54:00.000Z",
-    "mag": 2.4,
-    "depth": 10.1,
-    "lat": 10.65,
-    "lon": -67.5,
-    "place": "46 km al norte    de Maracay",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

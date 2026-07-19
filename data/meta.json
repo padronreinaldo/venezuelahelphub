@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T22:24:01.956Z",
+  "updatedAt": "2026-07-19T23:27:25.244Z",
   "stats": {
     "maxMagnitude": 4.6,
     "aftershocks": 0,
@@ -19,12 +19,12 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8yf"
     },
     "deaths": {
-      "seenAt": "2026-07-19T22:24:01.956Z",
+      "seenAt": "2026-07-19T23:27:25.244Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
     "injured": {
-      "seenAt": "2026-07-19T22:24:01.956Z",
+      "seenAt": "2026-07-19T23:27:25.244Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
@@ -36,10 +36,10 @@
   },
   "alt": {
     "deaths": {
-      "value": 5119,
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/balance-de-terremotos-5-119-fallecidos-y-16-740-heridos-hasta-este-18-de-julio/",
-      "seenAt": "2026-07-19T14:37:20.315Z"
+      "value": 5208,
+      "source": "Runrun.es",
+      "url": "https://runrun.es/inicio/615318/balance-19j-terremotos-dejan-5-208-fallecidos-y-mas-de-23-mil-personas-en-campamentos/",
+      "seenAt": "2026-07-19T23:27:25.244Z"
     },
     "injured": {
       "value": 32038,
@@ -57,13 +57,13 @@
   "sources": {
     "usgs": 0,
     "reliefweb": 0,
-    "press": 9,
+    "press": 10,
     "wikipedia": 1,
     "funvisis": 20
   },
   "counts": {
     "updates": 8,
-    "news": 9,
+    "news": 10,
     "quakes": 500
   }
 }

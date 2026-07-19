@@ -39,10 +39,28 @@
     "source": "Efecto Cocuyo",
     "section": "Venezuela",
     "date": "2026-07-19",
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/19183529/557044883027c7a52354bf27c2c633e664427cd1w-1024x683.jpg",
+    "titleEs": "La final del Mundial, la mejor distracción para afectados por terremotos en Venezuela",
+    "titleEn": "La final del Mundial, la mejor distracción para afectados por terremotos en Venezuela",
+    "url": "https://efectococuyo.com/deportes/la-final-del-mundial-la-mejor-distraccion-para-afectados-por-terremotos-en-venezuela/"
+  },
+  {
+    "source": "Efecto Cocuyo",
+    "section": "Venezuela",
+    "date": "2026-07-19",
     "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/19141801/2aaa8f8a1cd8eebb289942a3ebab041ac9bc1c9ew-1024x769.jpg",
     "titleEs": "Al menos un fallecido y diez heridos por un sismo de magnitud 5,1 en el centro de Perú",
     "titleEn": "Al menos un fallecido y diez heridos por un sismo de magnitud 5,1 en el centro de Perú",
     "url": "https://efectococuyo.com/internacionales/al-menos-un-fallecido-y-diez-heridos-por-un-sismo-de-magnitud-51-en-el-centro-de-peru/"
+  },
+  {
+    "source": "Runrun.es",
+    "section": "Venezuela",
+    "date": "2026-07-19",
+    "img": "https://runrun.es/wp-content/uploads/2026/07/photo_2026-07-19_14-43-26.jpg",
+    "titleEs": "Balance #19J | Terremotos dejan 5.208 fallecidos y más de 23 mil personas en campamentos",
+    "titleEn": "Balance #19J | Terremotos dejan 5.208 fallecidos y más de 23 mil personas en campamentos",
+    "url": "https://runrun.es/inicio/615318/balance-19j-terremotos-dejan-5-208-fallecidos-y-mas-de-23-mil-personas-en-campamentos/"
   },
   {
     "source": "Runrun.es",
@@ -70,14 +88,5 @@
     "titleEs": "Amenazan a presos políticos del Rodeo I por exigir celdas seguras tras los sismos",
     "titleEn": "Amenazan a presos políticos del Rodeo I por exigir celdas seguras tras los sismos",
     "url": "https://runrun.es/noticias/615272/amenazan-a-presos-politicos-del-rodeo-i-por-exigir-celdas-seguras-tras-los-sismos/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-18",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/edificacion.jpg",
-    "titleEs": "Cifra de fallecidos por terremotos sube a 5119 y ya van 1530 réplicas",
-    "titleEn": "Cifra de fallecidos por terremotos sube a 5119 y ya van 1530 réplicas",
-    "url": "https://runrun.es/noticias/615253/cifra-de-fallecidos-por-terremotos-sube-a-5119-y-ya-van-1530-replicas/"
   }
 ]

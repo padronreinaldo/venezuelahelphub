@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-19-07-2026-13:11-10.42--68.59",
+    "time": "2026-07-19T17:11:00.000Z",
+    "mag": 2.1,
+    "depth": 4.8,
+    "lat": 10.42,
+    "lon": -68.59,
+    "place": "19 km al noreste  de San Felipe",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-19-07-2026-12:12-10.58--66.89",
     "time": "2026-07-19T16:12:00.000Z",
     "mag": 2.2,
@@ -7477,21 +7492,6 @@
     "lat": 10.57,
     "lon": -66.81,
     "place": "10 km al suroeste de Naiguata",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-05-07-2026-02:55-10.79--64.46",
-    "time": "2026-07-05T06:55:00.000Z",
-    "mag": 2.9,
-    "depth": 20.6,
-    "lat": 10.79,
-    "lon": -64.46,
-    "place": "22 km al suroeste de Punta Arenas",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

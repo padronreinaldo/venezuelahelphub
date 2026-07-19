@@ -11,7 +11,7 @@
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/ultimas-noticias/aumentan-a-5-119-los-muertos-por-terremotos-del-24-de-junio/"
+    "url": "https://elpitazo.net/internacional/aumentan-a-5-119-los-muertos-por-terremotos-del-24-de-junio/"
   },
   {
     "sourceEs": "El Pitazo",
@@ -58,6 +58,20 @@
   {
     "sourceEs": "Efecto Cocuyo",
     "sourceEn": "Efecto Cocuyo",
+    "date": "2026-07-19",
+    "conf": "med",
+    "titleEs": "El paso a paso de las juntas de condominio tras el doble terremoto: lo que recomiendan expertos",
+    "titleEn": "El paso a paso de las juntas de condominio tras el doble terremoto: lo que recomiendan expertos",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://efectococuyo.com/la-humanidad/juntas-condominio-danos-terremotos-recomiendan-expertos/"
+  },
+  {
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
     "date": "2026-07-18",
     "conf": "med",
     "titleEs": "Balance de terremotos: 5.119 fallecidos y 16.740 heridos hasta este 18 de julio",
@@ -70,45 +84,31 @@
     "url": "https://efectococuyo.com/la-humanidad/balance-de-terremotos-5-119-fallecidos-y-16-740-heridos-hasta-este-18-de-julio/"
   },
   {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-07-18",
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
+    "date": "2026-07-19",
     "conf": "med",
-    "titleEs": "ONG de EEUU calcula pasar cinco años en Venezuela para ayudar a afectados del doble terremoto",
-    "titleEn": "ONG de EEUU calcula pasar cinco años en Venezuela para ayudar a afectados del doble terremoto",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
+    "titleEs": "Amenazan a presos políticos del Rodeo I por exigir celdas seguras tras los sismos",
+    "titleEn": "Amenazan a presos políticos del Rodeo I por exigir celdas seguras tras los sismos",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://efectococuyo.com/la-humanidad/ong-de-eeuu-calcula-pasar-cinco-anos-en-venezuela-para-ayudar-a-afectados-del-doble-terremoto/"
+    "url": "https://runrun.es/noticias/615272/amenazan-a-presos-politicos-del-rodeo-i-por-exigir-celdas-seguras-tras-los-sismos/"
   },
   {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
     "date": "2026-07-18",
     "conf": "med",
-    "titleEs": "Sin hogar, pero evaluando viviendas: el rostro de la ingeniería tras sismos en Venezuela",
-    "titleEn": "Sin hogar, pero evaluando viviendas: el rostro de la ingeniería tras sismos en Venezuela",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
+    "titleEs": "Cifra de fallecidos por terremotos sube a 5119 y ya van 1530 réplicas",
+    "titleEn": "Cifra de fallecidos por terremotos sube a 5119 y ya van 1530 réplicas",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://efectococuyo.com/la-humanidad/sin-hogar-pero-evaluando-viviendas-el-rostro-de-la-ingenieria-tras-sismos-en-venezuela/"
-  },
-  {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-07-18",
-    "conf": "med",
-    "titleEs": "Reactivar aeropuerto de Maiquetía pasa también por capacitar personal que ya no está por el terremoto",
-    "titleEn": "Reactivar aeropuerto de Maiquetía pasa también por capacitar personal que ya no está por el terremoto",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/la-humanidad/reactivar-aeropuerto-maiquetia-pasa-capacitar-personal-ya-esta/"
+    "url": "https://runrun.es/noticias/615253/cifra-de-fallecidos-por-terremotos-sube-a-5119-y-ya-van-1530-replicas/"
   }
 ]

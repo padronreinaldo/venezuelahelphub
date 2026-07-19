@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-19-07-2026-16:06-6.89--73.28",
+    "time": "2026-07-19T20:06:00.000Z",
+    "mag": 2.8,
+    "depth": 22.6,
+    "lat": 6.89,
+    "lon": -73.28,
+    "place": "30 km al suroeste de Bucaramanga",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-19-07-2026-15:19-10.44--70.36",
     "time": "2026-07-19T19:19:00.000Z",
     "mag": 3.1,
@@ -7477,21 +7492,6 @@
     "lat": 10.04,
     "lon": -64.84,
     "place": "20 km al suroeste de Barcelona",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-05-07-2026-03:10-10.46--66.41",
-    "time": "2026-07-05T07:10:00.000Z",
-    "mag": 1.8,
-    "depth": 6.6,
-    "lat": 10.46,
-    "lon": -66.41,
-    "place": "23 km al este     de Guarenas",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

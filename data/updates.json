@@ -74,6 +74,20 @@
     "sourceEn": "Runrun.es",
     "date": "2026-07-19",
     "conf": "med",
+    "titleEs": "Lo que piden las ONG por los niños venezolanos en su día",
+    "titleEn": "Lo que piden las ONG por los niños venezolanos en su día",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://runrun.es/inicio/615315/lo-que-piden-las-ong-por-los-ninos-venezolanos-en-su-dia/"
+  },
+  {
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
+    "date": "2026-07-19",
+    "conf": "med",
     "titleEs": "Continúan censando a damnificados del urbanismo Hugo Chávez de Playa Grande",
     "titleEn": "Continúan censando a damnificados del urbanismo Hugo Chávez de Playa Grande",
     "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
@@ -96,19 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://runrun.es/noticias/615272/amenazan-a-presos-politicos-del-rodeo-i-por-exigir-celdas-seguras-tras-los-sismos/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-07-18",
-    "conf": "med",
-    "titleEs": "Cifra de fallecidos por terremotos sube a 5119 y ya van 1530 réplicas",
-    "titleEn": "Cifra de fallecidos por terremotos sube a 5119 y ya van 1530 réplicas",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/noticias/615253/cifra-de-fallecidos-por-terremotos-sube-a-5119-y-ya-van-1530-replicas/"
   }
 ]

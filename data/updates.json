@@ -4,6 +4,20 @@
     "sourceEn": "El Pitazo",
     "date": "2026-07-19",
     "conf": "med",
+    "titleEs": "Sismo de 5,1 en el centro de Perú deja al menos un fallecido y diez heridos",
+    "titleEn": "Sismo de 5,1 en el centro de Perú deja al menos un fallecido y diez heridos",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/internacional/sismo-de-51-en-el-centro-de-peru-deja-al-menos-un-fallecido-y-diez-heridos/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-07-19",
+    "conf": "med",
     "titleEs": "Aumentan a 5.119 los muertos por terremotos del 24 de junio",
     "titleEn": "Aumentan a 5.119 los muertos por terremotos del 24 de junio",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -40,34 +54,6 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://elpitazo.net/regiones/gran-caracas/entre-panes-dulces-y-cotillones-la-solidaridad-busca-devolver-una-sonrisa-a-los-ninos-afectados-por-los-terremotos/"
-  },
-  {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-07-18",
-    "conf": "med",
-    "titleEs": "Personal médico y voluntarios denuncian que Guardia Nacional restringe paso de motorizados a La Guaira",
-    "titleEn": "Personal médico y voluntarios denuncian que Guardia Nacional restringe paso de motorizados a La Guaira",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/regiones/gran-caracas/personal-medico-y-voluntarios-denuncian-que-guardia-nacional-restringe-paso-de-motorizados-a-la-guaira/"
-  },
-  {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-07-18",
-    "conf": "med",
-    "titleEs": "Balance de terremotos: 5.119 fallecidos y 16.740 heridos hasta este 18 de julio",
-    "titleEn": "Balance de terremotos: 5.119 fallecidos y 16.740 heridos hasta este 18 de julio",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/la-humanidad/balance-de-terremotos-5-119-fallecidos-y-16-740-heridos-hasta-este-18-de-julio/"
   },
   {
     "sourceEs": "Runrun.es",
@@ -110,5 +96,19 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://runrun.es/noticias/615248/venezuela-obtiene-346-millones-de-dolares-del-fmi-para-la-reconstruccion-tras-los-sismos/"
+  },
+  {
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
+    "date": "2026-07-18",
+    "conf": "med",
+    "titleEs": "14 colegios colapsaron en La Guaira por sismos del 24J",
+    "titleEn": "14 colegios colapsaron en La Guaira por sismos del 24J",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://runrun.es/noticias/615224/terremoto-dejo-al-menos-14-colegios-colapsados-en-la-guaira/"
   }
 ]

@@ -3,6 +3,15 @@
     "source": "El Pitazo",
     "section": "Venezuela",
     "date": "2026-07-19",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/07/peru.jpg",
+    "titleEs": "Sismo de 5,1 en el centro de Perú deja al menos un fallecido y diez heridos",
+    "titleEn": "Sismo de 5,1 en el centro de Perú deja al menos un fallecido y diez heridos",
+    "url": "https://elpitazo.net/internacional/sismo-de-51-en-el-centro-de-peru-deja-al-menos-un-fallecido-y-diez-heridos/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-07-19",
     "img": "https://elpitazo.net/wp-content/uploads/2026/07/escombros.jpg",
     "titleEs": "Aumentan a 5.119 los muertos por terremotos del 24 de junio",
     "titleEn": "Aumentan a 5.119 los muertos por terremotos del 24 de junio",
@@ -25,24 +34,6 @@
     "titleEs": "Entre panes dulces y cotillones: la solidaridad busca devolver una sonrisa a los niños afectados por los terremotos",
     "titleEn": "Entre panes dulces y cotillones: la solidaridad busca devolver una sonrisa a los niños afectados por los terremotos",
     "url": "https://elpitazo.net/regiones/gran-caracas/entre-panes-dulces-y-cotillones-la-solidaridad-busca-devolver-una-sonrisa-a-los-ninos-afectados-por-los-terremotos/"
-  },
-  {
-    "source": "El Pitazo",
-    "section": "Venezuela",
-    "date": "2026-07-18",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/07/InShot_20260718_165755574-scaled.jpg",
-    "titleEs": "Personal médico y voluntarios denuncian que Guardia Nacional restringe paso de motorizados a La Guaira",
-    "titleEn": "Personal médico y voluntarios denuncian que Guardia Nacional restringe paso de motorizados a La Guaira",
-    "url": "https://elpitazo.net/regiones/gran-caracas/personal-medico-y-voluntarios-denuncian-que-guardia-nacional-restringe-paso-de-motorizados-a-la-guaira/"
-  },
-  {
-    "source": "Efecto Cocuyo",
-    "section": "Venezuela",
-    "date": "2026-07-18",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/18180541/1681fc8aa8c424dfca196238faa62ed36adc2fc1-1024x683.jpg",
-    "titleEs": "Balance de terremotos: 5.119 fallecidos y 16.740 heridos hasta este 18 de julio",
-    "titleEn": "Balance de terremotos: 5.119 fallecidos y 16.740 heridos hasta este 18 de julio",
-    "url": "https://efectococuyo.com/la-humanidad/balance-de-terremotos-5-119-fallecidos-y-16-740-heridos-hasta-este-18-de-julio/"
   },
   {
     "source": "Runrun.es",

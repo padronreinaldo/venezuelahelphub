@@ -2,6 +2,24 @@
   {
     "source": "El Pitazo",
     "section": "Venezuela",
+    "date": "2026-07-19",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/07/escombros.jpg",
+    "titleEs": "Aumentan a 5.119 los muertos por terremotos del 24 de junio",
+    "titleEn": "Aumentan a 5.119 los muertos por terremotos del 24 de junio",
+    "url": "https://elpitazo.net/ultimas-noticias/aumentan-a-5-119-los-muertos-por-terremotos-del-24-de-junio/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-07-18",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/07/Rutaca-768x1024.webp",
+    "titleEs": "Aviación civil de luto: al menos 57 trabajadores de aerolíneas fallecieron por doble terremoto",
+    "titleEn": "Aviación civil de luto: al menos 57 trabajadores de aerolíneas fallecieron por doble terremoto",
+    "url": "https://elpitazo.net/ultimas-noticias/aviacion-civil-de-luto-al-menos-50-trabajadores-de-aerolineas-fallecieron-por-doble-terremoto/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
     "date": "2026-07-18",
     "img": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXeyrS5sIlRKoLPRdL1mPMaD6HS2erkKcF275qCAHYxc5SbGHYWQeclZnF5tkE1Fvi0ZqDIHPEC5OmkaGi_QENyzird04lyBD4VLCI4QVGaJpf-v5UHxWVh9X8Cfbm12tnmASRhz6qW0YQ=s2048?key=pR4roKfLA7uOTjpHSGyj7w",
     "titleEs": "Entre panes dulces y cotillones: la solidaridad busca devolver una sonrisa a los niños afectados por los terremotos",
@@ -16,24 +34,6 @@
     "titleEs": "Personal médico y voluntarios denuncian que Guardia Nacional restringe paso de motorizados a La Guaira",
     "titleEn": "Personal médico y voluntarios denuncian que Guardia Nacional restringe paso de motorizados a La Guaira",
     "url": "https://elpitazo.net/regiones/gran-caracas/personal-medico-y-voluntarios-denuncian-que-guardia-nacional-restringe-paso-de-motorizados-a-la-guaira/"
-  },
-  {
-    "source": "El Pitazo",
-    "section": "Venezuela",
-    "date": "2026-07-18",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/07/Daniel-deportado-fallecido-terremoto.png",
-    "titleEs": "«No son sacos de papas»: el dolor de la madre de un deportado que murió en los terremotos",
-    "titleEn": "«No son sacos de papas»: el dolor de la madre de un deportado que murió en los terremotos",
-    "url": "https://elpitazo.net/regiones/no-son-sacos-de-papas-el-dolor-de-la-madre-de-un-deportado-que-murio-en-los-terremotos/"
-  },
-  {
-    "source": "El Pitazo",
-    "section": "Venezuela",
-    "date": "2026-07-18",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/07/IMG_0212-1-1024x768.jpeg",
-    "titleEs": "Vecinos de Diego Lozada no quieren dejar sus apartamentos: daños por terremotos fueron clasificados en amarillo y rojo",
-    "titleEn": "Vecinos de Diego Lozada no quieren dejar sus apartamentos: daños por terremotos fueron clasificados en amarillo y rojo",
-    "url": "https://elpitazo.net/ultimas-noticias/vecinos-de-diego-lozada-no-quieren-dejar-sus-apartamentos-danos-por-terremotos-fueron-clasificados-en-amarillo-y-rojo/"
   },
   {
     "source": "Efecto Cocuyo",
@@ -84,6 +84,15 @@
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-18",
+    "img": "https://runrun.es/wp-content/uploads/2026/07/delcy-rodriguez-2-de-abril-2025.png",
+    "titleEs": "Venezuela obtiene 346 millones de dólares del FMI para la reconstrucción tras los sismos",
+    "titleEn": "Venezuela obtiene 346 millones de dólares del FMI para la reconstrucción tras los sismos",
+    "url": "https://runrun.es/noticias/615248/venezuela-obtiene-346-millones-de-dolares-del-fmi-para-la-reconstruccion-tras-los-sismos/"
+  },
+  {
+    "source": "Runrun.es",
+    "section": "Venezuela",
+    "date": "2026-07-18",
     "img": "https://runrun.es/wp-content/uploads/2026/07/escuwela.jpg",
     "titleEs": "14 colegios colapsaron en La Guaira por sismos del 24J",
     "titleEn": "14 colegios colapsaron en La Guaira por sismos del 24J",
@@ -97,14 +106,5 @@
     "titleEs": "Expertos de la ONU exigen al Gobierno respetar labor de la sociedad civil tras los sismos",
     "titleEn": "Expertos de la ONU exigen al Gobierno respetar labor de la sociedad civil tras los sismos",
     "url": "https://runrun.es/noticias/615207/expertos-de-la-onu-exigen-al-gobierno-respetar-labor-de-la-sociedad-civil-sismos/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-17",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/balance-terremotos-17jul.jpg",
-    "titleEs": "Balance #17Jul | Ya son más de 5000 los fallecidos por los terremotos en Venezuela, según el Gobierno",
-    "titleEn": "Balance #17Jul | Ya son más de 5000 los fallecidos por los terremotos en Venezuela, según el Gobierno",
-    "url": "https://runrun.es/noticias/615132/balance-17jul-ya-son-mas-de-5000-los-fallecidos-por-los-terremotos-en-venezuela-segun-el-gobierno/"
   }
 ]

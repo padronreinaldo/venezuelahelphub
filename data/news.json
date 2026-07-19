@@ -74,6 +74,15 @@
   {
     "source": "Runrun.es",
     "section": "Venezuela",
+    "date": "2026-07-19",
+    "img": "https://runrun.es/wp-content/uploads/2026/07/rodeoI.jpg",
+    "titleEs": "Amenazan a presos políticos del Rodeo I por exigir celdas seguras tras los sismos",
+    "titleEn": "Amenazan a presos políticos del Rodeo I por exigir celdas seguras tras los sismos",
+    "url": "https://runrun.es/noticias/615272/amenazan-a-presos-politicos-del-rodeo-i-por-exigir-celdas-seguras-tras-los-sismos/"
+  },
+  {
+    "source": "Runrun.es",
+    "section": "Venezuela",
     "date": "2026-07-18",
     "img": "https://runrun.es/wp-content/uploads/2026/07/edificacion.jpg",
     "titleEs": "Cifra de fallecidos por terremotos sube a 5119 y ya van 1530 réplicas",
@@ -97,14 +106,5 @@
     "titleEs": "14 colegios colapsaron en La Guaira por sismos del 24J",
     "titleEn": "14 colegios colapsaron en La Guaira por sismos del 24J",
     "url": "https://runrun.es/noticias/615224/terremoto-dejo-al-menos-14-colegios-colapsados-en-la-guaira/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-18",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/summa3.jpg",
-    "titleEs": "Expertos de la ONU exigen al Gobierno respetar labor de la sociedad civil tras los sismos",
-    "titleEn": "Expertos de la ONU exigen al Gobierno respetar labor de la sociedad civil tras los sismos",
-    "url": "https://runrun.es/noticias/615207/expertos-de-la-onu-exigen-al-gobierno-respetar-labor-de-la-sociedad-civil-sismos/"
   }
 ]

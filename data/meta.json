@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-07-19T17:54:56.502Z",
+  "updatedAt": "2026-07-19T18:59:44.725Z",
   "stats": {
     "maxMagnitude": 4.6,
     "aftershocks": 0,
-    "deaths": 69,
+    "deaths": 119,
     "injured": 840,
     "missing": 29995
   },
@@ -19,12 +19,12 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8yf"
     },
     "deaths": {
-      "seenAt": "2026-07-19T17:54:56.502Z",
+      "seenAt": "2026-07-19T18:59:44.725Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
     "injured": {
-      "seenAt": "2026-07-19T17:54:56.502Z",
+      "seenAt": "2026-07-19T18:59:44.725Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
@@ -57,13 +57,13 @@
   "sources": {
     "usgs": 0,
     "reliefweb": 0,
-    "press": 8,
+    "press": 9,
     "wikipedia": 1,
     "funvisis": 20
   },
   "counts": {
     "updates": 8,
-    "news": 8,
+    "news": 9,
     "quakes": 500
   }
 }

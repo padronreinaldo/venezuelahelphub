@@ -4,6 +4,20 @@
     "sourceEn": "El Pitazo",
     "date": "2026-07-20",
     "conf": "med",
+    "titleEs": "Funvisis reporta réplica de magnitud 4,6 este #20Jul",
+    "titleEn": "Funvisis reporta réplica de magnitud 4,6 este #20Jul",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/regiones/funvisis-reporta-replica-de-magnitud-46-este-20jul/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-07-20",
+    "conf": "med",
     "titleEs": "Cicpc detiene a dos hombres por hurtar pertenencias de las víctimas del terremoto en La Guaira",
     "titleEn": "Cicpc detiene a dos hombres por hurtar pertenencias de las víctimas del terremoto en La Guaira",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -42,18 +56,18 @@
     "url": "https://elpitazo.net/politica/politologa-heysel-rodriguez-la-emergencia-sismica-podria-desplazar-la-disputa-por-la-legitimidad-politica/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-07-19",
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
+    "date": "2026-07-20",
     "conf": "med",
-    "titleEs": "ONG exige una evaluación de la infraestructura de Rodeo I luego de los terremotos",
-    "titleEn": "ONG exige una evaluación de la infraestructura de Rodeo I luego de los terremotos",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "titleEs": "Sismo de 4,6 despierta al oriente venezolano durante la mañana de este 20 de julio",
+    "titleEn": "Sismo de 4,6 despierta al oriente venezolano durante la mañana de este 20 de julio",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/politica/ong-exige-una-evaluacion-de-la-infraestructura-de-rodeo-i-luego-de-los-terremotos/"
+    "url": "https://efectococuyo.com/la-humanidad/sismo-de-46-despierta-al-oriente-venezolano-durante-la-manana-de-este-20-de-julio/"
   },
   {
     "sourceEs": "Efecto Cocuyo",
@@ -96,19 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://efectococuyo.com/internacionales/al-menos-un-fallecido-y-diez-heridos-por-un-sismo-de-magnitud-51-en-el-centro-de-peru/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-07-19",
-    "conf": "med",
-    "titleEs": "Balance #19J | Cifra de fallecidos se eleva a 5208 y hay más del 23 000 personas en campamentos",
-    "titleEn": "Balance #19J | Cifra de fallecidos se eleva a 5208 y hay más del 23 000 personas en campamentos",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/noticias/615318/balance-19j-terremotos-dejan-5-208-fallecidos-y-mas-de-23-mil-personas-en-campamentos/"
   }
 ]

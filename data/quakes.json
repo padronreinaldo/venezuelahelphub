@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-20-07-2026-18:32-12.05--61.3",
+    "time": "2026-07-20T22:32:00.000Z",
+    "mag": 3.3,
+    "depth": 5,
+    "lat": 12.05,
+    "lon": -61.3,
+    "place": "43 km al este     de Granada",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-20-07-2026-16:49-10.48--67.53",
     "time": "2026-07-20T20:49:00.000Z",
     "mag": 1.9,
@@ -7477,21 +7492,6 @@
     "lat": 10.34,
     "lon": -68.54,
     "place": "22 km al este de San Felipe",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-05-07-2026-15:48-10--66",
-    "time": "2026-07-05T19:48:00.000Z",
-    "mag": 2,
-    "depth": 12,
-    "lat": 10,
-    "lon": -66,
-    "place": "16 km al este de San Felipe",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

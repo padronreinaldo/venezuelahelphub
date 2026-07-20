@@ -60,6 +60,20 @@
     "sourceEn": "Efecto Cocuyo",
     "date": "2026-07-20",
     "conf": "med",
+    "titleEs": "Rubio anuncia mayor ayuda de EEUU a Venezuela y celebra acuerdo para la transición",
+    "titleEn": "Rubio anuncia mayor ayuda de EEUU a Venezuela y celebra acuerdo para la transición",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://efectococuyo.com/internacionales/rubio-anuncia-mayor-ayuda-de-eeuu-a-venezuela-y-celebra-acuerdo-para-la-transicion/"
+  },
+  {
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
+    "date": "2026-07-20",
+    "conf": "med",
     "titleEs": "Sismo de 4,6 despierta al oriente venezolano durante la mañana de este 20 de julio",
     "titleEn": "Sismo de 4,6 despierta al oriente venezolano durante la mañana de este 20 de julio",
     "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -96,19 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://efectococuyo.com/deportes/la-final-del-mundial-la-mejor-distraccion-para-afectados-por-terremotos-en-venezuela/"
-  },
-  {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-07-19",
-    "conf": "med",
-    "titleEs": "Al menos un fallecido y diez heridos por un sismo de magnitud 5,1 en el centro de Perú",
-    "titleEn": "Al menos un fallecido y diez heridos por un sismo de magnitud 5,1 en el centro de Perú",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/internacionales/al-menos-un-fallecido-y-diez-heridos-por-un-sismo-de-magnitud-51-en-el-centro-de-peru/"
   }
 ]

@@ -3,6 +3,15 @@
     "source": "El Pitazo",
     "section": "Venezuela",
     "date": "2026-07-20",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/07/carpa-damnificados.jpg",
+    "titleEs": "Administración de Delcy Rodríguez dispuesta a cooperar con Perú tras terremoto mientras damnificados venezolanos claman ayuda",
+    "titleEn": "Administración de Delcy Rodríguez dispuesta a cooperar con Perú tras terremoto mientras damnificados venezolanos claman ayuda",
+    "url": "https://elpitazo.net/politica/administracion-de-delcy-rodriguez-dispuesta-a-cooperar-con-peru-tras-terremoto-mientras-damnificados-venezolanos-claman-ayuda/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-07-20",
     "img": "https://elpitazo.net/wp-content/uploads/2026/07/sismo-caracas-los-ruices-el-pitazo.jpg",
     "titleEs": "Funvisis reporta réplica de magnitud 4,6 este #20Jul",
     "titleEn": "Funvisis reporta réplica de magnitud 4,6 este #20Jul",
@@ -25,15 +34,6 @@
     "titleEs": "Asciende a 5.208 la cifra de muertos por el doble terremoto en Venezuela",
     "titleEn": "Asciende a 5.208 la cifra de muertos por el doble terremoto en Venezuela",
     "url": "https://elpitazo.net/ultimas-noticias/asciende-a-5-208-la-cifra-de-muertos-por-el-doble-terremoto-en-venezuela/"
-  },
-  {
-    "source": "El Pitazo",
-    "section": "Venezuela",
-    "date": "2026-07-19",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/07/terremotoyeconomia4.jpg",
-    "titleEs": "Politóloga Heysel Rodríguez: la emergencia sísmica podría desplazar la disputa por la legitimidad política",
-    "titleEn": "Politóloga Heysel Rodríguez: la emergencia sísmica podría desplazar la disputa por la legitimidad política",
-    "url": "https://elpitazo.net/politica/politologa-heysel-rodriguez-la-emergencia-sismica-podria-desplazar-la-disputa-por-la-legitimidad-politica/"
   },
   {
     "source": "Efecto Cocuyo",
@@ -85,8 +85,8 @@
     "section": "Venezuela",
     "date": "2026-07-19",
     "img": "https://runrun.es/wp-content/uploads/2025/04/runrunes.jpeg",
-    "titleEs": "Lo que piden las ONG por los niños venezolanos en su día",
-    "titleEn": "Lo que piden las ONG por los niños venezolanos en su día",
+    "titleEs": "Lo que piden las ONG para los niños venezolanos en su día",
+    "titleEn": "Lo que piden las ONG para los niños venezolanos en su día",
     "url": "https://runrun.es/inicio/615315/lo-que-piden-las-ong-por-los-ninos-venezolanos-en-su-dia/"
   },
   {

@@ -60,6 +60,20 @@
     "sourceEn": "Runrun.es",
     "date": "2026-07-20",
     "conf": "med",
+    "titleEs": "La nación sin fronteras",
+    "titleEn": "La nación sin fronteras",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://runrun.es/opinion/615398/nacion-venezolana/"
+  },
+  {
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
+    "date": "2026-07-20",
+    "conf": "med",
     "titleEs": "Duque explica en qué consiste el plan estructural para viviendas afectadas por los sismos en Chacao",
     "titleEn": "Duque explica en qué consiste el plan estructural para viviendas afectadas por los sismos en Chacao",
     "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
@@ -96,19 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://runrun.es/noticias/615344/inicio-de-transicion-mas-ayuda-por-sismos-y-otros-anuncios-de-marco-rubio/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-07-19",
-    "conf": "med",
-    "titleEs": "Balance #19J | Cifra de fallecidos se eleva a 5208 y hay más del 23 000 personas en campamentos",
-    "titleEn": "Balance #19J | Cifra de fallecidos se eleva a 5208 y hay más del 23 000 personas en campamentos",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/noticias/615318/balance-19j-terremotos-dejan-5-208-fallecidos-y-mas-de-23-mil-personas-en-campamentos/"
   }
 ]

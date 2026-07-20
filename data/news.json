@@ -2,6 +2,24 @@
   {
     "source": "El Pitazo",
     "section": "Venezuela",
+    "date": "2026-07-20",
+    "img": "https://elpitazo.net/wp-content/uploads/2018/12/eje-contra-homicidios-cicpc-web.jpg",
+    "titleEs": "Cicpc detiene a dos hombres por hurtar pertenencias de las víctimas del terremoto en La Guaira",
+    "titleEn": "Cicpc detiene a dos hombres por hurtar pertenencias de las víctimas del terremoto en La Guaira",
+    "url": "https://elpitazo.net/sucesos/cicpc-detiene-a-dos-hombres-por-hurtar-pertenencias-de-las-victimas-del-terremoto-en-la-guaira/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-07-19",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/07/balance-fallecidos-19-de-julio-845x1024.jpg",
+    "titleEs": "Asciende a 5.208 la cifra de muertos por el doble terremoto en Venezuela",
+    "titleEn": "Asciende a 5.208 la cifra de muertos por el doble terremoto en Venezuela",
+    "url": "https://elpitazo.net/ultimas-noticias/asciende-a-5-208-la-cifra-de-muertos-por-el-doble-terremoto-en-venezuela/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
     "date": "2026-07-19",
     "img": "https://elpitazo.net/wp-content/uploads/2026/07/terremotoyeconomia4.jpg",
     "titleEs": "Politóloga Heysel Rodríguez: la emergencia sísmica podría desplazar la disputa por la legitimidad política",
@@ -18,22 +36,13 @@
     "url": "https://elpitazo.net/politica/ong-exige-una-evaluacion-de-la-infraestructura-de-rodeo-i-luego-de-los-terremotos/"
   },
   {
-    "source": "El Pitazo",
+    "source": "Efecto Cocuyo",
     "section": "Venezuela",
     "date": "2026-07-19",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/07/Paparoni-2022-el-espanol-700x466-1.jpg",
-    "titleEs": "Paparoni advierte que $346 millones para reconstrucción por terremotos terminará en manos de la corrupción",
-    "titleEn": "Paparoni advierte que $346 millones para reconstrucción por terremotos terminará en manos de la corrupción",
-    "url": "https://elpitazo.net/politica/paparoni-advierte-que-346-millones-para-reconstruccion-por-terremotos-terminara-en-manos-de-la-corrupcion/"
-  },
-  {
-    "source": "El Pitazo",
-    "section": "Venezuela",
-    "date": "2026-07-19",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/07/Terremotos-1.jpg",
-    "titleEs": "Delcy Rodríguez accede a 346 millones de dólares del FMI para la recuperación luego de los terremotos",
-    "titleEn": "Delcy Rodríguez accede a 346 millones de dólares del FMI para la recuperación luego de los terremotos",
-    "url": "https://elpitazo.net/politica/delcy-rodriguez-accede-a-346-millones-de-dolares-del-fmi-para-la-recuperacion-luego-de-los-terremotos/"
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/06232644/WhatsApp-Image-2026-07-06-at-11.24.40-PM-1-1024x576.jpeg",
+    "titleEs": "Asciende a 5.208 la cifra de muertos por el doble terremoto en Venezuela",
+    "titleEn": "Asciende a 5.208 la cifra de muertos por el doble terremoto en Venezuela",
+    "url": "https://efectococuyo.com/la-humanidad/asciende-a-5-208-la-cifra-de-muertos-por-el-doble-terremoto-en-venezuela/"
   },
   {
     "source": "Efecto Cocuyo",
@@ -58,9 +67,9 @@
     "section": "Venezuela",
     "date": "2026-07-19",
     "img": "https://runrun.es/wp-content/uploads/2026/07/photo_2026-07-19_14-43-26.jpg",
-    "titleEs": "Balance #19J | Terremotos dejan 5.208 fallecidos y más de 23 mil personas en campamentos",
-    "titleEn": "Balance #19J | Terremotos dejan 5.208 fallecidos y más de 23 mil personas en campamentos",
-    "url": "https://runrun.es/inicio/615318/balance-19j-terremotos-dejan-5-208-fallecidos-y-mas-de-23-mil-personas-en-campamentos/"
+    "titleEs": "Balance #19J | Cifra de fallecidos se eleva a 5208 y hay más del 23 000 personas en campamentos",
+    "titleEn": "Balance #19J | Cifra de fallecidos se eleva a 5208 y hay más del 23 000 personas en campamentos",
+    "url": "https://runrun.es/noticias/615318/balance-19j-terremotos-dejan-5-208-fallecidos-y-mas-de-23-mil-personas-en-campamentos/"
   },
   {
     "source": "Runrun.es",

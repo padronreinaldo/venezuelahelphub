@@ -2,6 +2,34 @@
   {
     "sourceEs": "El Pitazo",
     "sourceEn": "El Pitazo",
+    "date": "2026-07-20",
+    "conf": "med",
+    "titleEs": "Cicpc detiene a dos hombres por hurtar pertenencias de las víctimas del terremoto en La Guaira",
+    "titleEn": "Cicpc detiene a dos hombres por hurtar pertenencias de las víctimas del terremoto en La Guaira",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/sucesos/cicpc-detiene-a-dos-hombres-por-hurtar-pertenencias-de-las-victimas-del-terremoto-en-la-guaira/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-07-19",
+    "conf": "med",
+    "titleEs": "Asciende a 5.208 la cifra de muertos por el doble terremoto en Venezuela",
+    "titleEn": "Asciende a 5.208 la cifra de muertos por el doble terremoto en Venezuela",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/ultimas-noticias/asciende-a-5-208-la-cifra-de-muertos-por-el-doble-terremoto-en-venezuela/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
     "date": "2026-07-19",
     "conf": "med",
     "titleEs": "Politóloga Heysel Rodríguez: la emergencia sísmica podría desplazar la disputa por la legitimidad política",
@@ -28,32 +56,18 @@
     "url": "https://elpitazo.net/politica/ong-exige-una-evaluacion-de-la-infraestructura-de-rodeo-i-luego-de-los-terremotos/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
     "date": "2026-07-19",
     "conf": "med",
-    "titleEs": "Paparoni advierte que $346 millones para reconstrucción por terremotos terminará en manos de la corrupción",
-    "titleEn": "Paparoni advierte que $346 millones para reconstrucción por terremotos terminará en manos de la corrupción",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "titleEs": "Asciende a 5.208 la cifra de muertos por el doble terremoto en Venezuela",
+    "titleEn": "Asciende a 5.208 la cifra de muertos por el doble terremoto en Venezuela",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/politica/paparoni-advierte-que-346-millones-para-reconstruccion-por-terremotos-terminara-en-manos-de-la-corrupcion/"
-  },
-  {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-07-19",
-    "conf": "med",
-    "titleEs": "Delcy Rodríguez accede a 346 millones de dólares del FMI para la recuperación luego de los terremotos",
-    "titleEn": "Delcy Rodríguez accede a 346 millones de dólares del FMI para la recuperación luego de los terremotos",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/politica/delcy-rodriguez-accede-a-346-millones-de-dolares-del-fmi-para-la-recuperacion-luego-de-los-terremotos/"
+    "url": "https://efectococuyo.com/la-humanidad/asciende-a-5-208-la-cifra-de-muertos-por-el-doble-terremoto-en-venezuela/"
   },
   {
     "sourceEs": "Efecto Cocuyo",
@@ -88,27 +102,13 @@
     "sourceEn": "Runrun.es",
     "date": "2026-07-19",
     "conf": "med",
-    "titleEs": "Balance #19J | Terremotos dejan 5.208 fallecidos y más de 23 mil personas en campamentos",
-    "titleEn": "Balance #19J | Terremotos dejan 5.208 fallecidos y más de 23 mil personas en campamentos",
+    "titleEs": "Balance #19J | Cifra de fallecidos se eleva a 5208 y hay más del 23 000 personas en campamentos",
+    "titleEn": "Balance #19J | Cifra de fallecidos se eleva a 5208 y hay más del 23 000 personas en campamentos",
     "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
     "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://runrun.es/inicio/615318/balance-19j-terremotos-dejan-5-208-fallecidos-y-mas-de-23-mil-personas-en-campamentos/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-07-19",
-    "conf": "med",
-    "titleEs": "Lo que piden las ONG por los niños venezolanos en su día",
-    "titleEn": "Lo que piden las ONG por los niños venezolanos en su día",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/inicio/615315/lo-que-piden-las-ong-por-los-ninos-venezolanos-en-su-dia/"
+    "url": "https://runrun.es/noticias/615318/balance-19j-terremotos-dejan-5-208-fallecidos-y-mas-de-23-mil-personas-en-campamentos/"
   }
 ]

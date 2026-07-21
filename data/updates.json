@@ -4,6 +4,20 @@
     "sourceEn": "El Pitazo",
     "date": "2026-07-21",
     "conf": "med",
+    "titleEs": "Emotivo homenaje en La Rinconada: narrador hípico dedica carrera a su familia fallecida en los terremotos",
+    "titleEn": "Emotivo homenaje en La Rinconada: narrador hípico dedica carrera a su familia fallecida en los terremotos",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/regiones/gran-caracas/emotivo-homenaje-en-la-rinconada-narrador-hipico-dedica-carrera-a-su-familia-fallecida-en-los-terremotos/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-07-21",
+    "conf": "med",
     "titleEs": "Delcy Rodríguez entrega más de 240 viviendas a afectados por terremotos: ¿quiénes fueron los primeros beneficiarios?",
     "titleEn": "Delcy Rodríguez entrega más de 240 viviendas a afectados por terremotos: ¿quiénes fueron los primeros beneficiarios?",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -70,18 +84,18 @@
     "url": "https://efectococuyo.com/la-humanidad/sube-5278-numero-muertos-doble-terremoto-venezuela/"
   },
   {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-07-20",
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
+    "date": "2026-07-21",
     "conf": "med",
-    "titleEs": "Rubio dice que con el diálogo entre el chavismo y la AN 2015 comienza la transición",
-    "titleEn": "Rubio dice que con el diálogo entre el chavismo y la AN 2015 comienza la transición",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
+    "titleEs": "27 vuelos trasladaron 806 toneladas de ayuda humanitaria a Venezuela",
+    "titleEn": "27 vuelos trasladaron 806 toneladas de ayuda humanitaria a Venezuela",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://efectococuyo.com/internacionales/rubio-anuncia-mayor-ayuda-de-eeuu-a-venezuela-y-celebra-acuerdo-para-la-transicion/"
+    "url": "https://runrun.es/inicio/615475/27-vuelos-trasladaron-806-toneladas-de-ayuda-humanitaria-a-venezuela/"
   },
   {
     "sourceEs": "Runrun.es",
@@ -96,19 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://runrun.es/inicio/615464/oim-pide-ayuda-internacional-para-apoyar-a-los-afectados-por-los-terremotos/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-07-21",
-    "conf": "med",
-    "titleEs": "Balance #20Jul | 5278 fallecidos por los terremotos y la cifra de desaparecidos sigue sin conocerse",
-    "titleEn": "Balance #20Jul | 5278 fallecidos por los terremotos y la cifra de desaparecidos sigue sin conocerse",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/inicio/615452/balance-20jul-5278-fallecidos-por-los-terremotos-y-la-cifra-de-desaparecidos-sigue-sin-conocerse/"
   }
 ]

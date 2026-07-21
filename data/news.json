@@ -3,6 +3,15 @@
     "source": "El Pitazo",
     "section": "Venezuela",
     "date": "2026-07-21",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/07/familia.png",
+    "titleEs": "Emotivo homenaje en La Rinconada: narrador hípico dedica carrera a su familia fallecida en los terremotos",
+    "titleEn": "Emotivo homenaje en La Rinconada: narrador hípico dedica carrera a su familia fallecida en los terremotos",
+    "url": "https://elpitazo.net/regiones/gran-caracas/emotivo-homenaje-en-la-rinconada-narrador-hipico-dedica-carrera-a-su-familia-fallecida-en-los-terremotos/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-07-21",
     "img": "https://elpitazo.net/wp-content/uploads/2026/07/delcy-rodriguez-2.jpg",
     "titleEs": "Delcy Rodríguez entrega más de 240 viviendas a afectados por terremotos: ¿quiénes fueron los primeros beneficiarios?",
     "titleEn": "Delcy Rodríguez entrega más de 240 viviendas a afectados por terremotos: ¿quiénes fueron los primeros beneficiarios?",
@@ -45,13 +54,13 @@
     "url": "https://efectococuyo.com/la-humanidad/sube-5278-numero-muertos-doble-terremoto-venezuela/"
   },
   {
-    "source": "Efecto Cocuyo",
+    "source": "Runrun.es",
     "section": "Venezuela",
-    "date": "2026-07-20",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/20125616/58a199286a24782a5fb52492ad27e98eb7d1690d-1024x673.jpg",
-    "titleEs": "Rubio dice que con el diálogo entre el chavismo y la AN 2015 comienza la transición",
-    "titleEn": "Rubio dice que con el diálogo entre el chavismo y la AN 2015 comienza la transición",
-    "url": "https://efectococuyo.com/internacionales/rubio-anuncia-mayor-ayuda-de-eeuu-a-venezuela-y-celebra-acuerdo-para-la-transicion/"
+    "date": "2026-07-21",
+    "img": "https://runrun.es/wp-content/uploads/2026/07/photo_2026-07-21_10-17-30.jpg",
+    "titleEs": "27 vuelos trasladaron 806 toneladas de ayuda humanitaria a Venezuela",
+    "titleEn": "27 vuelos trasladaron 806 toneladas de ayuda humanitaria a Venezuela",
+    "url": "https://runrun.es/inicio/615475/27-vuelos-trasladaron-806-toneladas-de-ayuda-humanitaria-a-venezuela/"
   },
   {
     "source": "Runrun.es",
@@ -79,14 +88,5 @@
     "titleEs": "Lluvias elevan el riesgo de deslaves en varias regiones del país",
     "titleEn": "Lluvias elevan el riesgo de deslaves en varias regiones del país",
     "url": "https://runrun.es/noticias/615438/lluvias-elevan-el-riesgo-de-deslaves-en-varias-regiones-del-pais/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-20",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/La-nacion-venezolana-sin-fronteras-por-Nixon-Dominguez-@NixonDominguez.jpg",
-    "titleEs": "La nación sin fronteras",
-    "titleEn": "La nación sin fronteras",
-    "url": "https://runrun.es/opinion/615398/nacion-venezolana/"
   }
 ]

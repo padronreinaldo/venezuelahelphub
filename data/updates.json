@@ -46,6 +46,20 @@
     "sourceEn": "Efecto Cocuyo",
     "date": "2026-07-20",
     "conf": "med",
+    "titleEs": "Rubio dice que con el diálogo entre el chavismo y la AN 2015 comienza la transición",
+    "titleEn": "Rubio dice que con el diálogo entre el chavismo y la AN 2015 comienza la transición",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://efectococuyo.com/internacionales/rubio-anuncia-mayor-ayuda-de-eeuu-a-venezuela-y-celebra-acuerdo-para-la-transicion/"
+  },
+  {
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
+    "date": "2026-07-20",
+    "conf": "med",
     "titleEs": "El doble terremoto impactó redes de apoyo de los familiares de presos políticos",
     "titleEn": "El doble terremoto impactó redes de apoyo de los familiares de presos políticos",
     "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -96,19 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://runrun.es/opinion/615398/nacion-venezolana/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-07-20",
-    "conf": "med",
-    "titleEs": "Duque explica en qué consiste el plan estructural para viviendas afectadas por los sismos en Chacao",
-    "titleEn": "Duque explica en qué consiste el plan estructural para viviendas afectadas por los sismos en Chacao",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/noticias/615378/duque-explica-en-que-consiste-el-plan-estructural-para-viviendas-afectadas-por-los-sismos-en-chacao/"
   }
 ]

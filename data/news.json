@@ -3,10 +3,28 @@
     "source": "El Pitazo",
     "section": "Venezuela",
     "date": "2026-07-21",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/07/delcy-rodriguez-2.jpg",
+    "titleEs": "Delcy Rodríguez entrega más de 240 viviendas a afectados por terremotos: ¿quiénes fueron los primeros beneficiarios?",
+    "titleEn": "Delcy Rodríguez entrega más de 240 viviendas a afectados por terremotos: ¿quiénes fueron los primeros beneficiarios?",
+    "url": "https://elpitazo.net/politica/delcy-rodriguez-entrega-mas-de-240-viviendas-a-afectados-por-terremotos-quienes-fueron-los-primeros-beneficiarios/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-07-21",
     "img": "https://elpitazo.net/wp-content/uploads/2026/07/IMG_0311-1-2-1024x768.jpeg",
     "titleEs": "“Estamos asustados y a la intemperie”: vecinos de las torres OPPE en Caracas se refugian de la lluvia en carpas",
     "titleEn": "“Estamos asustados y a la intemperie”: vecinos de las torres OPPE en Caracas se refugian de la lluvia en carpas",
     "url": "https://elpitazo.net/otras-noticias/estamos-asustados-y-a-la-intemperie-vecinos-de-las-torres-oppe-en-caracas-se-refugian-de-la-lluvia-en-carpas/"
+  },
+  {
+    "source": "Efecto Cocuyo",
+    "section": "Venezuela",
+    "date": "2026-07-21",
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/21120744/8c10f9f88c099a12ec5a81a7895cc63c7ec9e520-1024x683.jpg",
+    "titleEs": "Niñez afectada por los terremotos en Venezuela requiere atención psicológica, dice ONG",
+    "titleEn": "Niñez afectada por los terremotos en Venezuela requiere atención psicológica, dice ONG",
+    "url": "https://efectococuyo.com/la-humanidad/ninez-afectada-por-los-terremotos-en-venezuela-requiere-atencion-psicologica-dice-ong/"
   },
   {
     "source": "Efecto Cocuyo",
@@ -36,13 +54,13 @@
     "url": "https://efectococuyo.com/internacionales/rubio-anuncia-mayor-ayuda-de-eeuu-a-venezuela-y-celebra-acuerdo-para-la-transicion/"
   },
   {
-    "source": "Efecto Cocuyo",
+    "source": "Runrun.es",
     "section": "Venezuela",
-    "date": "2026-07-20",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/20162518/presos-politicos-600x400-1.webp",
-    "titleEs": "El doble terremoto impactó redes de apoyo de los familiares de presos políticos",
-    "titleEn": "El doble terremoto impactó redes de apoyo de los familiares de presos políticos",
-    "url": "https://efectococuyo.com/la-humanidad/a-casi-un-mes-del-doble-terremoto-se-desconoce-el-estado-de-las-estructuras-de-reclusion/"
+    "date": "2026-07-21",
+    "img": "https://runrun.es/wp-content/uploads/2026/07/Terremotos-2.jpg",
+    "titleEs": "OIM pide ayuda internacional para apoyar a los afectados por los terremotos",
+    "titleEn": "OIM pide ayuda internacional para apoyar a los afectados por los terremotos",
+    "url": "https://runrun.es/inicio/615464/oim-pide-ayuda-internacional-para-apoyar-a-los-afectados-por-los-terremotos/"
   },
   {
     "source": "Runrun.es",
@@ -70,14 +88,5 @@
     "titleEs": "La nación sin fronteras",
     "titleEn": "La nación sin fronteras",
     "url": "https://runrun.es/opinion/615398/nacion-venezolana/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-20",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/gustavo.jpg",
-    "titleEs": "Duque explica en qué consiste el plan estructural para viviendas afectadas por los sismos en Chacao",
-    "titleEn": "Duque explica en qué consiste el plan estructural para viviendas afectadas por los sismos en Chacao",
-    "url": "https://runrun.es/noticias/615378/duque-explica-en-que-consiste-el-plan-estructural-para-viviendas-afectadas-por-los-sismos-en-chacao/"
   }
 ]

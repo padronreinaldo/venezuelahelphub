@@ -4,6 +4,20 @@
     "sourceEn": "El Pitazo",
     "date": "2026-07-21",
     "conf": "med",
+    "titleEs": "Delcy Rodríguez entrega más de 240 viviendas a afectados por terremotos: ¿quiénes fueron los primeros beneficiarios?",
+    "titleEn": "Delcy Rodríguez entrega más de 240 viviendas a afectados por terremotos: ¿quiénes fueron los primeros beneficiarios?",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/politica/delcy-rodriguez-entrega-mas-de-240-viviendas-a-afectados-por-terremotos-quienes-fueron-los-primeros-beneficiarios/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-07-21",
+    "conf": "med",
     "titleEs": "“Estamos asustados y a la intemperie”: vecinos de las torres OPPE en Caracas se refugian de la lluvia en carpas",
     "titleEn": "“Estamos asustados y a la intemperie”: vecinos de las torres OPPE en Caracas se refugian de la lluvia en carpas",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -12,6 +26,20 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://elpitazo.net/otras-noticias/estamos-asustados-y-a-la-intemperie-vecinos-de-las-torres-oppe-en-caracas-se-refugian-de-la-lluvia-en-carpas/"
+  },
+  {
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
+    "date": "2026-07-21",
+    "conf": "med",
+    "titleEs": "Niñez afectada por los terremotos en Venezuela requiere atención psicológica, dice ONG",
+    "titleEn": "Niñez afectada por los terremotos en Venezuela requiere atención psicológica, dice ONG",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://efectococuyo.com/la-humanidad/ninez-afectada-por-los-terremotos-en-venezuela-requiere-atencion-psicologica-dice-ong/"
   },
   {
     "sourceEs": "Efecto Cocuyo",
@@ -56,18 +84,18 @@
     "url": "https://efectococuyo.com/internacionales/rubio-anuncia-mayor-ayuda-de-eeuu-a-venezuela-y-celebra-acuerdo-para-la-transicion/"
   },
   {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-07-20",
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
+    "date": "2026-07-21",
     "conf": "med",
-    "titleEs": "El doble terremoto impactó redes de apoyo de los familiares de presos políticos",
-    "titleEn": "El doble terremoto impactó redes de apoyo de los familiares de presos políticos",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
+    "titleEs": "OIM pide ayuda internacional para apoyar a los afectados por los terremotos",
+    "titleEn": "OIM pide ayuda internacional para apoyar a los afectados por los terremotos",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://efectococuyo.com/la-humanidad/a-casi-un-mes-del-doble-terremoto-se-desconoce-el-estado-de-las-estructuras-de-reclusion/"
+    "url": "https://runrun.es/inicio/615464/oim-pide-ayuda-internacional-para-apoyar-a-los-afectados-por-los-terremotos/"
   },
   {
     "sourceEs": "Runrun.es",
@@ -82,33 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://runrun.es/inicio/615452/balance-20jul-5278-fallecidos-por-los-terremotos-y-la-cifra-de-desaparecidos-sigue-sin-conocerse/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-07-21",
-    "conf": "med",
-    "titleEs": "Lluvias elevan el riesgo de deslaves en varias regiones del país",
-    "titleEn": "Lluvias elevan el riesgo de deslaves en varias regiones del país",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/noticias/615438/lluvias-elevan-el-riesgo-de-deslaves-en-varias-regiones-del-pais/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-07-20",
-    "conf": "med",
-    "titleEs": "La nación sin fronteras",
-    "titleEn": "La nación sin fronteras",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/opinion/615398/nacion-venezolana/"
   }
 ]

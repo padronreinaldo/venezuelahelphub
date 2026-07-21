@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T10:37:44.710Z",
+  "updatedAt": "2026-07-21T12:21:38.370Z",
   "stats": {
     "maxMagnitude": 4.6,
     "aftershocks": 0,
@@ -19,12 +19,12 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8yf"
     },
     "deaths": {
-      "seenAt": "2026-07-21T10:37:44.710Z",
+      "seenAt": "2026-07-21T12:21:38.370Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
     "injured": {
-      "seenAt": "2026-07-21T10:37:44.710Z",
+      "seenAt": "2026-07-21T12:21:38.370Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
@@ -39,7 +39,7 @@
       "value": 5278,
       "source": "Runrun.es",
       "url": "https://runrun.es/inicio/615452/balance-20jul-5278-fallecidos-tras-los-terremotos-y-la-cifra-de-desaparecidos-sigue-sin-conocerse/",
-      "seenAt": "2026-07-21T10:37:44.710Z"
+      "seenAt": "2026-07-21T12:21:38.370Z"
     },
     "injured": {
       "value": 32038,

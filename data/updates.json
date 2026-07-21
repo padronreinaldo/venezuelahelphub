@@ -2,6 +2,20 @@
   {
     "sourceEs": "El Pitazo",
     "sourceEn": "El Pitazo",
+    "date": "2026-07-21",
+    "conf": "med",
+    "titleEs": "“Estamos asustados y a la intemperie”: vecinos de las torres OPPE en Caracas se refugian de la lluvia en carpas",
+    "titleEn": "“Estamos asustados y a la intemperie”: vecinos de las torres OPPE en Caracas se refugian de la lluvia en carpas",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/otras-noticias/estamos-asustados-y-a-la-intemperie-vecinos-de-las-torres-oppe-en-caracas-se-refugian-de-la-lluvia-en-carpas/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
     "date": "2026-07-20",
     "conf": "med",
     "titleEs": "Más médicos y rescatistas argentinos viajan a Venezuela a asistir a víctimas de terremotos",
@@ -14,26 +28,26 @@
     "url": "https://elpitazo.net/sucesos/mas-medicos-y-rescatistas-argentinos-viajan-a-venezuela-a-asistir-a-victimas-de-terremotos/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-07-20",
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
+    "date": "2026-07-21",
     "conf": "med",
-    "titleEs": "Familias de desaparecidos en OPPPE 26 de Caraballeda: «A nuestra gente la vamos a sacar de aquí, sea como sea»",
-    "titleEn": "Familias de desaparecidos en OPPPE 26 de Caraballeda: «A nuestra gente la vamos a sacar de aquí, sea como sea»",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "titleEs": "Sube a 5.278 número de muertos por el doble terremoto en Venezuela",
+    "titleEn": "Sube a 5.278 número de muertos por el doble terremoto en Venezuela",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/regiones/gran-caracas/familias-de-desaparecidos-en-opppe-26-de-caraballeda-a-nuestra-gente-la-vamos-a-sacar-de-aqui-sea-como-sea/"
+    "url": "https://efectococuyo.com/la-humanidad/sube-5278-numero-muertos-doble-terremoto-venezuela/"
   },
   {
     "sourceEs": "Efecto Cocuyo",
     "sourceEn": "Efecto Cocuyo",
     "date": "2026-07-20",
     "conf": "med",
-    "titleEs": "A casi un mes del doble terremoto se desconoce el estado de las estructuras de reclusión",
-    "titleEn": "A casi un mes del doble terremoto se desconoce el estado de las estructuras de reclusión",
+    "titleEs": "El doble terremoto impactó redes de apoyo de los familiares de presos políticos",
+    "titleEn": "El doble terremoto impactó redes de apoyo de los familiares de presos políticos",
     "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
     "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],
@@ -42,18 +56,32 @@
     "url": "https://efectococuyo.com/la-humanidad/a-casi-un-mes-del-doble-terremoto-se-desconoce-el-estado-de-las-estructuras-de-reclusion/"
   },
   {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-07-20",
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
+    "date": "2026-07-21",
     "conf": "med",
-    "titleEs": "Rubio anuncia mayor ayuda de EEUU a Venezuela y celebra acuerdo para la transición",
-    "titleEn": "Rubio anuncia mayor ayuda de EEUU a Venezuela y celebra acuerdo para la transición",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
+    "titleEs": "Balance #20Jul | 5278 fallecidos tras los terremotos y la cifra de desaparecidos sigue sin conocerse",
+    "titleEn": "Balance #20Jul | 5278 fallecidos tras los terremotos y la cifra de desaparecidos sigue sin conocerse",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://efectococuyo.com/internacionales/rubio-anuncia-mayor-ayuda-de-eeuu-a-venezuela-y-celebra-acuerdo-para-la-transicion/"
+    "url": "https://runrun.es/inicio/615452/balance-20jul-5278-fallecidos-tras-los-terremotos-y-la-cifra-de-desaparecidos-sigue-sin-conocerse/"
+  },
+  {
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
+    "date": "2026-07-21",
+    "conf": "med",
+    "titleEs": "Lluvias elevan el riesgo de deslaves en varias regiones del país",
+    "titleEn": "Lluvias elevan el riesgo de deslaves en varias regiones del país",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://runrun.es/noticias/615438/lluvias-elevan-el-riesgo-de-deslaves-en-varias-regiones-del-pais/"
   },
   {
     "sourceEs": "Runrun.es",
@@ -82,33 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://runrun.es/noticias/615378/duque-explica-en-que-consiste-el-plan-estructural-para-viviendas-afectadas-por-los-sismos-en-chacao/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-07-20",
-    "conf": "med",
-    "titleEs": "Donar Seguro ofrece directorio confiable para enviar ayuda a Venezuela",
-    "titleEn": "Donar Seguro ofrece directorio confiable para enviar ayuda a Venezuela",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/noticias/615185/donar-seguro-ofrece-directorio-para-enviar-ayuda-confiable-a-venezuela/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-07-20",
-    "conf": "med",
-    "titleEs": "Inicio de transición, más ayuda por sismos y otros anuncios de Marco Rubio sobre Venezuela",
-    "titleEn": "Inicio de transición, más ayuda por sismos y otros anuncios de Marco Rubio sobre Venezuela",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/noticias/615344/inicio-de-transicion-mas-ayuda-por-sismos-y-otros-anuncios-de-marco-rubio/"
   }
 ]

@@ -74,6 +74,20 @@
     "sourceEn": "Runrun.es",
     "date": "2026-07-21",
     "conf": "med",
+    "titleEs": "Gobierno entregó 200 viviendas a damnificados por sismos y promete 4000 para fin de año",
+    "titleEn": "Gobierno entregó 200 viviendas a damnificados por sismos y promete 4000 para fin de año",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://runrun.es/inicio/615472/gobierno-entrego-200-viviendas-a-damnificados-por-sismos-y-promete-4000-para-fin-de-ano/"
+  },
+  {
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
+    "date": "2026-07-21",
+    "conf": "med",
     "titleEs": "27 vuelos trasladaron 806 toneladas de ayuda humanitaria a Venezuela",
     "titleEn": "27 vuelos trasladaron 806 toneladas de ayuda humanitaria a Venezuela",
     "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
@@ -96,19 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://runrun.es/inicio/615464/oim-pide-ayuda-internacional-para-apoyar-a-los-afectados-por-los-terremotos/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-07-21",
-    "conf": "med",
-    "titleEs": "Balance #20Jul | 5278 fallecidos por los terremotos y la cifra de desaparecidos sigue sin conocerse",
-    "titleEn": "Balance #20Jul | 5278 fallecidos por los terremotos y la cifra de desaparecidos sigue sin conocerse",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/inicio/615452/balance-20jul-5278-fallecidos-por-los-terremotos-y-la-cifra-de-desaparecidos-sigue-sin-conocerse/"
   }
 ]

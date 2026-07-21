@@ -3,19 +3,19 @@
     "source": "El Pitazo",
     "section": "Venezuela",
     "date": "2026-07-21",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/06/terremotos-venezuela-EFE.jpg",
-    "titleEs": "Niños damnificados por los terremotos sufren de estrés postraumático: ONG pide priorizar atención psicológica",
-    "titleEn": "Niños damnificados por los terremotos sufren de estrés postraumático: ONG pide priorizar atención psicológica",
-    "url": "https://elpitazo.net/salud/ninos-damnificados-por-los-terremotos-sufren-de-estres-postraumatico-ong-pide-priorizar-atencion-psicologica/"
+    "img": "https://elpitazo.net/wp-content/uploads/2026/07/foto.cortesia.jpeg",
+    "titleEs": "Ayuda a víctimas de los terremotos comprando un libro: la iniciativa que nació en Bolívar",
+    "titleEn": "Ayuda a víctimas de los terremotos comprando un libro: la iniciativa que nació en Bolívar",
+    "url": "https://elpitazo.net/regiones/guayana/ayuda-a-victimas-de-los-terremotos-comprando-un-libro-la-iniciativa-que-nacio-en-bolivar/"
   },
   {
     "source": "El Pitazo",
     "section": "Venezuela",
     "date": "2026-07-21",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/07/Senamecf.jpg",
-    "titleEs": "Senamecf llama a familiares de víctimas de los terremotos a realizarse pruebas de ADN",
-    "titleEn": "Senamecf llama a familiares de víctimas de los terremotos a realizarse pruebas de ADN",
-    "url": "https://elpitazo.net/regiones/senamecf-llama-a-familiares-de-victimas-de-los-terremotos-a-realizarse-pruebas-de-adn/"
+    "img": "https://elpitazo.net/wp-content/uploads/2026/06/terremotos-venezuela-EFE.jpg",
+    "titleEs": "Niños damnificados por los terremotos sufren de estrés postraumático: ONG pide priorizar atención psicológica",
+    "titleEn": "Niños damnificados por los terremotos sufren de estrés postraumático: ONG pide priorizar atención psicológica",
+    "url": "https://elpitazo.net/salud/ninos-damnificados-por-los-terremotos-sufren-de-estres-postraumatico-ong-pide-priorizar-atencion-psicologica/"
   },
   {
     "source": "Efecto Cocuyo",
@@ -39,6 +39,15 @@
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-21",
+    "img": "https://runrun.es/wp-content/uploads/2026/07/Rescate-1.jpg",
+    "titleEs": "Más de mil voluntarios de la Unimet se movilizan para atender la emergencia tras los sismos",
+    "titleEn": "Más de mil voluntarios de la Unimet se movilizan para atender la emergencia tras los sismos",
+    "url": "https://runrun.es/noticias/con-proposito/615566/mas-de-mil-voluntarios-de-la-unimet-se-movilizan-para-atender-la-emergencia-tras-los-sismos/"
+  },
+  {
+    "source": "Runrun.es",
+    "section": "Venezuela",
+    "date": "2026-07-21",
     "img": "https://runrun.es/wp-content/uploads/2026/07/boletin-epidemiologico-sismos.jpg",
     "titleEs": "Infecciones respiratorias, diarreas y hepatitis A en aumento tras los sismos",
     "titleEn": "Infecciones respiratorias, diarreas y hepatitis A en aumento tras los sismos",
@@ -48,27 +57,18 @@
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-21",
+    "img": "https://runrun.es/wp-content/uploads/2026/07/ADN.jpg",
+    "titleEs": "Senamecf convoca a familiares directos de víctimas de sismos a realizarse pruebas de ADN",
+    "titleEn": "Senamecf convoca a familiares directos de víctimas de sismos a realizarse pruebas de ADN",
+    "url": "https://runrun.es/noticias/615510/senamecf-activa-protocolo-de-identificacion-y-convoca-a-familiares-directos-a-realizarse-pruebas-de-adn/"
+  },
+  {
+    "source": "Runrun.es",
+    "section": "Venezuela",
+    "date": "2026-07-21",
     "img": "https://runrun.es/wp-content/uploads/2026/07/photo_2026-07-21_10-17-30.jpg",
     "titleEs": "27 vuelos trasladaron 806 toneladas de ayuda humanitaria a Venezuela",
     "titleEn": "27 vuelos trasladaron 806 toneladas de ayuda humanitaria a Venezuela",
     "url": "https://runrun.es/inicio/615475/27-vuelos-trasladaron-806-toneladas-de-ayuda-humanitaria-a-venezuela/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-21",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/Terremotos-2.jpg",
-    "titleEs": "OIM pide ayuda internacional para apoyar a los afectados por los terremotos",
-    "titleEn": "OIM pide ayuda internacional para apoyar a los afectados por los terremotos",
-    "url": "https://runrun.es/inicio/615464/oim-pide-ayuda-internacional-para-apoyar-a-los-afectados-por-los-terremotos/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-21",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/Viviendas-1.jpg",
-    "titleEs": "Gobierno entregó 200 viviendas a damnificados por sismos y promete 4000 para fin de año",
-    "titleEn": "Gobierno entregó 200 viviendas a damnificados por sismos y promete 4000 para fin de año",
-    "url": "https://runrun.es/inicio/615472/gobierno-entrego-200-viviendas-a-damnificados-por-sismos-y-promete-4000-para-fin-de-ano/"
   }
 ]

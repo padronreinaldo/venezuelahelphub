@@ -2,6 +2,20 @@
   {
     "sourceEs": "El Pitazo",
     "sourceEn": "El Pitazo",
+    "date": "2026-07-22",
+    "conf": "med",
+    "titleEs": "Cifras de fallecidos por el doble terremoto en Venezuela asciende a 5.346",
+    "titleEn": "Cifras de fallecidos por el doble terremoto en Venezuela asciende a 5.346",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/caracas/asciende-a-5-346-la-cifra-de-muertos-por-el-doble-terremoto-en-venezuela/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
     "date": "2026-07-21",
     "conf": "med",
     "titleEs": "Ayuda a víctimas de los terremotos comprando un libro: la iniciativa que nació en Bolívar",
@@ -18,6 +32,20 @@
     "sourceEn": "Efecto Cocuyo",
     "date": "2026-07-22",
     "conf": "med",
+    "titleEs": "La lluvia, fenómeno de cuidado en el Ávila tras los sismos del 24 de junio",
+    "titleEn": "La lluvia, fenómeno de cuidado en el Ávila tras los sismos del 24 de junio",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://efectococuyo.com/la-humanidad/la-lluvia-fenomeno-de-cuidado-en-el-avila-tras-los-sismos-del-24-de-junio/"
+  },
+  {
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
+    "date": "2026-07-22",
+    "conf": "med",
     "titleEs": "Asciende a 5.346 la cifra de muertos por el doble terremoto",
     "titleEn": "Asciende a 5.346 la cifra de muertos por el doble terremoto",
     "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -28,18 +56,18 @@
     "url": "https://efectococuyo.com/la-humanidad/asciende-5346-cifra-muertos-doble-terremoto/"
   },
   {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-07-21",
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
+    "date": "2026-07-22",
     "conf": "med",
-    "titleEs": "Capriles: “Cualquier negociación que excluya a María Corina Machado está condenada a fracasar”",
-    "titleEn": "Capriles: “Cualquier negociación que excluya a María Corina Machado está condenada a fracasar”",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
+    "titleEs": "A casi un mes del doble sismo aumenta la cifra de víctimas a 5346 y persiste opacidad sobre desaparecidos",
+    "titleEn": "A casi un mes del doble sismo aumenta la cifra de víctimas a 5346 y persiste opacidad sobre desaparecidos",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://efectococuyo.com/politica/capriles-cualquier-negociacion-que-excluya-a-maria-corina-machado-esta-condenada-a-fracasar/"
+    "url": "https://runrun.es/noticias/615588/a-casi-un-mes-del-doble-sismo-aumenta-la-cifra-de-victimas-a-5346-y-persiste-opacidad-sobre-desaparecidos/"
   },
   {
     "sourceEs": "Runrun.es",
@@ -82,19 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://runrun.es/noticias/615510/senamecf-activa-protocolo-de-identificacion-y-convoca-a-familiares-directos-a-realizarse-pruebas-de-adn/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-07-21",
-    "conf": "med",
-    "titleEs": "27 vuelos trasladaron 806 toneladas de ayuda humanitaria a Venezuela",
-    "titleEn": "27 vuelos trasladaron 806 toneladas de ayuda humanitaria a Venezuela",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/inicio/615475/27-vuelos-trasladaron-806-toneladas-de-ayuda-humanitaria-a-venezuela/"
   }
 ]

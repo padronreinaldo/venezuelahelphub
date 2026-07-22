@@ -2,11 +2,29 @@
   {
     "source": "El Pitazo",
     "section": "Venezuela",
+    "date": "2026-07-22",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/07/image-26.png",
+    "titleEs": "Cifras de fallecidos por el doble terremoto en Venezuela asciende a 5.346",
+    "titleEn": "Cifras de fallecidos por el doble terremoto en Venezuela asciende a 5.346",
+    "url": "https://elpitazo.net/caracas/asciende-a-5-346-la-cifra-de-muertos-por-el-doble-terremoto-en-venezuela/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
     "date": "2026-07-21",
     "img": "https://elpitazo.net/wp-content/uploads/2026/07/foto.cortesia.jpeg",
     "titleEs": "Ayuda a víctimas de los terremotos comprando un libro: la iniciativa que nació en Bolívar",
     "titleEn": "Ayuda a víctimas de los terremotos comprando un libro: la iniciativa que nació en Bolívar",
     "url": "https://elpitazo.net/regiones/guayana/ayuda-a-victimas-de-los-terremotos-comprando-un-libro-la-iniciativa-que-nacio-en-bolivar/"
+  },
+  {
+    "source": "Efecto Cocuyo",
+    "section": "Venezuela",
+    "date": "2026-07-22",
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/22112508/065f69a7499ebce1b1135b5ba63eda2fce34a0ad-1024x683.jpg",
+    "titleEs": "La lluvia, fenómeno de cuidado en el Ávila tras los sismos del 24 de junio",
+    "titleEn": "La lluvia, fenómeno de cuidado en el Ávila tras los sismos del 24 de junio",
+    "url": "https://efectococuyo.com/la-humanidad/la-lluvia-fenomeno-de-cuidado-en-el-avila-tras-los-sismos-del-24-de-junio/"
   },
   {
     "source": "Efecto Cocuyo",
@@ -18,13 +36,13 @@
     "url": "https://efectococuyo.com/la-humanidad/asciende-5346-cifra-muertos-doble-terremoto/"
   },
   {
-    "source": "Efecto Cocuyo",
+    "source": "Runrun.es",
     "section": "Venezuela",
-    "date": "2026-07-21",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/04/26204013/Capriles-Machado.jpg",
-    "titleEs": "Capriles: “Cualquier negociación que excluya a María Corina Machado está condenada a fracasar”",
-    "titleEn": "Capriles: “Cualquier negociación que excluya a María Corina Machado está condenada a fracasar”",
-    "url": "https://efectococuyo.com/politica/capriles-cualquier-negociacion-que-excluya-a-maria-corina-machado-esta-condenada-a-fracasar/"
+    "date": "2026-07-22",
+    "img": "https://runrun.es/wp-content/uploads/2026/07/doblesismolisto.jpg",
+    "titleEs": "A casi un mes del doble sismo aumenta la cifra de víctimas a 5346 y persiste opacidad sobre desaparecidos",
+    "titleEn": "A casi un mes del doble sismo aumenta la cifra de víctimas a 5346 y persiste opacidad sobre desaparecidos",
+    "url": "https://runrun.es/noticias/615588/a-casi-un-mes-del-doble-sismo-aumenta-la-cifra-de-victimas-a-5346-y-persiste-opacidad-sobre-desaparecidos/"
   },
   {
     "source": "Runrun.es",
@@ -52,14 +70,5 @@
     "titleEs": "Senamecf convoca a familiares directos de víctimas de sismos a realizarse pruebas de ADN",
     "titleEn": "Senamecf convoca a familiares directos de víctimas de sismos a realizarse pruebas de ADN",
     "url": "https://runrun.es/noticias/615510/senamecf-activa-protocolo-de-identificacion-y-convoca-a-familiares-directos-a-realizarse-pruebas-de-adn/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-21",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/photo_2026-07-21_10-17-30.jpg",
-    "titleEs": "27 vuelos trasladaron 806 toneladas de ayuda humanitaria a Venezuela",
-    "titleEn": "27 vuelos trasladaron 806 toneladas de ayuda humanitaria a Venezuela",
-    "url": "https://runrun.es/inicio/615475/27-vuelos-trasladaron-806-toneladas-de-ayuda-humanitaria-a-venezuela/"
   }
 ]

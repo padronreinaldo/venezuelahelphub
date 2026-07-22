@@ -4,6 +4,20 @@
     "sourceEn": "El Pitazo",
     "date": "2026-07-22",
     "conf": "med",
+    "titleEs": "Maiquetía planea reiniciar operaciones con un aeropuerto de campaña instalado en sus estacionamientos",
+    "titleEn": "Maiquetía planea reiniciar operaciones con un aeropuerto de campaña instalado en sus estacionamientos",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/regiones/maiquetia-planea-reiniciar-operaciones-con-un-aeropuerto-de-campana-instalado-en-sus-estacionamientos/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-07-22",
+    "conf": "med",
     "titleEs": "Cifras de fallecidos por el doble terremoto en Venezuela asciende a 5.346",
     "titleEn": "Cifras de fallecidos por el doble terremoto en Venezuela asciende a 5.346",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -96,19 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://runrun.es/noticias/615488/infecciones-respiratorias-diarreas-y-hepatitis-a-en-aumento-tras-los-sismos/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-07-21",
-    "conf": "med",
-    "titleEs": "Senamecf convoca a familiares directos de víctimas de sismos a realizarse pruebas de ADN",
-    "titleEn": "Senamecf convoca a familiares directos de víctimas de sismos a realizarse pruebas de ADN",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/noticias/615510/senamecf-activa-protocolo-de-identificacion-y-convoca-a-familiares-directos-a-realizarse-pruebas-de-adn/"
   }
 ]

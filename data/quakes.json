@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-22-07-2026-12:09-10.52--68.35",
+    "time": "2026-07-22T16:09:00.000Z",
+    "mag": 2.3,
+    "depth": 16.7,
+    "lat": 10.52,
+    "lon": -68.35,
+    "place": "21 km al sur      de Boca de Aroa",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-22-07-2026-10:49-10.61--67.33",
     "time": "2026-07-22T14:49:00.000Z",
     "mag": 2.9,
@@ -7477,21 +7492,6 @@
     "lat": 10.45,
     "lon": -66.9,
     "place": "6 km al sur de Caracas",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-07-07-2026-02:35-10.61--68.3",
-    "time": "2026-07-07T06:35:00.000Z",
-    "mag": 2.2,
-    "depth": 15.3,
-    "lat": 10.61,
-    "lon": -68.3,
-    "place": "11 km al sur de Boca de Aroa",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

@@ -4,6 +4,20 @@
     "sourceEn": "El Pitazo",
     "date": "2026-07-22",
     "conf": "med",
+    "titleEs": "Inparques descarta daños estructurales en El Ávila: estos son los accesos abiertos",
+    "titleEn": "Inparques descarta daños estructurales en El Ávila: estos son los accesos abiertos",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/regiones/gran-caracas/inparques-descarta-danos-estructurales-en-el-avila-estos-son-los-accesos-abiertos/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-07-22",
+    "conf": "med",
     "titleEs": "Maiquetía planea reiniciar operaciones con un aeropuerto de campaña instalado en sus estacionamientos",
     "titleEn": "Maiquetía planea reiniciar operaciones con un aeropuerto de campaña instalado en sus estacionamientos",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -28,18 +42,18 @@
     "url": "https://elpitazo.net/caracas/asciende-a-5-346-la-cifra-de-muertos-por-el-doble-terremoto-en-venezuela/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-07-21",
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
+    "date": "2026-07-22",
     "conf": "med",
-    "titleEs": "Ayuda a víctimas de los terremotos comprando un libro: la iniciativa que nació en Bolívar",
-    "titleEn": "Ayuda a víctimas de los terremotos comprando un libro: la iniciativa que nació en Bolívar",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "titleEs": "Obispos llaman a “no repetir los mismos errores del pasado” en reconstrucción de zonas afectadas por terremotos",
+    "titleEn": "Obispos llaman a “no repetir los mismos errores del pasado” en reconstrucción de zonas afectadas por terremotos",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/regiones/guayana/ayuda-a-victimas-de-los-terremotos-comprando-un-libro-la-iniciativa-que-nacio-en-bolivar/"
+    "url": "https://efectococuyo.com/la-humanidad/obispos-llaman-a-no-repetir-los-mismos-errores-del-pasado-en-reconstruccion-de-zonas-afectadas-por-terremotos/"
   },
   {
     "sourceEs": "Efecto Cocuyo",
@@ -96,19 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://runrun.es/noticias/con-proposito/615566/mas-de-mil-voluntarios-de-la-unimet-se-movilizan-para-atender-la-emergencia-tras-los-sismos/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-07-21",
-    "conf": "med",
-    "titleEs": "Infecciones respiratorias, diarreas y hepatitis A en aumento tras los sismos",
-    "titleEn": "Infecciones respiratorias, diarreas y hepatitis A en aumento tras los sismos",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/noticias/615488/infecciones-respiratorias-diarreas-y-hepatitis-a-en-aumento-tras-los-sismos/"
   }
 ]

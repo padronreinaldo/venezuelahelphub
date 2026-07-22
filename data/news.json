@@ -3,6 +3,24 @@
     "source": "El Pitazo",
     "section": "Venezuela",
     "date": "2026-07-22",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/07/IMG-20260722-WA0029.jpg",
+    "titleEs": "Caraqueños usan sus ahorros para reparar apartamentos de Misión Vivienda dañados por los terremotos",
+    "titleEn": "Caraqueños usan sus ahorros para reparar apartamentos de Misión Vivienda dañados por los terremotos",
+    "url": "https://elpitazo.net/caracas/caraquenos-usan-sus-ahorros-para-reparar-apartamentos-de-mision-vivienda-danados-por-los-terremotos/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-07-22",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/07/Refugios-La-Guaira.jpg",
+    "titleEs": "Autoridades habilitan 15 puntos de registro en La Guaira para familias afectadas por los terremotos",
+    "titleEn": "Autoridades habilitan 15 puntos de registro en La Guaira para familias afectadas por los terremotos",
+    "url": "https://elpitazo.net/sucesos/la-guaira-habilita-15-puntos-de-registro-para-familias-afectadas-por-los-terremotos/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-07-22",
     "img": "https://elpitazo.net/wp-content/uploads/2026/07/Avila-2.jpg",
     "titleEs": "Inparques descarta daños estructurales en El Ávila: estos son los accesos abiertos",
     "titleEn": "Inparques descarta daños estructurales en El Ávila: estos son los accesos abiertos",
@@ -18,13 +36,22 @@
     "url": "https://elpitazo.net/regiones/maiquetia-planea-reiniciar-operaciones-con-un-aeropuerto-de-campana-instalado-en-sus-estacionamientos/"
   },
   {
-    "source": "El Pitazo",
+    "source": "Efecto Cocuyo",
     "section": "Venezuela",
     "date": "2026-07-22",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/07/image-26.png",
-    "titleEs": "Cifras de fallecidos por el doble terremoto en Venezuela asciende a 5.346",
-    "titleEn": "Cifras de fallecidos por el doble terremoto en Venezuela asciende a 5.346",
-    "url": "https://elpitazo.net/caracas/asciende-a-5-346-la-cifra-de-muertos-por-el-doble-terremoto-en-venezuela/"
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/22144513/Captura-de-pantalla-2026-07-22-143354-1024x605.png",
+    "titleEs": "Arquidiócesis informa que 27 iglesias de Caracas fueron afectadas por el doble terremoto",
+    "titleEn": "Arquidiócesis informa que 27 iglesias de Caracas fueron afectadas por el doble terremoto",
+    "url": "https://efectococuyo.com/la-humanidad/arquidiocesis-informa-que-27-iglesias-de-caracas-fueron-afectadas-por-el-doble-terremoto/"
+  },
+  {
+    "source": "Efecto Cocuyo",
+    "section": "Venezuela",
+    "date": "2026-07-22",
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/22141812/clippve-1024x768.jpg",
+    "titleEs": "ONG y familiares exigen libertad humanitaria para presos políticos tras daños por terremotos",
+    "titleEn": "ONG y familiares exigen libertad humanitaria para presos políticos tras daños por terremotos",
+    "url": "https://efectococuyo.com/la-humanidad/ong-y-familiares-exigen-libertad-humanitaria-para-presos-politicos-tras-danos-por-terremotos/"
   },
   {
     "source": "Efecto Cocuyo",
@@ -43,15 +70,6 @@
     "titleEs": "La lluvia, fenómeno de cuidado en el Ávila tras los sismos del 24 de junio",
     "titleEn": "La lluvia, fenómeno de cuidado en el Ávila tras los sismos del 24 de junio",
     "url": "https://efectococuyo.com/la-humanidad/la-lluvia-fenomeno-de-cuidado-en-el-avila-tras-los-sismos-del-24-de-junio/"
-  },
-  {
-    "source": "Efecto Cocuyo",
-    "section": "Venezuela",
-    "date": "2026-07-22",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/16181812/d96a4cab10567ecac790cfca6f57b8509e52f975-1024x683.jpg",
-    "titleEs": "Asciende a 5.346 la cifra de muertos por el doble terremoto",
-    "titleEn": "Asciende a 5.346 la cifra de muertos por el doble terremoto",
-    "url": "https://efectococuyo.com/la-humanidad/asciende-5346-cifra-muertos-doble-terremoto/"
   },
   {
     "source": "Runrun.es",

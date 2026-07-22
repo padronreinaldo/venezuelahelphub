@@ -16,6 +16,20 @@
   {
     "sourceEs": "Efecto Cocuyo",
     "sourceEn": "Efecto Cocuyo",
+    "date": "2026-07-22",
+    "conf": "med",
+    "titleEs": "Asciende a 5.346 la cifra de muertos por el doble terremoto",
+    "titleEn": "Asciende a 5.346 la cifra de muertos por el doble terremoto",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://efectococuyo.com/la-humanidad/asciende-5346-cifra-muertos-doble-terremoto/"
+  },
+  {
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
     "date": "2026-07-21",
     "conf": "med",
     "titleEs": "Capriles: “Cualquier negociación que excluya a María Corina Machado está condenada a fracasar”",
@@ -26,20 +40,6 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://efectococuyo.com/politica/capriles-cualquier-negociacion-que-excluya-a-maria-corina-machado-esta-condenada-a-fracasar/"
-  },
-  {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-07-21",
-    "conf": "med",
-    "titleEs": "Niñez afectada por los terremotos en Venezuela requiere atención psicológica, dice ONG",
-    "titleEn": "Niñez afectada por los terremotos en Venezuela requiere atención psicológica, dice ONG",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/la-humanidad/ninez-afectada-por-los-terremotos-en-venezuela-requiere-atencion-psicologica-dice-ong/"
   },
   {
     "sourceEs": "Runrun.es",

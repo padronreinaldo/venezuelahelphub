@@ -58,6 +58,34 @@
   {
     "sourceEs": "Efecto Cocuyo",
     "sourceEn": "Efecto Cocuyo",
+    "date": "2026-07-23",
+    "conf": "med",
+    "titleEs": "Sube a 5.398 número de muertos por el doble terremoto",
+    "titleEn": "Sube a 5.398 número de muertos por el doble terremoto",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://efectococuyo.com/sucesos/sube-5398-numero-muertos-doble-terremoto/"
+  },
+  {
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
+    "date": "2026-07-23",
+    "conf": "med",
+    "titleEs": "“Hasta hallarlos no nos vamos”, siguen búsquedas en Vargas a un mes del doble terremoto",
+    "titleEn": "“Hasta hallarlos no nos vamos”, siguen búsquedas en Vargas a un mes del doble terremoto",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://efectococuyo.com/la-humanidad/hasta-hallarlos-no-nos-vamos-siguen-busquedas-en-vargas-a-un-mes-de-terremotos/"
+  },
+  {
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
     "date": "2026-07-22",
     "conf": "med",
     "titleEs": "Arquidiócesis informa que 27 iglesias de Caracas fueron afectadas por el doble terremoto",
@@ -82,33 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://efectococuyo.com/la-humanidad/ong-y-familiares-exigen-libertad-humanitaria-para-presos-politicos-tras-danos-por-terremotos/"
-  },
-  {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-07-22",
-    "conf": "med",
-    "titleEs": "Obispos llaman a “no repetir los mismos errores del pasado” en reconstrucción de zonas afectadas por terremotos",
-    "titleEn": "Obispos llaman a “no repetir los mismos errores del pasado” en reconstrucción de zonas afectadas por terremotos",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/la-humanidad/obispos-llaman-a-no-repetir-los-mismos-errores-del-pasado-en-reconstruccion-de-zonas-afectadas-por-terremotos/"
-  },
-  {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-07-22",
-    "conf": "med",
-    "titleEs": "La lluvia, fenómeno de cuidado en el Ávila tras los sismos del 24 de junio",
-    "titleEn": "La lluvia, fenómeno de cuidado en el Ávila tras los sismos del 24 de junio",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/la-humanidad/la-lluvia-fenomeno-de-cuidado-en-el-avila-tras-los-sismos-del-24-de-junio/"
   }
 ]

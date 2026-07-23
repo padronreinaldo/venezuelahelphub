@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T23:58:35.999Z",
+  "updatedAt": "2026-07-23T03:21:47.870Z",
   "stats": {
     "maxMagnitude": 4.6,
     "aftershocks": 0,
@@ -19,27 +19,27 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8yf"
     },
     "deaths": {
-      "seenAt": "2026-07-22T23:58:35.999Z",
+      "seenAt": "2026-07-23T03:21:47.870Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
     "injured": {
-      "seenAt": "2026-07-22T23:58:35.999Z",
+      "seenAt": "2026-07-23T03:21:47.870Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
     "missing": {
-      "seenAt": "2026-07-22T23:58:35.999Z",
+      "seenAt": "2026-07-23T03:21:47.870Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     }
   },
   "alt": {
     "deaths": {
-      "value": 5278,
+      "value": 5398,
       "source": "Runrun.es",
-      "url": "https://runrun.es/inicio/615452/balance-20jul-5278-fallecidos-por-los-terremotos-y-la-cifra-de-desaparecidos-sigue-sin-conocerse/",
-      "seenAt": "2026-07-21T22:00:47.189Z"
+      "url": "https://runrun.es/noticias/615709/balance-22jul-gobierno-confirma-5398-fallecidos-por-los-terremotos-del-24-de-junio/",
+      "seenAt": "2026-07-23T03:21:47.870Z"
     },
     "injured": {
       "value": 32038,
@@ -57,13 +57,13 @@
   "sources": {
     "usgs": 0,
     "reliefweb": 0,
-    "press": 11,
+    "press": 12,
     "wikipedia": 1,
     "funvisis": 20
   },
   "counts": {
     "updates": 8,
-    "news": 11,
+    "news": 12,
     "quakes": 500
   }
 }

@@ -88,6 +88,20 @@
     "sourceEn": "Runrun.es",
     "date": "2026-07-23",
     "conf": "med",
+    "titleEs": "¿Por qué los suelos de La Guaira amplificaron la devastación de los terremotos de San Juan?",
+    "titleEn": "¿Por qué los suelos de La Guaira amplificaron la devastación de los terremotos de San Juan?",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://runrun.es/rr-es-plus/615760/por-que-los-suelos-de-la-guaira-amplificaron-la-devastacion-de-los-terremotos-de-san-juan/"
+  },
+  {
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
+    "date": "2026-07-23",
+    "conf": "med",
     "titleEs": "A un mes del doblete sísmico, caraqueños denuncian lentitud en la atención institucional",
     "titleEn": "A un mes del doblete sísmico, caraqueños denuncian lentitud en la atención institucional",
     "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
@@ -96,19 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://runrun.es/noticias/615758/a-un-mes-del-doblete-sismico-caraquenos-denuncian-lentitud-en-la-atencion-institucional/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-07-23",
-    "conf": "med",
-    "titleEs": "Doble sismo del 24 de junio causó daños por casi 20 000 millones de dólares, según el Banco Mundial",
-    "titleEn": "Doble sismo del 24 de junio causó daños por casi 20 000 millones de dólares, según el Banco Mundial",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/inicio/615749/doble-sismo-del-24-de-junio-causo-danos-por-casi-20-000-millones-de-dolares-segun-el-banco-mundial/"
   }
 ]

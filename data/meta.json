@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T06:14:50.704Z",
+  "updatedAt": "2026-07-23T09:06:07.191Z",
   "stats": {
     "maxMagnitude": 4.6,
     "aftershocks": 0,
@@ -19,17 +19,17 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8yf"
     },
     "deaths": {
-      "seenAt": "2026-07-23T06:14:50.704Z",
+      "seenAt": "2026-07-23T09:06:07.191Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
     "injured": {
-      "seenAt": "2026-07-23T06:14:50.704Z",
+      "seenAt": "2026-07-23T09:06:07.191Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
     "missing": {
-      "seenAt": "2026-07-23T06:14:50.704Z",
+      "seenAt": "2026-07-23T09:06:07.191Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     }
@@ -39,7 +39,7 @@
       "value": 5398,
       "source": "Runrun.es",
       "url": "https://runrun.es/noticias/615709/balance-22jul-gobierno-confirma-5398-fallecidos-por-los-terremotos-del-24-de-junio/",
-      "seenAt": "2026-07-23T06:14:50.704Z"
+      "seenAt": "2026-07-23T09:06:07.191Z"
     },
     "injured": {
       "value": 32038,

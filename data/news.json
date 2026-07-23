@@ -3,6 +3,15 @@
     "source": "El Pitazo",
     "section": "Venezuela",
     "date": "2026-07-23",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/07/cementerio-de-la-guaira-efe.jpg",
+    "titleEs": "Cofavic exige aplicar protocolos internacionales para identificar a las víctimas de los terremotos en Venezuela",
+    "titleEn": "Cofavic exige aplicar protocolos internacionales para identificar a las víctimas de los terremotos en Venezuela",
+    "url": "https://elpitazo.net/sucesos/cofavic-exige-aplicar-protocolos-internacionales-para-identificar-a-las-victimas-de-los-terremotos-en-venezuela/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-07-23",
     "img": "https://elpitazo.net/wp-content/uploads/2026/07/escombros.jpg",
     "titleEs": "Banco Mundial estima en 19.600 millones de dólares los daños por terremotos en Venezuela",
     "titleEn": "Banco Mundial estima en 19.600 millones de dólares los daños por terremotos en Venezuela",
@@ -45,22 +54,13 @@
     "url": "https://efectococuyo.com/la-humanidad/banco-mundial-estima-terremotos-en-venezuela/"
   },
   {
-    "source": "Efecto Cocuyo",
+    "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-23",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/22105607/936dafd7804159642e72a2de9ed9a9129a3803f1-1024x683.jpg",
-    "titleEs": "Sube a 5.398 número de muertos por el doble terremoto",
-    "titleEn": "Sube a 5.398 número de muertos por el doble terremoto",
-    "url": "https://efectococuyo.com/sucesos/sube-5398-numero-muertos-doble-terremoto/"
-  },
-  {
-    "source": "Efecto Cocuyo",
-    "section": "Venezuela",
-    "date": "2026-07-23",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/22192451/WhatsApp-Image-2026-07-22-at-7.15.30-PM-1024x576.jpeg",
-    "titleEs": "“Hasta hallarlos no nos vamos”, siguen búsquedas en Vargas a un mes del doble terremoto",
-    "titleEn": "“Hasta hallarlos no nos vamos”, siguen búsquedas en Vargas a un mes del doble terremoto",
-    "url": "https://efectococuyo.com/la-humanidad/hasta-hallarlos-no-nos-vamos-siguen-busquedas-en-vargas-a-un-mes-de-terremotos/"
+    "img": "https://runrun.es/wp-content/uploads/2026/07/campamentos-caraquenos.jpg",
+    "titleEs": "A un mes del doblete sísmico, caraqueños denuncian lentitud en la atención institucional",
+    "titleEn": "A un mes del doblete sísmico, caraqueños denuncian lentitud en la atención institucional",
+    "url": "https://runrun.es/noticias/615758/a-un-mes-del-doblete-sismico-caraquenos-denuncian-lentitud-en-la-atencion-institucional/"
   },
   {
     "source": "Runrun.es",
@@ -88,14 +88,5 @@
     "titleEs": "CIV pide agilizar inspecciones de ascensores a casi un mes de suspensión por los sismos",
     "titleEn": "CIV pide agilizar inspecciones de ascensores a casi un mes de suspensión por los sismos",
     "url": "https://runrun.es/inicio/615715/civ-pide-agilizar-inspecciones-de-ascensores-a-casi-un-mes-de-suspension-por-el-terremoto/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-23",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/terremotos-3.jpg",
-    "titleEs": "Balance #22Jul | Gobierno confirma 5398 fallecidos por los terremotos del 24 de junio",
-    "titleEn": "Balance #22Jul | Gobierno confirma 5398 fallecidos por los terremotos del 24 de junio",
-    "url": "https://runrun.es/noticias/615709/balance-22jul-gobierno-confirma-5398-fallecidos-por-los-terremotos-del-24-de-junio/"
   }
 ]

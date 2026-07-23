@@ -2,6 +2,15 @@
   {
     "source": "El Pitazo",
     "section": "Venezuela",
+    "date": "2026-07-23",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/07/97f4ca75a7b67dd649bc512f8297699e066c9bc8w.jpg",
+    "titleEs": "Jorge Rodríguez informa que suman 5.398 los muertos por terremotos, pero no explica cambios en números de damnificados",
+    "titleEn": "Jorge Rodríguez informa que suman 5.398 los muertos por terremotos, pero no explica cambios en números de damnificados",
+    "url": "https://elpitazo.net/caracas/jorge-rodriguez-informa-que-suman-5-398-los-muertos-por-terremotos-pero-no-explica-cambios-en-numeros-de-damnificados/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
     "date": "2026-07-22",
     "img": "https://elpitazo.net/wp-content/uploads/2026/07/tps-1.jpg",
     "titleEs": "EE. UU. | Alcaldesa de Doral pide restablecer el TPS para venezolanos tras los terremotos",
@@ -27,13 +36,13 @@
     "url": "https://elpitazo.net/salud/ops-insta-a-venezuela-a-aprovechar-la-reconstruccion-tras-los-terremotos-para-fortalecer-el-sistema-de-salud/"
   },
   {
-    "source": "El Pitazo",
+    "source": "Efecto Cocuyo",
     "section": "Venezuela",
-    "date": "2026-07-22",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/07/IMG-20260722-WA0029.jpg",
-    "titleEs": "Caraqueños usan sus ahorros para reparar apartamentos de Misión Vivienda dañados por los terremotos",
-    "titleEn": "Caraqueños usan sus ahorros para reparar apartamentos de Misión Vivienda dañados por los terremotos",
-    "url": "https://elpitazo.net/caracas/caraquenos-usan-sus-ahorros-para-reparar-apartamentos-de-mision-vivienda-danados-por-los-terremotos/"
+    "date": "2026-07-23",
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/23105202/images-6-2.jpg",
+    "titleEs": "Banco Mundial estima en 19.600 millones de dólares los daños por terremotos en Venezuela",
+    "titleEn": "Banco Mundial estima en 19.600 millones de dólares los daños por terremotos en Venezuela",
+    "url": "https://efectococuyo.com/la-humanidad/banco-mundial-estima-terremotos-en-venezuela/"
   },
   {
     "source": "Efecto Cocuyo",
@@ -63,19 +72,19 @@
     "url": "https://efectococuyo.com/la-humanidad/arquidiocesis-informa-que-27-iglesias-de-caracas-fueron-afectadas-por-el-doble-terremoto/"
   },
   {
-    "source": "Efecto Cocuyo",
+    "source": "Runrun.es",
     "section": "Venezuela",
-    "date": "2026-07-22",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/22141812/clippve-1024x768.jpg",
-    "titleEs": "ONG y familiares exigen libertad humanitaria para presos políticos tras daños por terremotos",
-    "titleEn": "ONG y familiares exigen libertad humanitaria para presos políticos tras daños por terremotos",
-    "url": "https://efectococuyo.com/la-humanidad/ong-y-familiares-exigen-libertad-humanitaria-para-presos-politicos-tras-danos-por-terremotos/"
+    "date": "2026-07-23",
+    "img": "https://runrun.es/wp-content/uploads/2026/07/ing.jpg",
+    "titleEs": "CIV pide agilizar inspecciones de ascensores a casi un mes de suspensión por el terremoto",
+    "titleEn": "CIV pide agilizar inspecciones de ascensores a casi un mes de suspensión por el terremoto",
+    "url": "https://runrun.es/inicio/615715/civ-pide-agilizar-inspecciones-de-ascensores-a-casi-un-mes-de-suspension-por-el-terremoto/"
   },
   {
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-23",
-    "img": "",
+    "img": "https://runrun.es/wp-content/uploads/2026/07/terremotos-3.jpg",
     "titleEs": "Balance #22Jul | Gobierno confirma 5398 fallecidos por los terremotos del 24 de junio",
     "titleEn": "Balance #22Jul | Gobierno confirma 5398 fallecidos por los terremotos del 24 de junio",
     "url": "https://runrun.es/noticias/615709/balance-22jul-gobierno-confirma-5398-fallecidos-por-los-terremotos-del-24-de-junio/"
@@ -84,7 +93,7 @@
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-22",
-    "img": "",
+    "img": "https://runrun.es/wp-content/uploads/2026/07/conversa1.jpg",
     "titleEs": "La Conversa de ARI | Un mes después de los sismos el reto está en gestionar las donaciones",
     "titleEn": "La Conversa de ARI | Un mes después de los sismos el reto está en gestionar las donaciones",
     "url": "https://runrun.es/noticias/615695/la-conversa-de-ari-un-mes-despues-de-los-sismos-el-reto-esta-en-gestionar-las-donaciones/"
@@ -93,18 +102,9 @@
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-22",
-    "img": "",
+    "img": "https://runrun.es/wp-content/uploads/2026/07/image-26.jpg",
     "titleEs": "Fondo de más de $12 500 millones propone José Guerra para reconstruir La Guaira",
     "titleEn": "Fondo de más de $12 500 millones propone José Guerra para reconstruir La Guaira",
     "url": "https://runrun.es/noticias/615633/fondo-de-mas-de-12-500-millones-propone-jose-guerra-para-reconstruir-la-guaira/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-22",
-    "img": "",
-    "titleEs": "Obispos reconocen “heroísmo civil” ante los sismos y piden una reconstrucción “digna”",
-    "titleEn": "Obispos reconocen “heroísmo civil” ante los sismos y piden una reconstrucción “digna”",
-    "url": "https://runrun.es/noticias/615684/obispos-reconocen-heroismo-civil-ante-los-sismos-y-piden-una-reconstruccion-digna/"
   }
 ]

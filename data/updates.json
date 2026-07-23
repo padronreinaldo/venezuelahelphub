@@ -2,6 +2,20 @@
   {
     "sourceEs": "El Pitazo",
     "sourceEn": "El Pitazo",
+    "date": "2026-07-23",
+    "conf": "med",
+    "titleEs": "Jorge Rodríguez informa que suman 5.398 los muertos por terremotos, pero no explica cambios en números de damnificados",
+    "titleEn": "Jorge Rodríguez informa que suman 5.398 los muertos por terremotos, pero no explica cambios en números de damnificados",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/caracas/jorge-rodriguez-informa-que-suman-5-398-los-muertos-por-terremotos-pero-no-explica-cambios-en-numeros-de-damnificados/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
     "date": "2026-07-22",
     "conf": "med",
     "titleEs": "EE. UU. | Alcaldesa de Doral pide restablecer el TPS para venezolanos tras los terremotos",
@@ -42,18 +56,18 @@
     "url": "https://elpitazo.net/salud/ops-insta-a-venezuela-a-aprovechar-la-reconstruccion-tras-los-terremotos-para-fortalecer-el-sistema-de-salud/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-07-22",
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
+    "date": "2026-07-23",
     "conf": "med",
-    "titleEs": "Caraqueños usan sus ahorros para reparar apartamentos de Misión Vivienda dañados por los terremotos",
-    "titleEn": "Caraqueños usan sus ahorros para reparar apartamentos de Misión Vivienda dañados por los terremotos",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "titleEs": "Banco Mundial estima en 19.600 millones de dólares los daños por terremotos en Venezuela",
+    "titleEn": "Banco Mundial estima en 19.600 millones de dólares los daños por terremotos en Venezuela",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/caracas/caraquenos-usan-sus-ahorros-para-reparar-apartamentos-de-mision-vivienda-danados-por-los-terremotos/"
+    "url": "https://efectococuyo.com/la-humanidad/banco-mundial-estima-terremotos-en-venezuela/"
   },
   {
     "sourceEs": "Efecto Cocuyo",
@@ -96,19 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://efectococuyo.com/la-humanidad/arquidiocesis-informa-que-27-iglesias-de-caracas-fueron-afectadas-por-el-doble-terremoto/"
-  },
-  {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-07-22",
-    "conf": "med",
-    "titleEs": "ONG y familiares exigen libertad humanitaria para presos políticos tras daños por terremotos",
-    "titleEn": "ONG y familiares exigen libertad humanitaria para presos políticos tras daños por terremotos",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/la-humanidad/ong-y-familiares-exigen-libertad-humanitaria-para-presos-politicos-tras-danos-por-terremotos/"
   }
 ]

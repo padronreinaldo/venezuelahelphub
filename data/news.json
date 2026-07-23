@@ -3,6 +3,15 @@
     "source": "El Pitazo",
     "section": "Venezuela",
     "date": "2026-07-23",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/07/escombros.jpg",
+    "titleEs": "Banco Mundial estima en 19.600 millones de dólares los daños por terremotos en Venezuela",
+    "titleEn": "Banco Mundial estima en 19.600 millones de dólares los daños por terremotos en Venezuela",
+    "url": "https://elpitazo.net/regiones/gran-caracas/banco-mundial-estima-en-19-600-millones-de-dolares-los-danos-por-terremotos-en-venezuela/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-07-23",
     "img": "https://elpitazo.net/wp-content/uploads/2026/07/video-madre-696x384-1.webp",
     "titleEs": "Último rescate oficial por los terremotos fue el de Hernán Gil el 2 de julio: videos virales carecen de registro",
     "titleEn": "Último rescate oficial por los terremotos fue el de Hernán Gil el 2 de julio: videos virales carecen de registro",
@@ -18,22 +27,13 @@
     "url": "https://elpitazo.net/caracas/conferencia-episcopal-pide-viviendas-y-dignas-para-damnificados-y-que-no-se-comentan-errores-del-pasado/"
   },
   {
-    "source": "El Pitazo",
+    "source": "Efecto Cocuyo",
     "section": "Venezuela",
     "date": "2026-07-23",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/07/OPP-26.jpg",
-    "titleEs": "¿Qué pasa en la OPPPE 26 de La Guaira? Esto es lo que se sabe",
-    "titleEn": "¿Qué pasa en la OPPPE 26 de La Guaira? Esto es lo que se sabe",
-    "url": "https://elpitazo.net/regiones/gran-caracas/que-pasa-en-la-opp-26-de-la-guaira-esto-es-lo-que-se-sabe/"
-  },
-  {
-    "source": "El Pitazo",
-    "section": "Venezuela",
-    "date": "2026-07-23",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/07/97f4ca75a7b67dd649bc512f8297699e066c9bc8w.jpg",
-    "titleEs": "Jorge Rodríguez informa que suman 5.398 los muertos por terremotos, pero no explica cambios en números de damnificados",
-    "titleEn": "Jorge Rodríguez informa que suman 5.398 los muertos por terremotos, pero no explica cambios en números de damnificados",
-    "url": "https://elpitazo.net/caracas/jorge-rodriguez-informa-que-suman-5-398-los-muertos-por-terremotos-pero-no-explica-cambios-en-numeros-de-damnificados/"
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/23142334/silos-1024x683.jpg",
+    "titleEs": "Cofavic pide cumplimiento de protocolos internacionales para identificar víctimas del doble sismo",
+    "titleEn": "Cofavic pide cumplimiento de protocolos internacionales para identificar víctimas del doble sismo",
+    "url": "https://efectococuyo.com/la-humanidad/cofavic-pide-cumplimiento-de-protocolos-internacionales-para-identificar-victimas-del-doble-sismo/"
   },
   {
     "source": "Efecto Cocuyo",
@@ -66,6 +66,15 @@
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-23",
+    "img": "https://runrun.es/wp-content/uploads/2026/07/okidoki.jpg",
+    "titleEs": "Doble sismo del 24 de junio causó daños por casi 20 000 millones de dólares, según el Banco Mundial",
+    "titleEn": "Doble sismo del 24 de junio causó daños por casi 20 000 millones de dólares, según el Banco Mundial",
+    "url": "https://runrun.es/inicio/615749/doble-sismo-del-24-de-junio-causo-danos-por-casi-20-000-millones-de-dolares-segun-el-banco-mundial/"
+  },
+  {
+    "source": "Runrun.es",
+    "section": "Venezuela",
+    "date": "2026-07-23",
     "img": "https://runrun.es/wp-content/uploads/2026/07/ambiente.jpg",
     "titleEs": "Ambientalistas ponen a disposición sus conocimientos para apoyar en la reconstrucción",
     "titleEn": "Ambientalistas ponen a disposición sus conocimientos para apoyar en la reconstrucción",
@@ -88,14 +97,5 @@
     "titleEs": "Balance #22Jul | Gobierno confirma 5398 fallecidos por los terremotos del 24 de junio",
     "titleEn": "Balance #22Jul | Gobierno confirma 5398 fallecidos por los terremotos del 24 de junio",
     "url": "https://runrun.es/noticias/615709/balance-22jul-gobierno-confirma-5398-fallecidos-por-los-terremotos-del-24-de-junio/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-22",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/conversa1.jpg",
-    "titleEs": "La Conversa de ARI | Un mes después de los sismos el reto está en gestionar las donaciones",
-    "titleEn": "La Conversa de ARI | Un mes después de los sismos el reto está en gestionar las donaciones",
-    "url": "https://runrun.es/noticias/615695/la-conversa-de-ari-un-mes-despues-de-los-sismos-el-reto-esta-en-gestionar-las-donaciones/"
   }
 ]

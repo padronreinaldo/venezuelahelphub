@@ -4,6 +4,20 @@
     "sourceEn": "El Pitazo",
     "date": "2026-07-23",
     "conf": "med",
+    "titleEs": "Banco Mundial estima en 19.600 millones de dólares los daños por terremotos en Venezuela",
+    "titleEn": "Banco Mundial estima en 19.600 millones de dólares los daños por terremotos en Venezuela",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/regiones/gran-caracas/banco-mundial-estima-en-19-600-millones-de-dolares-los-danos-por-terremotos-en-venezuela/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-07-23",
+    "conf": "med",
     "titleEs": "Último rescate oficial por los terremotos fue el de Hernán Gil el 2 de julio: videos virales carecen de registro",
     "titleEn": "Último rescate oficial por los terremotos fue el de Hernán Gil el 2 de julio: videos virales carecen de registro",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -28,32 +42,18 @@
     "url": "https://elpitazo.net/caracas/conferencia-episcopal-pide-viviendas-y-dignas-para-damnificados-y-que-no-se-comentan-errores-del-pasado/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
     "date": "2026-07-23",
     "conf": "med",
-    "titleEs": "¿Qué pasa en la OPPPE 26 de La Guaira? Esto es lo que se sabe",
-    "titleEn": "¿Qué pasa en la OPPPE 26 de La Guaira? Esto es lo que se sabe",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "titleEs": "Cofavic pide cumplimiento de protocolos internacionales para identificar víctimas del doble sismo",
+    "titleEn": "Cofavic pide cumplimiento de protocolos internacionales para identificar víctimas del doble sismo",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/regiones/gran-caracas/que-pasa-en-la-opp-26-de-la-guaira-esto-es-lo-que-se-sabe/"
-  },
-  {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-07-23",
-    "conf": "med",
-    "titleEs": "Jorge Rodríguez informa que suman 5.398 los muertos por terremotos, pero no explica cambios en números de damnificados",
-    "titleEn": "Jorge Rodríguez informa que suman 5.398 los muertos por terremotos, pero no explica cambios en números de damnificados",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/caracas/jorge-rodriguez-informa-que-suman-5-398-los-muertos-por-terremotos-pero-no-explica-cambios-en-numeros-de-damnificados/"
+    "url": "https://efectococuyo.com/la-humanidad/cofavic-pide-cumplimiento-de-protocolos-internacionales-para-identificar-victimas-del-doble-sismo/"
   },
   {
     "sourceEs": "Efecto Cocuyo",
@@ -102,13 +102,13 @@
     "sourceEn": "Runrun.es",
     "date": "2026-07-23",
     "conf": "med",
-    "titleEs": "Ambientalistas ponen a disposición sus conocimientos para apoyar en la reconstrucción",
-    "titleEn": "Ambientalistas ponen a disposición sus conocimientos para apoyar en la reconstrucción",
+    "titleEs": "Doble sismo del 24 de junio causó daños por casi 20 000 millones de dólares, según el Banco Mundial",
+    "titleEn": "Doble sismo del 24 de junio causó daños por casi 20 000 millones de dólares, según el Banco Mundial",
     "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
     "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://runrun.es/inicio/615718/ambientalistas-ponen-a-disposicion-sus-conocimientos-para-apoyar-en-la-reconstruccion/"
+    "url": "https://runrun.es/inicio/615749/doble-sismo-del-24-de-junio-causo-danos-por-casi-20-000-millones-de-dolares-segun-el-banco-mundial/"
   }
 ]

@@ -3,6 +3,24 @@
     "source": "El Pitazo",
     "section": "Venezuela",
     "date": "2026-07-24",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/07/venezuela-internet-operatividad.jpg",
+    "titleEs": "Conatel anuncia restitución del Internet en Venezuela: repararon el cable submarino que se afectó por los terremotos",
+    "titleEn": "Conatel anuncia restitución del Internet en Venezuela: repararon el cable submarino que se afectó por los terremotos",
+    "url": "https://elpitazo.net/caracas/conatel-anuncia-restitucion-del-internet-en-venezuela-repararon-el-cable-submarino-que-se-afecto-por-los-terremotos/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-07-24",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/07/Captura-de-Pantalla-2026-07-24-a-las-1.54.40-p.m.-Mediano.jpeg",
+    "titleEs": "En la zona cero: crónica de un terremoto que no ha terminado",
+    "titleEn": "En la zona cero: crónica de un terremoto que no ha terminado",
+    "url": "https://elpitazo.net/alianzas/en-la-zona-cero-cronica-de-un-terremoto-que-no-ha-terminado/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-07-24",
     "img": "https://elpitazo.net/wp-content/uploads/2026/06/regreso-maria-corina-machado-venezuela-efe.jpg",
     "titleEs": "María Corina Machado envía mensaje a un mes de los terremotos: «Nos tenemos y nos levantamos»",
     "titleEn": "María Corina Machado envía mensaje a un mes de los terremotos: «Nos tenemos y nos levantamos»",
@@ -18,22 +36,13 @@
     "url": "https://elpitazo.net/politica/terremotos-l-jorge-rodriguez-omite-el-balance-del-23jul-y-sigue-sin-publicar-los-desaparecidos/"
   },
   {
-    "source": "El Pitazo",
+    "source": "Efecto Cocuyo",
     "section": "Venezuela",
     "date": "2026-07-24",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/07/Captura-de-Pantalla-2026-07-24-a-las-8.48.47-a.m.-Mediano.jpeg",
-    "titleEs": "¿Por qué los suelos de La Guaira amplificaron la devastación de los terremotos?",
-    "titleEn": "¿Por qué los suelos de La Guaira amplificaron la devastación de los terremotos?",
-    "url": "https://elpitazo.net/alianzas/por-que-los-suelos-de-la-guaira-amplificaron-la-devastacion-de-los-terremotos/"
-  },
-  {
-    "source": "El Pitazo",
-    "section": "Venezuela",
-    "date": "2026-07-24",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/07/Derrumbe-institucional-6.jpg",
-    "titleEs": "Un mes después de los terremotos: los últimos momentos de un día que terminó en tragedia",
-    "titleEn": "Un mes después de los terremotos: los últimos momentos de un día que terminó en tragedia",
-    "url": "https://elpitazo.net/reportajes/un-mes-despues-de-los-terremotos-los-ultimos-momentos-de-un-dia-que-termino-en-tragedia/"
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/24134441/972a29a97fe991a6448aed346d8c48b53fb3517d-1024x683.jpg",
+    "titleEs": "Un mes después del doble terremoto: Venezuela sigue contando escombros, sin cifras oficiales de desaparecidos",
+    "titleEn": "Un mes después del doble terremoto: Venezuela sigue contando escombros, sin cifras oficiales de desaparecidos",
+    "url": "https://efectococuyo.com/la-humanidad/un-mes-despues-del-doble-terremoto-venezuela-sigue-contando-escombros-sin-cifras-oficiales-de-desaparecidos/"
   },
   {
     "source": "Efecto Cocuyo",
@@ -54,13 +63,22 @@
     "url": "https://efectococuyo.com/la-humanidad/a-un-mes-del-terremoto-en-vargas-la-falta-de-agua-afecta-a-las-familias-que-se-quedaron/"
   },
   {
-    "source": "Efecto Cocuyo",
+    "source": "Runrun.es",
     "section": "Venezuela",
-    "date": "2026-07-23",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/23142334/silos-1024x683.jpg",
-    "titleEs": "Cofavic pide cumplimiento de protocolos internacionales para identificar víctimas del doble sismo",
-    "titleEn": "Cofavic pide cumplimiento de protocolos internacionales para identificar víctimas del doble sismo",
-    "url": "https://efectococuyo.com/la-humanidad/cofavic-pide-cumplimiento-de-protocolos-internacionales-para-identificar-victimas-del-doble-sismo/"
+    "date": "2026-07-24",
+    "img": "https://runrun.es/wp-content/uploads/2026/07/Imagen-creada-con-IA-Gemini.-Foto-referencial-ensamblaje-protesis-1280x698.png",
+    "titleEs": "Sociedad civil se moviliza para atender a personas con amputaciones tras los terremotos",
+    "titleEn": "Sociedad civil se moviliza para atender a personas con amputaciones tras los terremotos",
+    "url": "https://runrun.es/inicio/615822/sociedad-civil-se-moviliza-para-atender-a-personas-con-amputaciones-tras-los-terremotos/"
+  },
+  {
+    "source": "Runrun.es",
+    "section": "Venezuela",
+    "date": "2026-07-24",
+    "img": "https://runrun.es/wp-content/uploads/2026/07/REFUGIOS.jpg",
+    "titleEs": "Entre carpas y edificios rotos: un mes después, algunos esperan en refugios improvisados",
+    "titleEn": "Entre carpas y edificios rotos: un mes después, algunos esperan en refugios improvisados",
+    "url": "https://runrun.es/inicio/615809/entre-carpas-y-edificios-rotos-un-mes-despues-algunos-esperan-en-refugios-improvisados/"
   },
   {
     "source": "Runrun.es",
@@ -79,23 +97,5 @@
     "titleEs": "En la zona cero: crónica de un terremoto que no ha terminado",
     "titleEn": "En la zona cero: crónica de un terremoto que no ha terminado",
     "url": "https://runrun.es/noticias/615787/en-la-zona-cero-cronica-de-un-terremoto-que-no-ha-terminado/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-23",
-    "img": "https://runrun.es/wp-content/uploads/2026/06/PORTADA-Escombros-en-La-Guaira.png",
-    "titleEs": "¿Por qué los suelos de La Guaira amplificaron la devastación de los terremotos de San Juan?",
-    "titleEn": "¿Por qué los suelos de La Guaira amplificaron la devastación de los terremotos de San Juan?",
-    "url": "https://runrun.es/rr-es-plus/615760/por-que-los-suelos-de-la-guaira-amplificaron-la-devastacion-de-los-terremotos-de-san-juan/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-23",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/campamentos-caraquenos.jpg",
-    "titleEs": "A un mes del doblete sísmico, caraqueños denuncian lentitud en la atención institucional",
-    "titleEn": "A un mes del doblete sísmico, caraqueños denuncian lentitud en la atención institucional",
-    "url": "https://runrun.es/noticias/615758/a-un-mes-del-doblete-sismico-caraquenos-denuncian-lentitud-en-la-atencion-institucional/"
   }
 ]

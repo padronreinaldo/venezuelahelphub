@@ -3,6 +3,24 @@
     "source": "El Pitazo",
     "section": "Venezuela",
     "date": "2026-07-24",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/07/campamentos-terremotos-EFE.jpg",
+    "titleEs": "Unicef: se requieren 65 millones de dólares para atender el impacto de los terremotos en Venezuela",
+    "titleEn": "Unicef: se requieren 65 millones de dólares para atender el impacto de los terremotos en Venezuela",
+    "url": "https://elpitazo.net/ultimas-noticias/unicef-se-requieren-65-millones-de-dolares-para-atender-el-impacto-de-los-terremotos-en-venezuela/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-07-24",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/07/Derrumbe-institucional-6.jpg",
+    "titleEs": "Médicos voluntarios: «ambulancias caminantes» que cruzaron el país para atender a sobrevivientes",
+    "titleEn": "Médicos voluntarios: «ambulancias caminantes» que cruzaron el país para atender a sobrevivientes",
+    "url": "https://elpitazo.net/reportajes/medicos-voluntarios-ambulancias-caminantes-que-cruzaron-el-pais-para-atender-a-sobrevivientes/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-07-24",
     "img": "https://elpitazo.net/wp-content/uploads/2026/07/venezuela-internet-operatividad.jpg",
     "titleEs": "Conatel anuncia restitución del Internet en Venezuela: repararon el cable submarino que se afectó por los terremotos",
     "titleEn": "Conatel anuncia restitución del Internet en Venezuela: repararon el cable submarino que se afectó por los terremotos",
@@ -18,22 +36,13 @@
     "url": "https://elpitazo.net/alianzas/en-la-zona-cero-cronica-de-un-terremoto-que-no-ha-terminado/"
   },
   {
-    "source": "El Pitazo",
+    "source": "Efecto Cocuyo",
     "section": "Venezuela",
     "date": "2026-07-24",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/06/regreso-maria-corina-machado-venezuela-efe.jpg",
-    "titleEs": "María Corina Machado envía mensaje a un mes de los terremotos: «Nos tenemos y nos levantamos»",
-    "titleEn": "María Corina Machado envía mensaje a un mes de los terremotos: «Nos tenemos y nos levantamos»",
-    "url": "https://elpitazo.net/politica/maria-corina-machado-envia-mensaje-de-union-a-un-mes-de-los-terremotos-nos-tenemos-y-nos-levantamos/"
-  },
-  {
-    "source": "El Pitazo",
-    "section": "Venezuela",
-    "date": "2026-07-24",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/05/jorge-rodriguez-la-carlota.jpg",
-    "titleEs": "Terremotos l Jorge Rodríguez omite el balance del #23Jul y sigue sin publicar los desaparecidos",
-    "titleEn": "Terremotos l Jorge Rodríguez omite el balance del #23Jul y sigue sin publicar los desaparecidos",
-    "url": "https://elpitazo.net/politica/terremotos-l-jorge-rodriguez-omite-el-balance-del-23jul-y-sigue-sin-publicar-los-desaparecidos/"
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/04/27132709/cropped-EFECTO-COCUYO-LOGO-1.jpg",
+    "titleEs": "Es falso que el doble terremoto provocó una invasión masiva de serpientes y cocodrilos en casas y edificios",
+    "titleEn": "Es falso que el doble terremoto provocó una invasión masiva de serpientes y cocodrilos en casas y edificios",
+    "url": "https://efectococuyo.com/cocuyo-chequea/es-falso-que-el-doble-terremoto-provoco-una-invasion-masiva-de-serpientes-y-cocodrilos-en-casas-y-edificios/"
   },
   {
     "source": "Efecto Cocuyo",
@@ -66,6 +75,15 @@
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-24",
+    "img": "https://runrun.es/wp-content/uploads/2026/07/Bestiario.jpg",
+    "titleEs": "¿Comenzó realmente la transición en Venezuela?",
+    "titleEn": "¿Comenzó realmente la transición en Venezuela?",
+    "url": "https://runrun.es/noticias/615864/comenzo-realmente-la-transicion-en-venezuela/"
+  },
+  {
+    "source": "Runrun.es",
+    "section": "Venezuela",
+    "date": "2026-07-24",
     "img": "https://runrun.es/wp-content/uploads/2026/07/Imagen-creada-con-IA-Gemini.-Foto-referencial-ensamblaje-protesis-1280x698.png",
     "titleEs": "Sociedad civil se moviliza para atender a personas con amputaciones tras los terremotos",
     "titleEn": "Sociedad civil se moviliza para atender a personas con amputaciones tras los terremotos",
@@ -88,14 +106,5 @@
     "titleEs": "Edmundo González: La solidaridad no puede seguir encubriendo la orfandad institucional",
     "titleEn": "Edmundo González: La solidaridad no puede seguir encubriendo la orfandad institucional",
     "url": "https://runrun.es/inicio/615800/edmundo-gonzalez-la-solidaridad-no-puede-seguir-encubriendo-la-orfandad-institucional/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-24",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/opp-25-1-2.jpg",
-    "titleEs": "En la zona cero: crónica de un terremoto que no ha terminado",
-    "titleEn": "En la zona cero: crónica de un terremoto que no ha terminado",
-    "url": "https://runrun.es/noticias/615787/en-la-zona-cero-cronica-de-un-terremoto-que-no-ha-terminado/"
   }
 ]

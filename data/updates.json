@@ -4,6 +4,34 @@
     "sourceEn": "El Pitazo",
     "date": "2026-07-24",
     "conf": "med",
+    "titleEs": "Unicef: se requieren 65 millones de dólares para atender el impacto de los terremotos en Venezuela",
+    "titleEn": "Unicef: se requieren 65 millones de dólares para atender el impacto de los terremotos en Venezuela",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/ultimas-noticias/unicef-se-requieren-65-millones-de-dolares-para-atender-el-impacto-de-los-terremotos-en-venezuela/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-07-24",
+    "conf": "med",
+    "titleEs": "Médicos voluntarios: «ambulancias caminantes» que cruzaron el país para atender a sobrevivientes",
+    "titleEn": "Médicos voluntarios: «ambulancias caminantes» que cruzaron el país para atender a sobrevivientes",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/reportajes/medicos-voluntarios-ambulancias-caminantes-que-cruzaron-el-pais-para-atender-a-sobrevivientes/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-07-24",
+    "conf": "med",
     "titleEs": "Conatel anuncia restitución del Internet en Venezuela: repararon el cable submarino que se afectó por los terremotos",
     "titleEn": "Conatel anuncia restitución del Internet en Venezuela: repararon el cable submarino que se afectó por los terremotos",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -28,32 +56,18 @@
     "url": "https://elpitazo.net/alianzas/en-la-zona-cero-cronica-de-un-terremoto-que-no-ha-terminado/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
     "date": "2026-07-24",
     "conf": "med",
-    "titleEs": "María Corina Machado envía mensaje a un mes de los terremotos: «Nos tenemos y nos levantamos»",
-    "titleEn": "María Corina Machado envía mensaje a un mes de los terremotos: «Nos tenemos y nos levantamos»",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "titleEs": "Es falso que el doble terremoto provocó una invasión masiva de serpientes y cocodrilos en casas y edificios",
+    "titleEn": "Es falso que el doble terremoto provocó una invasión masiva de serpientes y cocodrilos en casas y edificios",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/politica/maria-corina-machado-envia-mensaje-de-union-a-un-mes-de-los-terremotos-nos-tenemos-y-nos-levantamos/"
-  },
-  {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-07-24",
-    "conf": "med",
-    "titleEs": "Terremotos l Jorge Rodríguez omite el balance del #23Jul y sigue sin publicar los desaparecidos",
-    "titleEn": "Terremotos l Jorge Rodríguez omite el balance del #23Jul y sigue sin publicar los desaparecidos",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/politica/terremotos-l-jorge-rodriguez-omite-el-balance-del-23jul-y-sigue-sin-publicar-los-desaparecidos/"
+    "url": "https://efectococuyo.com/cocuyo-chequea/es-falso-que-el-doble-terremoto-provoco-una-invasion-masiva-de-serpientes-y-cocodrilos-en-casas-y-edificios/"
   },
   {
     "sourceEs": "Efecto Cocuyo",
@@ -96,19 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://efectococuyo.com/la-humanidad/a-un-mes-del-terremoto-en-vargas-la-falta-de-agua-afecta-a-las-familias-que-se-quedaron/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-07-24",
-    "conf": "med",
-    "titleEs": "Sociedad civil se moviliza para atender a personas con amputaciones tras los terremotos",
-    "titleEn": "Sociedad civil se moviliza para atender a personas con amputaciones tras los terremotos",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/inicio/615822/sociedad-civil-se-moviliza-para-atender-a-personas-con-amputaciones-tras-los-terremotos/"
   }
 ]

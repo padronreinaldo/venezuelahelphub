@@ -3,6 +3,15 @@
     "source": "El Pitazo",
     "section": "Venezuela",
     "date": "2026-07-24",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/07/terremoto-doble-14-1024x967.jpg",
+    "titleEs": "Viajaron a Venezuela para reencontrarse con sus parejas y el terremoto doble cambió sus destinos",
+    "titleEn": "Viajaron a Venezuela para reencontrarse con sus parejas y el terremoto doble cambió sus destinos",
+    "url": "https://elpitazo.net/regiones/viajaron-a-venezuela-para-reencontrarse-con-sus-parejas-y-el-terremoto-doble-cambio-sus-destinos/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-07-24",
     "img": "https://elpitazo.net/wp-content/uploads/2026/07/opppe-26-3.jpg",
     "titleEs": "Asamblea Nacional de 2015 ratifica hoja de ruta a un mes del doble terremoto",
     "titleEn": "Asamblea Nacional de 2015 ratifica hoja de ruta a un mes del doble terremoto",
@@ -25,15 +34,6 @@
     "titleEs": "Médicos voluntarios: «ambulancias caminantes» que cruzaron el país para atender a sobrevivientes",
     "titleEn": "Médicos voluntarios: «ambulancias caminantes» que cruzaron el país para atender a sobrevivientes",
     "url": "https://elpitazo.net/reportajes/medicos-voluntarios-ambulancias-caminantes-que-cruzaron-el-pais-para-atender-a-sobrevivientes/"
-  },
-  {
-    "source": "El Pitazo",
-    "section": "Venezuela",
-    "date": "2026-07-24",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/07/venezuela-internet-operatividad.jpg",
-    "titleEs": "Conatel anuncia restitución del Internet en Venezuela: repararon el cable submarino que se afectó por los terremotos",
-    "titleEn": "Conatel anuncia restitución del Internet en Venezuela: repararon el cable submarino que se afectó por los terremotos",
-    "url": "https://elpitazo.net/caracas/conatel-anuncia-restitucion-del-internet-en-venezuela-repararon-el-cable-submarino-que-se-afecto-por-los-terremotos/"
   },
   {
     "source": "Efecto Cocuyo",
@@ -66,6 +66,15 @@
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-24",
+    "img": "https://runrun.es/wp-content/uploads/2026/07/caribe5.jpg",
+    "titleEs": "«No manejamos una cifra oficial de desaparecidos»: familias desesperadas siguen buscando a sus familiares",
+    "titleEn": "«No manejamos una cifra oficial de desaparecidos»: familias desesperadas siguen buscando a sus familiares",
+    "url": "https://runrun.es/inicio/615879/no-manejamos-una-cifra-oficial-de-desaparecidos-familias-desesperadas-siguen-buscando-a-sus-familiares/"
+  },
+  {
+    "source": "Runrun.es",
+    "section": "Venezuela",
+    "date": "2026-07-24",
     "img": "https://runrun.es/wp-content/uploads/2026/07/Bestiario.jpg",
     "titleEs": "¿Comenzó realmente la transición en Venezuela?",
     "titleEn": "¿Comenzó realmente la transición en Venezuela?",
@@ -88,14 +97,5 @@
     "titleEs": "Entre carpas y edificios rotos: un mes después, algunos esperan en refugios improvisados",
     "titleEn": "Entre carpas y edificios rotos: un mes después, algunos esperan en refugios improvisados",
     "url": "https://runrun.es/inicio/615809/entre-carpas-y-edificios-rotos-un-mes-despues-algunos-esperan-en-refugios-improvisados/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-24",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/Edmundo-Gonzalez.jpg",
-    "titleEs": "Edmundo González: La solidaridad no puede seguir encubriendo la orfandad institucional",
-    "titleEn": "Edmundo González: La solidaridad no puede seguir encubriendo la orfandad institucional",
-    "url": "https://runrun.es/inicio/615800/edmundo-gonzalez-la-solidaridad-no-puede-seguir-encubriendo-la-orfandad-institucional/"
   }
 ]

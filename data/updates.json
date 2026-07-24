@@ -4,6 +4,20 @@
     "sourceEn": "El Pitazo",
     "date": "2026-07-24",
     "conf": "med",
+    "titleEs": "Viajaron a Venezuela para reencontrarse con sus parejas y el terremoto doble cambió sus destinos",
+    "titleEn": "Viajaron a Venezuela para reencontrarse con sus parejas y el terremoto doble cambió sus destinos",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/regiones/viajaron-a-venezuela-para-reencontrarse-con-sus-parejas-y-el-terremoto-doble-cambio-sus-destinos/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-07-24",
+    "conf": "med",
     "titleEs": "Asamblea Nacional de 2015 ratifica hoja de ruta a un mes del doble terremoto",
     "titleEn": "Asamblea Nacional de 2015 ratifica hoja de ruta a un mes del doble terremoto",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -40,20 +54,6 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://elpitazo.net/reportajes/medicos-voluntarios-ambulancias-caminantes-que-cruzaron-el-pais-para-atender-a-sobrevivientes/"
-  },
-  {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-07-24",
-    "conf": "med",
-    "titleEs": "Conatel anuncia restitución del Internet en Venezuela: repararon el cable submarino que se afectó por los terremotos",
-    "titleEn": "Conatel anuncia restitución del Internet en Venezuela: repararon el cable submarino que se afectó por los terremotos",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/caracas/conatel-anuncia-restitucion-del-internet-en-venezuela-repararon-el-cable-submarino-que-se-afecto-por-los-terremotos/"
   },
   {
     "sourceEs": "Efecto Cocuyo",
@@ -102,13 +102,13 @@
     "sourceEn": "Runrun.es",
     "date": "2026-07-24",
     "conf": "med",
-    "titleEs": "¿Comenzó realmente la transición en Venezuela?",
-    "titleEn": "¿Comenzó realmente la transición en Venezuela?",
+    "titleEs": "«No manejamos una cifra oficial de desaparecidos»: familias desesperadas siguen buscando a sus familiares",
+    "titleEn": "«No manejamos una cifra oficial de desaparecidos»: familias desesperadas siguen buscando a sus familiares",
     "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
     "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://runrun.es/noticias/615864/comenzo-realmente-la-transicion-en-venezuela/"
+    "url": "https://runrun.es/inicio/615879/no-manejamos-una-cifra-oficial-de-desaparecidos-familias-desesperadas-siguen-buscando-a-sus-familiares/"
   }
 ]

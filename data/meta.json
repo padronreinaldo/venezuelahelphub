@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T20:18:10.404Z",
+  "updatedAt": "2026-07-24T21:35:30.111Z",
   "stats": {
     "maxMagnitude": 4.6,
     "aftershocks": 0,
@@ -19,17 +19,17 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8yf"
     },
     "deaths": {
-      "seenAt": "2026-07-24T20:18:10.404Z",
+      "seenAt": "2026-07-24T21:35:30.111Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
     "injured": {
-      "seenAt": "2026-07-24T20:18:10.404Z",
+      "seenAt": "2026-07-24T21:35:30.111Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
     "missing": {
-      "seenAt": "2026-07-24T20:18:10.404Z",
+      "seenAt": "2026-07-24T21:35:30.111Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     }
@@ -39,7 +39,7 @@
       "value": 5398,
       "source": "El Pitazo",
       "url": "https://elpitazo.net/ultimas-noticias/unicef-se-requieren-65-millones-de-dolares-para-atender-el-impacto-de-los-terremotos-en-venezuela/",
-      "seenAt": "2026-07-24T20:18:10.404Z"
+      "seenAt": "2026-07-24T21:35:30.111Z"
     },
     "injured": {
       "value": 32038,
@@ -57,13 +57,13 @@
   "sources": {
     "usgs": 0,
     "reliefweb": 0,
-    "press": 12,
+    "press": 11,
     "wikipedia": 1,
     "funvisis": 20
   },
   "counts": {
     "updates": 8,
-    "news": 12,
+    "news": 11,
     "quakes": 500
   }
 }

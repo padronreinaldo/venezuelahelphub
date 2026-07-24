@@ -4,6 +4,34 @@
     "sourceEn": "El Pitazo",
     "date": "2026-07-24",
     "conf": "med",
+    "titleEs": "María Corina Machado envía mensaje a un mes de los terremotos: «Nos tenemos y nos levantamos»",
+    "titleEn": "María Corina Machado envía mensaje a un mes de los terremotos: «Nos tenemos y nos levantamos»",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/politica/maria-corina-machado-envia-mensaje-de-union-a-un-mes-de-los-terremotos-nos-tenemos-y-nos-levantamos/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-07-24",
+    "conf": "med",
+    "titleEs": "Terremotos l Jorge Rodríguez omite el balance del #23Jul y sigue sin publicar los desaparecidos",
+    "titleEn": "Terremotos l Jorge Rodríguez omite el balance del #23Jul y sigue sin publicar los desaparecidos",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/politica/terremotos-l-jorge-rodriguez-omite-el-balance-del-23jul-y-sigue-sin-publicar-los-desaparecidos/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-07-24",
+    "conf": "med",
     "titleEs": "¿Por qué los suelos de La Guaira amplificaron la devastación de los terremotos?",
     "titleEn": "¿Por qué los suelos de La Guaira amplificaron la devastación de los terremotos?",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -26,34 +54,6 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://elpitazo.net/reportajes/un-mes-despues-de-los-terremotos-los-ultimos-momentos-de-un-dia-que-termino-en-tragedia/"
-  },
-  {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-07-23",
-    "conf": "med",
-    "titleEs": "Centro Miranda: el chavismo mostró una total incapacidad para proporcionar los servicios más básicos tras los terremotos",
-    "titleEn": "Centro Miranda: el chavismo mostró una total incapacidad para proporcionar los servicios más básicos tras los terremotos",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/politica/centro-miranda-el-chavismo-mostro-una-total-incapacidad-para-proporcionar-los-servicios-mas-basicos-tras-los-terremotos/"
-  },
-  {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-07-23",
-    "conf": "med",
-    "titleEs": "Cofavic exige aplicar protocolos internacionales para identificar a las víctimas de los terremotos en Venezuela",
-    "titleEn": "Cofavic exige aplicar protocolos internacionales para identificar a las víctimas de los terremotos en Venezuela",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/sucesos/cofavic-exige-aplicar-protocolos-internacionales-para-identificar-a-las-victimas-de-los-terremotos-en-venezuela/"
   },
   {
     "sourceEs": "Efecto Cocuyo",
@@ -102,13 +102,13 @@
     "sourceEn": "Runrun.es",
     "date": "2026-07-24",
     "conf": "med",
-    "titleEs": "En la zona cero: crónica de un terremoto que no ha terminado",
-    "titleEn": "En la zona cero: crónica de un terremoto que no ha terminado",
+    "titleEs": "Edmundo González: La solidaridad no puede seguir encubriendo la orfandad institucional",
+    "titleEn": "Edmundo González: La solidaridad no puede seguir encubriendo la orfandad institucional",
     "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
     "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://runrun.es/noticias/615787/en-la-zona-cero-cronica-de-un-terremoto-que-no-ha-terminado/"
+    "url": "https://runrun.es/inicio/615800/edmundo-gonzalez-la-solidaridad-no-puede-seguir-encubriendo-la-orfandad-institucional/"
   }
 ]

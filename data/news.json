@@ -3,6 +3,24 @@
     "source": "El Pitazo",
     "section": "Venezuela",
     "date": "2026-07-24",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/06/regreso-maria-corina-machado-venezuela-efe.jpg",
+    "titleEs": "María Corina Machado envía mensaje a un mes de los terremotos: «Nos tenemos y nos levantamos»",
+    "titleEn": "María Corina Machado envía mensaje a un mes de los terremotos: «Nos tenemos y nos levantamos»",
+    "url": "https://elpitazo.net/politica/maria-corina-machado-envia-mensaje-de-union-a-un-mes-de-los-terremotos-nos-tenemos-y-nos-levantamos/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-07-24",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/05/jorge-rodriguez-la-carlota.jpg",
+    "titleEs": "Terremotos l Jorge Rodríguez omite el balance del #23Jul y sigue sin publicar los desaparecidos",
+    "titleEn": "Terremotos l Jorge Rodríguez omite el balance del #23Jul y sigue sin publicar los desaparecidos",
+    "url": "https://elpitazo.net/politica/terremotos-l-jorge-rodriguez-omite-el-balance-del-23jul-y-sigue-sin-publicar-los-desaparecidos/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-07-24",
     "img": "https://elpitazo.net/wp-content/uploads/2026/07/Captura-de-Pantalla-2026-07-24-a-las-8.48.47-a.m.-Mediano.jpeg",
     "titleEs": "¿Por qué los suelos de La Guaira amplificaron la devastación de los terremotos?",
     "titleEn": "¿Por qué los suelos de La Guaira amplificaron la devastación de los terremotos?",
@@ -16,24 +34,6 @@
     "titleEs": "Un mes después de los terremotos: los últimos momentos de un día que terminó en tragedia",
     "titleEn": "Un mes después de los terremotos: los últimos momentos de un día que terminó en tragedia",
     "url": "https://elpitazo.net/reportajes/un-mes-despues-de-los-terremotos-los-ultimos-momentos-de-un-dia-que-termino-en-tragedia/"
-  },
-  {
-    "source": "El Pitazo",
-    "section": "Venezuela",
-    "date": "2026-07-23",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/07/denuncia-en-La-Guaira.jpg",
-    "titleEs": "Centro Miranda: el chavismo mostró una total incapacidad para proporcionar los servicios más básicos tras los terremotos",
-    "titleEn": "Centro Miranda: el chavismo mostró una total incapacidad para proporcionar los servicios más básicos tras los terremotos",
-    "url": "https://elpitazo.net/politica/centro-miranda-el-chavismo-mostro-una-total-incapacidad-para-proporcionar-los-servicios-mas-basicos-tras-los-terremotos/"
-  },
-  {
-    "source": "El Pitazo",
-    "section": "Venezuela",
-    "date": "2026-07-23",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/07/cementerio-de-la-guaira-efe.jpg",
-    "titleEs": "Cofavic exige aplicar protocolos internacionales para identificar a las víctimas de los terremotos en Venezuela",
-    "titleEn": "Cofavic exige aplicar protocolos internacionales para identificar a las víctimas de los terremotos en Venezuela",
-    "url": "https://elpitazo.net/sucesos/cofavic-exige-aplicar-protocolos-internacionales-para-identificar-a-las-victimas-de-los-terremotos-en-venezuela/"
   },
   {
     "source": "Efecto Cocuyo",
@@ -66,6 +66,15 @@
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-24",
+    "img": "https://runrun.es/wp-content/uploads/2026/07/Edmundo-Gonzalez.jpg",
+    "titleEs": "Edmundo González: La solidaridad no puede seguir encubriendo la orfandad institucional",
+    "titleEn": "Edmundo González: La solidaridad no puede seguir encubriendo la orfandad institucional",
+    "url": "https://runrun.es/inicio/615800/edmundo-gonzalez-la-solidaridad-no-puede-seguir-encubriendo-la-orfandad-institucional/"
+  },
+  {
+    "source": "Runrun.es",
+    "section": "Venezuela",
+    "date": "2026-07-24",
     "img": "https://runrun.es/wp-content/uploads/2026/07/opp-25-1-2.jpg",
     "titleEs": "En la zona cero: crónica de un terremoto que no ha terminado",
     "titleEn": "En la zona cero: crónica de un terremoto que no ha terminado",
@@ -88,14 +97,5 @@
     "titleEs": "A un mes del doblete sísmico, caraqueños denuncian lentitud en la atención institucional",
     "titleEn": "A un mes del doblete sísmico, caraqueños denuncian lentitud en la atención institucional",
     "url": "https://runrun.es/noticias/615758/a-un-mes-del-doblete-sismico-caraquenos-denuncian-lentitud-en-la-atencion-institucional/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-23",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/okidoki.jpg",
-    "titleEs": "Doble sismo del 24 de junio causó daños por casi 20 000 millones de dólares, según el Banco Mundial",
-    "titleEn": "Doble sismo del 24 de junio causó daños por casi 20 000 millones de dólares, según el Banco Mundial",
-    "url": "https://runrun.es/inicio/615749/doble-sismo-del-24-de-junio-causo-danos-por-casi-20-000-millones-de-dolares-segun-el-banco-mundial/"
   }
 ]

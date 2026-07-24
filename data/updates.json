@@ -2,6 +2,34 @@
   {
     "sourceEs": "El Pitazo",
     "sourceEn": "El Pitazo",
+    "date": "2026-07-24",
+    "conf": "med",
+    "titleEs": "¿Por qué los suelos de La Guaira amplificaron la devastación de los terremotos?",
+    "titleEn": "¿Por qué los suelos de La Guaira amplificaron la devastación de los terremotos?",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/alianzas/por-que-los-suelos-de-la-guaira-amplificaron-la-devastacion-de-los-terremotos/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-07-24",
+    "conf": "med",
+    "titleEs": "Un mes después de los terremotos: los últimos momentos de un día que terminó en tragedia",
+    "titleEn": "Un mes después de los terremotos: los últimos momentos de un día que terminó en tragedia",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/reportajes/un-mes-despues-de-los-terremotos-los-ultimos-momentos-de-un-dia-que-termino-en-tragedia/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
     "date": "2026-07-23",
     "conf": "med",
     "titleEs": "Centro Miranda: el chavismo mostró una total incapacidad para proporcionar los servicios más básicos tras los terremotos",
@@ -26,20 +54,6 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://elpitazo.net/sucesos/cofavic-exige-aplicar-protocolos-internacionales-para-identificar-a-las-victimas-de-los-terremotos-en-venezuela/"
-  },
-  {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-07-23",
-    "conf": "med",
-    "titleEs": "Banco Mundial estima en 19.600 millones de dólares los daños por terremotos en Venezuela",
-    "titleEn": "Banco Mundial estima en 19.600 millones de dólares los daños por terremotos en Venezuela",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/regiones/gran-caracas/banco-mundial-estima-en-19-600-millones-de-dolares-los-danos-por-terremotos-en-venezuela/"
   },
   {
     "sourceEs": "Efecto Cocuyo",
@@ -72,6 +86,20 @@
   {
     "sourceEs": "Runrun.es",
     "sourceEn": "Runrun.es",
+    "date": "2026-07-24",
+    "conf": "med",
+    "titleEs": "En la zona cero: crónica de un terremoto que no ha terminado",
+    "titleEn": "En la zona cero: crónica de un terremoto que no ha terminado",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://runrun.es/noticias/615787/en-la-zona-cero-cronica-de-un-terremoto-que-no-ha-terminado/"
+  },
+  {
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
     "date": "2026-07-23",
     "conf": "med",
     "titleEs": "¿Por qué los suelos de La Guaira amplificaron la devastación de los terremotos de San Juan?",
@@ -82,33 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://runrun.es/rr-es-plus/615760/por-que-los-suelos-de-la-guaira-amplificaron-la-devastacion-de-los-terremotos-de-san-juan/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-07-23",
-    "conf": "med",
-    "titleEs": "A un mes del doblete sísmico, caraqueños denuncian lentitud en la atención institucional",
-    "titleEn": "A un mes del doblete sísmico, caraqueños denuncian lentitud en la atención institucional",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/noticias/615758/a-un-mes-del-doblete-sismico-caraquenos-denuncian-lentitud-en-la-atencion-institucional/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-07-23",
-    "conf": "med",
-    "titleEs": "Doble sismo del 24 de junio causó daños por casi 20 000 millones de dólares, según el Banco Mundial",
-    "titleEn": "Doble sismo del 24 de junio causó daños por casi 20 000 millones de dólares, según el Banco Mundial",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/inicio/615749/doble-sismo-del-24-de-junio-causo-danos-por-casi-20-000-millones-de-dolares-segun-el-banco-mundial/"
   }
 ]

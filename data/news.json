@@ -2,6 +2,24 @@
   {
     "source": "El Pitazo",
     "section": "Venezuela",
+    "date": "2026-07-24",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/07/Captura-de-Pantalla-2026-07-24-a-las-8.48.47-a.m.-Mediano.jpeg",
+    "titleEs": "¿Por qué los suelos de La Guaira amplificaron la devastación de los terremotos?",
+    "titleEn": "¿Por qué los suelos de La Guaira amplificaron la devastación de los terremotos?",
+    "url": "https://elpitazo.net/alianzas/por-que-los-suelos-de-la-guaira-amplificaron-la-devastacion-de-los-terremotos/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-07-24",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/07/Derrumbe-institucional-6.jpg",
+    "titleEs": "Un mes después de los terremotos: los últimos momentos de un día que terminó en tragedia",
+    "titleEn": "Un mes después de los terremotos: los últimos momentos de un día que terminó en tragedia",
+    "url": "https://elpitazo.net/reportajes/un-mes-despues-de-los-terremotos-los-ultimos-momentos-de-un-dia-que-termino-en-tragedia/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
     "date": "2026-07-23",
     "img": "https://elpitazo.net/wp-content/uploads/2026/07/denuncia-en-La-Guaira.jpg",
     "titleEs": "Centro Miranda: el chavismo mostró una total incapacidad para proporcionar los servicios más básicos tras los terremotos",
@@ -16,15 +34,6 @@
     "titleEs": "Cofavic exige aplicar protocolos internacionales para identificar a las víctimas de los terremotos en Venezuela",
     "titleEn": "Cofavic exige aplicar protocolos internacionales para identificar a las víctimas de los terremotos en Venezuela",
     "url": "https://elpitazo.net/sucesos/cofavic-exige-aplicar-protocolos-internacionales-para-identificar-a-las-victimas-de-los-terremotos-en-venezuela/"
-  },
-  {
-    "source": "El Pitazo",
-    "section": "Venezuela",
-    "date": "2026-07-23",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/07/escombros.jpg",
-    "titleEs": "Banco Mundial estima en 19.600 millones de dólares los daños por terremotos en Venezuela",
-    "titleEn": "Banco Mundial estima en 19.600 millones de dólares los daños por terremotos en Venezuela",
-    "url": "https://elpitazo.net/regiones/gran-caracas/banco-mundial-estima-en-19-600-millones-de-dolares-los-danos-por-terremotos-en-venezuela/"
   },
   {
     "source": "Efecto Cocuyo",
@@ -43,6 +52,15 @@
     "titleEs": "Banco Mundial estima en 19.600 millones de dólares los daños por terremotos en Venezuela",
     "titleEn": "Banco Mundial estima en 19.600 millones de dólares los daños por terremotos en Venezuela",
     "url": "https://efectococuyo.com/la-humanidad/banco-mundial-estima-terremotos-en-venezuela/"
+  },
+  {
+    "source": "Runrun.es",
+    "section": "Venezuela",
+    "date": "2026-07-24",
+    "img": "https://runrun.es/wp-content/uploads/2026/07/opp-25-1-2.jpg",
+    "titleEs": "En la zona cero: crónica de un terremoto que no ha terminado",
+    "titleEn": "En la zona cero: crónica de un terremoto que no ha terminado",
+    "url": "https://runrun.es/noticias/615787/en-la-zona-cero-cronica-de-un-terremoto-que-no-ha-terminado/"
   },
   {
     "source": "Runrun.es",
@@ -70,14 +88,5 @@
     "titleEs": "Doble sismo del 24 de junio causó daños por casi 20 000 millones de dólares, según el Banco Mundial",
     "titleEn": "Doble sismo del 24 de junio causó daños por casi 20 000 millones de dólares, según el Banco Mundial",
     "url": "https://runrun.es/inicio/615749/doble-sismo-del-24-de-junio-causo-danos-por-casi-20-000-millones-de-dolares-segun-el-banco-mundial/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-23",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/ambiente.jpg",
-    "titleEs": "Ambientalistas ponen a disposición sus conocimientos para apoyar en la reconstrucción",
-    "titleEn": "Ambientalistas ponen a disposición sus conocimientos para apoyar en la reconstrucción",
-    "url": "https://runrun.es/inicio/615718/ambientalistas-ponen-a-disposicion-sus-conocimientos-para-apoyar-en-la-reconstruccion/"
   }
 ]

@@ -58,6 +58,34 @@
   {
     "sourceEs": "Efecto Cocuyo",
     "sourceEn": "Efecto Cocuyo",
+    "date": "2026-07-24",
+    "conf": "med",
+    "titleEs": "Unas 6.000 personas siguen acampando en la calle tras los terremotos en Venezuela, dice MSF",
+    "titleEn": "Unas 6.000 personas siguen acampando en la calle tras los terremotos en Venezuela, dice MSF",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://efectococuyo.com/la-humanidad/unas-6-000-personas-siguen-acampando-en-la-calle-tras-los-terremotos-en-venezuela-dice-msf/"
+  },
+  {
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
+    "date": "2026-07-24",
+    "conf": "med",
+    "titleEs": "A un mes del terremoto: En Vargas, la falta de agua afecta a las familias que se quedaron",
+    "titleEn": "A un mes del terremoto: En Vargas, la falta de agua afecta a las familias que se quedaron",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://efectococuyo.com/la-humanidad/a-un-mes-del-terremoto-en-vargas-la-falta-de-agua-afecta-a-las-familias-que-se-quedaron/"
+  },
+  {
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
     "date": "2026-07-23",
     "conf": "med",
     "titleEs": "Cofavic pide cumplimiento de protocolos internacionales para identificar víctimas del doble sismo",
@@ -68,20 +96,6 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://efectococuyo.com/la-humanidad/cofavic-pide-cumplimiento-de-protocolos-internacionales-para-identificar-victimas-del-doble-sismo/"
-  },
-  {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-07-23",
-    "conf": "med",
-    "titleEs": "Banco Mundial estima en 19.600 millones de dólares los daños por terremotos en Venezuela",
-    "titleEn": "Banco Mundial estima en 19.600 millones de dólares los daños por terremotos en Venezuela",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/la-humanidad/banco-mundial-estima-terremotos-en-venezuela/"
   },
   {
     "sourceEs": "Runrun.es",
@@ -96,19 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://runrun.es/noticias/615787/en-la-zona-cero-cronica-de-un-terremoto-que-no-ha-terminado/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-07-23",
-    "conf": "med",
-    "titleEs": "¿Por qué los suelos de La Guaira amplificaron la devastación de los terremotos de San Juan?",
-    "titleEn": "¿Por qué los suelos de La Guaira amplificaron la devastación de los terremotos de San Juan?",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/rr-es-plus/615760/por-que-los-suelos-de-la-guaira-amplificaron-la-devastacion-de-los-terremotos-de-san-juan/"
   }
 ]

@@ -42,20 +42,6 @@
     "url": "https://elpitazo.net/regiones/gran-caracas/banco-mundial-estima-en-19-600-millones-de-dolares-los-danos-por-terremotos-en-venezuela/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-07-23",
-    "conf": "med",
-    "titleEs": "Último rescate oficial por los terremotos fue el de Hernán Gil el 2 de julio: videos virales carecen de registro",
-    "titleEn": "Último rescate oficial por los terremotos fue el de Hernán Gil el 2 de julio: videos virales carecen de registro",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/ultimas-noticias/ultimo-rescate-oficial-por-los-terremotos-fue-el-de-hernan-gil-el-2-de-julio-videos-virales-carecen-de-registro/"
-  },
-  {
     "sourceEs": "Efecto Cocuyo",
     "sourceEn": "Efecto Cocuyo",
     "date": "2026-07-23",
@@ -110,5 +96,19 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://runrun.es/noticias/615758/a-un-mes-del-doblete-sismico-caraquenos-denuncian-lentitud-en-la-atencion-institucional/"
+  },
+  {
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
+    "date": "2026-07-23",
+    "conf": "med",
+    "titleEs": "Doble sismo del 24 de junio causó daños por casi 20 000 millones de dólares, según el Banco Mundial",
+    "titleEn": "Doble sismo del 24 de junio causó daños por casi 20 000 millones de dólares, según el Banco Mundial",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://runrun.es/inicio/615749/doble-sismo-del-24-de-junio-causo-danos-por-casi-20-000-millones-de-dolares-segun-el-banco-mundial/"
   }
 ]

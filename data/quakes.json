@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-25-07-2026-18:34-10.62--66.77",
+    "time": "2026-07-25T22:34:00.000Z",
+    "mag": 2.3,
+    "depth": 6,
+    "lat": 10.62,
+    "lon": -66.77,
+    "place": "4 km al oeste    de Naiguata",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-25-07-2026-17:29-10.65--66.83",
     "time": "2026-07-25T21:29:00.000Z",
     "mag": 1.9,
@@ -7477,21 +7492,6 @@
     "lat": 10.61,
     "lon": -66.79,
     "place": "5 km al oeste de Naiguata",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-08-07-2026-23:44-10.33--63.09",
-    "time": "2026-07-09T03:44:00.000Z",
-    "mag": 3.5,
-    "depth": 19.8,
-    "lat": 10.33,
-    "lon": -63.09,
-    "place": "23 km al norte de Caripito",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

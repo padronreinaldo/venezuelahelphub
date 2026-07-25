@@ -4,6 +4,34 @@
     "sourceEn": "El Pitazo",
     "date": "2026-07-25",
     "conf": "med",
+    "titleEs": "¿Qué se sabe sobre la implosión de un edificio en Playa Grande?",
+    "titleEn": "¿Qué se sabe sobre la implosión de un edificio en Playa Grande?",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/regiones/centro/que-se-sabe-sobre-la-implosion-de-un-edificio-en-playa-grande/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-07-25",
+    "conf": "med",
+    "titleEs": "Ingeniero estructural explica qué es el semáforo que se aplica a las edificaciones después del doble terremoto",
+    "titleEn": "Ingeniero estructural explica qué es el semáforo que se aplica a las edificaciones después del doble terremoto",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/regiones/ingeniero-estructural-explica-que-es-el-semaforo-que-se-aplica-a-las-edificaciones-despues-del-doble-terremoto/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-07-25",
+    "conf": "med",
     "titleEs": "Sube a 5.546 la cifra de fallecidos por el doble terremoto en Venezuela",
     "titleEn": "Sube a 5.546 la cifra de fallecidos por el doble terremoto en Venezuela",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -26,34 +54,6 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://elpitazo.net/reportajes/la-guaira-es-inhabitable-el-dilema-de-vivir-frente-al-mar-despues-de-los-terremotos/"
-  },
-  {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-07-25",
-    "conf": "med",
-    "titleEs": "Médicos Sin Fronteras: unas 6.000 personas siguen acampadas en la calle por los terremotos en Venezuela",
-    "titleEn": "Médicos Sin Fronteras: unas 6.000 personas siguen acampadas en la calle por los terremotos en Venezuela",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/ultimas-noticias/medicos-sin-fronteras-unas-6-000-personas-siguen-acampadas-en-la-calle-por-los-terremotos-en-venezuela/"
-  },
-  {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-07-25",
-    "conf": "med",
-    "titleEs": "Huir de los terremotos: el dolor de migrar y la duda entre volver o empezar de cero",
-    "titleEn": "Huir de los terremotos: el dolor de migrar y la duda entre volver o empezar de cero",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/regiones/huir-de-los-terremotos-el-dolor-de-migrar-y-la-duda-entre-volver-o-empezar-de-cero/"
   },
   {
     "sourceEs": "Efecto Cocuyo",
@@ -102,13 +102,13 @@
     "sourceEn": "Runrun.es",
     "date": "2026-07-25",
     "conf": "med",
-    "titleEs": "ONG Techo lanza campaña para apoyar a población venezolana afectada por los sismos",
-    "titleEn": "ONG Techo lanza campaña para apoyar a población venezolana afectada por los sismos",
+    "titleEs": "Solidaridad en acción: las iniciativas que sostienen a los sobrevivientes del doble terremoto",
+    "titleEn": "Solidaridad en acción: las iniciativas que sostienen a los sobrevivientes del doble terremoto",
     "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
     "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://runrun.es/noticias/615914/ong-techo-lanza-campana-para-apoyar-a-poblacion-venezolana-tras-los-sismos/"
+    "url": "https://runrun.es/inicio/615928/solidaridad-en-accion-las-iniciativas-que-sostienen-a-los-sobrevivientes-del-doble-terremoto/"
   }
 ]

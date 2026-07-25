@@ -3,6 +3,24 @@
     "source": "El Pitazo",
     "section": "Venezuela",
     "date": "2026-07-25",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/07/IMG-20260725-WA0045.jpg",
+    "titleEs": "¿Qué se sabe sobre la implosión de un edificio en Playa Grande?",
+    "titleEn": "¿Qué se sabe sobre la implosión de un edificio en Playa Grande?",
+    "url": "https://elpitazo.net/regiones/centro/que-se-sabe-sobre-la-implosion-de-un-edificio-en-playa-grande/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-07-25",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/07/Trabajo1.jpg",
+    "titleEs": "Ingeniero estructural explica qué es el semáforo que se aplica a las edificaciones después del doble terremoto",
+    "titleEn": "Ingeniero estructural explica qué es el semáforo que se aplica a las edificaciones después del doble terremoto",
+    "url": "https://elpitazo.net/regiones/ingeniero-estructural-explica-que-es-el-semaforo-que-se-aplica-a-las-edificaciones-despues-del-doble-terremoto/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-07-25",
     "img": "https://elpitazo.net/wp-content/uploads/2026/07/photo_5127642733668404338_y-819x1024.jpg",
     "titleEs": "Sube a 5.546 la cifra de fallecidos por el doble terremoto en Venezuela",
     "titleEn": "Sube a 5.546 la cifra de fallecidos por el doble terremoto en Venezuela",
@@ -16,24 +34,6 @@
     "titleEs": "¿La Guaira es inhabitable?: el dilema de vivir frente al mar después de los terremotos",
     "titleEn": "¿La Guaira es inhabitable?: el dilema de vivir frente al mar después de los terremotos",
     "url": "https://elpitazo.net/reportajes/la-guaira-es-inhabitable-el-dilema-de-vivir-frente-al-mar-despues-de-los-terremotos/"
-  },
-  {
-    "source": "El Pitazo",
-    "section": "Venezuela",
-    "date": "2026-07-25",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/07/Campamento-3.jpg",
-    "titleEs": "Médicos Sin Fronteras: unas 6.000 personas siguen acampadas en la calle por los terremotos en Venezuela",
-    "titleEn": "Médicos Sin Fronteras: unas 6.000 personas siguen acampadas en la calle por los terremotos en Venezuela",
-    "url": "https://elpitazo.net/ultimas-noticias/medicos-sin-fronteras-unas-6-000-personas-siguen-acampadas-en-la-calle-por-los-terremotos-en-venezuela/"
-  },
-  {
-    "source": "El Pitazo",
-    "section": "Venezuela",
-    "date": "2026-07-25",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/07/2026-07-24.png",
-    "titleEs": "Huir de los terremotos: el dolor de migrar y la duda entre volver o empezar de cero",
-    "titleEn": "Huir de los terremotos: el dolor de migrar y la duda entre volver o empezar de cero",
-    "url": "https://elpitazo.net/regiones/huir-de-los-terremotos-el-dolor-de-migrar-y-la-duda-entre-volver-o-empezar-de-cero/"
   },
   {
     "source": "Efecto Cocuyo",
@@ -66,6 +66,15 @@
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-25",
+    "img": "https://runrun.es/wp-content/uploads/2026/07/INICIATIVAS.jpg",
+    "titleEs": "Solidaridad en acción: las iniciativas que sostienen a los sobrevivientes del doble terremoto",
+    "titleEn": "Solidaridad en acción: las iniciativas que sostienen a los sobrevivientes del doble terremoto",
+    "url": "https://runrun.es/inicio/615928/solidaridad-en-accion-las-iniciativas-que-sostienen-a-los-sobrevivientes-del-doble-terremoto/"
+  },
+  {
+    "source": "Runrun.es",
+    "section": "Venezuela",
+    "date": "2026-07-25",
     "img": "https://runrun.es/wp-content/uploads/2026/07/IMG_20260719_134707-1280x960.jpg",
     "titleEs": "ONG Techo lanza campaña para apoyar a población venezolana afectada por los sismos",
     "titleEn": "ONG Techo lanza campaña para apoyar a población venezolana afectada por los sismos",
@@ -88,14 +97,5 @@
     "titleEs": "Los sismos también revelaron las grietas en la libertad de informar en Venezuela",
     "titleEn": "Los sismos también revelaron las grietas en la libertad de informar en Venezuela",
     "url": "https://runrun.es/rr-es-plus/615805/los-sismos-tambien-revelaron-las-grietas-en-la-libertad-de-informar-en-venezuela/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-24",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/caribe5.jpg",
-    "titleEs": "«No manejamos una cifra oficial de desaparecidos»: familias desesperadas siguen buscando a sus familiares",
-    "titleEn": "«No manejamos una cifra oficial de desaparecidos»: familias desesperadas siguen buscando a sus familiares",
-    "url": "https://runrun.es/inicio/615879/no-manejamos-una-cifra-oficial-de-desaparecidos-familias-desesperadas-siguen-buscando-a-sus-familiares/"
   }
 ]

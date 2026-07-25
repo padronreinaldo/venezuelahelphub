@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-25-07-2026-02:38-9.79--68.87",
+    "time": "2026-07-25T06:38:00.000Z",
+    "mag": 2.6,
+    "depth": 5.1,
+    "lat": 9.79,
+    "lon": -68.87,
+    "place": "34 km al noroeste de San Carlos",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-24-07-2026-23:37-10.53--68.89",
     "time": "2026-07-25T03:37:00.000Z",
     "mag": 1.9,
@@ -7477,21 +7492,6 @@
     "lat": 9.87,
     "lon": -70.89,
     "place": "26 km al sureste de Bachaquero",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-08-07-2026-16:38-10.59--66.84",
-    "time": "2026-07-08T20:38:00.000Z",
-    "mag": 2.2,
-    "depth": 5,
-    "lat": 10.59,
-    "lon": -66.84,
-    "place": "10 km al este de La Guaira",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

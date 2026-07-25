@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T22:50:35.223Z",
+  "updatedAt": "2026-07-25T23:56:11.707Z",
   "stats": {
     "maxMagnitude": 4.6,
     "aftershocks": 0,
@@ -19,17 +19,17 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8yf"
     },
     "deaths": {
-      "seenAt": "2026-07-25T22:50:35.223Z",
+      "seenAt": "2026-07-25T23:56:11.707Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
     "injured": {
-      "seenAt": "2026-07-25T22:50:35.223Z",
+      "seenAt": "2026-07-25T23:56:11.707Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
     "missing": {
-      "seenAt": "2026-07-25T22:50:35.223Z",
+      "seenAt": "2026-07-25T23:56:11.707Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     }
@@ -39,7 +39,7 @@
       "value": 5500,
       "source": "Efecto Cocuyo",
       "url": "https://efectococuyo.com/la-humanidad/entre-oraciones-y-penumbra-la-guaira-guarda-duelo-a-un-mes-del-terremoto/",
-      "seenAt": "2026-07-25T22:50:35.223Z"
+      "seenAt": "2026-07-25T23:56:11.707Z"
     },
     "injured": {
       "value": 32038,

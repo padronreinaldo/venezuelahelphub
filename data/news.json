@@ -65,6 +65,15 @@
   {
     "source": "Runrun.es",
     "section": "Venezuela",
+    "date": "2026-07-25",
+    "img": "https://runrun.es/wp-content/uploads/2026/07/portadadesismosrr.jpg",
+    "titleEs": "Los sismos también revelaron las grietas en la libertad de informar en Venezuela",
+    "titleEn": "Los sismos también revelaron las grietas en la libertad de informar en Venezuela",
+    "url": "https://runrun.es/rr-es-plus/615805/los-sismos-tambien-revelaron-las-grietas-en-la-libertad-de-informar-en-venezuela/"
+  },
+  {
+    "source": "Runrun.es",
+    "section": "Venezuela",
     "date": "2026-07-24",
     "img": "https://runrun.es/wp-content/uploads/2026/07/caribe5.jpg",
     "titleEs": "«No manejamos una cifra oficial de desaparecidos»: familias desesperadas siguen buscando a sus familiares",
@@ -88,14 +97,5 @@
     "titleEs": "Sociedad civil se moviliza para atender a personas con amputaciones tras los terremotos",
     "titleEn": "Sociedad civil se moviliza para atender a personas con amputaciones tras los terremotos",
     "url": "https://runrun.es/inicio/615822/sociedad-civil-se-moviliza-para-atender-a-personas-con-amputaciones-tras-los-terremotos/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-24",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/REFUGIOS.jpg",
-    "titleEs": "Entre carpas y edificios rotos: un mes después, algunos esperan en refugios improvisados",
-    "titleEn": "Entre carpas y edificios rotos: un mes después, algunos esperan en refugios improvisados",
-    "url": "https://runrun.es/inicio/615809/entre-carpas-y-edificios-rotos-un-mes-despues-algunos-esperan-en-refugios-improvisados/"
   }
 ]

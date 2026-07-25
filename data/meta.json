@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T17:29:04.635Z",
+  "updatedAt": "2026-07-25T18:28:08.172Z",
   "stats": {
     "maxMagnitude": 4.6,
     "aftershocks": 0,
@@ -19,27 +19,27 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8yf"
     },
     "deaths": {
-      "seenAt": "2026-07-25T17:29:04.635Z",
+      "seenAt": "2026-07-25T18:28:08.172Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
     "injured": {
-      "seenAt": "2026-07-25T17:29:04.635Z",
+      "seenAt": "2026-07-25T18:28:08.172Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
     "missing": {
-      "seenAt": "2026-07-25T17:29:04.635Z",
+      "seenAt": "2026-07-25T18:28:08.172Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     }
   },
   "alt": {
     "deaths": {
-      "value": 5398,
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/ultimas-noticias/unicef-se-requieren-65-millones-de-dolares-para-atender-el-impacto-de-los-terremotos-en-venezuela/",
-      "seenAt": "2026-07-25T00:05:37.125Z"
+      "value": 5500,
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/entre-oraciones-y-penumbra-la-guaira-guarda-duelo-a-un-mes-del-terremoto/",
+      "seenAt": "2026-07-25T18:28:08.172Z"
     },
     "injured": {
       "value": 32038,
@@ -57,13 +57,13 @@
   "sources": {
     "usgs": 0,
     "reliefweb": 0,
-    "press": 9,
+    "press": 10,
     "wikipedia": 1,
     "funvisis": 20
   },
   "counts": {
     "updates": 8,
-    "news": 9,
+    "news": 10,
     "quakes": 500
   }
 }

@@ -60,6 +60,20 @@
     "sourceEn": "Efecto Cocuyo",
     "date": "2026-07-25",
     "conf": "med",
+    "titleEs": "Íconos arquitectónicos y edificios emblemáticos sufrieron daños  tras el doble sismo en Venezuela",
+    "titleEn": "Íconos arquitectónicos y edificios emblemáticos sufrieron daños  tras el doble sismo en Venezuela",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://efectococuyo.com/la-humanidad/los-iconos-arquitectonicos-y-edificios-emblematicos-que-sufrieron-tras-el-doble-sismo-en-venezuela/"
+  },
+  {
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
+    "date": "2026-07-25",
+    "conf": "med",
     "titleEs": "Entre oraciones y penumbra, La Guaira guarda duelo a un mes del terremoto",
     "titleEn": "Entre oraciones y penumbra, La Guaira guarda duelo a un mes del terremoto",
     "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -88,27 +102,13 @@
     "sourceEn": "Runrun.es",
     "date": "2026-07-25",
     "conf": "med",
-    "titleEs": "Vecinos de Playa Grande exigen claridad sobre presuntos planes de demolición en la zona",
-    "titleEn": "Vecinos de Playa Grande exigen claridad sobre presuntos planes de demolición en la zona",
+    "titleEs": "ONG Techo lanza campaña para apoyar a población venezolana afectada por los sismos",
+    "titleEn": "ONG Techo lanza campaña para apoyar a población venezolana afectada por los sismos",
     "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
     "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://runrun.es/noticias/615888/vecinos-de-playa-grande-exigen-claridad-sobre-presuntos-planes-de-demolicion-en-la-zona/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-07-25",
-    "conf": "med",
-    "titleEs": "Los sismos también revelaron las grietas en la libertad de informar en Venezuela",
-    "titleEn": "Los sismos también revelaron las grietas en la libertad de informar en Venezuela",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/rr-es-plus/615805/los-sismos-tambien-revelaron-las-grietas-en-la-libertad-de-informar-en-venezuela/"
+    "url": "https://runrun.es/noticias/615914/ong-techo-lanza-campana-para-apoyar-a-poblacion-venezolana-tras-los-sismos/"
   }
 ]

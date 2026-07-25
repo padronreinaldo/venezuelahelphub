@@ -84,20 +84,6 @@
     "url": "https://efectococuyo.com/la-humanidad/un-mes-despues-del-doble-terremoto-venezuela-sigue-contando-escombros-sin-cifras-oficiales-de-desaparecidos/"
   },
   {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-07-24",
-    "conf": "med",
-    "titleEs": "Unas 6.000 personas siguen acampando en la calle tras los terremotos en Venezuela, dice MSF",
-    "titleEn": "Unas 6.000 personas siguen acampando en la calle tras los terremotos en Venezuela, dice MSF",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/la-humanidad/unas-6-000-personas-siguen-acampando-en-la-calle-tras-los-terremotos-en-venezuela-dice-msf/"
-  },
-  {
     "sourceEs": "Runrun.es",
     "sourceEn": "Runrun.es",
     "date": "2026-07-25",
@@ -110,5 +96,19 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://runrun.es/rr-es-plus/615805/los-sismos-tambien-revelaron-las-grietas-en-la-libertad-de-informar-en-venezuela/"
+  },
+  {
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
+    "date": "2026-07-24",
+    "conf": "med",
+    "titleEs": "«No manejamos una cifra oficial de desaparecidos»: familias desesperadas siguen buscando a sus familiares",
+    "titleEn": "«No manejamos una cifra oficial de desaparecidos»: familias desesperadas siguen buscando a sus familiares",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://runrun.es/inicio/615879/no-manejamos-una-cifra-oficial-de-desaparecidos-familias-desesperadas-siguen-buscando-a-sus-familiares/"
   }
 ]

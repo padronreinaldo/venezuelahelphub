@@ -58,6 +58,20 @@
   {
     "sourceEs": "Efecto Cocuyo",
     "sourceEn": "Efecto Cocuyo",
+    "date": "2026-07-26",
+    "conf": "med",
+    "titleEs": "Oscar Murillo y el doble terremoto: Desfase crítico del Estado desnuda crisis de políticas públicas",
+    "titleEn": "Oscar Murillo y el doble terremoto: Desfase crítico del Estado desnuda crisis de políticas públicas",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://efectococuyo.com/la-humanidad/oscar-murillo-a-un-mes-del-terremoto-el-desfase-critico-del-estado-desnuda-una-crisis-de-politicas-publicas/"
+  },
+  {
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
     "date": "2026-07-25",
     "conf": "med",
     "titleEs": "Íconos arquitectónicos y edificios emblemáticos sufrieron daños  tras el doble sismo en Venezuela",
@@ -68,34 +82,6 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://efectococuyo.com/la-humanidad/los-iconos-arquitectonicos-y-edificios-emblematicos-que-sufrieron-tras-el-doble-sismo-en-venezuela/"
-  },
-  {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-07-25",
-    "conf": "med",
-    "titleEs": "Entre oraciones y penumbra, La Guaira guarda duelo a un mes del terremoto",
-    "titleEn": "Entre oraciones y penumbra, La Guaira guarda duelo a un mes del terremoto",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/la-humanidad/entre-oraciones-y-penumbra-la-guaira-guarda-duelo-a-un-mes-del-terremoto/"
-  },
-  {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-07-25",
-    "conf": "med",
-    "titleEs": "Colegio de Ingenieros de Venezuela ha inspeccionado más de 8.000 estructuras tras doble terremoto",
-    "titleEn": "Colegio de Ingenieros de Venezuela ha inspeccionado más de 8.000 estructuras tras doble terremoto",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/la-humanidad/colegio-de-ingenieros-de-venezuela-ha-inspeccionado-mas-de-8-000-estructuras-tras-doble-terremoto/"
   },
   {
     "sourceEs": "Runrun.es",
@@ -110,5 +96,19 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://runrun.es/noticias/615931/cecodap-registra-1-405-ninos-ninas-y-adolescentes-afectados-tras-sismos/"
+  },
+  {
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
+    "date": "2026-07-25",
+    "conf": "med",
+    "titleEs": "Solidaridad en acción: las iniciativas que sostienen a los sobrevivientes del doble terremoto",
+    "titleEn": "Solidaridad en acción: las iniciativas que sostienen a los sobrevivientes del doble terremoto",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://runrun.es/inicio/615928/solidaridad-en-accion-las-iniciativas-que-sostienen-a-los-sobrevivientes-del-doble-terremoto/"
   }
 ]

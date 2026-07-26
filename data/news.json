@@ -3,6 +3,15 @@
     "source": "El Pitazo",
     "section": "Venezuela",
     "date": "2026-07-26",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/07/Derrumbe-institucional-6.jpg",
+    "titleEs": "Estudiantes de la Universidad Marítima: “Creímos que moriríamos con los terremotos”",
+    "titleEn": "Estudiantes de la Universidad Marítima: “Creímos que moriríamos con los terremotos”",
+    "url": "https://elpitazo.net/reportajes/estudiantes-de-la-universidad-maritima-creimos-que-moririamos-con-los-terremotos/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-07-26",
     "img": "https://elpitazo.net/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-26-at-1.33.05-PM.jpeg",
     "titleEs": "¿Por qué el régimen tardó 18 días en responder al doble terremoto?",
     "titleEn": "¿Por qué el régimen tardó 18 días en responder al doble terremoto?",
@@ -25,15 +34,6 @@
     "titleEs": "Rescatista merideña: «Hay baches terribles en la vía por los que tardamos más en llegar a La Guaira»",
     "titleEn": "Rescatista merideña: «Hay baches terribles en la vía por los que tardamos más en llegar a La Guaira»",
     "url": "https://elpitazo.net/regiones/rescatista-meridena-hay-baches-terribles-en-la-via-por-los-que-tardamos-mas-en-llegar-a-la-guaira/"
-  },
-  {
-    "source": "El Pitazo",
-    "section": "Venezuela",
-    "date": "2026-07-26",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/07/Comando-Sur.jpg",
-    "titleEs": "Comando Sur concluye asistencia militar en Venezuela tras terremotos",
-    "titleEn": "Comando Sur concluye asistencia militar en Venezuela tras terremotos",
-    "url": "https://elpitazo.net/politica/comando-sur-concluye-asistencia-militar-en-venezuela-tras-terremotos/"
   },
   {
     "source": "Efecto Cocuyo",
@@ -63,21 +63,12 @@
     "url": "https://efectococuyo.com/la-humanidad/a-un-mes-del-doble-terremoto-estas-son-las-cifras-oficiales/"
   },
   {
-    "source": "Efecto Cocuyo",
-    "section": "Venezuela",
-    "date": "2026-07-26",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/24132328/WhatsApp-Image-2026-07-24-at-1.21.25-PM-1024x576.jpeg",
-    "titleEs": "Oscar Murillo y el doble terremoto: Desfase crítico del Estado desnuda crisis de políticas públicas",
-    "titleEn": "Oscar Murillo y el doble terremoto: Desfase crítico del Estado desnuda crisis de políticas públicas",
-    "url": "https://efectococuyo.com/la-humanidad/oscar-murillo-a-un-mes-del-terremoto-el-desfase-critico-del-estado-desnuda-una-crisis-de-politicas-publicas/"
-  },
-  {
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-26",
     "img": "https://runrun.es/wp-content/uploads/2026/07/Comando-Sur-EE.UU_.-La-Guaira-terremotos-scaled.jpg",
-    "titleEs": "Comando Sur se retira de Venezuela tras terremotos y ratifica que continuará el apoyo de EE. UU.",
-    "titleEn": "Comando Sur se retira de Venezuela tras terremotos y ratifica que continuará el apoyo de EE. UU.",
+    "titleEs": "Comando Sur concluye misión por terremotos en Venezuela y asegura que el apoyo de EE. UU. continuará",
+    "titleEn": "Comando Sur concluye misión por terremotos en Venezuela y asegura que el apoyo de EE. UU. continuará",
     "url": "https://runrun.es/noticias/615987/comando-sur-se-retira-de-venezuela-tras-terremotos-y-ratifica-que-continuara-el-apoyo-de-ee-uu/"
   },
   {
@@ -97,14 +88,5 @@
     "titleEs": "Cecodap registra 1405 niños, niñas y adolescentes afectados por los sismos",
     "titleEn": "Cecodap registra 1405 niños, niñas y adolescentes afectados por los sismos",
     "url": "https://runrun.es/noticias/615931/cecodap-registra-1-405-ninos-ninas-y-adolescentes-afectados-tras-sismos/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-25",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/INICIATIVAS.jpg",
-    "titleEs": "Solidaridad en acción: las iniciativas que sostienen a los sobrevivientes del doble terremoto",
-    "titleEn": "Solidaridad en acción: las iniciativas que sostienen a los sobrevivientes del doble terremoto",
-    "url": "https://runrun.es/inicio/615928/solidaridad-en-accion-las-iniciativas-que-sostienen-a-los-sobrevivientes-del-doble-terremoto/"
   }
 ]

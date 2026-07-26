@@ -4,6 +4,20 @@
     "sourceEn": "El Pitazo",
     "date": "2026-07-26",
     "conf": "med",
+    "titleEs": "Comando Sur concluye asistencia militar en Venezuela tras terremotos",
+    "titleEn": "Comando Sur concluye asistencia militar en Venezuela tras terremotos",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/politica/comando-sur-concluye-asistencia-militar-en-venezuela-tras-terremotos/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-07-26",
+    "conf": "med",
     "titleEs": "Colegio de Ingenieros después de los terremotos: más de 70 % de las estructuras son habitables en Caracas",
     "titleEn": "Colegio de Ingenieros después de los terremotos: más de 70 % de las estructuras son habitables en Caracas",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -42,18 +56,18 @@
     "url": "https://elpitazo.net/regiones/la-promesa-de-calderon-perdio-26-familiares-en-los-terremotos-y-quiere-encontrar-todos-los-cuerpos/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
     "date": "2026-07-26",
     "conf": "med",
-    "titleEs": "Cecodap: 221 niños y adolescentes murieron y 273 siguen desaparecidos un mes después de los terremotos",
-    "titleEn": "Cecodap: 221 niños y adolescentes murieron y 273 siguen desaparecidos un mes después de los terremotos",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "titleEs": "Amputaciones: la otra emergencia que deja el doble terremoto",
+    "titleEn": "Amputaciones: la otra emergencia que deja el doble terremoto",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/regiones/cecodap-221-ninos-y-adolescentes-murieron-y-273-siguen-desaparecidos-un-mes-despues-de-los-terremotos/"
+    "url": "https://efectococuyo.com/la-humanidad/amputaciones-la-otra-emergencia-que-deja-el-doble-terremoto/"
   },
   {
     "sourceEs": "Efecto Cocuyo",
@@ -88,27 +102,13 @@
     "sourceEn": "Runrun.es",
     "date": "2026-07-26",
     "conf": "med",
-    "titleEs": "Los sismos de San Juan también golpearon el patrimonio religioso",
-    "titleEn": "Los sismos de San Juan también golpearon el patrimonio religioso",
+    "titleEs": "Comando Sur se retira de Venezuela tras terremotos y ratifica que continuará el apoyo de EE. UU.",
+    "titleEn": "Comando Sur se retira de Venezuela tras terremotos y ratifica que continuará el apoyo de EE. UU.",
     "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
     "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://runrun.es/rr-es-plus/615956/los-sismos-de-san-juan-tambien-golpearon-el-patrimonio-religioso/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-07-25",
-    "conf": "med",
-    "titleEs": "Cecodap registra 1405 niños, niñas y adolescentes afectados por los sismos",
-    "titleEn": "Cecodap registra 1405 niños, niñas y adolescentes afectados por los sismos",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/noticias/615931/cecodap-registra-1-405-ninos-ninas-y-adolescentes-afectados-tras-sismos/"
+    "url": "https://runrun.es/noticias/615987/comando-sur-se-retira-de-venezuela-tras-terremotos-y-ratifica-que-continuara-el-apoyo-de-ee-uu/"
   }
 ]

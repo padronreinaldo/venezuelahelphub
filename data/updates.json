@@ -72,6 +72,20 @@
   {
     "sourceEs": "Runrun.es",
     "sourceEn": "Runrun.es",
+    "date": "2026-07-26",
+    "conf": "med",
+    "titleEs": "Los sismos de San Juan también golpearon el patrimonio religioso",
+    "titleEn": "Los sismos de San Juan también golpearon el patrimonio religioso",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://runrun.es/rr-es-plus/615956/los-sismos-de-san-juan-tambien-golpearon-el-patrimonio-religioso/"
+  },
+  {
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
     "date": "2026-07-25",
     "conf": "med",
     "titleEs": "Cecodap registra 1.405 niños, niñas y adolescentes afectados tras sismos",
@@ -96,19 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://runrun.es/inicio/615928/solidaridad-en-accion-las-iniciativas-que-sostienen-a-los-sobrevivientes-del-doble-terremoto/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-07-25",
-    "conf": "med",
-    "titleEs": "ONG Techo lanza campaña para apoyar a población venezolana afectada por los sismos",
-    "titleEn": "ONG Techo lanza campaña para apoyar a población venezolana afectada por los sismos",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/noticias/615914/ong-techo-lanza-campana-para-apoyar-a-poblacion-venezolana-tras-los-sismos/"
   }
 ]

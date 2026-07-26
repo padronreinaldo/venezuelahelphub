@@ -47,8 +47,17 @@
   {
     "source": "Runrun.es",
     "section": "Venezuela",
+    "date": "2026-07-26",
+    "img": "",
+    "titleEs": "Los sismos de San Juan también golpearon el patrimonio religioso",
+    "titleEn": "Los sismos de San Juan también golpearon el patrimonio religioso",
+    "url": "https://runrun.es/rr-es-plus/615956/los-sismos-de-san-juan-tambien-golpearon-el-patrimonio-religioso/"
+  },
+  {
+    "source": "Runrun.es",
+    "section": "Venezuela",
     "date": "2026-07-25",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/Cecodap-ninos-ninas-y-adolescentes-terremotos.jpg",
+    "img": "",
     "titleEs": "Cecodap registra 1.405 niños, niñas y adolescentes afectados tras sismos",
     "titleEn": "Cecodap registra 1.405 niños, niñas y adolescentes afectados tras sismos",
     "url": "https://runrun.es/noticias/615931/cecodap-registra-1-405-ninos-ninas-y-adolescentes-afectados-tras-sismos/"
@@ -57,7 +66,7 @@
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-25",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/INICIATIVAS.jpg",
+    "img": "",
     "titleEs": "Solidaridad en acción: las iniciativas que sostienen a los sobrevivientes del doble terremoto",
     "titleEn": "Solidaridad en acción: las iniciativas que sostienen a los sobrevivientes del doble terremoto",
     "url": "https://runrun.es/inicio/615928/solidaridad-en-accion-las-iniciativas-que-sostienen-a-los-sobrevivientes-del-doble-terremoto/"
@@ -66,18 +75,9 @@
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-25",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/IMG_20260719_134707-1280x960.jpg",
+    "img": "",
     "titleEs": "ONG Techo lanza campaña para apoyar a población venezolana afectada por los sismos",
     "titleEn": "ONG Techo lanza campaña para apoyar a población venezolana afectada por los sismos",
     "url": "https://runrun.es/noticias/615914/ong-techo-lanza-campana-para-apoyar-a-poblacion-venezolana-tras-los-sismos/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-25",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/Playa-Grande.-La-Guaira.-Denuncia-sabado-26-de-julio-sobre-demoliciones.jpeg",
-    "titleEs": "Vecinos de Playa Grande exigen claridad sobre presuntos planes de demolición en la zona",
-    "titleEn": "Vecinos de Playa Grande exigen claridad sobre presuntos planes de demolición en la zona",
-    "url": "https://runrun.es/noticias/615888/vecinos-de-playa-grande-exigen-claridad-sobre-presuntos-planes-de-demolicion-en-la-zona/"
   }
 ]

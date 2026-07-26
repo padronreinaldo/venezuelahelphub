@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-26-07-2026-10:43-10.75--67.68",
+    "time": "2026-07-26T14:43:00.000Z",
+    "mag": 2,
+    "depth": 17.6,
+    "lat": 10.75,
+    "lon": -67.68,
+    "place": "48 km al noreste  de Moron",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-26-07-2026-10:18-10.6--67.17",
     "time": "2026-07-26T14:18:00.000Z",
     "mag": 3.3,
@@ -7477,21 +7492,6 @@
     "lat": 8.81,
     "lon": -70.61,
     "place": "11 km al sureste de Santo Domingo",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-09-07-2026-17:46-9.53--68.65",
-    "time": "2026-07-09T21:46:00.000Z",
-    "mag": 2.8,
-    "depth": 57.1,
-    "lat": 9.53,
-    "lon": -68.65,
-    "place": "16 Km al suroeste de San Carlos",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

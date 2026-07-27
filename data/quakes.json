@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-27-07-2026-16:10-10.46--68.49",
+    "time": "2026-07-27T20:10:00.000Z",
+    "mag": 2.4,
+    "depth": 10.7,
+    "lat": 10.46,
+    "lon": -68.49,
+    "place": "30 km al noreste  de San Felipe",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-27-07-2026-14:50-10--61.07",
     "time": "2026-07-27T18:50:00.000Z",
     "mag": 2.5,
@@ -7477,21 +7492,6 @@
     "lat": 9.22,
     "lon": -68.61,
     "place": "47 km al noroeste de El Baul",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-10-07-2026-09:51-10.64--67.55",
-    "time": "2026-07-10T13:51:00.000Z",
-    "mag": 3,
-    "depth": 9.9,
-    "lat": 10.64,
-    "lon": -67.55,
-    "place": "43 km al norte de Maracay",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

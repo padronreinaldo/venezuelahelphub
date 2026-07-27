@@ -42,32 +42,46 @@
     "url": "https://efectococuyo.com/economia/bolsa-de-valores-pnud-y-camara-inmobiliaria-firman-acuerdo-para-financiar-reconstruccion-tras-terremotos/"
   },
   {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-07-26",
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
+    "date": "2026-07-27",
     "conf": "med",
-    "titleEs": "Amputaciones: la otra emergencia que deja el doble terremoto (Serie 1/2)",
-    "titleEn": "Amputaciones: la otra emergencia que deja el doble terremoto (Serie 1/2)",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
+    "titleEs": "Organizaciones alertan sobre riesgos graves y desprotección de presos políticos luego de los sismos",
+    "titleEn": "Organizaciones alertan sobre riesgos graves y desprotección de presos políticos luego de los sismos",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://efectococuyo.com/la-humanidad/amputaciones-la-otra-emergencia-que-deja-el-doble-terremoto/"
+    "url": "https://runrun.es/noticias/616055/organizaciones-alertan-sobre-riesgos-graves-y-desproteccion-de-presos-politicos-luego-de-los-sismos/"
   },
   {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-07-26",
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
+    "date": "2026-07-27",
     "conf": "med",
-    "titleEs": "Ejército de EEUU concluye misión de ayuda tras doble terremoto en Venezuela",
-    "titleEn": "Ejército de EEUU concluye misión de ayuda tras doble terremoto en Venezuela",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
+    "titleEs": "Informe del Centro Miranda para la Democracia denuncia fallas en la respuesta estatal al terremoto",
+    "titleEn": "Informe del Centro Miranda para la Democracia denuncia fallas en la respuesta estatal al terremoto",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://efectococuyo.com/la-humanidad/ejercito-de-eeuu-concluye-mision-de-ayuda-tras-doble-terremoto-en-venezuela/"
+    "url": "https://runrun.es/inicio/616039/informe-del-centro-miranda-para-la-democracia-denuncia-fallas-en-la-respuesta-estatal-al-terremoto/"
+  },
+  {
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
+    "date": "2026-07-27",
+    "conf": "med",
+    "titleEs": "ODH-ULA: Emergencia evidenció deficiencias en prevención, gestión institucional y acceso a información pública",
+    "titleEn": "ODH-ULA: Emergencia evidenció deficiencias en prevención, gestión institucional y acceso a información pública",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://runrun.es/noticias/616042/odh-ula-emergencia-evidencio-fallas-en-prevencion-respuesta-oficial-y-acceso-a-informacion-publica/"
   },
   {
     "sourceEs": "Runrun.es",
@@ -82,19 +96,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://runrun.es/noticias/615987/comando-sur-se-retira-de-venezuela-tras-terremotos-y-ratifica-que-continuara-el-apoyo-de-ee-uu/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-07-26",
-    "conf": "med",
-    "titleEs": "Los sismos de San Juan también golpearon el patrimonio religioso",
-    "titleEn": "Los sismos de San Juan también golpearon el patrimonio religioso",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/rr-es-plus/615956/los-sismos-de-san-juan-tambien-golpearon-el-patrimonio-religioso/"
   }
 ]

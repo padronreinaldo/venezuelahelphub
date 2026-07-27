@@ -3,19 +3,28 @@
     "source": "El Pitazo",
     "section": "Venezuela",
     "date": "2026-07-27",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/07/Derrumbe-institucional-6.jpg",
+    "titleEs": "En La Guaira fallaron las promesas de reconstrucción segura del chavismo",
+    "titleEn": "En La Guaira fallaron las promesas de reconstrucción segura del chavismo",
+    "url": "https://elpitazo.net/reportajes/en-la-guaira-fallaron-las-promesas-de-reconstruccion-segura-del-chavismo/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-07-27",
     "img": "https://elpitazo.net/wp-content/uploads/2026/07/IMG-20260724-WA0086.jpg",
     "titleEs": "BCV y la banca privada evalúan un plan de créditos para reconstruir viviendas afectadas por los terremotos",
     "titleEn": "BCV y la banca privada evalúan un plan de créditos para reconstruir viviendas afectadas por los terremotos",
     "url": "https://elpitazo.net/economia/bcv-y-la-banca-privada-evaluan-un-plan-de-creditos-para-reconstruir-viviendas-afectadas-por-los-terremotos/"
   },
   {
-    "source": "El Pitazo",
+    "source": "Efecto Cocuyo",
     "section": "Venezuela",
     "date": "2026-07-27",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/02/venezuela-press-espana.jpg",
-    "titleEs": "España elimina llamadas gratuitas a Venezuela ante fin de medidas extraordinarias por terremotos",
-    "titleEn": "España elimina llamadas gratuitas a Venezuela ante fin de medidas extraordinarias por terremotos",
-    "url": "https://elpitazo.net/internacional/espana-elimina-llamadas-gratuitas-a-venezuela-ante-fin-de-medidas-extraordinarias-por-terremotos/"
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/27165259/images-14.jpg",
+    "titleEs": "Familia solicita apoyo solidario para cirugía de paciente con hemorragia cerebral tras los terremotos",
+    "titleEn": "Familia solicita apoyo solidario para cirugía de paciente con hemorragia cerebral tras los terremotos",
+    "url": "https://efectococuyo.com/la-humanidad/familia-solicita-apoyo-solidario-para-cirugia-de-paciente-con-hemorragia-cerebral-tras-los-terremotos/"
   },
   {
     "source": "Efecto Cocuyo",
@@ -30,7 +39,7 @@
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-27",
-    "img": "https://runrun.es/wp-content/uploads/2026/04/Presos-politicos-1.jpg",
+    "img": "",
     "titleEs": "Organizaciones alertan sobre riesgos graves y desprotección de presos políticos luego de los sismos",
     "titleEn": "Organizaciones alertan sobre riesgos graves y desprotección de presos políticos luego de los sismos",
     "url": "https://runrun.es/noticias/616055/organizaciones-alertan-sobre-riesgos-graves-y-desproteccion-de-presos-politicos-luego-de-los-sismos/"
@@ -39,7 +48,7 @@
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-27",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/uno.jpg",
+    "img": "",
     "titleEs": "Informe del Centro Miranda para la Democracia denuncia fallas en la respuesta estatal al terremoto",
     "titleEn": "Informe del Centro Miranda para la Democracia denuncia fallas en la respuesta estatal al terremoto",
     "url": "https://runrun.es/inicio/616039/informe-del-centro-miranda-para-la-democracia-denuncia-fallas-en-la-respuesta-estatal-al-terremoto/"
@@ -48,18 +57,9 @@
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-27",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/dos-2.jpg",
+    "img": "",
     "titleEs": "ODH-ULA: Emergencia evidenció deficiencias en prevención, gestión institucional y acceso a información pública",
     "titleEn": "ODH-ULA: Emergencia evidenció deficiencias en prevención, gestión institucional y acceso a información pública",
     "url": "https://runrun.es/noticias/616042/odh-ula-emergencia-evidencio-fallas-en-prevencion-respuesta-oficial-y-acceso-a-informacion-publica/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-26",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/Comando-Sur-EE.UU_.-La-Guaira-terremotos-scaled.jpg",
-    "titleEs": "Comando Sur concluye misión por terremotos en Venezuela y asegura que el apoyo de EE. UU. continuará",
-    "titleEn": "Comando Sur concluye misión por terremotos en Venezuela y asegura que el apoyo de EE. UU. continuará",
-    "url": "https://runrun.es/noticias/615987/comando-sur-se-retira-de-venezuela-tras-terremotos-y-ratifica-que-continuara-el-apoyo-de-ee-uu/"
   }
 ]

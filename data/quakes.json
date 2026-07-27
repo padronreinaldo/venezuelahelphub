@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-27-07-2026-16:40-10.68--62.43",
+    "time": "2026-07-27T20:40:00.000Z",
+    "mag": 3.2,
+    "depth": 35.5,
+    "lat": 10.68,
+    "lon": -62.43,
+    "place": "16 km al oeste    de Guiria",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-27-07-2026-16:10-10.46--68.49",
     "time": "2026-07-27T20:10:00.000Z",
     "mag": 2.4,
@@ -7476,21 +7491,6 @@
     "depth": 43.1,
     "lat": 9,
     "lon": -68,
-    "place": "47 km al noroeste de El Baul",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-10-07-2026-10:26-9.22--68.61",
-    "time": "2026-07-10T14:26:00.000Z",
-    "mag": 2.2,
-    "depth": 43.1,
-    "lat": 9.22,
-    "lon": -68.61,
     "place": "47 km al noroeste de El Baul",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,

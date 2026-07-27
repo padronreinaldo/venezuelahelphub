@@ -4,6 +4,20 @@
     "sourceEn": "El Pitazo",
     "date": "2026-07-27",
     "conf": "med",
+    "titleEs": "En La Guaira fallaron las promesas de reconstrucción segura del chavismo",
+    "titleEn": "En La Guaira fallaron las promesas de reconstrucción segura del chavismo",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/reportajes/en-la-guaira-fallaron-las-promesas-de-reconstruccion-segura-del-chavismo/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-07-27",
+    "conf": "med",
     "titleEs": "BCV y la banca privada evalúan un plan de créditos para reconstruir viviendas afectadas por los terremotos",
     "titleEn": "BCV y la banca privada evalúan un plan de créditos para reconstruir viviendas afectadas por los terremotos",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -14,18 +28,18 @@
     "url": "https://elpitazo.net/economia/bcv-y-la-banca-privada-evaluan-un-plan-de-creditos-para-reconstruir-viviendas-afectadas-por-los-terremotos/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
     "date": "2026-07-27",
     "conf": "med",
-    "titleEs": "España elimina llamadas gratuitas a Venezuela ante fin de medidas extraordinarias por terremotos",
-    "titleEn": "España elimina llamadas gratuitas a Venezuela ante fin de medidas extraordinarias por terremotos",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "titleEs": "Familia solicita apoyo solidario para cirugía de paciente con hemorragia cerebral tras los terremotos",
+    "titleEn": "Familia solicita apoyo solidario para cirugía de paciente con hemorragia cerebral tras los terremotos",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/internacional/espana-elimina-llamadas-gratuitas-a-venezuela-ante-fin-de-medidas-extraordinarias-por-terremotos/"
+    "url": "https://efectococuyo.com/la-humanidad/familia-solicita-apoyo-solidario-para-cirugia-de-paciente-con-hemorragia-cerebral-tras-los-terremotos/"
   },
   {
     "sourceEs": "Efecto Cocuyo",
@@ -82,19 +96,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://runrun.es/noticias/616042/odh-ula-emergencia-evidencio-fallas-en-prevencion-respuesta-oficial-y-acceso-a-informacion-publica/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-07-26",
-    "conf": "med",
-    "titleEs": "Comando Sur concluye misión por terremotos en Venezuela y asegura que el apoyo de EE. UU. continuará",
-    "titleEn": "Comando Sur concluye misión por terremotos en Venezuela y asegura que el apoyo de EE. UU. continuará",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/noticias/615987/comando-sur-se-retira-de-venezuela-tras-terremotos-y-ratifica-que-continuara-el-apoyo-de-ee-uu/"
   }
 ]

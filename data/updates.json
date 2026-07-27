@@ -2,58 +2,16 @@
   {
     "sourceEs": "El Pitazo",
     "sourceEn": "El Pitazo",
-    "date": "2026-07-26",
+    "date": "2026-07-27",
     "conf": "med",
-    "titleEs": "Estudiantes de la Universidad Marítima: “Creímos que moriríamos con los terremotos”",
-    "titleEn": "Estudiantes de la Universidad Marítima: “Creímos que moriríamos con los terremotos”",
+    "titleEs": "Claves | Así funcionará el Aeropuerto de Maiquetía desde el 24 de agosto",
+    "titleEn": "Claves | Así funcionará el Aeropuerto de Maiquetía desde el 24 de agosto",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
     "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/reportajes/estudiantes-de-la-universidad-maritima-creimos-que-moririamos-con-los-terremotos/"
-  },
-  {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-07-26",
-    "conf": "med",
-    "titleEs": "¿Por qué el régimen tardó 18 días en responder al doble terremoto?",
-    "titleEn": "¿Por qué el régimen tardó 18 días en responder al doble terremoto?",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/politica/por-que-el-regimen-tardo-18-dias-en-responder-al-doble-terremoto/"
-  },
-  {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-07-26",
-    "conf": "med",
-    "titleEs": "Afectados por terremotos en La Guaira denuncian colas de hasta 12 horas para registrarse en censo para viviendas",
-    "titleEn": "Afectados por terremotos en La Guaira denuncian colas de hasta 12 horas para registrarse en censo para viviendas",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/regiones/afectados-por-terremotos-en-la-guaira-denuncian-colas-de-hasta-12-horas-para-registrarse-en-censo-por-viviendas/"
-  },
-  {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-07-26",
-    "conf": "med",
-    "titleEs": "Rescatista merideña: «Hay baches terribles en la vía por los que tardamos más en llegar a La Guaira»",
-    "titleEn": "Rescatista merideña: «Hay baches terribles en la vía por los que tardamos más en llegar a La Guaira»",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/regiones/rescatista-meridena-hay-baches-terribles-en-la-via-por-los-que-tardamos-mas-en-llegar-a-la-guaira/"
+    "url": "https://elpitazo.net/regiones/gran-caracas/claves-asi-funcionara-el-aeropuerto-de-maiquetia-desde-el-24-de-agosto/"
   },
   {
     "sourceEs": "Efecto Cocuyo",
@@ -110,5 +68,19 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://runrun.es/noticias/615987/comando-sur-se-retira-de-venezuela-tras-terremotos-y-ratifica-que-continuara-el-apoyo-de-ee-uu/"
+  },
+  {
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
+    "date": "2026-07-26",
+    "conf": "med",
+    "titleEs": "Los sismos de San Juan también golpearon el patrimonio religioso",
+    "titleEn": "Los sismos de San Juan también golpearon el patrimonio religioso",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://runrun.es/rr-es-plus/615956/los-sismos-de-san-juan-tambien-golpearon-el-patrimonio-religioso/"
   }
 ]

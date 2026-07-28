@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T22:32:56.534Z",
+  "updatedAt": "2026-07-28T23:55:11.161Z",
   "stats": {
     "maxMagnitude": 4.6,
     "aftershocks": 0,
@@ -19,17 +19,17 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8yf"
     },
     "deaths": {
-      "seenAt": "2026-07-28T22:32:56.534Z",
+      "seenAt": "2026-07-28T23:55:11.161Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
     "injured": {
-      "seenAt": "2026-07-28T22:32:56.534Z",
+      "seenAt": "2026-07-28T23:55:11.161Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
     "missing": {
-      "seenAt": "2026-07-28T22:32:56.534Z",
+      "seenAt": "2026-07-28T23:55:11.161Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     }
@@ -39,7 +39,7 @@
       "value": 5546,
       "source": "Runrun.es",
       "url": "https://runrun.es/inicio/616116/gobierno-dejo-de-publicar-el-balance-diario-sobre-los-sismos-desde-el-24jul/",
-      "seenAt": "2026-07-28T22:32:56.534Z"
+      "seenAt": "2026-07-28T23:55:11.161Z"
     },
     "injured": {
       "value": 32038,
@@ -57,13 +57,13 @@
   "sources": {
     "usgs": 0,
     "reliefweb": 0,
-    "press": 7,
+    "press": 9,
     "wikipedia": 1,
     "funvisis": 20
   },
   "counts": {
-    "updates": 7,
-    "news": 7,
+    "updates": 8,
+    "news": 9,
     "quakes": 500
   }
 }

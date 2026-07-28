@@ -4,6 +4,34 @@
     "sourceEn": "El Pitazo",
     "date": "2026-07-28",
     "conf": "med",
+    "titleEs": "Mérida rinde homenaje a Onai Quiñonez, artista fallecido en los terremotos",
+    "titleEn": "Mérida rinde homenaje a Onai Quiñonez, artista fallecido en los terremotos",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/regiones/merida-rinde-homenaje-a-onai-quinonez-artista-fallecido-en-los-terremotos/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-07-28",
+    "conf": "med",
+    "titleEs": "¿Qué fue peor: los terremotos o 28 años de chavismo? Vamos a los datos (II)",
+    "titleEn": "¿Qué fue peor: los terremotos o 28 años de chavismo? Vamos a los datos (II)",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/opinion/que-fue-peor-los-terremotos-o-28-anos-de-chavismo-vamos-a-los-datos-ii/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-07-28",
+    "conf": "med",
     "titleEs": "Chef larense elabora caraotas al vacío que resisten seis días sin refrigeración para damnificados",
     "titleEn": "Chef larense elabora caraotas al vacío que resisten seis días sin refrigeración para damnificados",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -82,19 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://runrun.es/noticias/616123/las-prioridades-de-atencion-de-caritas-venezuela-a-un-mes-de-los-terremotos/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-07-28",
-    "conf": "med",
-    "titleEs": "Gobierno dejó de publicar el balance diario sobre los sismos desde el #24Jul",
-    "titleEn": "Gobierno dejó de publicar el balance diario sobre los sismos desde el #24Jul",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/inicio/616116/gobierno-dejo-de-publicar-el-balance-diario-sobre-los-sismos-desde-el-24jul/"
   }
 ]

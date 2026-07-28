@@ -28,18 +28,18 @@
     "url": "https://elpitazo.net/politica/diosdado-cabello-aconseja-desactivar-la-alerta-sismica-para-que-duerman-tranquilos/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-07-27",
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
+    "date": "2026-07-28",
     "conf": "med",
-    "titleEs": "Vecinos de Petare denuncian que inspecciones en ese sector fueron selectivas después de los terremotos",
-    "titleEn": "Vecinos de Petare denuncian que inspecciones en ese sector fueron selectivas después de los terremotos",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "titleEs": "Al menos un muerto, decenas de heridos y atrapados en Japón tras terremoto de magnitud 7,1",
+    "titleEn": "Al menos un muerto, decenas de heridos y atrapados en Japón tras terremoto de magnitud 7,1",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/regiones/vecinos-de-petare-denuncian-que-inspecciones-en-ese-sector-fueron-selectivas-despues-de-los-terremotos/"
+    "url": "https://efectococuyo.com/internacionales/al-menos-un-muerto-decenas-de-heridos-y-atrapados-en-japon-tras-terremoto-de-magnitud-71/"
   },
   {
     "sourceEs": "Efecto Cocuyo",
@@ -84,20 +84,6 @@
     "url": "https://efectococuyo.com/la-humanidad/carpas-aceras-vecinos-mision-vivienda-esperan-reparaciones/"
   },
   {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-07-27",
-    "conf": "med",
-    "titleEs": "EEUU relaja controles antiblanqueo para facilitar la recuperación económica de Venezuela",
-    "titleEn": "EEUU relaja controles antiblanqueo para facilitar la recuperación económica de Venezuela",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/internacionales/eeuu-relaja-controles-antiblanqueo-para-facilitar-la-recuperacion-economica-de-venezuela/"
-  },
-  {
     "sourceEs": "Runrun.es",
     "sourceEn": "Runrun.es",
     "date": "2026-07-28",
@@ -110,5 +96,19 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://runrun.es/noticias/616075/cofavic-pide-que-se-cumplan-estandares-internacionales-en-la-identificacion-de-victimas/"
+  },
+  {
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
+    "date": "2026-07-27",
+    "conf": "med",
+    "titleEs": "Cotejo.info: “media verdad” el discurso de Jorge Rodríguez sobre gestión de escombros",
+    "titleEn": "Cotejo.info: “media verdad” el discurso de Jorge Rodríguez sobre gestión de escombros",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://runrun.es/noticias/616067/cotejo-info-media-verdad-el-discurso-de-jorge-rodriguez-sobre-gestion-de-escombros/"
   }
 ]

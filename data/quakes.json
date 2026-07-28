@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-28-07-2026-11:49-10.18--67.26",
+    "time": "2026-07-28T15:49:00.000Z",
+    "mag": 1.9,
+    "depth": 21.3,
+    "lat": 10.18,
+    "lon": -67.26,
+    "place": "9 km al sureste  de La Victoria",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-28-07-2026-10:37-8.76--73.08",
     "time": "2026-07-28T14:37:00.000Z",
     "mag": 2.7,
@@ -7477,21 +7492,6 @@
     "lat": 10.65,
     "lon": -67.55,
     "place": "44 km al norte de Maracay",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-10-07-2026-21:25-10.64--67.35",
-    "time": "2026-07-11T01:25:00.000Z",
-    "mag": 2.3,
-    "depth": 7,
-    "lat": 10.64,
-    "lon": -67.35,
-    "place": "46 km al norte de La Victoria",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

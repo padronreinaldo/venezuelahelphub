@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T19:59:31.779Z",
+  "updatedAt": "2026-07-28T21:15:18.874Z",
   "stats": {
     "maxMagnitude": 4.6,
     "aftershocks": 0,
@@ -19,17 +19,17 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8yf"
     },
     "deaths": {
-      "seenAt": "2026-07-28T19:59:31.779Z",
+      "seenAt": "2026-07-28T21:15:18.874Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
     "injured": {
-      "seenAt": "2026-07-28T19:59:31.779Z",
+      "seenAt": "2026-07-28T21:15:18.874Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
     "missing": {
-      "seenAt": "2026-07-28T19:59:31.779Z",
+      "seenAt": "2026-07-28T21:15:18.874Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     }
@@ -39,7 +39,7 @@
       "value": 5546,
       "source": "Runrun.es",
       "url": "https://runrun.es/inicio/616116/gobierno-dejo-de-publicar-el-balance-diario-sobre-los-sismos-desde-el-24jul/",
-      "seenAt": "2026-07-28T19:59:31.779Z"
+      "seenAt": "2026-07-28T21:15:18.874Z"
     },
     "injured": {
       "value": 32038,
@@ -51,7 +51,7 @@
       "value": 273,
       "source": "Efecto Cocuyo",
       "url": "https://efectococuyo.com/la-humanidad/cecodap-documenta-1-405-ninos-afectados-221-muertos-y-273-desaparecidos-por-los-terremotos/",
-      "seenAt": "2026-07-28T19:59:31.779Z"
+      "seenAt": "2026-07-28T21:15:18.874Z"
     }
   },
   "sources": {

@@ -2,6 +2,24 @@
   {
     "source": "El Pitazo",
     "section": "Venezuela",
+    "date": "2026-07-28",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/07/terremoto-japon-3-1024x682.jpg",
+    "titleEs": "Terremoto en Japón de magnitud 7,1 deja un muerto y 80 heridos",
+    "titleEn": "Terremoto en Japón de magnitud 7,1 deja un muerto y 80 heridos",
+    "url": "https://elpitazo.net/internacionales/terremoto-en-japon-de-magnitud-71-deja-un-muerto-y-80-heridos/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-07-28",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/02/photo_4922967415797255058_y.jpg",
+    "titleEs": "Diosdado Cabello aconseja desactivar la alerta sísmica: «para que duerman tranquilos»",
+    "titleEn": "Diosdado Cabello aconseja desactivar la alerta sísmica: «para que duerman tranquilos»",
+    "url": "https://elpitazo.net/politica/diosdado-cabello-aconseja-desactivar-la-alerta-sismica-para-que-duerman-tranquilos/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
     "date": "2026-07-27",
     "img": "https://elpitazo.net/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-27-at-6.21.13-PM.jpeg",
     "titleEs": "Vecinos de Petare denuncian que inspecciones en ese sector fueron selectivas después de los terremotos",
@@ -9,22 +27,22 @@
     "url": "https://elpitazo.net/regiones/vecinos-de-petare-denuncian-que-inspecciones-en-ese-sector-fueron-selectivas-despues-de-los-terremotos/"
   },
   {
-    "source": "El Pitazo",
+    "source": "Efecto Cocuyo",
     "section": "Venezuela",
-    "date": "2026-07-27",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/07/PHOTO-2026-07-23-16-10-01-1.jpg",
-    "titleEs": "«No entendemos las etiquetas»: vecinos del oeste de Caracas se sienten confundidos y desatendidos",
-    "titleEn": "«No entendemos las etiquetas»: vecinos del oeste de Caracas se sienten confundidos y desatendidos",
-    "url": "https://elpitazo.net/otras-noticias/no-entendemos-las-etiquetas-vecinos-del-oeste-de-caracas-se-sienten-confundidos-y-desatendidos/"
+    "date": "2026-07-28",
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/28104245/cc4180b35f860b3d85f904b6aa684310608ea0d1-1024x683.jpg",
+    "titleEs": "Tras los sismos, Ucab propone Red Vial Crítica para salvar vidas",
+    "titleEn": "Tras los sismos, Ucab propone Red Vial Crítica para salvar vidas",
+    "url": "https://efectococuyo.com/la-humanidad/tras-los-sismos-ucab-propone-red-vial-critica-para-salvar-vidas/"
   },
   {
-    "source": "El Pitazo",
+    "source": "Efecto Cocuyo",
     "section": "Venezuela",
-    "date": "2026-07-27",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/07/Derrumbe-institucional-6.jpg",
-    "titleEs": "En La Guaira fallaron las promesas de reconstrucción segura del chavismo",
-    "titleEn": "En La Guaira fallaron las promesas de reconstrucción segura del chavismo",
-    "url": "https://elpitazo.net/reportajes/en-la-guaira-fallaron-las-promesas-de-reconstruccion-segura-del-chavismo/"
+    "date": "2026-07-28",
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/28085745/terremotos-ninos-1024x683.jpg",
+    "titleEs": "Cecodap documenta 1.405 niños afectados, 221 muertos y 273 desaparecidos por los terremotos",
+    "titleEn": "Cecodap documenta 1.405 niños afectados, 221 muertos y 273 desaparecidos por los terremotos",
+    "url": "https://efectococuyo.com/la-humanidad/cecodap-documenta-1-405-ninos-afectados-221-muertos-y-273-desaparecidos-por-los-terremotos/"
   },
   {
     "source": "Efecto Cocuyo",
@@ -43,15 +61,6 @@
     "titleEs": "EEUU relaja controles antiblanqueo para facilitar la recuperación económica de Venezuela",
     "titleEn": "EEUU relaja controles antiblanqueo para facilitar la recuperación económica de Venezuela",
     "url": "https://efectococuyo.com/internacionales/eeuu-relaja-controles-antiblanqueo-para-facilitar-la-recuperacion-economica-de-venezuela/"
-  },
-  {
-    "source": "Efecto Cocuyo",
-    "section": "Venezuela",
-    "date": "2026-07-27",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/27165259/images-14.jpg",
-    "titleEs": "Familia solicita apoyo solidario para cirugía de paciente con hemorragia cerebral tras los terremotos",
-    "titleEn": "Familia solicita apoyo solidario para cirugía de paciente con hemorragia cerebral tras los terremotos",
-    "url": "https://efectococuyo.com/la-humanidad/familia-solicita-apoyo-solidario-para-cirugia-de-paciente-con-hemorragia-cerebral-tras-los-terremotos/"
   },
   {
     "source": "Runrun.es",
@@ -79,14 +88,5 @@
     "titleEs": "Organizaciones alertan sobre riesgos graves y desprotección de presos políticos luego de los sismos",
     "titleEn": "Organizaciones alertan sobre riesgos graves y desprotección de presos políticos luego de los sismos",
     "url": "https://runrun.es/noticias/616055/organizaciones-alertan-sobre-riesgos-graves-y-desproteccion-de-presos-politicos-luego-de-los-sismos/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-27",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/uno.jpg",
-    "titleEs": "Informe del Centro Miranda para la Democracia denuncia fallas en la respuesta estatal al terremoto",
-    "titleEn": "Informe del Centro Miranda para la Democracia denuncia fallas en la respuesta estatal al terremoto",
-    "url": "https://runrun.es/inicio/616039/informe-del-centro-miranda-para-la-democracia-denuncia-fallas-en-la-respuesta-estatal-al-terremoto/"
   }
 ]

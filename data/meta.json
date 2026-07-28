@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T12:52:30.553Z",
+  "updatedAt": "2026-07-28T15:16:55.520Z",
   "stats": {
     "maxMagnitude": 4.6,
     "aftershocks": 0,
@@ -19,17 +19,17 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8yf"
     },
     "deaths": {
-      "seenAt": "2026-07-28T12:52:30.553Z",
+      "seenAt": "2026-07-28T15:16:55.520Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
     "injured": {
-      "seenAt": "2026-07-28T12:52:30.553Z",
+      "seenAt": "2026-07-28T15:16:55.520Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
     "missing": {
-      "seenAt": "2026-07-28T12:52:30.553Z",
+      "seenAt": "2026-07-28T15:16:55.520Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     }
@@ -48,10 +48,10 @@
       "seenAt": "2026-06-27T19:14:37.075Z"
     },
     "missing": {
-      "value": 157,
+      "value": 273,
       "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/jorge-rodriguez-188-muertes-1-520-heridos-157-desaparecidos-terremotos/",
-      "seenAt": "2026-06-26T12:13:21.411Z"
+      "url": "https://efectococuyo.com/la-humanidad/cecodap-documenta-1-405-ninos-afectados-221-muertos-y-273-desaparecidos-por-los-terremotos/",
+      "seenAt": "2026-07-28T15:16:55.520Z"
     }
   },
   "sources": {

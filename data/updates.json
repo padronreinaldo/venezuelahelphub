@@ -2,6 +2,34 @@
   {
     "sourceEs": "El Pitazo",
     "sourceEn": "El Pitazo",
+    "date": "2026-07-28",
+    "conf": "med",
+    "titleEs": "Terremoto en Japón de magnitud 7,1 deja un muerto y 80 heridos",
+    "titleEn": "Terremoto en Japón de magnitud 7,1 deja un muerto y 80 heridos",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/internacionales/terremoto-en-japon-de-magnitud-71-deja-un-muerto-y-80-heridos/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-07-28",
+    "conf": "med",
+    "titleEs": "Diosdado Cabello aconseja desactivar la alerta sísmica: «para que duerman tranquilos»",
+    "titleEn": "Diosdado Cabello aconseja desactivar la alerta sísmica: «para que duerman tranquilos»",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/politica/diosdado-cabello-aconseja-desactivar-la-alerta-sismica-para-que-duerman-tranquilos/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
     "date": "2026-07-27",
     "conf": "med",
     "titleEs": "Vecinos de Petare denuncian que inspecciones en ese sector fueron selectivas después de los terremotos",
@@ -14,32 +42,32 @@
     "url": "https://elpitazo.net/regiones/vecinos-de-petare-denuncian-que-inspecciones-en-ese-sector-fueron-selectivas-despues-de-los-terremotos/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-07-27",
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
+    "date": "2026-07-28",
     "conf": "med",
-    "titleEs": "«No entendemos las etiquetas»: vecinos del oeste de Caracas se sienten confundidos y desatendidos",
-    "titleEn": "«No entendemos las etiquetas»: vecinos del oeste de Caracas se sienten confundidos y desatendidos",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "titleEs": "Tras los sismos, Ucab propone Red Vial Crítica para salvar vidas",
+    "titleEn": "Tras los sismos, Ucab propone Red Vial Crítica para salvar vidas",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/otras-noticias/no-entendemos-las-etiquetas-vecinos-del-oeste-de-caracas-se-sienten-confundidos-y-desatendidos/"
+    "url": "https://efectococuyo.com/la-humanidad/tras-los-sismos-ucab-propone-red-vial-critica-para-salvar-vidas/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-07-27",
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
+    "date": "2026-07-28",
     "conf": "med",
-    "titleEs": "En La Guaira fallaron las promesas de reconstrucción segura del chavismo",
-    "titleEn": "En La Guaira fallaron las promesas de reconstrucción segura del chavismo",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "titleEs": "Cecodap documenta 1.405 niños afectados, 221 muertos y 273 desaparecidos por los terremotos",
+    "titleEn": "Cecodap documenta 1.405 niños afectados, 221 muertos y 273 desaparecidos por los terremotos",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/reportajes/en-la-guaira-fallaron-las-promesas-de-reconstruccion-segura-del-chavismo/"
+    "url": "https://efectococuyo.com/la-humanidad/cecodap-documenta-1-405-ninos-afectados-221-muertos-y-273-desaparecidos-por-los-terremotos/"
   },
   {
     "sourceEs": "Efecto Cocuyo",
@@ -70,20 +98,6 @@
     "url": "https://efectococuyo.com/internacionales/eeuu-relaja-controles-antiblanqueo-para-facilitar-la-recuperacion-economica-de-venezuela/"
   },
   {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-07-27",
-    "conf": "med",
-    "titleEs": "Familia solicita apoyo solidario para cirugía de paciente con hemorragia cerebral tras los terremotos",
-    "titleEn": "Familia solicita apoyo solidario para cirugía de paciente con hemorragia cerebral tras los terremotos",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/la-humanidad/familia-solicita-apoyo-solidario-para-cirugia-de-paciente-con-hemorragia-cerebral-tras-los-terremotos/"
-  },
-  {
     "sourceEs": "Runrun.es",
     "sourceEn": "Runrun.es",
     "date": "2026-07-28",
@@ -96,19 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://runrun.es/noticias/616075/cofavic-pide-que-se-cumplan-estandares-internacionales-en-la-identificacion-de-victimas/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-07-27",
-    "conf": "med",
-    "titleEs": "Cotejo.info: “media verdad” el discurso de Jorge Rodríguez sobre gestión de escombros",
-    "titleEn": "Cotejo.info: “media verdad” el discurso de Jorge Rodríguez sobre gestión de escombros",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/noticias/616067/cotejo-info-media-verdad-el-discurso-de-jorge-rodriguez-sobre-gestion-de-escombros/"
   }
 ]

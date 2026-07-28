@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-28-07-2026-14:26-10.61--67.03",
+    "time": "2026-07-28T18:26:00.000Z",
+    "mag": 2.4,
+    "depth": 8.6,
+    "lat": 10.61,
+    "lon": -67.03,
+    "place": "11 km al oeste    de La Guaira",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-28-07-2026-11:49-10.18--67.26",
     "time": "2026-07-28T15:49:00.000Z",
     "mag": 1.9,
@@ -7477,21 +7492,6 @@
     "lat": 10.62,
     "lon": -67.54,
     "place": "41 km al norte de Maracay",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-10-07-2026-21:33-10.65--67.55",
-    "time": "2026-07-11T01:33:00.000Z",
-    "mag": 2.8,
-    "depth": 3.6,
-    "lat": 10.65,
-    "lon": -67.55,
-    "place": "44 km al norte de Maracay",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

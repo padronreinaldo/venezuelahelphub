@@ -4,6 +4,20 @@
     "sourceEn": "El Pitazo",
     "date": "2026-07-28",
     "conf": "med",
+    "titleEs": "La crisis eléctrica en Venezuela continúa: dos mega bajones se registran en el país en menos de 24 horas",
+    "titleEn": "La crisis eléctrica en Venezuela continúa: dos mega bajones se registran en el país en menos de 24 horas",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/regiones/la-crisis-electrica-en-venezuela-continua-dos-mega-bajones-se-registran-en-el-pais-en-menos-de-24-horas/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-07-28",
+    "conf": "med",
     "titleEs": "La Guaira | Mujeres detenidas sobreviven en un retén inseguro y sin condiciones en Caraballeda",
     "titleEn": "La Guaira | Mujeres detenidas sobreviven en un retén inseguro y sin condiciones en Caraballeda",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -12,20 +26,6 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://elpitazo.net/ultimas-noticias/la-guaira-mujeres-detenidas-sobreviven-en-un-reten-inseguro-y-sin-condiciones-en-caraballeda/"
-  },
-  {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-07-28",
-    "conf": "med",
-    "titleEs": "Terremoto en Japón de magnitud 7,1 deja un muerto y 80 heridos",
-    "titleEn": "Terremoto en Japón de magnitud 7,1 deja un muerto y 80 heridos",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/internacionales/terremoto-en-japon-de-magnitud-71-deja-un-muerto-y-80-heridos/"
   },
   {
     "sourceEs": "Efecto Cocuyo",
@@ -88,6 +88,20 @@
     "sourceEn": "Runrun.es",
     "date": "2026-07-28",
     "conf": "med",
+    "titleEs": "Las prioridades de atención de Cáritas Venezuela a un mes de los terremotos",
+    "titleEn": "Las prioridades de atención de Cáritas Venezuela a un mes de los terremotos",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://runrun.es/noticias/616123/las-prioridades-de-atencion-de-caritas-venezuela-a-un-mes-de-los-terremotos/"
+  },
+  {
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
+    "date": "2026-07-28",
+    "conf": "med",
     "titleEs": "Gobierno dejó de publicar el balance diario sobre los sismos desde el #24Jul",
     "titleEn": "Gobierno dejó de publicar el balance diario sobre los sismos desde el #24Jul",
     "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
@@ -96,19 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://runrun.es/inicio/616116/gobierno-dejo-de-publicar-el-balance-diario-sobre-los-sismos-desde-el-24jul/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-07-28",
-    "conf": "med",
-    "titleEs": "Cofavic pide que se cumplan estándares internacionales en la identificación de víctimas",
-    "titleEn": "Cofavic pide que se cumplan estándares internacionales en la identificación de víctimas",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/noticias/616075/cofavic-pide-que-se-cumplan-estandares-internacionales-en-la-identificacion-de-victimas/"
   }
 ]

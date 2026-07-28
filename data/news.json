@@ -29,6 +29,15 @@
   {
     "source": "Efecto Cocuyo",
     "section": "Venezuela",
+    "date": "2026-07-28",
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/27180151/WhatsApp-Image-2026-07-27-at-5.57.23-PM-3-1024x576.jpeg",
+    "titleEs": "En carpas y aceras, vecinos de Misión Vivienda esperan por reparaciones de los apartamentos",
+    "titleEn": "En carpas y aceras, vecinos de Misión Vivienda esperan por reparaciones de los apartamentos",
+    "url": "https://efectococuyo.com/la-humanidad/carpas-aceras-vecinos-mision-vivienda-esperan-reparaciones/"
+  },
+  {
+    "source": "Efecto Cocuyo",
+    "section": "Venezuela",
     "date": "2026-07-27",
     "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/04/26003331/Departamento-del-Tesoro-1-1024x579.jpg",
     "titleEs": "EEUU relaja controles antiblanqueo para facilitar la recuperación económica de Venezuela",
@@ -45,13 +54,13 @@
     "url": "https://efectococuyo.com/la-humanidad/familia-solicita-apoyo-solidario-para-cirugia-de-paciente-con-hemorragia-cerebral-tras-los-terremotos/"
   },
   {
-    "source": "Efecto Cocuyo",
+    "source": "Runrun.es",
     "section": "Venezuela",
-    "date": "2026-07-27",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/27132127/Encuentro-con-Camara-de-Inmobiliaria--1024x613.jpeg",
-    "titleEs": "Bolsa de Valores, Pnud y Cámara Inmobiliaria firman acuerdo  para financiar reconstrucción tras terremotos",
-    "titleEn": "Bolsa de Valores, Pnud y Cámara Inmobiliaria firman acuerdo  para financiar reconstrucción tras terremotos",
-    "url": "https://efectococuyo.com/economia/bolsa-de-valores-pnud-y-camara-inmobiliaria-firman-acuerdo-para-financiar-reconstruccion-tras-terremotos/"
+    "date": "2026-07-28",
+    "img": "https://runrun.es/wp-content/uploads/2026/07/502c9a9c90a750c72b5b6940197a30fa6bb776f8-860x574-1.jpg",
+    "titleEs": "Cofavic pide que se cumplan estándares internacionales en la identificación de víctimas",
+    "titleEn": "Cofavic pide que se cumplan estándares internacionales en la identificación de víctimas",
+    "url": "https://runrun.es/noticias/616075/cofavic-pide-que-se-cumplan-estandares-internacionales-en-la-identificacion-de-victimas/"
   },
   {
     "source": "Runrun.es",
@@ -79,14 +88,5 @@
     "titleEs": "Informe del Centro Miranda para la Democracia denuncia fallas en la respuesta estatal al terremoto",
     "titleEn": "Informe del Centro Miranda para la Democracia denuncia fallas en la respuesta estatal al terremoto",
     "url": "https://runrun.es/inicio/616039/informe-del-centro-miranda-para-la-democracia-denuncia-fallas-en-la-respuesta-estatal-al-terremoto/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-27",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/dos-2.jpg",
-    "titleEs": "ODH-ULA: Emergencia evidenció deficiencias en prevención, gestión institucional y acceso a información pública",
-    "titleEn": "ODH-ULA: Emergencia evidenció deficiencias en prevención, gestión institucional y acceso a información pública",
-    "url": "https://runrun.es/noticias/616042/odh-ula-emergencia-evidencio-fallas-en-prevencion-respuesta-oficial-y-acceso-a-informacion-publica/"
   }
 ]

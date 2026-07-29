@@ -60,6 +60,20 @@
     "sourceEn": "Efecto Cocuyo",
     "date": "2026-07-29",
     "conf": "med",
+    "titleEs": "Autoridades no actualizan balance de víctimas de terremotos desde el 24 de julio",
+    "titleEn": "Autoridades no actualizan balance de víctimas de terremotos desde el 24 de julio",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://efectococuyo.com/la-humanidad/autoridades-no-actualizan-balance/"
+  },
+  {
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
+    "date": "2026-07-29",
+    "conf": "med",
     "titleEs": "Surgen alianzas para apoyar a personas amputadas tras el doble terremoto (Serie 2/2)",
     "titleEn": "Surgen alianzas para apoyar a personas amputadas tras el doble terremoto (Serie 2/2)",
     "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -84,31 +98,17 @@
     "url": "https://efectococuyo.com/politica/delcy-rodriguez-bancos-creditos-afectados-sismos/"
   },
   {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
     "date": "2026-07-28",
     "conf": "med",
-    "titleEs": "USGS determina que epicentro de sismo de 7,5 fue en costas de La Guaira y no en Yaracuy",
-    "titleEn": "USGS determina que epicentro de sismo de 7,5 fue en costas de La Guaira y no en Yaracuy",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
+    "titleEs": "Las prioridades de atención de Cáritas Venezuela a un mes de los terremotos",
+    "titleEn": "Las prioridades de atención de Cáritas Venezuela a un mes de los terremotos",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://efectococuyo.com/la-humanidad/usgs-determina-que-epicentro-de-sismo-de-75-fue-en-costas-de-la-guaira-y-no-en-yaracuy/"
-  },
-  {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-07-28",
-    "conf": "med",
-    "titleEs": "Satélites europeos “ven” cómo se movió la Tierra 65 cm tras terremotos en Venezuela",
-    "titleEn": "Satélites europeos “ven” cómo se movió la Tierra 65 cm tras terremotos en Venezuela",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/internacionales/satelites-europeos-ven-como-se-movio-la-tierra-65-cm-tras-terremotos-en-venezuela/"
+    "url": "https://runrun.es/noticias/616123/las-prioridades-de-atencion-de-caritas-venezuela-a-un-mes-de-los-terremotos/"
   }
 ]

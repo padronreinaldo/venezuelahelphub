@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-29-07-2026-12:36-10.23--67.26",
+    "time": "2026-07-29T16:36:00.000Z",
+    "mag": 2.6,
+    "depth": 9.7,
+    "lat": 10.23,
+    "lon": -67.26,
+    "place": "8 km al este     de La Victoria",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-29-07-2026-11:14-10.24--67.27",
     "time": "2026-07-29T15:14:00.000Z",
     "mag": 2.4,
@@ -7477,21 +7492,6 @@
     "lat": 10.57,
     "lon": -66.84,
     "place": "11 km al sureste de La Guaira ",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-11-07-2026-15:00-11.01--62.44",
-    "time": "2026-07-11T19:00:00.000Z",
-    "mag": 3.1,
-    "depth": 23.3,
-    "lat": 11.01,
-    "lon": -62.44,
-    "place": "42 km al noroeste de Guiria",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

@@ -2,6 +2,20 @@
   {
     "sourceEs": "El Pitazo",
     "sourceEn": "El Pitazo",
+    "date": "2026-07-29",
+    "conf": "med",
+    "titleEs": "Epicentro del terremoto de 7.5 fue en Catia La Mar y no en Yaracuy, según servicio geológico de EE. UU.",
+    "titleEn": "Epicentro del terremoto de 7.5 fue en Catia La Mar y no en Yaracuy, según servicio geológico de EE. UU.",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/regiones/epicentro-del-terremoto-de-7-5-fue-en-catia-la-mar-y-no-en-yaracuy-segun-servicio-geologico-de-ee-uu/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
     "date": "2026-07-28",
     "conf": "med",
     "titleEs": "Mérida rinde homenaje a Onai Quiñonez, artista fallecido en los terremotos",
@@ -42,20 +56,6 @@
     "url": "https://elpitazo.net/regiones/chef-larense-elabora-caraotas-al-vacio-que-resisten-seis-dias-sin-refrigeracion-para-damnificados/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-07-28",
-    "conf": "med",
-    "titleEs": "«Necesitamos agua, herramientas y voluntarios» familias continúan la búsqueda de desaparecidos tras los terremotos",
-    "titleEn": "«Necesitamos agua, herramientas y voluntarios» familias continúan la búsqueda de desaparecidos tras los terremotos",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/regiones/necesitamos-agua-herramientas-y-voluntarios-el-llamado-de-familias-que-buscan-a-sus-desaparecidos-34-dias-despues-de-los-terremotos/"
-  },
-  {
     "sourceEs": "Efecto Cocuyo",
     "sourceEn": "Efecto Cocuyo",
     "date": "2026-07-28",
@@ -84,20 +84,6 @@
     "url": "https://efectococuyo.com/internacionales/satelites-europeos-ven-como-se-movio-la-tierra-65-cm-tras-terremotos-en-venezuela/"
   },
   {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-07-28",
-    "conf": "med",
-    "titleEs": "Al menos un muerto, decenas de heridos y atrapados en Japón tras terremoto de magnitud 7,1",
-    "titleEn": "Al menos un muerto, decenas de heridos y atrapados en Japón tras terremoto de magnitud 7,1",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/internacionales/al-menos-un-muerto-decenas-de-heridos-y-atrapados-en-japon-tras-terremoto-de-magnitud-71/"
-  },
-  {
     "sourceEs": "Runrun.es",
     "sourceEn": "Runrun.es",
     "date": "2026-07-28",
@@ -110,5 +96,19 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://runrun.es/noticias/616123/las-prioridades-de-atencion-de-caritas-venezuela-a-un-mes-de-los-terremotos/"
+  },
+  {
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
+    "date": "2026-07-28",
+    "conf": "med",
+    "titleEs": "Gobierno dejó de publicar el balance diario sobre los sismos desde el #24Jul",
+    "titleEn": "Gobierno dejó de publicar el balance diario sobre los sismos desde el #24Jul",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://runrun.es/inicio/616116/gobierno-dejo-de-publicar-el-balance-diario-sobre-los-sismos-desde-el-24jul/"
   }
 ]

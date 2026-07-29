@@ -28,20 +28,6 @@
     "url": "https://elpitazo.net/politica/venezuela-y-ee-uu-se-reunen-para-hablar-sobre-respuesta-al-doble-terremoto-y-cooperacion-energetica/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-07-29",
-    "conf": "med",
-    "titleEs": "La diáspora que volvió para servir: médicos venezolanos regresaron para atender a las víctimas de los terremotos",
-    "titleEn": "La diáspora que volvió para servir: médicos venezolanos regresaron para atender a las víctimas de los terremotos",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/regiones/la-diaspora-que-volvio-para-servir-medicos-venezolanos-regresaron-para-atender-a-las-victimas-de-los-terremotos/"
-  },
-  {
     "sourceEs": "Efecto Cocuyo",
     "sourceEn": "Efecto Cocuyo",
     "date": "2026-07-29",
@@ -102,13 +88,27 @@
     "sourceEn": "Runrun.es",
     "date": "2026-07-29",
     "conf": "med",
-    "titleEs": "Claves | Francisco Garcés asegura que no demolerán edificios si hay cuerpos por recuperar",
-    "titleEn": "Claves | Francisco Garcés asegura que no demolerán edificios si hay cuerpos por recuperar",
+    "titleEs": "El esquema de créditos y subsidios que anunció Delcy Rodríguez para familias afectadas por sismos",
+    "titleEn": "El esquema de créditos y subsidios que anunció Delcy Rodríguez para familias afectadas por sismos",
     "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
     "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://runrun.es/inicio/616218/claves-francisco-garces-asegura-que-no-demoleran-edificios-si-hay-cuerpos-por-recuperar/"
+    "url": "https://runrun.es/inicio/616230/el-esquema-de-creditos-y-subsidios-que-anuncio-delcy-rodriguez-para-familias-afectadas-por-sismos/"
+  },
+  {
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
+    "date": "2026-07-29",
+    "conf": "med",
+    "titleEs": "65 % de los ciudadanos desaprueba la respuesta del gobierno ante el doble terremoto",
+    "titleEn": "65 % de los ciudadanos desaprueba la respuesta del gobierno ante el doble terremoto",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://runrun.es/noticias/616197/65-de-los-ciudadanos-desaprueba-la-respuesta-del-gobierno-ante-el-doble-terremoto/"
   }
 ]

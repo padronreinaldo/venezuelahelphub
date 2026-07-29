@@ -88,6 +88,20 @@
     "sourceEn": "Runrun.es",
     "date": "2026-07-29",
     "conf": "med",
+    "titleEs": "Fundación “la Caixa” aportará hasta un millón de euros para la reconstrucción en Venezuela tras los sismos",
+    "titleEn": "Fundación “la Caixa” aportará hasta un millón de euros para la reconstrucción en Venezuela tras los sismos",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://runrun.es/noticias/616241/fundacion-la-caixa-aportara-hasta-un-millon-de-euros-para-la-reconstruccion-en-venezuela-tras-los-sismos/"
+  },
+  {
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
+    "date": "2026-07-29",
+    "conf": "med",
     "titleEs": "El esquema de créditos y subsidios que anunció Delcy Rodríguez para familias afectadas por sismos",
     "titleEn": "El esquema de créditos y subsidios que anunció Delcy Rodríguez para familias afectadas por sismos",
     "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
@@ -96,19 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://runrun.es/inicio/616230/el-esquema-de-creditos-y-subsidios-que-anuncio-delcy-rodriguez-para-familias-afectadas-por-sismos/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-07-29",
-    "conf": "med",
-    "titleEs": "65 % de los ciudadanos desaprueba la respuesta del gobierno ante el doble terremoto",
-    "titleEn": "65 % de los ciudadanos desaprueba la respuesta del gobierno ante el doble terremoto",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/noticias/616197/65-de-los-ciudadanos-desaprueba-la-respuesta-del-gobierno-ante-el-doble-terremoto/"
   }
 ]

@@ -4,6 +4,20 @@
     "sourceEn": "El Pitazo",
     "date": "2026-07-29",
     "conf": "med",
+    "titleEs": "Cuartel de la Montaña 4F es cerrado temporalmente por daños estructurales luego de los terremotos",
+    "titleEn": "Cuartel de la Montaña 4F es cerrado temporalmente por daños estructurales luego de los terremotos",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/caracas/cuartel-de-la-montana-4f-es-cerrado-temporalmente-por-danos-estructurales-luego-de-los-terremotos/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-07-29",
+    "conf": "med",
     "titleEs": "Venezuela y EE. UU. se reúnen para hablar sobre respuesta al doble terremoto y cooperación energética",
     "titleEn": "Venezuela y EE. UU. se reúnen para hablar sobre respuesta al doble terremoto y cooperación energética",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -28,18 +42,32 @@
     "url": "https://elpitazo.net/regiones/la-diaspora-que-volvio-para-servir-medicos-venezolanos-regresaron-para-atender-a-las-victimas-de-los-terremotos/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
     "date": "2026-07-29",
     "conf": "med",
-    "titleEs": "Delcy Rodríguez anuncia créditos y subsidios para que afectados por terremotos puedan comprar viviendas",
-    "titleEn": "Delcy Rodríguez anuncia créditos y subsidios para que afectados por terremotos puedan comprar viviendas",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "titleEs": "Reconstrucción tras sismos frena el crecimiento petrolero de Venezuela",
+    "titleEn": "Reconstrucción tras sismos frena el crecimiento petrolero de Venezuela",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/economia/delcy-rodriguez-anuncia-creditos-y-subsidios-para-que-afectados-por-terremotos-puedan-comprar-viviendas/"
+    "url": "https://efectococuyo.com/economia/reconstruccion-tras-sismos-frena-el-crecimiento-petrolero-de-venezuela/"
+  },
+  {
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
+    "date": "2026-07-29",
+    "conf": "med",
+    "titleEs": "Delegación del Departamento de Energía de EEUU se reúne con Delcy Rodríguez",
+    "titleEn": "Delegación del Departamento de Energía de EEUU se reúne con Delcy Rodríguez",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://efectococuyo.com/politica/delegacion-del-departamento-de-energia-de-eeuu-se-reune-con-delcy-rodriguez/"
   },
   {
     "sourceEs": "Efecto Cocuyo",
@@ -70,45 +98,17 @@
     "url": "https://efectococuyo.com/la-humanidad/surgen-alianzas-para-apoyar-a-personas-amputadas-tras-el-doble-terremoto-serie-2-2/"
   },
   {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
     "date": "2026-07-29",
     "conf": "med",
-    "titleEs": "Delcy Rodríguez dice que bancos darán créditos a afectados por sismos para comprar casas",
-    "titleEn": "Delcy Rodríguez dice que bancos darán créditos a afectados por sismos para comprar casas",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/politica/delcy-rodriguez-bancos-creditos-afectados-sismos/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-07-28",
-    "conf": "med",
-    "titleEs": "Las prioridades de atención de Cáritas Venezuela a un mes de los terremotos",
-    "titleEn": "Las prioridades de atención de Cáritas Venezuela a un mes de los terremotos",
+    "titleEs": "Claves | Francisco Garcés asegura que no demolerán edificios si hay cuerpos por recuperar",
+    "titleEn": "Claves | Francisco Garcés asegura que no demolerán edificios si hay cuerpos por recuperar",
     "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
     "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://runrun.es/noticias/616123/las-prioridades-de-atencion-de-caritas-venezuela-a-un-mes-de-los-terremotos/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-07-28",
-    "conf": "med",
-    "titleEs": "Gobierno dejó de publicar el balance diario sobre los sismos desde el #24Jul",
-    "titleEn": "Gobierno dejó de publicar el balance diario sobre los sismos desde el #24Jul",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/inicio/616116/gobierno-dejo-de-publicar-el-balance-diario-sobre-los-sismos-desde-el-24jul/"
+    "url": "https://runrun.es/inicio/616218/claves-francisco-garces-asegura-que-no-demoleran-edificios-si-hay-cuerpos-por-recuperar/"
   }
 ]

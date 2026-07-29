@@ -3,6 +3,15 @@
     "source": "El Pitazo",
     "section": "Venezuela",
     "date": "2026-07-29",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/07/cuartel-de-la-montana.png",
+    "titleEs": "Cuartel de la Montaña 4F es cerrado temporalmente por daños estructurales luego de los terremotos",
+    "titleEn": "Cuartel de la Montaña 4F es cerrado temporalmente por daños estructurales luego de los terremotos",
+    "url": "https://elpitazo.net/caracas/cuartel-de-la-montana-4f-es-cerrado-temporalmente-por-danos-estructurales-luego-de-los-terremotos/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-07-29",
     "img": "https://elpitazo.net/wp-content/uploads/2026/07/delcy-rodriguez-2-1.jpg",
     "titleEs": "Venezuela y EE. UU. se reúnen para hablar sobre respuesta al doble terremoto y cooperación energética",
     "titleEn": "Venezuela y EE. UU. se reúnen para hablar sobre respuesta al doble terremoto y cooperación energética",
@@ -18,13 +27,22 @@
     "url": "https://elpitazo.net/regiones/la-diaspora-que-volvio-para-servir-medicos-venezolanos-regresaron-para-atender-a-las-victimas-de-los-terremotos/"
   },
   {
-    "source": "El Pitazo",
+    "source": "Efecto Cocuyo",
     "section": "Venezuela",
     "date": "2026-07-29",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/07/3051ab1d67494231583e24a18e953d31a47b7961m.jpg",
-    "titleEs": "Delcy Rodríguez anuncia créditos y subsidios para que afectados por terremotos puedan comprar viviendas",
-    "titleEn": "Delcy Rodríguez anuncia créditos y subsidios para que afectados por terremotos puedan comprar viviendas",
-    "url": "https://elpitazo.net/economia/delcy-rodriguez-anuncia-creditos-y-subsidios-para-que-afectados-por-terremotos-puedan-comprar-viviendas/"
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/04/26190943/produccion-petrolera-venezolana-pdvsa.jpg",
+    "titleEs": "Reconstrucción tras sismos frena el crecimiento petrolero de Venezuela",
+    "titleEn": "Reconstrucción tras sismos frena el crecimiento petrolero de Venezuela",
+    "url": "https://efectococuyo.com/economia/reconstruccion-tras-sismos-frena-el-crecimiento-petrolero-de-venezuela/"
+  },
+  {
+    "source": "Efecto Cocuyo",
+    "section": "Venezuela",
+    "date": "2026-07-29",
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/29145832/WhatsApp-Image-2026-07-29-at-2.42.32-PM-1.jpeg",
+    "titleEs": "Delegación del Departamento de Energía de EEUU se reúne con Delcy Rodríguez",
+    "titleEn": "Delegación del Departamento de Energía de EEUU se reúne con Delcy Rodríguez",
+    "url": "https://efectococuyo.com/politica/delegacion-del-departamento-de-energia-de-eeuu-se-reune-con-delcy-rodriguez/"
   },
   {
     "source": "Efecto Cocuyo",
@@ -45,30 +63,30 @@
     "url": "https://efectococuyo.com/la-humanidad/surgen-alianzas-para-apoyar-a-personas-amputadas-tras-el-doble-terremoto-serie-2-2/"
   },
   {
-    "source": "Efecto Cocuyo",
+    "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-29",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/07212944/WhatsApp-Image-2026-07-07-at-9.25.21-PM-1-1024x576.jpeg",
-    "titleEs": "Delcy Rodríguez dice que bancos darán créditos a afectados por sismos para comprar casas",
-    "titleEn": "Delcy Rodríguez dice que bancos darán créditos a afectados por sismos para comprar casas",
-    "url": "https://efectococuyo.com/politica/delcy-rodriguez-bancos-creditos-afectados-sismos/"
+    "img": "https://runrun.es/wp-content/uploads/2026/07/photo_2026-07-29_12-27-44.jpg",
+    "titleEs": "Claves | Francisco Garcés asegura que no demolerán edificios si hay cuerpos por recuperar",
+    "titleEn": "Claves | Francisco Garcés asegura que no demolerán edificios si hay cuerpos por recuperar",
+    "url": "https://runrun.es/inicio/616218/claves-francisco-garces-asegura-que-no-demoleran-edificios-si-hay-cuerpos-por-recuperar/"
   },
   {
     "source": "Runrun.es",
     "section": "Venezuela",
-    "date": "2026-07-28",
-    "img": "",
-    "titleEs": "Las prioridades de atención de Cáritas Venezuela a un mes de los terremotos",
-    "titleEn": "Las prioridades de atención de Cáritas Venezuela a un mes de los terremotos",
-    "url": "https://runrun.es/noticias/616123/las-prioridades-de-atencion-de-caritas-venezuela-a-un-mes-de-los-terremotos/"
+    "date": "2026-07-29",
+    "img": "https://runrun.es/wp-content/uploads/2026/07/encuesta-terremotos.jpg",
+    "titleEs": "65 % de los ciudadanos desaprueba la respuesta del gobierno ante el doble terremoto",
+    "titleEn": "65 % de los ciudadanos desaprueba la respuesta del gobierno ante el doble terremoto",
+    "url": "https://runrun.es/noticias/616197/65-de-los-ciudadanos-desaprueba-la-respuesta-del-gobierno-ante-el-doble-terremoto/"
   },
   {
     "source": "Runrun.es",
     "section": "Venezuela",
-    "date": "2026-07-28",
-    "img": "",
-    "titleEs": "Gobierno dejó de publicar el balance diario sobre los sismos desde el #24Jul",
-    "titleEn": "Gobierno dejó de publicar el balance diario sobre los sismos desde el #24Jul",
-    "url": "https://runrun.es/inicio/616116/gobierno-dejo-de-publicar-el-balance-diario-sobre-los-sismos-desde-el-24jul/"
+    "date": "2026-07-29",
+    "img": "https://runrun.es/wp-content/uploads/2026/07/Diseno-sin-titulo-4.jpg",
+    "titleEs": "Avesa activa PsicoApoyo, servicio gratuito para atender el impacto emocional de los sismos",
+    "titleEn": "Avesa activa PsicoApoyo, servicio gratuito para atender el impacto emocional de los sismos",
+    "url": "https://runrun.es/noticias/con-proposito/616207/avesa-activa-psicoapoyo-servicio-gratuito-para-atender-el-impacto-emocional-de-los-sismos/"
   }
 ]

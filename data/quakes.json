@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-30-07-2026-14:50-10.83--62.33",
+    "time": "2026-07-30T18:50:00.000Z",
+    "mag": 3.5,
+    "depth": 25.1,
+    "lat": 10.83,
+    "lon": -62.33,
+    "place": "19 km al norte    de Guiria",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-30-07-2026-14:02-9.74--72.98",
     "time": "2026-07-30T18:02:00.000Z",
     "mag": 2.7,
@@ -7477,21 +7492,6 @@
     "lat": 10.66,
     "lon": -66.74,
     "place": "4 km al norte de Naiguata",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-12-07-2026-10:25-10.48--68.39",
-    "time": "2026-07-12T14:25:00.000Z",
-    "mag": 1.9,
-    "depth": 12.9,
-    "lat": 10.48,
-    "lon": -68.39,
-    "place": "27 km al suroeste de Boca de Aroa",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

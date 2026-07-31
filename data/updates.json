@@ -30,6 +30,20 @@
   {
     "sourceEs": "Runrun.es",
     "sourceEn": "Runrun.es",
+    "date": "2026-07-31",
+    "conf": "med",
+    "titleEs": "Mercado inmobiliario a la expectativa de nuevo marco regulatorio",
+    "titleEn": "Mercado inmobiliario a la expectativa de nuevo marco regulatorio",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://runrun.es/inicio/616317/mercado-inmobiliario-a-la-expectativa-de-nuevo-marco-regulatorio/"
+  },
+  {
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
     "date": "2026-07-30",
     "conf": "med",
     "titleEs": "Clima21: sismos dejan daños sin precedentes en el patrimonio cultural y revelan vacíos institucionales",
@@ -68,19 +82,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://runrun.es/inicio/616252/latam-pulse-venezuela-terremotos-aceleran-la-presion-ciudadana-por-elecciones-presidenciales/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-07-29",
-    "conf": "med",
-    "titleEs": "Candlelight realiza gira de recitales en apoyo a las víctimas del terremoto",
-    "titleEn": "Candlelight realiza gira de recitales en apoyo a las víctimas del terremoto",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/noticias/con-proposito/616236/candlelight-realiza-gira-de-recitales-en-apoyo-a-las-victimas-del-terremoto/"
   }
 ]

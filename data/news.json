@@ -1,11 +1,29 @@
 [
   {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-07-31",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/07/image-30-1024x742.png",
+    "titleEs": "Futbolista Lucas Trejo escribió sobre la muerte de su familia en los terremotos: «El peor momento de mi vida»",
+    "titleEn": "Futbolista Lucas Trejo escribió sobre la muerte de su familia en los terremotos: «El peor momento de mi vida»",
+    "url": "https://elpitazo.net/internacionales/el-peor-momento-de-mi-vida-lucas-trejo-recordo-a-su-familia-a-un-mes-del-terremoto-en-venezuela/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-07-31",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/07/temblor.png",
+    "titleEs": "Funvisis reporta sismo de 3.2 en el estado Zulia este #31Jul: es el tercero en menos de dos días",
+    "titleEn": "Funvisis reporta sismo de 3.2 en el estado Zulia este #31Jul: es el tercero en menos de dos días",
+    "url": "https://elpitazo.net/regiones/occidente/funvisis-reporta-sismo-de-3-2-en-el-estado-zulia-este-31jul-es-el-segundo-en-tres-dias/"
+  },
+  {
     "source": "Efecto Cocuyo",
     "section": "Venezuela",
     "date": "2026-07-31",
     "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/31124831/images-20.jpg",
-    "titleEs": "OVP exige traslado urgente de mujeres recluidas en Retén de Caraballeda tras terremotos",
-    "titleEn": "OVP exige traslado urgente de mujeres recluidas en Retén de Caraballeda tras terremotos",
+    "titleEs": "OVP exige traslado urgente de mujeres recluidas en Retén de Caraballeda",
+    "titleEn": "OVP exige traslado urgente de mujeres recluidas en Retén de Caraballeda",
     "url": "https://efectococuyo.com/la-humanidad/ovp-exige-traslado-urgente-de-mujeres-recluidas-en-reten-de-caraballeda-tras-terremotos/"
   },
   {
@@ -18,13 +36,22 @@
     "url": "https://efectococuyo.com/la-humanidad/a-cinco-semanas-del-sismo-el-temor-a-la-demolicion-acelera-la-busqueda-de-las-familias/"
   },
   {
-    "source": "Efecto Cocuyo",
+    "source": "Runrun.es",
     "section": "Venezuela",
-    "date": "2026-07-30",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/30155029/techo-1024x576.jpg",
-    "titleEs": "ONG chilena planea construir 200 viviendas para afectados por los terremotos en Venezuela",
-    "titleEn": "ONG chilena planea construir 200 viviendas para afectados por los terremotos en Venezuela",
-    "url": "https://efectococuyo.com/internacionales/ong-chilena-planea-construir-200-viviendas-para-afectados-por-los-terremotos-en-venezuela/"
+    "date": "2026-07-31",
+    "img": "https://runrun.es/wp-content/uploads/2026/07/Prevencion-de-la-hepatitis.png",
+    "titleEs": "Alerta por aumento de hepatitis A en refugios temporales",
+    "titleEn": "Alerta por aumento de hepatitis A en refugios temporales",
+    "url": "https://runrun.es/noticias/616352/alerta-por-aumento-de-hepatitis-a-en-refugios-temporales/"
+  },
+  {
+    "source": "Runrun.es",
+    "section": "Venezuela",
+    "date": "2026-07-31",
+    "img": "https://runrun.es/wp-content/uploads/2026/07/reten-caraballeda-terremotos.jpg",
+    "titleEs": "Alertan sobre condiciones de reclusión en retén de Caraballeda luego de los sismos",
+    "titleEn": "Alertan sobre condiciones de reclusión en retén de Caraballeda luego de los sismos",
+    "url": "https://runrun.es/noticias/616351/alertan-sobre-condiciones-de-reclusion-en-reten-de-caraballeda-luego-de-los-sismos/"
   },
   {
     "source": "Runrun.es",
@@ -43,23 +70,5 @@
     "titleEs": "Vivir un sismo sin vacunas: Venezuela enfrenta el desastre sin coberturas completas",
     "titleEn": "Vivir un sismo sin vacunas: Venezuela enfrenta el desastre sin coberturas completas",
     "url": "https://runrun.es/rr-es-plus/616301/vivir-un-sismo-sin-vacunas-venezuela-enfrenta-el-desastre-sin-coberturas-completas/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-31",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/photo_2026-07-30_15-03-56.jpg",
-    "titleEs": "Mercado inmobiliario a la expectativa de nuevo marco regulatorio",
-    "titleEn": "Mercado inmobiliario a la expectativa de nuevo marco regulatorio",
-    "url": "https://runrun.es/inicio/616317/mercado-inmobiliario-a-la-expectativa-de-nuevo-marco-regulatorio/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-30",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/clima-21.jpg",
-    "titleEs": "Clima21: sismos dejan daños sin precedentes en el patrimonio cultural y revelan vacíos institucionales",
-    "titleEn": "Clima21: sismos dejan daños sin precedentes en el patrimonio cultural y revelan vacíos institucionales",
-    "url": "https://runrun.es/inicio/616294/clima-21-sismos-dejan-danos-sin-precedentes-en-el-patrimonio-cultural-y-revelan-vacios-institucionales/"
   }
 ]

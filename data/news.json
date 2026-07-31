@@ -3,28 +3,19 @@
     "source": "El Pitazo",
     "section": "Venezuela",
     "date": "2026-07-31",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/07/1001463785-1024x682.jpg",
+    "titleEs": "Caraqueños temen volver a sus apartamentos tras los terremotos: «Es difícil confiar en que estamos seguros»",
+    "titleEn": "Caraqueños temen volver a sus apartamentos tras los terremotos: «Es difícil confiar en que estamos seguros»",
+    "url": "https://elpitazo.net/caracas/caraquenos-temen-volver-a-sus-apartamentos-tras-los-terremotos-es-dificil-confiar-en-que-estamos-seguros/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-07-31",
     "img": "https://elpitazo.net/wp-content/uploads/2026/07/jornada-de-limpieza-La-guaira.jpg",
     "titleEs": "Unidos por La Guaira: voluntarios recogen 1.700 bolsas de desechos y suman manos para una cuarta jornada",
     "titleEn": "Unidos por La Guaira: voluntarios recogen 1.700 bolsas de desechos y suman manos para una cuarta jornada",
     "url": "https://elpitazo.net/regiones/unidos-por-la-guaira-voluntarios-recogen-1-700-bolsas-de-desechos-y-suman-manos-para-una-cuarta-jornada/"
-  },
-  {
-    "source": "El Pitazo",
-    "section": "Venezuela",
-    "date": "2026-07-31",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/07/image-30-1024x742.png",
-    "titleEs": "Futbolista Lucas Trejo escribió sobre la muerte de su familia en los terremotos: «El peor momento de mi vida»",
-    "titleEn": "Futbolista Lucas Trejo escribió sobre la muerte de su familia en los terremotos: «El peor momento de mi vida»",
-    "url": "https://elpitazo.net/internacionales/el-peor-momento-de-mi-vida-lucas-trejo-recordo-a-su-familia-a-un-mes-del-terremoto-en-venezuela/"
-  },
-  {
-    "source": "El Pitazo",
-    "section": "Venezuela",
-    "date": "2026-07-31",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/07/temblor.png",
-    "titleEs": "Funvisis reporta sismo de 3.2 en el estado Zulia este #31Jul: es el tercero en menos de dos días",
-    "titleEn": "Funvisis reporta sismo de 3.2 en el estado Zulia este #31Jul: es el tercero en menos de dos días",
-    "url": "https://elpitazo.net/regiones/occidente/funvisis-reporta-sismo-de-3-2-en-el-estado-zulia-este-31jul-es-el-segundo-en-tres-dias/"
   },
   {
     "source": "Efecto Cocuyo",
@@ -36,13 +27,13 @@
     "url": "https://efectococuyo.com/la-humanidad/extienden-por-15-dias-plazo-de-registro-en-sistema-nacional-de-ingresos-de-opsu/"
   },
   {
-    "source": "Efecto Cocuyo",
+    "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-31",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/31124831/images-20.jpg",
-    "titleEs": "OVP exige traslado urgente de mujeres recluidas en Retén de Caraballeda",
-    "titleEn": "OVP exige traslado urgente de mujeres recluidas en Retén de Caraballeda",
-    "url": "https://efectococuyo.com/la-humanidad/ovp-exige-traslado-urgente-de-mujeres-recluidas-en-reten-de-caraballeda-tras-terremotos/"
+    "img": "https://runrun.es/wp-content/uploads/2026/07/JorgeRodriguez00011.jpg",
+    "titleEs": "Gobierno cumple una semana sin publicar balance sobre los sismos",
+    "titleEn": "Gobierno cumple una semana sin publicar balance sobre los sismos",
+    "url": "https://runrun.es/noticias/616387/gobierno-cumple-una-semana-sin-publicar-balance-sobre-los-sismos/"
   },
   {
     "source": "Runrun.es",
@@ -58,8 +49,8 @@
     "section": "Venezuela",
     "date": "2026-07-31",
     "img": "https://runrun.es/wp-content/uploads/2026/07/Prevencion-de-la-hepatitis.png",
-    "titleEs": "Alerta por aumento de hepatitis A en refugios temporales",
-    "titleEn": "Alerta por aumento de hepatitis A en refugios temporales",
+    "titleEs": "Instan a acentuar medidas sanitarias en refugios por aumento en casos de hepatitis",
+    "titleEn": "Instan a acentuar medidas sanitarias en refugios por aumento en casos de hepatitis",
     "url": "https://runrun.es/noticias/616352/alerta-por-aumento-de-hepatitis-a-en-refugios-temporales/"
   },
   {
@@ -70,14 +61,5 @@
     "titleEs": "Alertan sobre condiciones de reclusión en retén de Caraballeda luego de los sismos",
     "titleEn": "Alertan sobre condiciones de reclusión en retén de Caraballeda luego de los sismos",
     "url": "https://runrun.es/noticias/616351/alertan-sobre-condiciones-de-reclusion-en-reten-de-caraballeda-luego-de-los-sismos/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-31",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/CIDH.png",
-    "titleEs": "CIDH llama a mantener la asistencia humanitaria y monitorear reconstrucción en Venezuela",
-    "titleEn": "CIDH llama a mantener la asistencia humanitaria y monitorear reconstrucción en Venezuela",
-    "url": "https://runrun.es/inicio/616350/cidh-llama-a-mantener-la-asistencia-humanitaria-y-monitorear-reconstruccion-en-venezuela/"
   }
 ]

@@ -3,6 +3,15 @@
     "source": "El Pitazo",
     "section": "Venezuela",
     "date": "2026-07-31",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/07/jornada-de-limpieza-La-guaira.jpg",
+    "titleEs": "Unidos por La Guaira: voluntarios recogen 1.700 bolsas de desechos y suman manos para una cuarta jornada",
+    "titleEn": "Unidos por La Guaira: voluntarios recogen 1.700 bolsas de desechos y suman manos para una cuarta jornada",
+    "url": "https://elpitazo.net/regiones/unidos-por-la-guaira-voluntarios-recogen-1-700-bolsas-de-desechos-y-suman-manos-para-una-cuarta-jornada/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-07-31",
     "img": "https://elpitazo.net/wp-content/uploads/2026/07/image-30-1024x742.png",
     "titleEs": "Futbolista Lucas Trejo escribió sobre la muerte de su familia en los terremotos: «El peor momento de mi vida»",
     "titleEn": "Futbolista Lucas Trejo escribió sobre la muerte de su familia en los terremotos: «El peor momento de mi vida»",
@@ -39,6 +48,15 @@
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-31",
+    "img": "https://runrun.es/wp-content/uploads/2026/07/mujeres-ninas-terremotos.jpg",
+    "titleEs": "Mujeres y niñas afrontan el impacto más severo de la emergencia causada por los sismos",
+    "titleEn": "Mujeres y niñas afrontan el impacto más severo de la emergencia causada por los sismos",
+    "url": "https://runrun.es/rr-es-plus/616372/mujeres-y-ninas-afrontan-el-impacto-mas-severo-de-la-emergencia-causada-por-los-sismos/"
+  },
+  {
+    "source": "Runrun.es",
+    "section": "Venezuela",
+    "date": "2026-07-31",
     "img": "https://runrun.es/wp-content/uploads/2026/07/Prevencion-de-la-hepatitis.png",
     "titleEs": "Alerta por aumento de hepatitis A en refugios temporales",
     "titleEn": "Alerta por aumento de hepatitis A en refugios temporales",
@@ -61,14 +79,5 @@
     "titleEs": "CIDH llama a mantener la asistencia humanitaria y monitorear reconstrucción en Venezuela",
     "titleEn": "CIDH llama a mantener la asistencia humanitaria y monitorear reconstrucción en Venezuela",
     "url": "https://runrun.es/inicio/616350/cidh-llama-a-mantener-la-asistencia-humanitaria-y-monitorear-reconstruccion-en-venezuela/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-31",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/Vacunas.-Foto-de-Jorge-Abrego-EFE.png",
-    "titleEs": "Vivir un sismo sin vacunas: Venezuela enfrenta el desastre sin coberturas completas",
-    "titleEn": "Vivir un sismo sin vacunas: Venezuela enfrenta el desastre sin coberturas completas",
-    "url": "https://runrun.es/rr-es-plus/616301/vivir-un-sismo-sin-vacunas-venezuela-enfrenta-el-desastre-sin-coberturas-completas/"
   }
 ]

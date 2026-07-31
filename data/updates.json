@@ -2,6 +2,20 @@
   {
     "sourceEs": "Efecto Cocuyo",
     "sourceEn": "Efecto Cocuyo",
+    "date": "2026-07-31",
+    "conf": "med",
+    "titleEs": "A cinco semanas del sismo: el temor a la demolición acelera la búsqueda de las familias",
+    "titleEn": "A cinco semanas del sismo: el temor a la demolición acelera la búsqueda de las familias",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://efectococuyo.com/la-humanidad/a-cinco-semanas-del-sismo-el-temor-a-la-demolicion-acelera-la-busqueda-de-las-familias/"
+  },
+  {
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
     "date": "2026-07-30",
     "conf": "med",
     "titleEs": "ONG chilena planea construir 200 viviendas para afectados por los terremotos en Venezuela",
@@ -14,18 +28,18 @@
     "url": "https://efectococuyo.com/internacionales/ong-chilena-planea-construir-200-viviendas-para-afectados-por-los-terremotos-en-venezuela/"
   },
   {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-07-30",
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
+    "date": "2026-07-31",
     "conf": "med",
-    "titleEs": "Más de 100 réplicas sacuden Japón tras potente terremoto que causó al menos 30 muertos",
-    "titleEn": "Más de 100 réplicas sacuden Japón tras potente terremoto que causó al menos 30 muertos",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
+    "titleEs": "Vivir un sismo sin vacunas: Venezuela enfrenta el desastre sin coberturas completas",
+    "titleEn": "Vivir un sismo sin vacunas: Venezuela enfrenta el desastre sin coberturas completas",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://efectococuyo.com/internacionales/mas-de-100-replicas-sacuden-japon-tras-potente-terremoto-que-causo-al-menos-30-muertos/"
+    "url": "https://runrun.es/rr-es-plus/616301/vivir-un-sismo-sin-vacunas-venezuela-enfrenta-el-desastre-sin-coberturas-completas/"
   },
   {
     "sourceEs": "Runrun.es",
@@ -68,19 +82,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://runrun.es/inicio/616285/el-mananero-del-30-de-julio-casos-de-hepatitis-a-y-diarreas-aumentaron-despues-de-los-terremotos/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-07-29",
-    "conf": "med",
-    "titleEs": "Latam Pulse Venezuela: terremotos aceleran la presión ciudadana por elecciones presidenciales",
-    "titleEn": "Latam Pulse Venezuela: terremotos aceleran la presión ciudadana por elecciones presidenciales",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/inicio/616252/latam-pulse-venezuela-terremotos-aceleran-la-presion-ciudadana-por-elecciones-presidenciales/"
   }
 ]

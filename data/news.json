@@ -2,6 +2,15 @@
   {
     "source": "Efecto Cocuyo",
     "section": "Venezuela",
+    "date": "2026-07-31",
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/30191008/WhatsApp-Image-2026-07-30-at-7.08.23-PM-1024x576.jpeg",
+    "titleEs": "A cinco semanas del sismo: el temor a la demolición acelera la búsqueda de las familias",
+    "titleEn": "A cinco semanas del sismo: el temor a la demolición acelera la búsqueda de las familias",
+    "url": "https://efectococuyo.com/la-humanidad/a-cinco-semanas-del-sismo-el-temor-a-la-demolicion-acelera-la-busqueda-de-las-familias/"
+  },
+  {
+    "source": "Efecto Cocuyo",
+    "section": "Venezuela",
     "date": "2026-07-30",
     "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/30155029/techo-1024x576.jpg",
     "titleEs": "ONG chilena planea construir 200 viviendas para afectados por los terremotos en Venezuela",
@@ -9,19 +18,19 @@
     "url": "https://efectococuyo.com/internacionales/ong-chilena-planea-construir-200-viviendas-para-afectados-por-los-terremotos-en-venezuela/"
   },
   {
-    "source": "Efecto Cocuyo",
+    "source": "Runrun.es",
     "section": "Venezuela",
-    "date": "2026-07-30",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/30110229/842a4390-8be5-11f1-861c-757141bb522d.jpg.webp",
-    "titleEs": "Más de 100 réplicas sacuden Japón tras potente terremoto que causó al menos 30 muertos",
-    "titleEn": "Más de 100 réplicas sacuden Japón tras potente terremoto que causó al menos 30 muertos",
-    "url": "https://efectococuyo.com/internacionales/mas-de-100-replicas-sacuden-japon-tras-potente-terremoto-que-causo-al-menos-30-muertos/"
+    "date": "2026-07-31",
+    "img": "",
+    "titleEs": "Vivir un sismo sin vacunas: Venezuela enfrenta el desastre sin coberturas completas",
+    "titleEn": "Vivir un sismo sin vacunas: Venezuela enfrenta el desastre sin coberturas completas",
+    "url": "https://runrun.es/rr-es-plus/616301/vivir-un-sismo-sin-vacunas-venezuela-enfrenta-el-desastre-sin-coberturas-completas/"
   },
   {
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-31",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/photo_2026-07-30_15-03-56.jpg",
+    "img": "",
     "titleEs": "Mercado inmobiliario a la expectativa de nuevo marco regulatorio",
     "titleEn": "Mercado inmobiliario a la expectativa de nuevo marco regulatorio",
     "url": "https://runrun.es/inicio/616317/mercado-inmobiliario-a-la-expectativa-de-nuevo-marco-regulatorio/"
@@ -30,7 +39,7 @@
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-30",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/clima-21.jpg",
+    "img": "",
     "titleEs": "Clima21: sismos dejan daños sin precedentes en el patrimonio cultural y revelan vacíos institucionales",
     "titleEn": "Clima21: sismos dejan daños sin precedentes en el patrimonio cultural y revelan vacíos institucionales",
     "url": "https://runrun.es/inicio/616294/clima-21-sismos-dejan-danos-sin-precedentes-en-el-patrimonio-cultural-y-revelan-vacios-institucionales/"
@@ -39,18 +48,9 @@
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-07-30",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/El-Mananero-Formato-canva.jpg",
+    "img": "",
     "titleEs": "El Mañanero del 30 de julio: Casos de hepatitis A y diarreas aumentaron después de los terremotos",
     "titleEn": "El Mañanero del 30 de julio: Casos de hepatitis A y diarreas aumentaron después de los terremotos",
     "url": "https://runrun.es/inicio/616285/el-mananero-del-30-de-julio-casos-de-hepatitis-a-y-diarreas-aumentaron-despues-de-los-terremotos/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-07-29",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/Elecciones.jpg",
-    "titleEs": "Latam Pulse Venezuela: terremotos aceleran la presión ciudadana por elecciones presidenciales",
-    "titleEn": "Latam Pulse Venezuela: terremotos aceleran la presión ciudadana por elecciones presidenciales",
-    "url": "https://runrun.es/inicio/616252/latam-pulse-venezuela-terremotos-aceleran-la-presion-ciudadana-por-elecciones-presidenciales/"
   }
 ]

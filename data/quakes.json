@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-01-08-2026-15:58-10.2--64.63",
+    "time": "2026-08-01T19:58:00.000Z",
+    "mag": 2.6,
+    "depth": 25.4,
+    "lat": 10.2,
+    "lon": -64.63,
+    "place": "3 km al suroeste de Puerto La Cruz",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-01-08-2026-13:43-10.16--64.54",
     "time": "2026-08-01T17:43:00.000Z",
     "mag": 2.2,
@@ -7477,21 +7492,6 @@
     "lat": 10.64,
     "lon": -66.67,
     "place": "8 km al este de Naiguata",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-13-07-2026-10:37-10.38--62.22",
-    "time": "2026-07-13T14:37:00.000Z",
-    "mag": 3.2,
-    "depth": 4,
-    "lat": 10.38,
-    "lon": -62.22,
-    "place": "32 km al sur de Guiria",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

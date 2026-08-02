@@ -63,6 +63,20 @@
     "sourceEn": "Runrun.es",
     "date": "2026-08-02",
     "conf": "med",
+    "titleEs": "La gente tuvo que suplir la ausencia del Estado en las horas más críticas posterremotos",
+    "titleEn": "La gente tuvo que suplir la ausencia del Estado en las horas más críticas posterremotos",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://runrun.es/el-megafono/ddhh-olvidados/616403/la-gente-tuvo-que-suplir-la-ausencia-del-estado-en-las-horas-mas-criticas-posterremotos/"
+  },
+  {
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
+    "date": "2026-08-02",
+    "conf": "med",
     "titleEs": "Las OPPPE de La Guaira no eran el lugar seguro que prometió el gobierno",
     "titleEn": "Las OPPPE de La Guaira no eran el lugar seguro que prometió el gobierno",
     "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
@@ -85,19 +99,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://runrun.es/noticias/616387/gobierno-cumple-una-semana-sin-publicar-balance-sobre-los-sismos/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-07-31",
-    "conf": "med",
-    "titleEs": "Mujeres y niñas afrontan el impacto más severo de la emergencia causada por los sismos",
-    "titleEn": "Mujeres y niñas afrontan el impacto más severo de la emergencia causada por los sismos",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/rr-es-plus/616372/mujeres-y-ninas-afrontan-el-impacto-mas-severo-de-la-emergencia-causada-por-los-sismos/"
   }
 ]

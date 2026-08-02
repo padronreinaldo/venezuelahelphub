@@ -1,5 +1,22 @@
 [
   {
+    "sourceEs": "USGS",
+    "sourceEn": "USGS",
+    "date": "2026-08-02",
+    "titleEs": "Sismo M4.5: 7 km SSW of Yumare, Venezuela",
+    "titleEn": "M4.5 earthquake: 7 km SSW of Yumare, Venezuela",
+    "sumEs": "El USGS reporta un sismo de magnitud 4.5. 7 km SSW of Yumare, Venezuela.",
+    "sumEn": "USGS reports a magnitude 4.5 earthquake. 7 km SSW of Yumare, Venezuela.",
+    "areas": [],
+    "needsEs": [
+      "Evaluación de daños"
+    ],
+    "needsEn": [
+      "Damage assessment"
+    ],
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thk4"
+  },
+  {
     "sourceEs": "Efecto Cocuyo",
     "sourceEn": "Efecto Cocuyo",
     "date": "2026-08-01",
@@ -54,33 +71,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://runrun.es/rr-es-plus/616372/mujeres-y-ninas-afrontan-el-impacto-mas-severo-de-la-emergencia-causada-por-los-sismos/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-07-31",
-    "conf": "med",
-    "titleEs": "Instan a acentuar medidas sanitarias en refugios por aumento en casos de hepatitis",
-    "titleEn": "Instan a acentuar medidas sanitarias en refugios por aumento en casos de hepatitis",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/noticias/616352/alerta-por-aumento-de-hepatitis-a-en-refugios-temporales/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-07-31",
-    "conf": "med",
-    "titleEs": "Alertan sobre condiciones de reclusión en retén de Caraballeda luego de los sismos",
-    "titleEn": "Alertan sobre condiciones de reclusión en retén de Caraballeda luego de los sismos",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/noticias/616351/alertan-sobre-condiciones-de-reclusion-en-reten-de-caraballeda-luego-de-los-sismos/"
   }
 ]

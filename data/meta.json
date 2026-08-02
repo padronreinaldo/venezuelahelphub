@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-02T02:22:34.910Z",
+  "updatedAt": "2026-08-02T05:40:23.390Z",
   "stats": {
-    "maxMagnitude": 4.6,
+    "maxMagnitude": 4.5,
     "aftershocks": 0,
     "deaths": 546,
     "injured": 840,
@@ -9,27 +9,27 @@
   },
   "prov": {
     "maxMagnitude": {
-      "seenAt": "2026-07-06T23:03:19.897Z",
+      "seenAt": "2026-08-02T05:40:23.390Z",
       "source": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8yf"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thk4"
     },
     "aftershocks": {
-      "seenAt": "2026-07-06T23:03:19.897Z",
+      "seenAt": "2026-08-02T05:40:23.390Z",
       "source": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8yf"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thk4"
     },
     "deaths": {
-      "seenAt": "2026-08-02T02:22:34.910Z",
+      "seenAt": "2026-08-02T05:40:23.390Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
     "injured": {
-      "seenAt": "2026-08-02T02:22:34.910Z",
+      "seenAt": "2026-08-02T05:40:23.390Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
     "missing": {
-      "seenAt": "2026-08-02T02:22:34.910Z",
+      "seenAt": "2026-08-02T05:40:23.390Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     }
@@ -55,15 +55,15 @@
     }
   },
   "sources": {
-    "usgs": 0,
+    "usgs": 1,
     "reliefweb": 0,
-    "press": 6,
+    "press": 4,
     "wikipedia": 1,
     "funvisis": 20
   },
   "counts": {
-    "updates": 6,
-    "news": 6,
+    "updates": 5,
+    "news": 4,
     "quakes": 500
   }
 }

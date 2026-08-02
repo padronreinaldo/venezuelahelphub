@@ -1,14 +1,5 @@
 [
   {
-    "source": "El Pitazo",
-    "section": "Venezuela",
-    "date": "2026-08-02",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/08/OPPPE-nota.jpg",
-    "titleEs": "Las OPPPE de La Guaira no eran el lugar seguro que prometió el gobierno",
-    "titleEn": "Las OPPPE de La Guaira no eran el lugar seguro que prometió el gobierno",
-    "url": "https://elpitazo.net/alianzas/las-opppe-de-la-guaira-no-eran-el-lugar-seguro-que-prometio-el-gobierno/"
-  },
-  {
     "source": "Efecto Cocuyo",
     "section": "Venezuela",
     "date": "2026-08-02",
@@ -16,15 +7,6 @@
     "titleEs": "Temblor de 4.2 se sintió en el Centroccidente de Venezuela",
     "titleEn": "Temblor de 4.2 se sintió en el Centroccidente de Venezuela",
     "url": "https://efectococuyo.com/la-humanidad/temblor-de-4-2-se-sintio-en-el-centroccidente-de-venezuela/"
-  },
-  {
-    "source": "Efecto Cocuyo",
-    "section": "Venezuela",
-    "date": "2026-08-01",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/14192508/Jorge-Rodriguez-y-Dinorah-Figuera-AFP-1-1-1024x576.webp",
-    "titleEs": "Diálogo entre el chavismo y la oposición inicia con una llamada y presentación de las delegaciones",
-    "titleEn": "Diálogo entre el chavismo y la oposición inicia con una llamada y presentación de las delegaciones",
-    "url": "https://efectococuyo.com/politica/dialogo-entre-el-chavismo-y-la-oposicion-inicia-con-una-llamada-y-anuncia-primera-agenda/"
   },
   {
     "source": "Runrun.es",
@@ -51,6 +33,6 @@
     "img": "https://runrun.es/wp-content/uploads/2026/08/ari-opppe.jpg",
     "titleEs": "Las OPPPE de La Guaira no eran el lugar seguro que prometió el gobierno",
     "titleEn": "Las OPPPE de La Guaira no eran el lugar seguro que prometió el gobierno",
-    "url": "https://runrun.es/noticias/616442/las-opppe-de-la-guaira-no-eran-el-lugar-seguro-que-prometio-el-gobierno/"
+    "url": "https://runrun.es/reportajes-especiales/616442/las-opppe-de-la-guaira-no-eran-el-lugar-seguro-que-prometio-el-gobierno/"
   }
 ]

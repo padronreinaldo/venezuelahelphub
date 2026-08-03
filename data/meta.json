@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-08-03T22:04:10.192Z",
+  "updatedAt": "2026-08-03T23:34:04.604Z",
   "stats": {
     "maxMagnitude": 4.5,
     "aftershocks": 0,
-    "deaths": 546,
+    "deaths": 125,
     "injured": 840,
     "missing": 29500
   },
   "prov": {
     "maxMagnitude": {
-      "seenAt": "2026-08-03T22:04:10.192Z",
+      "seenAt": "2026-08-03T23:34:04.604Z",
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thk4"
     },
     "aftershocks": {
-      "seenAt": "2026-08-03T22:04:10.192Z",
+      "seenAt": "2026-08-03T23:34:04.604Z",
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thk4"
     },
     "deaths": {
-      "seenAt": "2026-08-03T22:04:10.192Z",
+      "seenAt": "2026-08-03T23:34:04.604Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
     "injured": {
-      "seenAt": "2026-08-03T22:04:10.192Z",
+      "seenAt": "2026-08-03T23:34:04.604Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
     "missing": {
-      "seenAt": "2026-08-03T22:04:10.192Z",
+      "seenAt": "2026-08-03T23:34:04.604Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     }
@@ -39,7 +39,7 @@
       "value": 6125,
       "source": "Efecto Cocuyo",
       "url": "https://efectococuyo.com/la-humanidad/10-dias-sin-cifras-interinato-anuncia-6-125-muertos/",
-      "seenAt": "2026-08-03T22:04:10.192Z"
+      "seenAt": "2026-08-03T23:34:04.604Z"
     },
     "injured": {
       "value": 32038,
@@ -57,13 +57,13 @@
   "sources": {
     "usgs": 1,
     "reliefweb": 0,
-    "press": 8,
+    "press": 11,
     "wikipedia": 1,
     "funvisis": 20
   },
   "counts": {
     "updates": 8,
-    "news": 8,
+    "news": 11,
     "quakes": 500
   }
 }

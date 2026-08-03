@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-03-08-2026-18:42-10.68--67.82",
+    "time": "2026-08-03T22:42:00.000Z",
+    "mag": 2,
+    "depth": 2.7,
+    "lat": 10.68,
+    "lon": -67.82,
+    "place": "31 km al noreste  de Moron",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-03-08-2026-15:05-9.9--65.47",
     "time": "2026-08-03T19:05:00.000Z",
     "mag": 2.3,
@@ -7477,21 +7492,6 @@
     "lat": 9.6,
     "lon": -69.53,
     "place": "36 km al sureste  de El Tocuyo",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-15-07-2026-08:45-10.29--68.57",
-    "time": "2026-07-15T12:45:00.000Z",
-    "mag": 2.1,
-    "depth": 3.5,
-    "lat": 10.29,
-    "lon": -68.57,
-    "place": "20 km al sureste de San Felipe",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

@@ -3,10 +3,28 @@
     "source": "El Pitazo",
     "section": "Venezuela",
     "date": "2026-08-03",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/07/Crisis-laboral-en-La-Guaira.jpg",
-    "titleEs": "Provea exige a Delcy Rodríguez actualizar cifra de muertos y desaparecidos por los terremotos en Venezuela",
-    "titleEn": "Provea exige a Delcy Rodríguez actualizar cifra de muertos y desaparecidos por los terremotos en Venezuela",
-    "url": "https://elpitazo.net/politica/provea-exige-a-delcy-rodriguez-actualizar-cifra-de-muertos-y-desaparecidos-por-los-terremotos-en-venezuela/"
+    "img": "https://elpitazo.net/wp-content/uploads/2026/07/97f4ca75a7b67dd649bc512f8297699e066c9bc8w.jpg",
+    "titleEs": "Jorge Rodríguez actualiza cifras de los terremotos tras 10 días de silencio: fallecidos suben a 6.125",
+    "titleEn": "Jorge Rodríguez actualiza cifras de los terremotos tras 10 días de silencio: fallecidos suben a 6.125",
+    "url": "https://elpitazo.net/regiones/jorge-rodriguez-actualiza-cifras-de-los-terremotos-tras-10-dias-de-silencio-fallecidos-suben-a-6-125/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-08-03",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/08/ESCUELA-URIMEARE.jpg",
+    "titleEs": "La Guaira | Educadora convierte una carpa en una escuela para damnificados por el terremoto",
+    "titleEn": "La Guaira | Educadora convierte una carpa en una escuela para damnificados por el terremoto",
+    "url": "https://elpitazo.net/regiones/gran-caracas/la-guaira-educadora-convierte-una-carpa-en-una-escuela-para-damnificados-por-el-terremoto/"
+  },
+  {
+    "source": "Efecto Cocuyo",
+    "section": "Venezuela",
+    "date": "2026-08-03",
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/28103759/images-15.jpg",
+    "titleEs": "Tras 10 días sin cifras, interinato anuncia 6.125 muertos y más de 60 mil atendidos por terremotos",
+    "titleEn": "Tras 10 días sin cifras, interinato anuncia 6.125 muertos y más de 60 mil atendidos por terremotos",
+    "url": "https://efectococuyo.com/la-humanidad/10-dias-sin-cifras-interinato-anuncia-6-125-muertos/"
   },
   {
     "source": "Efecto Cocuyo",
@@ -30,6 +48,15 @@
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-08-03",
+    "img": "https://runrun.es/wp-content/uploads/2026/08/replicas-sismos-venezuela01-768x441.jpg.jpg",
+    "titleEs": "Réplicas de los terremotos del 24 de junio podrían extenderse hasta por cinco meses",
+    "titleEn": "Réplicas de los terremotos del 24 de junio podrían extenderse hasta por cinco meses",
+    "url": "https://runrun.es/noticias/616568/replicas-de-los-terremotos-del-24-de-junio-podrian-extenderse-hasta-por-cinco-meses/"
+  },
+  {
+    "source": "Runrun.es",
+    "section": "Venezuela",
+    "date": "2026-08-03",
     "img": "https://runrun.es/wp-content/uploads/2026/08/vuelo-164.jpg",
     "titleEs": "La doble tragedia del vuelo 164: La desaparición y muerte en sismos de deportados de EE.UU.",
     "titleEn": "La doble tragedia del vuelo 164: La desaparición y muerte en sismos de deportados de EE.UU.",
@@ -43,14 +70,5 @@
     "titleEs": "Más de 1,3 millones de personas necesitarán asistencia humanitaria por sismos del 24 de junio",
     "titleEn": "Más de 1,3 millones de personas necesitarán asistencia humanitaria por sismos del 24 de junio",
     "url": "https://runrun.es/noticias/616539/mas-de-13-millones-de-personas-necesitaran-asistencia-humanitaria-por-sismos-del-24-de-junio/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-08-02",
-    "img": "https://runrun.es/wp-content/uploads/2026/08/opacidad-posterremotos.jpg",
-    "titleEs": "Provea advierte que la opacidad estatal posterremotos vulnera cinco derechos fundamentales",
-    "titleEn": "Provea advierte que la opacidad estatal posterremotos vulnera cinco derechos fundamentales",
-    "url": "https://runrun.es/noticias/616481/provea-advierte-que-la-opacidad-estatal-posterremotos-vulnera-cinco-derechos-fundamentales/"
   }
 ]

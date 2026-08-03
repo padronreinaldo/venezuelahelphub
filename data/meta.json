@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T20:42:37.285Z",
+  "updatedAt": "2026-08-03T22:04:10.192Z",
   "stats": {
     "maxMagnitude": 4.5,
     "aftershocks": 0,
@@ -9,37 +9,37 @@
   },
   "prov": {
     "maxMagnitude": {
-      "seenAt": "2026-08-03T20:42:37.285Z",
+      "seenAt": "2026-08-03T22:04:10.192Z",
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thk4"
     },
     "aftershocks": {
-      "seenAt": "2026-08-03T20:42:37.285Z",
+      "seenAt": "2026-08-03T22:04:10.192Z",
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thk4"
     },
     "deaths": {
-      "seenAt": "2026-08-03T20:42:37.285Z",
+      "seenAt": "2026-08-03T22:04:10.192Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
     "injured": {
-      "seenAt": "2026-08-03T20:42:37.285Z",
+      "seenAt": "2026-08-03T22:04:10.192Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
     "missing": {
-      "seenAt": "2026-08-03T20:42:37.285Z",
+      "seenAt": "2026-08-03T22:04:10.192Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     }
   },
   "alt": {
     "deaths": {
-      "value": 5546,
-      "source": "Runrun.es",
-      "url": "https://runrun.es/inicio/616116/gobierno-dejo-de-publicar-el-balance-diario-sobre-los-sismos-desde-el-24jul/",
-      "seenAt": "2026-07-29T18:03:42.212Z"
+      "value": 6125,
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/10-dias-sin-cifras-interinato-anuncia-6-125-muertos/",
+      "seenAt": "2026-08-03T22:04:10.192Z"
     },
     "injured": {
       "value": 32038,
@@ -57,13 +57,13 @@
   "sources": {
     "usgs": 1,
     "reliefweb": 0,
-    "press": 6,
+    "press": 8,
     "wikipedia": 1,
     "funvisis": 20
   },
   "counts": {
-    "updates": 7,
-    "news": 6,
+    "updates": 8,
+    "news": 8,
     "quakes": 500
   }
 }

@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-04-08-2026-18:02-10.55--68.76",
+    "time": "2026-08-04T22:02:00.000Z",
+    "mag": 2.5,
+    "depth": 5,
+    "lat": 10.55,
+    "lon": -68.76,
+    "place": "19 km al noreste  de Aroa",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-04-08-2026-16:09-10.5--68.86",
     "time": "2026-08-04T20:09:00.000Z",
     "mag": 2.1,
@@ -7477,21 +7492,6 @@
     "lat": 10.5,
     "lon": -72.95,
     "place": "33 km al este     de Valledupar",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-15-07-2026-23:50-10.63--67.36",
-    "time": "2026-07-16T03:50:00.000Z",
-    "mag": 2.3,
-    "depth": 4.7,
-    "lat": 10.63,
-    "lon": -67.36,
-    "place": "45 km al norte    de La Victoria",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

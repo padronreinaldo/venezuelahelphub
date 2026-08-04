@@ -21,14 +21,28 @@
     "sourceEn": "Efecto Cocuyo",
     "date": "2026-08-04",
     "conf": "med",
-    "titleEs": "Gobernador de Vargas dice que solo hay 1.579 personas desaparecidas tras los terremotos",
-    "titleEn": "Gobernador de Vargas dice que solo hay 1.579 personas desaparecidas tras los terremotos",
+    "titleEs": "“Dejé de ser la profesora que era”: la educación en el limbo, otro costo del doble terremoto",
+    "titleEn": "“Dejé de ser la profesora que era”: la educación en el limbo, otro costo del doble terremoto",
     "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
     "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://efectococuyo.com/la-humanidad/gobernador-de-vargas-dice-que-solo-hay-1-579-personas-desaparecidas-tras-los-terremotos/"
+    "url": "https://efectococuyo.com/la-humanidad/deje-de-ser-la-profesora-que-era-ya-no-tengo-nada-otro-costo-del-doble-terremoto/"
+  },
+  {
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
+    "date": "2026-08-04",
+    "conf": "med",
+    "titleEs": "¿Cómo reconstruir la devastación del Amazonas venezolano?",
+    "titleEn": "¿Cómo reconstruir la devastación del Amazonas venezolano?",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://runrun.es/opinion/616725/amazonas-venezolano/"
   },
   {
     "sourceEs": "Runrun.es",
@@ -43,33 +57,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://runrun.es/noticias/con-proposito/616657/asistencia-psicologica-temprana-previene-el-desarrollo-de-trastornos-postraumaticos-tras-los-sismos/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-08-04",
-    "conf": "med",
-    "titleEs": "Fe y Alegría reporta al menos 31 fallecidos por los terremotos",
-    "titleEn": "Fe y Alegría reporta al menos 31 fallecidos por los terremotos",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/rr-es-plus/616652/fe-y-alegria-reporta-al-menos-31-fallecidos-por-los-terremotos/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-08-04",
-    "conf": "med",
-    "titleEs": "Revelan cifra de desaparecidos en terremotos de La Guaira: Gobernador dice que son 1579",
-    "titleEn": "Revelan cifra de desaparecidos en terremotos de La Guaira: Gobernador dice que son 1579",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/noticias/616666/revelan-cifra-de-desaparecidos-en-terremotos-de-la-guaira-gobernador-dice-que-son-1579/"
   }
 ]

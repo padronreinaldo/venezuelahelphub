@@ -19,6 +19,20 @@
   {
     "sourceEs": "El Pitazo",
     "sourceEn": "El Pitazo",
+    "date": "2026-08-04",
+    "conf": "med",
+    "titleEs": "Delcy Rodríguez promete entregar 4.000 viviendas en cuatro meses a personas afectadas por los terremotos",
+    "titleEn": "Delcy Rodríguez promete entregar 4.000 viviendas en cuatro meses a personas afectadas por los terremotos",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/politica/delcy-rodriguez-promete-entregar-4-000-viviendas-en-cuatro-meses-a-personas-afectadas-por-los-terremotos/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
     "date": "2026-08-03",
     "conf": "med",
     "titleEs": "147 venezolanos llegan a Barcelona en el primer vuelo de deportación de EE. UU. tras los terremotos",
@@ -99,19 +113,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://runrun.es/noticias/616598/reaparece-el-balance-de-los-sismos-ahora-sera-semanal-y-sigue-sin-reportar-desaparecidos/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-08-03",
-    "conf": "med",
-    "titleEs": "Réplicas de los terremotos del 24 de junio podrían extenderse hasta por cinco meses",
-    "titleEn": "Réplicas de los terremotos del 24 de junio podrían extenderse hasta por cinco meses",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/noticias/616568/replicas-de-los-terremotos-del-24-de-junio-podrian-extenderse-hasta-por-cinco-meses/"
   }
 ]

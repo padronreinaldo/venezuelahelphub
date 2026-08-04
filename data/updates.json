@@ -45,34 +45,6 @@
     "url": "https://elpitazo.net/sucesos/hay-muertos-por-los-terremotos-sin-reclamar-en-la-morgue-de-bello-monte-algunos-no-estan-identificados/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-08-03",
-    "conf": "med",
-    "titleEs": "Jorge Rodríguez actualiza cifras de los terremotos tras 10 días de silencio: fallecidos suben a 6.125",
-    "titleEn": "Jorge Rodríguez actualiza cifras de los terremotos tras 10 días de silencio: fallecidos suben a 6.125",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/regiones/jorge-rodriguez-actualiza-cifras-de-los-terremotos-tras-10-dias-de-silencio-fallecidos-suben-a-6-125/"
-  },
-  {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-08-03",
-    "conf": "med",
-    "titleEs": "La Guaira | Educadora convierte una carpa en una escuela para damnificados por el terremoto",
-    "titleEn": "La Guaira | Educadora convierte una carpa en una escuela para damnificados por el terremoto",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/regiones/gran-caracas/la-guaira-educadora-convierte-una-carpa-en-una-escuela-para-damnificados-por-el-terremoto/"
-  },
-  {
     "sourceEs": "Efecto Cocuyo",
     "sourceEn": "Efecto Cocuyo",
     "date": "2026-08-03",
@@ -113,5 +85,33 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://runrun.es/noticias/616613/el-mananero-del-04-de-agosto-la-cifra-de-desaparecidos-en-sismos-sigue-en-el-limbo/"
+  },
+  {
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
+    "date": "2026-08-03",
+    "conf": "med",
+    "titleEs": "Reaparece el balance de los sismos: ahora será semanal y sigue sin reportar desaparecidos",
+    "titleEn": "Reaparece el balance de los sismos: ahora será semanal y sigue sin reportar desaparecidos",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://runrun.es/noticias/616598/reaparece-el-balance-de-los-sismos-ahora-sera-semanal-y-sigue-sin-reportar-desaparecidos/"
+  },
+  {
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
+    "date": "2026-08-03",
+    "conf": "med",
+    "titleEs": "Réplicas de los terremotos del 24 de junio podrían extenderse hasta por cinco meses",
+    "titleEn": "Réplicas de los terremotos del 24 de junio podrían extenderse hasta por cinco meses",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://runrun.es/noticias/616568/replicas-de-los-terremotos-del-24-de-junio-podrian-extenderse-hasta-por-cinco-meses/"
   }
 ]

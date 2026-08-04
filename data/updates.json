@@ -21,6 +21,20 @@
     "sourceEn": "El Pitazo",
     "date": "2026-08-04",
     "conf": "med",
+    "titleEs": "Mural en honor al perro rescatista «Tsunami» es vandalizado nuevamente: autor tomará acciones legales",
+    "titleEn": "Mural en honor al perro rescatista «Tsunami» es vandalizado nuevamente: autor tomará acciones legales",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/regiones/gran-caracas/mural-de-tsunami-en-la-ucv-es-vandalizado-nuevamente-autor-tomara-acciones-legales/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-08-04",
+    "conf": "med",
     "titleEs": "Gobernador de La Guaira contabiliza más de 1.500 desaparecidos luego de los terremotos",
     "titleEn": "Gobernador de La Guaira contabiliza más de 1.500 desaparecidos luego de los terremotos",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -29,48 +43,6 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://elpitazo.net/caracas/gobernador-de-la-guaira-contabiliza-mas-de-1-500-desaparecidos-luego-del-terremoto/"
-  },
-  {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-08-04",
-    "conf": "med",
-    "titleEs": "¿Cómo inscribirse en el censo de viviendas para afectados por terremotos?: puntos de atención esta semana y requisitos",
-    "titleEn": "¿Cómo inscribirse en el censo de viviendas para afectados por terremotos?: puntos de atención esta semana y requisitos",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/regiones/como-inscribirse-en-el-censo-de-viviendas-para-afectados-por-terremotos-puntos-de-atencion-esta-semana-y-requisitos/"
-  },
-  {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-08-04",
-    "conf": "med",
-    "titleEs": "Terremotos | Chacao inicia plan para reparar más de 50 edificios afectados: primera fase atenderá 1.500 apartamentos",
-    "titleEn": "Terremotos | Chacao inicia plan para reparar más de 50 edificios afectados: primera fase atenderá 1.500 apartamentos",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/caracas/terremotos-chacao-inicia-plan-para-reparar-mas-de-50-edificios-afectados-primera-fase-atendera-1-500-apartamentos/"
-  },
-  {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-08-04",
-    "conf": "med",
-    "titleEs": "Delcy Rodríguez promete entregar 4.000 viviendas en cuatro meses a personas afectadas por los terremotos",
-    "titleEn": "Delcy Rodríguez promete entregar 4.000 viviendas en cuatro meses a personas afectadas por los terremotos",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/politica/delcy-rodriguez-promete-entregar-4-000-viviendas-en-cuatro-meses-a-personas-afectadas-por-los-terremotos/"
   },
   {
     "sourceEs": "Efecto Cocuyo",
@@ -113,5 +85,19 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://runrun.es/rr-es-plus/616652/fe-y-alegria-reporta-al-menos-31-fallecidos-por-los-terremotos/"
+  },
+  {
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
+    "date": "2026-08-04",
+    "conf": "med",
+    "titleEs": "Revelan cifra de desaparecidos en terremotos de La Guaira: Gobernador dice que son 1579",
+    "titleEn": "Revelan cifra de desaparecidos en terremotos de La Guaira: Gobernador dice que son 1579",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://runrun.es/noticias/616666/revelan-cifra-de-desaparecidos-en-terremotos-de-la-guaira-gobernador-dice-que-son-1579/"
   }
 ]

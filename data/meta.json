@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T19:24:55.222Z",
+  "updatedAt": "2026-08-04T20:49:44.690Z",
   "stats": {
     "maxMagnitude": 4.5,
     "aftershocks": 0,
@@ -9,27 +9,27 @@
   },
   "prov": {
     "maxMagnitude": {
-      "seenAt": "2026-08-04T19:24:55.222Z",
+      "seenAt": "2026-08-04T20:49:44.690Z",
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thk4"
     },
     "aftershocks": {
-      "seenAt": "2026-08-04T19:24:55.222Z",
+      "seenAt": "2026-08-04T20:49:44.690Z",
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thk4"
     },
     "deaths": {
-      "seenAt": "2026-08-04T19:24:55.222Z",
+      "seenAt": "2026-08-04T20:49:44.690Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
     "injured": {
-      "seenAt": "2026-08-04T19:24:55.222Z",
+      "seenAt": "2026-08-04T20:49:44.690Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
     "missing": {
-      "seenAt": "2026-08-04T19:24:55.222Z",
+      "seenAt": "2026-08-04T20:49:44.690Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     }
@@ -51,19 +51,19 @@
       "value": 1500,
       "source": "El Pitazo",
       "url": "https://elpitazo.net/caracas/gobernador-de-la-guaira-contabiliza-mas-de-1-500-desaparecidos-luego-del-terremoto/",
-      "seenAt": "2026-08-04T19:24:55.222Z"
+      "seenAt": "2026-08-04T20:49:44.690Z"
     }
   },
   "sources": {
     "usgs": 1,
     "reliefweb": 0,
-    "press": 9,
+    "press": 6,
     "wikipedia": 1,
     "funvisis": 20
   },
   "counts": {
-    "updates": 8,
-    "news": 9,
+    "updates": 7,
+    "news": 6,
     "quakes": 500
   }
 }

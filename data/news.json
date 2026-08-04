@@ -3,6 +3,15 @@
     "source": "El Pitazo",
     "section": "Venezuela",
     "date": "2026-08-04",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/08/imagen_2026-08-04_123907428.png",
+    "titleEs": "Gobernador de La Guaira contabiliza más de 1.500 desaparecidos luego de los terremotos",
+    "titleEn": "Gobernador de La Guaira contabiliza más de 1.500 desaparecidos luego de los terremotos",
+    "url": "https://elpitazo.net/caracas/gobernador-de-la-guaira-contabiliza-mas-de-1-500-desaparecidos-luego-del-terremoto/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-08-04",
     "img": "https://elpitazo.net/wp-content/uploads/2026/07/terremotos-venezuela-que-hacer-construcciones-la-guaira-efe.jpg",
     "titleEs": "¿Cómo inscribirse en el censo de viviendas para afectados por terremotos?: puntos de atención esta semana y requisitos",
     "titleEn": "¿Cómo inscribirse en el censo de viviendas para afectados por terremotos?: puntos de atención esta semana y requisitos",
@@ -36,19 +45,19 @@
     "url": "https://efectococuyo.com/la-humanidad/gobernador-de-vargas-dice-que-solo-hay-1-579-personas-desaparecidas-tras-los-terremotos/"
   },
   {
-    "source": "Efecto Cocuyo",
+    "source": "Runrun.es",
     "section": "Venezuela",
-    "date": "2026-08-03",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/28103759/images-15.jpg",
-    "titleEs": "Tras 10 días sin cifras, interinato anuncia 6.125 muertos por terremotos",
-    "titleEn": "Tras 10 días sin cifras, interinato anuncia 6.125 muertos por terremotos",
-    "url": "https://efectococuyo.com/la-humanidad/10-dias-sin-cifras-interinato-anuncia-6-125-muertos/"
+    "date": "2026-08-04",
+    "img": "https://runrun.es/wp-content/uploads/2026/08/Diseno-sin-titulo-5.jpg",
+    "titleEs": "Asistencia psicológica temprana previene el desarrollo de trastornos postraumáticos tras los sismos",
+    "titleEn": "Asistencia psicológica temprana previene el desarrollo de trastornos postraumáticos tras los sismos",
+    "url": "https://runrun.es/noticias/con-proposito/616657/asistencia-psicologica-temprana-previene-el-desarrollo-de-trastornos-postraumaticos-tras-los-sismos/"
   },
   {
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-08-04",
-    "img": "",
+    "img": "https://runrun.es/wp-content/uploads/2024/12/Fe-y-Alegria-1.png",
     "titleEs": "Fe y Alegría reporta al menos 31 fallecidos por los terremotos",
     "titleEn": "Fe y Alegría reporta al menos 31 fallecidos por los terremotos",
     "url": "https://runrun.es/rr-es-plus/616652/fe-y-alegria-reporta-al-menos-31-fallecidos-por-los-terremotos/"
@@ -57,27 +66,18 @@
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-08-04",
-    "img": "",
+    "img": "https://runrun.es/wp-content/uploads/2026/08/6ab9eb0b7711690704d31319e0b545097828e737w.jpg",
+    "titleEs": "Revelan cifra de desaparecidos en terremotos de La Guaira: Gobernador dice que son 1579",
+    "titleEn": "Revelan cifra de desaparecidos en terremotos de La Guaira: Gobernador dice que son 1579",
+    "url": "https://runrun.es/noticias/616666/revelan-cifra-de-desaparecidos-en-terremotos-de-la-guaira-gobernador-dice-que-son-1579/"
+  },
+  {
+    "source": "Runrun.es",
+    "section": "Venezuela",
+    "date": "2026-08-04",
+    "img": "https://runrun.es/wp-content/uploads/2026/08/mananero4.png",
     "titleEs": "El Mañanero del 4 de agosto: la cifra de desaparecidos en sismos sigue en el limbo",
     "titleEn": "El Mañanero del 4 de agosto: la cifra de desaparecidos en sismos sigue en el limbo",
     "url": "https://runrun.es/noticias/616613/el-mananero-del-04-de-agosto-la-cifra-de-desaparecidos-en-sismos-sigue-en-el-limbo/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-08-03",
-    "img": "",
-    "titleEs": "Reaparece el balance de los sismos: ahora será semanal y sigue sin reportar desaparecidos",
-    "titleEn": "Reaparece el balance de los sismos: ahora será semanal y sigue sin reportar desaparecidos",
-    "url": "https://runrun.es/noticias/616598/reaparece-el-balance-de-los-sismos-ahora-sera-semanal-y-sigue-sin-reportar-desaparecidos/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-08-03",
-    "img": "",
-    "titleEs": "Réplicas de los terremotos del 24 de junio podrían extenderse hasta por cinco meses",
-    "titleEn": "Réplicas de los terremotos del 24 de junio podrían extenderse hasta por cinco meses",
-    "url": "https://runrun.es/noticias/616568/replicas-de-los-terremotos-del-24-de-junio-podrian-extenderse-hasta-por-cinco-meses/"
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T17:41:45.409Z",
+  "updatedAt": "2026-08-04T19:24:55.222Z",
   "stats": {
     "maxMagnitude": 4.5,
     "aftershocks": 0,
@@ -9,27 +9,27 @@
   },
   "prov": {
     "maxMagnitude": {
-      "seenAt": "2026-08-04T17:41:45.409Z",
+      "seenAt": "2026-08-04T19:24:55.222Z",
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thk4"
     },
     "aftershocks": {
-      "seenAt": "2026-08-04T17:41:45.409Z",
+      "seenAt": "2026-08-04T19:24:55.222Z",
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thk4"
     },
     "deaths": {
-      "seenAt": "2026-08-04T17:41:45.409Z",
+      "seenAt": "2026-08-04T19:24:55.222Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
     "injured": {
-      "seenAt": "2026-08-04T17:41:45.409Z",
+      "seenAt": "2026-08-04T19:24:55.222Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
     "missing": {
-      "seenAt": "2026-08-04T17:41:45.409Z",
+      "seenAt": "2026-08-04T19:24:55.222Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     }
@@ -48,10 +48,10 @@
       "seenAt": "2026-06-27T19:14:37.075Z"
     },
     "missing": {
-      "value": 273,
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/cecodap-documenta-1-405-ninos-afectados-221-muertos-y-273-desaparecidos-por-los-terremotos/",
-      "seenAt": "2026-07-28T21:15:18.874Z"
+      "value": 1500,
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/caracas/gobernador-de-la-guaira-contabiliza-mas-de-1-500-desaparecidos-luego-del-terremoto/",
+      "seenAt": "2026-08-04T19:24:55.222Z"
     }
   },
   "sources": {

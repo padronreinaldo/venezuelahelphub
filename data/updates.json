@@ -21,6 +21,34 @@
     "sourceEn": "El Pitazo",
     "date": "2026-08-05",
     "conf": "med",
+    "titleEs": "Terremotos | 18.000 estudiantes de Fe y Alegría podrían quedar fuera de las aulas por daños críticos en 31 escuelas",
+    "titleEn": "Terremotos | 18.000 estudiantes de Fe y Alegría podrían quedar fuera de las aulas por daños críticos en 31 escuelas",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/caracas/terremotos-18-000-estudiantes-de-fe-y-alegria-podrian-quedar-fuera-de-las-aulas-por-danos-criticos-en-31-escuelas/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-08-05",
+    "conf": "med",
+    "titleEs": "Dinorah Figuera y delegados de la AN 2015 ya están en Venezuela: Vamos a reunirnos esta semana",
+    "titleEn": "Dinorah Figuera y delegados de la AN 2015 ya están en Venezuela: Vamos a reunirnos esta semana",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/politica/dinorah-figuera-y-delegados-de-la-an-2015-ya-estan-en-venezuela-vamos-a-reunirnos-esta-semana/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-08-05",
+    "conf": "med",
     "titleEs": "Yaracuy | Familias damnificadas del municipio Bolívar piden ayuda: “El río nos llevó todo”",
     "titleEn": "Yaracuy | Familias damnificadas del municipio Bolívar piden ayuda: “El río nos llevó todo”",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -43,20 +71,6 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://elpitazo.net/sucesos/sobreviviente-de-terremotos-murio-tras-dar-a-luz-gemelos-su-familia-denuncia-negligencia/"
-  },
-  {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-08-05",
-    "conf": "med",
-    "titleEs": "Trabajadores playeros buscan opciones para subsistir: balnearios de La Guaira continúan desolados",
-    "titleEn": "Trabajadores playeros buscan opciones para subsistir: balnearios de La Guaira continúan desolados",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/economia/trabajadores-playeros-buscan-opciones-para-subsistir-balnearios-de-la-guaira-continuan-desolados/"
   },
   {
     "sourceEs": "Efecto Cocuyo",
@@ -99,19 +113,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://efectococuyo.com/la-humanidad/cnp-pide-incluir-la-libertad-de-expresion-en-el-dialogo-politico/"
-  },
-  {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-08-04",
-    "conf": "med",
-    "titleEs": "“Dejé de ser la profesora que era”: la educación en el limbo, otro costo del doble terremoto",
-    "titleEn": "“Dejé de ser la profesora que era”: la educación en el limbo, otro costo del doble terremoto",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/la-humanidad/deje-de-ser-la-profesora-que-era-educacion-limbo/"
   }
 ]

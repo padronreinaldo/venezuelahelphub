@@ -17,6 +17,48 @@
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thk4"
   },
   {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-08-05",
+    "conf": "med",
+    "titleEs": "Puerto de La Guaira retoma todas sus operaciones luego de paralización por los terremotos",
+    "titleEn": "Puerto de La Guaira retoma todas sus operaciones luego de paralización por los terremotos",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/economia/puerto-de-la-guaira-retoma-todas-sus-operaciones-luego-de-paralizacion-por-los-terremotos/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-08-05",
+    "conf": "med",
+    "titleEs": "Trump insiste en que Venezuela es un país «muy feliz» pese a la tragedia por los terremotos",
+    "titleEn": "Trump insiste en que Venezuela es un país «muy feliz» pese a la tragedia por los terremotos",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/internacional/trump-insiste-en-que-venezuela-es-un-pais-muy-feliz-pese-a-la-tragedia-por-los-terremotos/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-08-05",
+    "conf": "med",
+    "titleEs": "Buscar a Dylan en los escombros: la familia del adolescente que regresó a escarbar con sus manos en la OPPE 26",
+    "titleEn": "Buscar a Dylan en los escombros: la familia del adolescente que regresó a escarbar con sus manos en la OPPE 26",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/regiones/buscar-a-dylan-en-los-escombros-la-familia-del-adolescente-que-regreso-a-escarbar-con-sus-manos-en-la-oppe-26/"
+  },
+  {
     "sourceEs": "Efecto Cocuyo",
     "sourceEn": "Efecto Cocuyo",
     "date": "2026-08-04",
@@ -56,7 +98,7 @@
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://runrun.es/inicio/616712/voluntarios-apoyan-a-personas-con-discapacidad-en-la-reconstruccion-de-sus-rutinas-tras-los-sismos/"
+    "url": "https://runrun.es/rr-es-plus/616712/voluntarios-apoyan-a-personas-con-discapacidad-en-la-reconstruccion-de-sus-rutinas-tras-los-sismos/"
   },
   {
     "sourceEs": "Runrun.es",

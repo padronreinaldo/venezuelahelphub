@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-06-08-2026-01:31-10.41--68.35",
+    "time": "2026-08-06T05:31:00.000Z",
+    "mag": 2,
+    "depth": 13.1,
+    "lat": 10.41,
+    "lon": -68.35,
+    "place": "34 km al sur      de Boca de Aroa",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-05-08-2026-23:26-10.69--66.74",
     "time": "2026-08-06T03:26:00.000Z",
     "mag": 1.9,
@@ -7477,21 +7492,6 @@
     "lat": 10.23,
     "lon": -67.25,
     "place": "9 km al este     de La Victoria",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-16-07-2026-20:19-10.69--71.08",
-    "time": "2026-07-17T00:19:00.000Z",
-    "mag": 2.6,
-    "depth": 26.8,
-    "lat": 10.69,
-    "lon": -71.08,
-    "place": "6 km al oeste    de Mene de Mauroa",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

@@ -1,22 +1,5 @@
 [
   {
-    "sourceEs": "USGS",
-    "sourceEn": "USGS",
-    "date": "2026-08-02",
-    "titleEs": "Sismo M4.5: 7 km SSW of Yumare, Venezuela",
-    "titleEn": "M4.5 earthquake: 7 km SSW of Yumare, Venezuela",
-    "sumEs": "El USGS reporta un sismo de magnitud 4.5. 7 km SSW of Yumare, Venezuela.",
-    "sumEn": "USGS reports a magnitude 4.5 earthquake. 7 km SSW of Yumare, Venezuela.",
-    "areas": [],
-    "needsEs": [
-      "Evaluación de daños"
-    ],
-    "needsEn": [
-      "Damage assessment"
-    ],
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thk4"
-  },
-  {
     "sourceEs": "El Pitazo",
     "sourceEn": "El Pitazo",
     "date": "2026-08-05",
@@ -103,15 +86,29 @@
   {
     "sourceEs": "Runrun.es",
     "sourceEn": "Runrun.es",
-    "date": "2026-08-05",
+    "date": "2026-08-06",
     "conf": "med",
-    "titleEs": "Las perlas de Trump: A pesar del terremoto, Venezuela es un país feliz",
-    "titleEn": "Las perlas de Trump: A pesar del terremoto, Venezuela es un país feliz",
+    "titleEs": "Cruz Roja Venezolana proyecta una respuesta de 24 meses y anuncia un centro logístico humanitario en La Guaira",
+    "titleEn": "Cruz Roja Venezolana proyecta una respuesta de 24 meses y anuncia un centro logístico humanitario en La Guaira",
     "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
     "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://runrun.es/noticias/616872/las-perlas-de-trump-a-pesar-del-terremoto-venezuela-es-un-pais-feliz/"
+    "url": "https://runrun.es/inicio/616941/cruz-roja-venezolana-proyecta-una-respuesta-de-24-meses-y-anuncia-un-centro-logistico-humanitario-en-la-guaira/"
+  },
+  {
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
+    "date": "2026-08-06",
+    "conf": "med",
+    "titleEs": "Ministerio de Educación excluyó a docentes de Fe y Alegría del pago de bonos especiales",
+    "titleEn": "Ministerio de Educación excluyó a docentes de Fe y Alegría del pago de bonos especiales",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://runrun.es/noticias/616950/ministerio-de-educacion-excluyo-a-docentes-de-fe-y-alegria-del-pago-de-bonos-especiales/"
   }
 ]

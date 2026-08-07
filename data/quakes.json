@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-07-08-2026-02:10-10.64--66.71",
+    "time": "2026-08-07T06:10:00.000Z",
+    "mag": 1.8,
+    "depth": 9.4,
+    "lat": 10.64,
+    "lon": -66.71,
+    "place": "4 km al noreste  de Naiguata",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-07-08-2026-00:58-6.84--73.11",
     "time": "2026-08-07T04:58:00.000Z",
     "mag": 3.7,
@@ -7477,21 +7492,6 @@
     "lat": 10.1,
     "lon": -67.24,
     "place": "18 km al sureste  de La Victoria",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-17-07-2026-04:39-10.56--67.33",
-    "time": "2026-07-17T08:39:00.000Z",
-    "mag": 2.8,
-    "depth": 5,
-    "lat": 10.56,
-    "lon": -67.33,
-    "place": "37 km al norte    de La Victoria",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

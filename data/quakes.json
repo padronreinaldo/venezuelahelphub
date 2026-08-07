@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-07-08-2026-17:47-10.29--62.19",
+    "time": "2026-08-07T21:47:00.000Z",
+    "mag": 2.8,
+    "depth": 14.5,
+    "lat": 10.29,
+    "lon": -62.19,
+    "place": "37 km al norte    de Pedernales",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-07-08-2026-15:04-5.38--73.81",
     "time": "2026-08-07T19:04:00.000Z",
     "mag": 3.7,
@@ -7477,21 +7492,6 @@
     "lat": 10.71,
     "lon": -66.91,
     "place": "11 km al norte    de La Guaira",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-17-07-2026-14:25-10.64--66.95",
-    "time": "2026-07-17T18:25:00.000Z",
-    "mag": 2.4,
-    "depth": 1.8,
-    "lat": 10.64,
-    "lon": -66.95,
-    "place": "4 km al noroeste de La Guaira",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

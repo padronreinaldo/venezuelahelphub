@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-07-08-2026-08:49-10.53--67.27",
+    "time": "2026-08-07T12:49:00.000Z",
+    "mag": 2,
+    "depth": 3.1,
+    "lat": 10.53,
+    "lon": -67.27,
+    "place": "33 km al noroeste de Los Teques",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-07-08-2026-08:34-10.62--67.73",
     "time": "2026-08-07T12:34:00.000Z",
     "mag": 2.1,
@@ -7477,21 +7492,6 @@
     "lat": 10.69,
     "lon": -66.82,
     "place": "11 km al noroeste de Naiguata",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-17-07-2026-12:21-10.62--66.75",
-    "time": "2026-07-17T16:21:00.000Z",
-    "mag": 1.8,
-    "depth": 6.2,
-    "lat": 10.62,
-    "lon": -66.75,
-    "place": "1 km al oeste    de Naiguata",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

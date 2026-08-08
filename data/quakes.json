@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-08-08-2026-14:59-11.69--73.04",
+    "time": "2026-08-08T18:59:00.000Z",
+    "mag": 3.7,
+    "depth": 31.5,
+    "lat": 11.69,
+    "lon": -73.04,
+    "place": "96 km al noroeste de Maicao",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-08-08-2026-13:56-9.2--63.44",
     "time": "2026-08-08T17:56:00.000Z",
     "mag": 3,
@@ -7477,21 +7492,6 @@
     "lat": 10.09,
     "lon": -67.31,
     "place": "15 km al sur      de La Victoria",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-18-07-2026-02:40-9.76--69.53",
-    "time": "2026-07-18T06:40:00.000Z",
-    "mag": 2.6,
-    "depth": 5.8,
-    "lat": 9.76,
-    "lon": -69.53,
-    "place": "21 km al sureste  de Quibor",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

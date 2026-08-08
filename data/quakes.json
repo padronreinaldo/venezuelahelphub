@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-08-08-2026-13:56-9.2--63.44",
+    "time": "2026-08-08T17:56:00.000Z",
+    "mag": 3,
+    "depth": 5,
+    "lat": 9.2,
+    "lon": -63.44,
+    "place": "41 km al sureste  de Aguasay",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-08-08-2026-13:19-7.25--71.81",
     "time": "2026-08-08T17:19:00.000Z",
     "mag": 3.3,
@@ -7477,21 +7492,6 @@
     "lat": 9.76,
     "lon": -69.53,
     "place": "21 km al sureste  de Quibor",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-18-07-2026-02:36-10.5--67.44",
-    "time": "2026-07-18T06:36:00.000Z",
-    "mag": 1.7,
-    "depth": 5.5,
-    "lat": 10.5,
-    "lon": -67.44,
-    "place": "33 km al noroeste de La Victoria",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

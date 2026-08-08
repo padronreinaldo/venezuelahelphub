@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-08-08-2026-02:18-6.81--73.23",
+    "time": "2026-08-08T06:18:00.000Z",
+    "mag": 2.5,
+    "depth": 163,
+    "lat": 6.81,
+    "lon": -73.23,
+    "place": "35 km al suroeste de Bucaramanga",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-07-08-2026-23:22-10.62--66.83",
     "time": "2026-08-08T03:22:00.000Z",
     "mag": 2,
@@ -7477,21 +7492,6 @@
     "lat": 10.03,
     "lon": -67.29,
     "place": "16. km al noreste  de San Juan de los Morros",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-17-07-2026-21:01-10.3--62.54",
-    "time": "2026-07-18T01:01:00.000Z",
-    "mag": 2.9,
-    "depth": 4.9,
-    "lat": 10.3,
-    "lon": -62.54,
-    "place": "31 km al sur      de Irapa",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

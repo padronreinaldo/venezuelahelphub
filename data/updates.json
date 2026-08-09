@@ -32,6 +32,20 @@
     "sourceEn": "Runrun.es",
     "date": "2026-08-09",
     "conf": "med",
+    "titleEs": "Según ministro Garcés han inspeccionado más de 50000 edificaciones",
+    "titleEn": "Según ministro Garcés han inspeccionado más de 50000 edificaciones",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://runrun.es/noticias/617175/segun-ministro-garces-han-inspeccionado-mas-de-50000-edificaciones/"
+  },
+  {
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
+    "date": "2026-08-09",
+    "conf": "med",
     "titleEs": "Terremotos como coartada: crisis de servicios venía de mucho antes",
     "titleEn": "Terremotos como coartada: crisis de servicios venía de mucho antes",
     "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
@@ -40,19 +54,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://runrun.es/el-megafono/617159/terremotos-como-coartada-crisis-de-servicios-venia-de-mucho-antes/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-08-08",
-    "conf": "med",
-    "titleEs": "Alejandra Leal Guzmán: “cuando estás en crisis, no construyes mejor”",
-    "titleEn": "Alejandra Leal Guzmán: “cuando estás en crisis, no construyes mejor”",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/rr-es-plus/617126/alejandra-leal-guzman-cuando-estas-en-crisis-no-construyes-mejor/"
   }
 ]

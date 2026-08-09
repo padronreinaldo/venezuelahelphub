@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-08-08-2026-22:24-10.5--66.83",
+    "time": "2026-08-09T02:24:00.000Z",
+    "mag": 2.5,
+    "depth": 5,
+    "lat": 10.5,
+    "lon": -66.83,
+    "place": "10 km al este     de Caracas",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-08-08-2026-19:09-10.52--66.81",
     "time": "2026-08-08T23:09:00.000Z",
     "mag": 2.2,
@@ -7477,21 +7492,6 @@
     "lat": 10.71,
     "lon": -65.33,
     "place": "23 km al sur      de Isla la Tortuga",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-18-07-2026-04:28-10.82--65.31",
-    "time": "2026-07-18T08:28:00.000Z",
-    "mag": 2.3,
-    "depth": 14.3,
-    "lat": 10.82,
-    "lon": -65.31,
-    "place": "11 km al sur      de Isla la Tortuga",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

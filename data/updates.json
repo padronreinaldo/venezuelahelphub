@@ -4,6 +4,20 @@
     "sourceEn": "El Pitazo",
     "date": "2026-08-10",
     "conf": "med",
+    "titleEs": "Colombia | Al menos siete aeropuertos sufrieron daños por el terremoto de 7,4",
+    "titleEn": "Colombia | Al menos siete aeropuertos sufrieron daños por el terremoto de 7,4",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/internacional/colombia-al-menos-siete-aeropuertos-sufrieron-danos-por-el-terremoto-de-74/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-08-10",
+    "conf": "med",
     "titleEs": "Venezolanos en Colombia sobreviven al terremoto y recuerdan el desastre de La Guaira: “Me removió todo”",
     "titleEn": "Venezolanos en Colombia sobreviven al terremoto y recuerdan el desastre de La Guaira: “Me removió todo”",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -42,18 +56,18 @@
     "url": "https://elpitazo.net/internacional/colombia-declara-desastre-nacional-reportan-al-menos-71-muertos-por-el-terremoto/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
     "date": "2026-08-10",
     "conf": "med",
-    "titleEs": "Colegio de Ingenieros pide crear comisión para actualizar normas sismorresistentes y planificación urbana",
-    "titleEn": "Colegio de Ingenieros pide crear comisión para actualizar normas sismorresistentes y planificación urbana",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "titleEs": "Colegio de Ingenieros pide actualizar normas sismorresistentes en Venezuela tras terremotos",
+    "titleEn": "Colegio de Ingenieros pide actualizar normas sismorresistentes en Venezuela tras terremotos",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/regiones/gran-caracas/colegio-de-ingenieros-pide-crear-comision-para-actualizar-normas-sismorresistentes-y-planificacion-urbana/"
+    "url": "https://efectococuyo.com/la-humanidad/colegio-de-ingenieros-pide-actualizar-normas-sismorresistentes-en-venezuela-tras-terremotos/"
   },
   {
     "sourceEs": "Efecto Cocuyo",
@@ -96,19 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://efectococuyo.com/internacionales/volcan-purace-registra-mas-actividad-horas-despues-del-sismo-de-74-en-colombia/"
-  },
-  {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-08-10",
-    "conf": "med",
-    "titleEs": "Al menos 20 muertos en dos ciudades del centro de Colombia por el terremoto",
-    "titleEn": "Al menos 20 muertos en dos ciudades del centro de Colombia por el terremoto",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/internacionales/al-menos-20-muertos-en-dos-ciudades-del-centro-de-colombia-por-el-terremoto/"
   }
 ]

@@ -3,6 +3,15 @@
     "source": "El Pitazo",
     "section": "Venezuela",
     "date": "2026-08-10",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/08/terremoto-colombia.jpg",
+    "titleEs": "Colombia | Al menos siete aeropuertos sufrieron daños por el terremoto de 7,4",
+    "titleEn": "Colombia | Al menos siete aeropuertos sufrieron daños por el terremoto de 7,4",
+    "url": "https://elpitazo.net/internacional/colombia-al-menos-siete-aeropuertos-sufrieron-danos-por-el-terremoto-de-74/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-08-10",
     "img": "https://elpitazo.net/wp-content/uploads/2026/08/Terremoto-Colombia-1.jpg",
     "titleEs": "Venezolanos en Colombia sobreviven al terremoto y recuerdan el desastre de La Guaira: “Me removió todo”",
     "titleEn": "Venezolanos en Colombia sobreviven al terremoto y recuerdan el desastre de La Guaira: “Me removió todo”",
@@ -27,13 +36,13 @@
     "url": "https://elpitazo.net/internacional/colombia-declara-desastre-nacional-reportan-al-menos-71-muertos-por-el-terremoto/"
   },
   {
-    "source": "El Pitazo",
+    "source": "Efecto Cocuyo",
     "section": "Venezuela",
     "date": "2026-08-10",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/08/Enzo-Betancourt-presidente-del-Colegio-de-Ingeniero.jpg",
-    "titleEs": "Colegio de Ingenieros pide crear comisión para actualizar normas sismorresistentes y planificación urbana",
-    "titleEn": "Colegio de Ingenieros pide crear comisión para actualizar normas sismorresistentes y planificación urbana",
-    "url": "https://elpitazo.net/regiones/gran-caracas/colegio-de-ingenieros-pide-crear-comision-para-actualizar-normas-sismorresistentes-y-planificacion-urbana/"
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/08/10155716/colegio-de-ingenieros-1024x714.jpg",
+    "titleEs": "Colegio de Ingenieros pide actualizar normas sismorresistentes en Venezuela tras terremotos",
+    "titleEn": "Colegio de Ingenieros pide actualizar normas sismorresistentes en Venezuela tras terremotos",
+    "url": "https://efectococuyo.com/la-humanidad/colegio-de-ingenieros-pide-actualizar-normas-sismorresistentes-en-venezuela-tras-terremotos/"
   },
   {
     "source": "Efecto Cocuyo",
@@ -63,13 +72,13 @@
     "url": "https://efectococuyo.com/internacionales/volcan-purace-registra-mas-actividad-horas-despues-del-sismo-de-74-en-colombia/"
   },
   {
-    "source": "Efecto Cocuyo",
+    "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-08-10",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/08/10113002/5c7660d1f290bb9daa52f9d8514ace1843bc2498-1024x683.jpg",
-    "titleEs": "Al menos 20 muertos en dos ciudades del centro de Colombia por el terremoto",
-    "titleEn": "Al menos 20 muertos en dos ciudades del centro de Colombia por el terremoto",
-    "url": "https://efectococuyo.com/internacionales/al-menos-20-muertos-en-dos-ciudades-del-centro-de-colombia-por-el-terremoto/"
+    "img": "https://runrun.es/wp-content/uploads/2026/08/photo_2026-08-10_13-39-15.jpg",
+    "titleEs": "Sismos agravaron la sobrecarga de mujeres cuidadoras",
+    "titleEn": "Sismos agravaron la sobrecarga de mujeres cuidadoras",
+    "url": "https://runrun.es/rr-es-plus/617253/sismos-agravaron-la-sobrecarga-de-mujeres-cuidadoras/"
   },
   {
     "source": "Runrun.es",
@@ -79,14 +88,5 @@
     "titleEs": "Betancourt habla sobre necesidad de actualizar normas sismorresistentes",
     "titleEn": "Betancourt habla sobre necesidad de actualizar normas sismorresistentes",
     "url": "https://runrun.es/inicio/617196/betancourt-habla-sobre-necesidad-de-actualizar-normas-sismorresistentes/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-08-10",
-    "img": "https://runrun.es/wp-content/uploads/2026/08/DDHH-OLVIDADOS-21.jpg",
-    "titleEs": "Presos enfrentan doble tragedia luego de los terremotos",
-    "titleEn": "Presos enfrentan doble tragedia luego de los terremotos",
-    "url": "https://runrun.es/el-megafono/ddhh-olvidados/617164/presos-enfrentan-doble-tragedia-luego-de-los-terremotos/"
   }
 ]

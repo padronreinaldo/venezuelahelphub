@@ -1,5 +1,33 @@
 [
   {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-08-10",
+    "conf": "med",
+    "titleEs": "Sismo de magnitud 7.4 en Colombia tuvo alcance en Venezuela este #10Ago",
+    "titleEn": "Sismo de magnitud 7.4 en Colombia tuvo alcance en Venezuela este #10Ago",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/sucesos/temblor-de-magnitud-6-6-se-registro-en-colombia-este-10ago/"
+  },
+  {
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
+    "date": "2026-08-10",
+    "conf": "med",
+    "titleEs": "Terremoto de magnitud 7,4 sacude Colombia con graves daños materiales en varias ciudades",
+    "titleEn": "Terremoto de magnitud 7,4 sacude Colombia con graves daños materiales en varias ciudades",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://efectococuyo.com/internacionales/terremoto-de-magnitud-74-sacude-colombia/"
+  },
+  {
     "sourceEs": "Efecto Cocuyo",
     "sourceEn": "Efecto Cocuyo",
     "date": "2026-08-09",
@@ -12,20 +40,6 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://efectococuyo.com/politica/alguien-ira-a-la-carcel-por-los-terremotos-del-24j/"
-  },
-  {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-08-08",
-    "conf": "med",
-    "titleEs": "Doble terremoto pone en jaque 30.000 plazas de trabajo en Vargas",
-    "titleEn": "Doble terremoto pone en jaque 30.000 plazas de trabajo en Vargas",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/economia/doble-terremoto-pone-en-jaque-30-000-plazas-de-trabajo-en-vargas/"
   },
   {
     "sourceEs": "Runrun.es",

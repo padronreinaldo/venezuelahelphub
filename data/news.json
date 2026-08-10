@@ -1,5 +1,23 @@
 [
   {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-08-10",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/08/image-14.png",
+    "titleEs": "Sismo de magnitud 7.4 en Colombia tuvo alcance en Venezuela este #10Ago",
+    "titleEn": "Sismo de magnitud 7.4 en Colombia tuvo alcance en Venezuela este #10Ago",
+    "url": "https://elpitazo.net/sucesos/temblor-de-magnitud-6-6-se-registro-en-colombia-este-10ago/"
+  },
+  {
+    "source": "Efecto Cocuyo",
+    "section": "Venezuela",
+    "date": "2026-08-10",
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/08/10094607/5c8b38b2f4e67cab3d4b4e2447839b26d5d1295e-1-1024x683.jpg",
+    "titleEs": "Terremoto de magnitud 7,4 sacude Colombia con graves daños materiales en varias ciudades",
+    "titleEn": "Terremoto de magnitud 7,4 sacude Colombia con graves daños materiales en varias ciudades",
+    "url": "https://efectococuyo.com/internacionales/terremoto-de-magnitud-74-sacude-colombia/"
+  },
+  {
     "source": "Efecto Cocuyo",
     "section": "Venezuela",
     "date": "2026-08-09",
@@ -7,15 +25,6 @@
     "titleEs": "¿Alguien irá a la cárcel por los terremotos del 24 de junio?",
     "titleEn": "¿Alguien irá a la cárcel por los terremotos del 24 de junio?",
     "url": "https://efectococuyo.com/politica/alguien-ira-a-la-carcel-por-los-terremotos-del-24j/"
-  },
-  {
-    "source": "Efecto Cocuyo",
-    "section": "Venezuela",
-    "date": "2026-08-08",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/08095246/bb9cebc5a83333e5dd63838b816f2b9ed382f7f3-1024x683.jpg",
-    "titleEs": "Doble terremoto pone en jaque 30.000 plazas de trabajo en Vargas",
-    "titleEn": "Doble terremoto pone en jaque 30.000 plazas de trabajo en Vargas",
-    "url": "https://efectococuyo.com/economia/doble-terremoto-pone-en-jaque-30-000-plazas-de-trabajo-en-vargas/"
   },
   {
     "source": "Runrun.es",

@@ -4,6 +4,20 @@
     "sourceEn": "El Pitazo",
     "date": "2026-08-10",
     "conf": "med",
+    "titleEs": "Terremotos en Venezuela: sube a 6.301 el número de fallecidos",
+    "titleEn": "Terremotos en Venezuela: sube a 6.301 el número de fallecidos",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/regiones/gran-caracas/terremotos-en-venezuela-sube-a-6-301-el-numero-de-fallecidos/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-08-10",
+    "conf": "med",
     "titleEs": "Colombia | Al menos siete aeropuertos sufrieron daños por el terremoto de 7,4",
     "titleEn": "Colombia | Al menos siete aeropuertos sufrieron daños por el terremoto de 7,4",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -42,18 +56,32 @@
     "url": "https://elpitazo.net/politica/terremoto-en-colombia-delcy-rodriguez-tardo-solo-cuatro-horas-en-ofrecer-rescatistas/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
     "date": "2026-08-10",
     "conf": "med",
-    "titleEs": "Colombia declara «desastre nacional»: Presidencia confirma 111 muertos por el terremoto",
-    "titleEn": "Colombia declara «desastre nacional»: Presidencia confirma 111 muertos por el terremoto",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "titleEs": "Cabello llama “miserables” a quienes comparan a gobiernos venezolano y colombiano ante terremotos",
+    "titleEn": "Cabello llama “miserables” a quienes comparan a gobiernos venezolano y colombiano ante terremotos",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/internacional/colombia-declara-desastre-nacional-reportan-al-menos-71-muertos-por-el-terremoto/"
+    "url": "https://efectococuyo.com/politica/cabello-miserables-respuestas-gobierno-venezolano-colombiano-terremotos/"
+  },
+  {
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
+    "date": "2026-08-10",
+    "conf": "med",
+    "titleEs": "Actualizan cifra de fallecidos por el doble terremoto del 24 de junio: ya suman 6.301 víctimas",
+    "titleEn": "Actualizan cifra de fallecidos por el doble terremoto del 24 de junio: ya suman 6.301 víctimas",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://efectococuyo.com/la-humanidad/actualizan-cifra-de-fallecidos-por-el-doble-terremoto-del-24-de-junio-ya-suman-6-301-victimas/"
   },
   {
     "sourceEs": "Efecto Cocuyo",
@@ -82,33 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://efectococuyo.com/internacionales/el-terremoto-en-colombia-deja-al-menos-111-muertos-y-87-heridos-segun-el-presidente/"
-  },
-  {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-08-10",
-    "conf": "med",
-    "titleEs": "Estados fronterizos venezolanos evalúan efectos del sismo en Colombia",
-    "titleEn": "Estados fronterizos venezolanos evalúan efectos del sismo en Colombia",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/la-humanidad/estados-fronterizos-venezolanos-evaluan/"
-  },
-  {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-08-10",
-    "conf": "med",
-    "titleEs": "Volcán Puracé registra más actividad horas después del sismo de 7,4 en Colombia",
-    "titleEn": "Volcán Puracé registra más actividad horas después del sismo de 7,4 en Colombia",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/internacionales/volcan-purace-registra-mas-actividad-horas-despues-del-sismo-de-74-en-colombia/"
   }
 ]

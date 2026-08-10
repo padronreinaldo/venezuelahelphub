@@ -30,6 +30,24 @@
     "source": "Efecto Cocuyo",
     "section": "Venezuela",
     "date": "2026-08-10",
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/08/10143609/cd02693d4b3348fbd9dc28eccbd968327cc54b8b-1024x683.jpg",
+    "titleEs": "Estados fronterizos venezolanos evalúan efectos del sismo en Colombia",
+    "titleEn": "Estados fronterizos venezolanos evalúan efectos del sismo en Colombia",
+    "url": "https://efectococuyo.com/la-humanidad/estados-fronterizos-venezolanos-evaluan/"
+  },
+  {
+    "source": "Efecto Cocuyo",
+    "section": "Venezuela",
+    "date": "2026-08-10",
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/08/10125647/Pyrace-1024x683.avif",
+    "titleEs": "Volcán Puracé registra más actividad horas después del sismo de 7,4 en Colombia",
+    "titleEn": "Volcán Puracé registra más actividad horas después del sismo de 7,4 en Colombia",
+    "url": "https://efectococuyo.com/internacionales/volcan-purace-registra-mas-actividad-horas-despues-del-sismo-de-74-en-colombia/"
+  },
+  {
+    "source": "Efecto Cocuyo",
+    "section": "Venezuela",
+    "date": "2026-08-10",
     "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/08/10113002/5c7660d1f290bb9daa52f9d8514ace1843bc2498-1024x683.jpg",
     "titleEs": "Al menos 20 muertos en dos ciudades del centro de Colombia por el terremoto",
     "titleEn": "Al menos 20 muertos en dos ciudades del centro de Colombia por el terremoto",
@@ -48,6 +66,15 @@
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-08-10",
+    "img": "https://runrun.es/wp-content/uploads/2026/08/photo_2026-08-10_11-42-15.jpg",
+    "titleEs": "Betancourt habla sobre necesidad de actualizar normas sismorresistentes",
+    "titleEn": "Betancourt habla sobre necesidad de actualizar normas sismorresistentes",
+    "url": "https://runrun.es/inicio/617196/betancourt-habla-sobre-necesidad-de-actualizar-normas-sismorresistentes/"
+  },
+  {
+    "source": "Runrun.es",
+    "section": "Venezuela",
+    "date": "2026-08-10",
     "img": "https://runrun.es/wp-content/uploads/2026/08/DDHH-OLVIDADOS-21.jpg",
     "titleEs": "Presos enfrentan doble tragedia luego de los terremotos",
     "titleEn": "Presos enfrentan doble tragedia luego de los terremotos",
@@ -61,14 +88,5 @@
     "titleEs": "Según ministro Garcés han inspeccionado más de 50000 edificaciones",
     "titleEn": "Según ministro Garcés han inspeccionado más de 50000 edificaciones",
     "url": "https://runrun.es/noticias/617175/segun-ministro-garces-han-inspeccionado-mas-de-50000-edificaciones/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-08-09",
-    "img": "https://runrun.es/wp-content/uploads/2026/08/DDHH-OLVIDADOS-1.jpg",
-    "titleEs": "Terremotos como coartada: crisis de servicios venía de mucho antes",
-    "titleEn": "Terremotos como coartada: crisis de servicios venía de mucho antes",
-    "url": "https://runrun.es/el-megafono/617159/terremotos-como-coartada-crisis-de-servicios-venia-de-mucho-antes/"
   }
 ]

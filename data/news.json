@@ -3,9 +3,27 @@
     "source": "El Pitazo",
     "section": "Venezuela",
     "date": "2026-08-10",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/08/Terremoto-Colombia-1.jpg",
+    "titleEs": "Venezolanos en Colombia sobreviven al terremoto y recuerdan el desastre de La Guaira: “Me removió todo”",
+    "titleEn": "Venezolanos en Colombia sobreviven al terremoto y recuerdan el desastre de La Guaira: “Me removió todo”",
+    "url": "https://elpitazo.net/migracion/venezolanos-en-colombia-sobreviven-al-terremoto-y-recuerdan-el-desastre-de-la-guaria-me-removio-todo/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-08-10",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/08/880d270df424fc48c7f4950900e700517c65813ew.jpg",
+    "titleEs": "Terremoto en Colombia: Delcy Rodríguez tardó sólo cuatro horas en ofrecer rescatistas",
+    "titleEn": "Terremoto en Colombia: Delcy Rodríguez tardó sólo cuatro horas en ofrecer rescatistas",
+    "url": "https://elpitazo.net/politica/terremoto-en-colombia-delcy-rodriguez-tardo-solo-cuatro-horas-en-ofrecer-rescatistas/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-08-10",
     "img": "https://elpitazo.net/wp-content/uploads/2026/08/9912deeaf84443f6cd3aa7eda299408ea6280b17-1024x682.jpg",
-    "titleEs": "Colombia declara «desastre nacional»: reportan, al menos, 71 muertos por el terremoto",
-    "titleEn": "Colombia declara «desastre nacional»: reportan, al menos, 71 muertos por el terremoto",
+    "titleEs": "Colombia declara «desastre nacional»: Presidencia confirma 111 muertos por el terremoto",
+    "titleEn": "Colombia declara «desastre nacional»: Presidencia confirma 111 muertos por el terremoto",
     "url": "https://elpitazo.net/internacional/colombia-declara-desastre-nacional-reportan-al-menos-71-muertos-por-el-terremoto/"
   },
   {
@@ -18,13 +36,13 @@
     "url": "https://elpitazo.net/regiones/gran-caracas/colegio-de-ingenieros-pide-crear-comision-para-actualizar-normas-sismorresistentes-y-planificacion-urbana/"
   },
   {
-    "source": "El Pitazo",
+    "source": "Efecto Cocuyo",
     "section": "Venezuela",
     "date": "2026-08-10",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/08/image-14.png",
-    "titleEs": "Sismo de magnitud 7.4 en Colombia tuvo alcance en Venezuela este #10Ago",
-    "titleEn": "Sismo de magnitud 7.4 en Colombia tuvo alcance en Venezuela este #10Ago",
-    "url": "https://elpitazo.net/sucesos/temblor-de-magnitud-6-6-se-registro-en-colombia-este-10ago/"
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/08/10150941/f5769b20d91ca8b2ac74a9cd08d63709eeaba876-1024x683.jpg",
+    "titleEs": "El terremoto en Colombia deja al menos 111 muertos y 87 heridos, según el presidente",
+    "titleEn": "El terremoto en Colombia deja al menos 111 muertos y 87 heridos, según el presidente",
+    "url": "https://efectococuyo.com/internacionales/el-terremoto-en-colombia-deja-al-menos-111-muertos-y-87-heridos-segun-el-presidente/"
   },
   {
     "source": "Efecto Cocuyo",
@@ -54,15 +72,6 @@
     "url": "https://efectococuyo.com/internacionales/al-menos-20-muertos-en-dos-ciudades-del-centro-de-colombia-por-el-terremoto/"
   },
   {
-    "source": "Efecto Cocuyo",
-    "section": "Venezuela",
-    "date": "2026-08-10",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/08/10094607/5c8b38b2f4e67cab3d4b4e2447839b26d5d1295e-1-1024x683.jpg",
-    "titleEs": "Terremoto de magnitud 7,4 sacude Colombia con graves daños materiales en varias ciudades",
-    "titleEn": "Terremoto de magnitud 7,4 sacude Colombia con graves daños materiales en varias ciudades",
-    "url": "https://efectococuyo.com/internacionales/terremoto-de-magnitud-74-sacude-colombia/"
-  },
-  {
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-08-10",
@@ -79,14 +88,5 @@
     "titleEs": "Presos enfrentan doble tragedia luego de los terremotos",
     "titleEn": "Presos enfrentan doble tragedia luego de los terremotos",
     "url": "https://runrun.es/el-megafono/ddhh-olvidados/617164/presos-enfrentan-doble-tragedia-luego-de-los-terremotos/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-08-09",
-    "img": "https://runrun.es/wp-content/uploads/2026/08/Diseno-sin-titulo-2026-08-09T140338.013.jpg",
-    "titleEs": "Según ministro Garcés han inspeccionado más de 50000 edificaciones",
-    "titleEn": "Según ministro Garcés han inspeccionado más de 50000 edificaciones",
-    "url": "https://runrun.es/noticias/617175/segun-ministro-garces-han-inspeccionado-mas-de-50000-edificaciones/"
   }
 ]

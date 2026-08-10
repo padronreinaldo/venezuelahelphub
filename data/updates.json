@@ -4,8 +4,36 @@
     "sourceEn": "El Pitazo",
     "date": "2026-08-10",
     "conf": "med",
-    "titleEs": "Colombia declara «desastre nacional»: reportan, al menos, 71 muertos por el terremoto",
-    "titleEn": "Colombia declara «desastre nacional»: reportan, al menos, 71 muertos por el terremoto",
+    "titleEs": "Venezolanos en Colombia sobreviven al terremoto y recuerdan el desastre de La Guaira: “Me removió todo”",
+    "titleEn": "Venezolanos en Colombia sobreviven al terremoto y recuerdan el desastre de La Guaira: “Me removió todo”",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/migracion/venezolanos-en-colombia-sobreviven-al-terremoto-y-recuerdan-el-desastre-de-la-guaria-me-removio-todo/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-08-10",
+    "conf": "med",
+    "titleEs": "Terremoto en Colombia: Delcy Rodríguez tardó sólo cuatro horas en ofrecer rescatistas",
+    "titleEn": "Terremoto en Colombia: Delcy Rodríguez tardó sólo cuatro horas en ofrecer rescatistas",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/politica/terremoto-en-colombia-delcy-rodriguez-tardo-solo-cuatro-horas-en-ofrecer-rescatistas/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-08-10",
+    "conf": "med",
+    "titleEs": "Colombia declara «desastre nacional»: Presidencia confirma 111 muertos por el terremoto",
+    "titleEn": "Colombia declara «desastre nacional»: Presidencia confirma 111 muertos por el terremoto",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
     "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
     "areas": [],
@@ -28,18 +56,18 @@
     "url": "https://elpitazo.net/regiones/gran-caracas/colegio-de-ingenieros-pide-crear-comision-para-actualizar-normas-sismorresistentes-y-planificacion-urbana/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
     "date": "2026-08-10",
     "conf": "med",
-    "titleEs": "Sismo de magnitud 7.4 en Colombia tuvo alcance en Venezuela este #10Ago",
-    "titleEn": "Sismo de magnitud 7.4 en Colombia tuvo alcance en Venezuela este #10Ago",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "titleEs": "El terremoto en Colombia deja al menos 111 muertos y 87 heridos, según el presidente",
+    "titleEn": "El terremoto en Colombia deja al menos 111 muertos y 87 heridos, según el presidente",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/sucesos/temblor-de-magnitud-6-6-se-registro-en-colombia-este-10ago/"
+    "url": "https://efectococuyo.com/internacionales/el-terremoto-en-colombia-deja-al-menos-111-muertos-y-87-heridos-segun-el-presidente/"
   },
   {
     "sourceEs": "Efecto Cocuyo",
@@ -82,33 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://efectococuyo.com/internacionales/al-menos-20-muertos-en-dos-ciudades-del-centro-de-colombia-por-el-terremoto/"
-  },
-  {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-08-10",
-    "conf": "med",
-    "titleEs": "Terremoto de magnitud 7,4 sacude Colombia con graves daños materiales en varias ciudades",
-    "titleEn": "Terremoto de magnitud 7,4 sacude Colombia con graves daños materiales en varias ciudades",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/internacionales/terremoto-de-magnitud-74-sacude-colombia/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-08-10",
-    "conf": "med",
-    "titleEs": "Betancourt habla sobre necesidad de actualizar normas sismorresistentes",
-    "titleEn": "Betancourt habla sobre necesidad de actualizar normas sismorresistentes",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/inicio/617196/betancourt-habla-sobre-necesidad-de-actualizar-normas-sismorresistentes/"
   }
 ]

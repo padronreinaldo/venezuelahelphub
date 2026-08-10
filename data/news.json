@@ -3,6 +3,24 @@
     "source": "El Pitazo",
     "section": "Venezuela",
     "date": "2026-08-10",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/05/Captura-de-pantalla-2026-05-11-171559.png",
+    "titleEs": "Diosdado Cabello atribuye fallas eléctricas a los daños por los terremotos del #24Jun",
+    "titleEn": "Diosdado Cabello atribuye fallas eléctricas a los daños por los terremotos del #24Jun",
+    "url": "https://elpitazo.net/politica/diosdado-cabello-atribuye-fallas-electricas-a-los-danos-por-los-terremotos-del-24jun/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/03/imagen_2026-03-16_123020244.jpg",
+    "titleEs": "María Corina Machado manifiesta su solidaridad a Colombia tras terremoto de magnitud 7,4",
+    "titleEn": "María Corina Machado manifiesta su solidaridad a Colombia tras terremoto de magnitud 7,4",
+    "url": "https://elpitazo.net/?p=514865"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-08-10",
     "img": "https://elpitazo.net/wp-content/uploads/2026/08/Boletin-819x1024.jpg",
     "titleEs": "Terremotos en Venezuela: sube a 6.301 el número de fallecidos",
     "titleEn": "Terremotos en Venezuela: sube a 6.301 el número de fallecidos",
@@ -11,29 +29,11 @@
   {
     "source": "El Pitazo",
     "section": "Venezuela",
-    "date": "2026-08-10",
+    "date": "",
     "img": "https://elpitazo.net/wp-content/uploads/2026/08/terremoto-colombia.jpg",
-    "titleEs": "Colombia | Al menos siete aeropuertos sufrieron daños por el terremoto de 7,4",
-    "titleEn": "Colombia | Al menos siete aeropuertos sufrieron daños por el terremoto de 7,4",
-    "url": "https://elpitazo.net/internacional/colombia-al-menos-siete-aeropuertos-sufrieron-danos-por-el-terremoto-de-74/"
-  },
-  {
-    "source": "El Pitazo",
-    "section": "Venezuela",
-    "date": "2026-08-10",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/08/Terremoto-Colombia-1.jpg",
-    "titleEs": "Venezolanos en Colombia sobreviven al terremoto y recuerdan el desastre de La Guaira: “Me removió todo”",
-    "titleEn": "Venezolanos en Colombia sobreviven al terremoto y recuerdan el desastre de La Guaira: “Me removió todo”",
-    "url": "https://elpitazo.net/migracion/venezolanos-en-colombia-sobreviven-al-terremoto-y-recuerdan-el-desastre-de-la-guaria-me-removio-todo/"
-  },
-  {
-    "source": "El Pitazo",
-    "section": "Venezuela",
-    "date": "2026-08-10",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/08/880d270df424fc48c7f4950900e700517c65813ew.jpg",
-    "titleEs": "Terremoto en Colombia: Delcy Rodríguez tardó sólo cuatro horas en ofrecer rescatistas",
-    "titleEn": "Terremoto en Colombia: Delcy Rodríguez tardó sólo cuatro horas en ofrecer rescatistas",
-    "url": "https://elpitazo.net/politica/terremoto-en-colombia-delcy-rodriguez-tardo-solo-cuatro-horas-en-ofrecer-rescatistas/"
+    "titleEs": "Colombia | Al menos siete aeropuertos sufrieron daños por terremoto de 7,4",
+    "titleEn": "Colombia | Al menos siete aeropuertos sufrieron daños por terremoto de 7,4",
+    "url": "https://elpitazo.net/?p=514850"
   },
   {
     "source": "Efecto Cocuyo",

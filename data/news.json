@@ -3,6 +3,15 @@
     "source": "El Pitazo",
     "section": "Venezuela",
     "date": "2026-08-11",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/08/familia-venezolana.jpg",
+    "titleEs": "Terremoto en Colombia | Familia venezolana que sobrevivió a doblete sísmico revive el trauma en Cali",
+    "titleEn": "Terremoto en Colombia | Familia venezolana que sobrevivió a doblete sísmico revive el trauma en Cali",
+    "url": "https://elpitazo.net/internacional/terremoto-en-colombia-familia-venezolana-que-sobrevivio-a-doblete-sismico-revive-el-trauma-en-cali/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-08-11",
     "img": "https://elpitazo.net/wp-content/uploads/2026/08/9912deeaf84443f6cd3aa7eda299408ea6280b17-1024x682.jpg",
     "titleEs": "Colombia declara «desastre nacional»: Autoridades confirman 132 muertos por el terremoto",
     "titleEn": "Colombia declara «desastre nacional»: Autoridades confirman 132 muertos por el terremoto",
@@ -27,13 +36,13 @@
     "url": "https://elpitazo.net/politica/diosdado-cabello-atribuye-fallas-electricas-a-los-danos-por-los-terremotos-del-24jun/"
   },
   {
-    "source": "El Pitazo",
+    "source": "Efecto Cocuyo",
     "section": "Venezuela",
-    "date": "2026-08-10",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/03/imagen_2026-03-16_123020244.jpg",
-    "titleEs": "María Corina Machado manifiesta su solidaridad a Colombia tras terremoto de magnitud 7,4",
-    "titleEn": "María Corina Machado manifiesta su solidaridad a Colombia tras terremoto de magnitud 7,4",
-    "url": "https://elpitazo.net/politica/maria-corina-machado-manifiesta-su-solidaridad-a-colombia-tras-terremoto-de-magnitud-74/"
+    "date": "2026-08-11",
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/08/11092521/0f2d83c59fdfba29e276f842aadcbfe0d1a3c194-1024x683.jpg",
+    "titleEs": "Terremoto en Colombia: un sismo “complejo” que comparte “contexto tectónico” con Venezuela",
+    "titleEn": "Terremoto en Colombia: un sismo “complejo” que comparte “contexto tectónico” con Venezuela",
+    "url": "https://efectococuyo.com/internacionales/terremoto-en-colombia-un-sismo-complejo-que-comparte-contexto-tectonico-con-venezuela/"
   },
   {
     "source": "Efecto Cocuyo",
@@ -63,30 +72,12 @@
     "url": "https://efectococuyo.com/la-humanidad/actualizan-cifra-de-fallecidos-por-el-doble-terremoto-del-24-de-junio-ya-suman-6-301-victimas/"
   },
   {
-    "source": "Efecto Cocuyo",
-    "section": "Venezuela",
-    "date": "2026-08-10",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/08/10155716/colegio-de-ingenieros-1024x714.jpg",
-    "titleEs": "Colegio de Ingenieros pide actualizar normas sismorresistentes en Venezuela tras terremotos",
-    "titleEn": "Colegio de Ingenieros pide actualizar normas sismorresistentes en Venezuela tras terremotos",
-    "url": "https://efectococuyo.com/la-humanidad/colegio-de-ingenieros-pide-actualizar-normas-sismorresistentes-en-venezuela-tras-terremotos/"
-  },
-  {
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-08-10",
-    "img": "https://runrun.es/wp-content/uploads/2026/08/Diseno-sin-titulo-2026-08-10T164311.606.jpg",
+    "img": "",
     "titleEs": "Descartan afectaciones en Táchira por terremoto en Colombia",
     "titleEn": "Descartan afectaciones en Táchira por terremoto en Colombia",
     "url": "https://runrun.es/noticias/617273/descartan-afectaciones-en-tachira-por-terremoto-en-colombia/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-08-10",
-    "img": "https://runrun.es/wp-content/uploads/2026/08/photo_2026-08-10_13-39-15.jpg",
-    "titleEs": "Sismos agravaron la sobrecarga de mujeres cuidadoras",
-    "titleEn": "Sismos agravaron la sobrecarga de mujeres cuidadoras",
-    "url": "https://runrun.es/rr-es-plus/617253/sismos-agravaron-la-sobrecarga-de-mujeres-cuidadoras/"
   }
 ]

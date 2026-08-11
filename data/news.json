@@ -3,6 +3,15 @@
     "source": "El Pitazo",
     "section": "Venezuela",
     "date": "2026-08-11",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/08/imagen_2026-08-11_123322072.png",
+    "titleEs": "Terremoto de Colombia: un sismo «complejo» que comparte «contexto tectónico» con Venezuela",
+    "titleEn": "Terremoto de Colombia: un sismo «complejo» que comparte «contexto tectónico» con Venezuela",
+    "url": "https://elpitazo.net/internacionales/terremoto-de-colombia-un-sismo-complejo-que-comparte-contexto-tectonico-con-venezuela/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-08-11",
     "img": "https://elpitazo.net/wp-content/uploads/2017/02/Funvisis-1.jpg",
     "titleEs": "Delcy Rodríguez anuncia que Funvisis vuelve a formar parte del Ministerio para Ciencia y Tecnología",
     "titleEn": "Delcy Rodríguez anuncia que Funvisis vuelve a formar parte del Ministerio para Ciencia y Tecnología",
@@ -25,15 +34,6 @@
     "titleEs": "Terremoto en Colombia | Familia venezolana que sobrevivió a doblete sísmico revive el trauma en Cali",
     "titleEn": "Terremoto en Colombia | Familia venezolana que sobrevivió a doblete sísmico revive el trauma en Cali",
     "url": "https://elpitazo.net/internacional/terremoto-en-colombia-familia-venezolana-que-sobrevivio-a-doblete-sismico-revive-el-trauma-en-cali/"
-  },
-  {
-    "source": "El Pitazo",
-    "section": "Venezuela",
-    "date": "2026-08-11",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/08/9912deeaf84443f6cd3aa7eda299408ea6280b17-1024x682.jpg",
-    "titleEs": "Colombia declara «desastre nacional»: Autoridades confirman 132 muertos por el terremoto",
-    "titleEn": "Colombia declara «desastre nacional»: Autoridades confirman 132 muertos por el terremoto",
-    "url": "https://elpitazo.net/internacional/colombia-declara-desastre-nacional-reportan-al-menos-71-muertos-por-el-terremoto/"
   },
   {
     "source": "Efecto Cocuyo",
@@ -75,18 +75,18 @@
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-08-11",
-    "img": "https://runrun.es/wp-content/uploads/2026/08/delcy-rodriguez-ayuda-colombia.jpg",
-    "titleEs": "Rodríguez ofrece rescatistas a Colombia mientras en La Guaira buscan personas bajo los escombros",
-    "titleEn": "Rodríguez ofrece rescatistas a Colombia mientras en La Guaira buscan personas bajo los escombros",
-    "url": "https://runrun.es/noticias/617317/rodriguez-ofrece-rescatistas-a-colombia-mientras-en-la-guaira-buscan-personas-bajo-los-escombros/"
+    "img": "https://runrun.es/wp-content/uploads/2026/08/Diseno-sin-titulo-11.jpg",
+    "titleEs": "Funvisis pasa a manos del Ministerio de Ciencia y Tecnología tras fallas en la red sísmica",
+    "titleEn": "Funvisis pasa a manos del Ministerio de Ciencia y Tecnología tras fallas en la red sísmica",
+    "url": "https://runrun.es/noticias/617326/funvisis-pasa-a-manos-del-ministerio-de-ciencia-y-tecnologia-tras-fallas-en-la-red-sismica/"
   },
   {
     "source": "Runrun.es",
     "section": "Venezuela",
-    "date": "2026-08-10",
-    "img": "https://runrun.es/wp-content/uploads/2026/08/Diseno-sin-titulo-2026-08-10T164311.606.jpg",
-    "titleEs": "Descartan afectaciones en Táchira por terremoto en Colombia",
-    "titleEn": "Descartan afectaciones en Táchira por terremoto en Colombia",
-    "url": "https://runrun.es/noticias/617273/descartan-afectaciones-en-tachira-por-terremoto-en-colombia/"
+    "date": "2026-08-11",
+    "img": "https://runrun.es/wp-content/uploads/2026/08/delcy-rodriguez-ayuda-colombia.jpg",
+    "titleEs": "Rodríguez ofrece rescatistas a Colombia mientras en La Guaira buscan personas bajo los escombros",
+    "titleEn": "Rodríguez ofrece rescatistas a Colombia mientras en La Guaira buscan personas bajo los escombros",
+    "url": "https://runrun.es/noticias/617317/rodriguez-ofrece-rescatistas-a-colombia-mientras-en-la-guaira-buscan-personas-bajo-los-escombros/"
   }
 ]

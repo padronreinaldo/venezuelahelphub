@@ -2,6 +2,20 @@
   {
     "sourceEs": "El Pitazo",
     "sourceEn": "El Pitazo",
+    "date": "2026-08-11",
+    "conf": "med",
+    "titleEs": "Colombia declara «desastre nacional»: Autoridades confirman 132 muertos por el terremoto",
+    "titleEn": "Colombia declara «desastre nacional»: Autoridades confirman 132 muertos por el terremoto",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/internacional/colombia-declara-desastre-nacional-reportan-al-menos-71-muertos-por-el-terremoto/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
     "date": "2026-08-10",
     "conf": "med",
     "titleEs": "Banco de Desarrollo del Caribe contribuye con 1 millón de dólares a la recuperación de Venezuela",
@@ -42,18 +56,18 @@
     "url": "https://elpitazo.net/politica/maria-corina-machado-manifiesta-su-solidaridad-a-colombia-tras-terremoto-de-magnitud-74/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-08-10",
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
+    "date": "2026-08-11",
     "conf": "med",
-    "titleEs": "Terremotos en Venezuela: sube a 6.301 el número de fallecidos",
-    "titleEn": "Terremotos en Venezuela: sube a 6.301 el número de fallecidos",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "titleEs": "47 días después del doble terremoto en Venezuela, Abigail y Máximo vivieron otro en Bogotá",
+    "titleEn": "47 días después del doble terremoto en Venezuela, Abigail y Máximo vivieron otro en Bogotá",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/regiones/gran-caracas/terremotos-en-venezuela-sube-a-6-301-el-numero-de-fallecidos/"
+    "url": "https://efectococuyo.com/la-humanidad/47-dias-despues-del-doble-terremoto-en-venezuela-abigail-y-maximo-vivieron-otro-en-bogota/"
   },
   {
     "sourceEs": "Efecto Cocuyo",
@@ -96,19 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://efectococuyo.com/la-humanidad/colegio-de-ingenieros-pide-actualizar-normas-sismorresistentes-en-venezuela-tras-terremotos/"
-  },
-  {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-08-10",
-    "conf": "med",
-    "titleEs": "El terremoto en Colombia deja al menos 111 muertos y 87 heridos, según el presidente",
-    "titleEn": "El terremoto en Colombia deja al menos 111 muertos y 87 heridos, según el presidente",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/internacionales/el-terremoto-en-colombia-deja-al-menos-111-muertos-y-87-heridos-segun-el-presidente/"
   }
 ]

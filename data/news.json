@@ -2,20 +2,20 @@
   {
     "source": "El Pitazo",
     "section": "Venezuela",
-    "date": "",
+    "date": "2026-08-11",
     "img": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXf3pe-SezJaxIfcsf4k7yiuTt0sfEcVmjASHa3qD5uHe8Sru9kBu7iJLGgcYo9Xomd9JwCNpx8Kn4mzfj8mo3gvycyCuZPnQzA5KRmJycsPR85C_gOx9mK71ohQ9xEH3hviT3vGPZwlHw=s2048?key=eZNdjQzBIsdByZyBuTaIAQ",
     "titleEs": "Terremotos | Entre carpas y grietas: familias de la Misión Vivienda anhelan una nueva casa",
     "titleEn": "Terremotos | Entre carpas y grietas: familias de la Misión Vivienda anhelan una nueva casa",
-    "url": "https://elpitazo.net/?p=515193"
+    "url": "https://elpitazo.net/caracas/terremotos-entre-carpas-y-grietas-familias-de-la-mision-vivienda-anhelan-una-nueva-casa/"
   },
   {
     "source": "El Pitazo",
     "section": "Venezuela",
-    "date": "",
+    "date": "2026-08-11",
     "img": "https://elpitazo.net/wp-content/uploads/2026/08/imagen_2026-08-11_161136135.jpg",
     "titleEs": "Gremios del Táchira envían manifiesto con peticiones a presidente Abelardo de la Espriella",
     "titleEn": "Gremios del Táchira envían manifiesto con peticiones a presidente Abelardo de la Espriella",
-    "url": "https://elpitazo.net/?p=515159"
+    "url": "https://elpitazo.net/regiones/gremios-del-tachira-envian-manifiesto-con-peticiones-a-presidente-abelardo-de-la-espriella/"
   },
   {
     "source": "El Pitazo",
@@ -39,6 +39,15 @@
     "source": "Efecto Cocuyo",
     "section": "Venezuela",
     "date": "2026-08-11",
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/08/11175913/Banco-Digital-de-los-Trabajadores-1024x768.jpg",
+    "titleEs": "Tres bancos públicos habilitan créditos para damnificados por los terremotos",
+    "titleEn": "Tres bancos públicos habilitan créditos para damnificados por los terremotos",
+    "url": "https://efectococuyo.com/economia/tres-bancos-publicos-habilitan-creditos-para-damnificados-por-los-terremotos/"
+  },
+  {
+    "source": "Efecto Cocuyo",
+    "section": "Venezuela",
+    "date": "2026-08-11",
     "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/08/11160755/f540a9af49fbd9e964ab61bb7d10d91211e7b0e0-1-1024x683.jpg",
     "titleEs": "De la Espriella cifra en 181 los muertos por el terremoto",
     "titleEn": "De la Espriella cifra en 181 los muertos por el terremoto",
@@ -54,19 +63,10 @@
     "url": "https://efectococuyo.com/solaz/concierto-benefico-en-miami-para-venezuela-tambien-apoyara-a-colombia-tras-los-terremotos/"
   },
   {
-    "source": "Efecto Cocuyo",
-    "section": "Venezuela",
-    "date": "2026-08-11",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/08/11100919/619c448d2afb82858c6209a9c5713487f86c963a-1-1024x683.jpg",
-    "titleEs": "Sube a 169 el número de muertos y a 668 el de heridos por el terremoto en Colombia",
-    "titleEn": "Sube a 169 el número de muertos y a 668 el de heridos por el terremoto en Colombia",
-    "url": "https://efectococuyo.com/internacionales/sube-a-169-el-numero-de-muertos-y-a-668-el-de-heridos-por-el-terremoto-en-colombia/"
-  },
-  {
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-08-11",
-    "img": "https://runrun.es/wp-content/uploads/2026/08/Diseno-sin-titulo-2026-08-11T141338.481.jpg",
+    "img": "",
     "titleEs": "Familia venezolana se encuentra desaparecida en Cali",
     "titleEn": "Familia venezolana se encuentra desaparecida en Cali",
     "url": "https://runrun.es/noticias/617348/familia-venezolana-se-encuentra-desaparecida-en-cali/"
@@ -75,7 +75,7 @@
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-08-11",
-    "img": "https://runrun.es/wp-content/uploads/2026/08/Diseno-sin-titulo-11.jpg",
+    "img": "",
     "titleEs": "Funvisis pasa a manos del Ministerio de Ciencia y Tecnología tras fallas en la red sísmica",
     "titleEn": "Funvisis pasa a manos del Ministerio de Ciencia y Tecnología tras fallas en la red sísmica",
     "url": "https://runrun.es/noticias/617326/funvisis-pasa-a-manos-del-ministerio-de-ciencia-y-tecnologia-tras-fallas-en-la-red-sismica/"
@@ -84,7 +84,7 @@
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-08-11",
-    "img": "https://runrun.es/wp-content/uploads/2026/08/delcy-rodriguez-ayuda-colombia.jpg",
+    "img": "",
     "titleEs": "Rodríguez ofrece rescatistas a Colombia mientras en La Guaira buscan personas bajo los escombros",
     "titleEn": "Rodríguez ofrece rescatistas a Colombia mientras en La Guaira buscan personas bajo los escombros",
     "url": "https://runrun.es/noticias/617317/rodriguez-ofrece-rescatistas-a-colombia-mientras-en-la-guaira-buscan-personas-bajo-los-escombros/"

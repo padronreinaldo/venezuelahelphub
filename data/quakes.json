@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-11-08-2026-17:42-10.59--73.36",
+    "time": "2026-08-11T21:42:00.000Z",
+    "mag": 1.9,
+    "depth": 3,
+    "lat": 10.59,
+    "lon": -73.36,
+    "place": "19 km al noroeste de Valledupar",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-11-08-2026-16:14-6.82--73.14",
     "time": "2026-08-11T20:14:00.000Z",
     "mag": 3.6,
@@ -7477,21 +7492,6 @@
     "lat": 10.67,
     "lon": -66.82,
     "place": "11 km al noroeste de Naiguata",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-20-07-2026-02:40-10.64--66.61",
-    "time": "2026-07-20T06:40:00.000Z",
-    "mag": 1.8,
-    "depth": 4.7,
-    "lat": 10.64,
-    "lon": -66.61,
-    "place": "5 km al noroeste de Los Caracas",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

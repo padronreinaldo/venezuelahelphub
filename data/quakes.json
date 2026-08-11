@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-11-08-2026-00:13-10.52--68.46",
+    "time": "2026-08-11T04:13:00.000Z",
+    "mag": 1.8,
+    "depth": 6.6,
+    "lat": 10.52,
+    "lon": -68.46,
+    "place": "27 km al suroeste de Boca de Aroa",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-10-08-2026-23:32-10.57--66.91",
     "time": "2026-08-11T03:32:00.000Z",
     "mag": 2,
@@ -7477,21 +7492,6 @@
     "lat": 10.44,
     "lon": -70.36,
     "place": "42 km al noroeste de Carora",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-19-07-2026-13:11-10.42--68.59",
-    "time": "2026-07-19T17:11:00.000Z",
-    "mag": 2.1,
-    "depth": 4.8,
-    "lat": 10.42,
-    "lon": -68.59,
-    "place": "19 km al noreste  de San Felipe",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

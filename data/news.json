@@ -3,6 +3,15 @@
     "source": "El Pitazo",
     "section": "Venezuela",
     "date": "2026-08-11",
+    "img": "https://elpitazo.net/wp-content/uploads/2017/02/Funvisis-1.jpg",
+    "titleEs": "Delcy Rodríguez anuncia que Funvisis vuelve a formar parte del Ministerio para Ciencia y Tecnología",
+    "titleEn": "Delcy Rodríguez anuncia que Funvisis vuelve a formar parte del Ministerio para Ciencia y Tecnología",
+    "url": "https://elpitazo.net/politica/delcy-rodriguez-anuncia-que-funvisis-vuelve-a-formar-parte-del-ministerio-para-ciencia-y-tecnologia/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-08-11",
     "img": "https://elpitazo.net/wp-content/uploads/2026/08/toque-de-queda-en-colombia-2-1024x683.jpg",
     "titleEs": "Colombia | Autoridades decretan toque de queda en dos ciudades afectadas por terremoto",
     "titleEn": "Colombia | Autoridades decretan toque de queda en dos ciudades afectadas por terremoto",
@@ -25,15 +34,6 @@
     "titleEs": "Colombia declara «desastre nacional»: Autoridades confirman 132 muertos por el terremoto",
     "titleEn": "Colombia declara «desastre nacional»: Autoridades confirman 132 muertos por el terremoto",
     "url": "https://elpitazo.net/internacional/colombia-declara-desastre-nacional-reportan-al-menos-71-muertos-por-el-terremoto/"
-  },
-  {
-    "source": "El Pitazo",
-    "section": "Venezuela",
-    "date": "2026-08-10",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/06/TERREMOTO-LA-GUAIRA.jpg",
-    "titleEs": "Banco de Desarrollo del Caribe contribuye con 1 millón de dólares a la recuperación de Venezuela",
-    "titleEn": "Banco de Desarrollo del Caribe contribuye con 1 millón de dólares a la recuperación de Venezuela",
-    "url": "https://elpitazo.net/economia/banco-de-desarrollo-del-caribe-contribuye-con-1-millon-de-dolares-a-la-recuperacion-de-venezuela/"
   },
   {
     "source": "Efecto Cocuyo",
@@ -70,6 +70,15 @@
     "titleEs": "Cabello llama “miserables” a quienes comparan a gobiernos venezolano y colombiano ante terremotos",
     "titleEn": "Cabello llama “miserables” a quienes comparan a gobiernos venezolano y colombiano ante terremotos",
     "url": "https://efectococuyo.com/politica/cabello-miserables-respuestas-gobierno-venezolano-colombiano-terremotos/"
+  },
+  {
+    "source": "Runrun.es",
+    "section": "Venezuela",
+    "date": "2026-08-11",
+    "img": "https://runrun.es/wp-content/uploads/2026/08/delcy-rodriguez-ayuda-colombia.jpg",
+    "titleEs": "Rodríguez ofrece rescatistas a Colombia mientras en La Guaira buscan personas bajo los escombros",
+    "titleEn": "Rodríguez ofrece rescatistas a Colombia mientras en La Guaira buscan personas bajo los escombros",
+    "url": "https://runrun.es/noticias/617317/rodriguez-ofrece-rescatistas-a-colombia-mientras-en-la-guaira-buscan-personas-bajo-los-escombros/"
   },
   {
     "source": "Runrun.es",

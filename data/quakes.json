@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-11-08-2026-07:08-9.41--69.85",
+    "time": "2026-08-11T11:08:00.000Z",
+    "mag": 2.3,
+    "depth": 3.7,
+    "lat": 9.41,
+    "lon": -69.85,
+    "place": "15 km al noreste  de Biscucuy",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-11-08-2026-06:32-10.11--67.31",
     "time": "2026-08-11T10:32:00.000Z",
     "mag": 1.6,
@@ -7477,21 +7492,6 @@
     "lat": 10.4,
     "lon": -68.63,
     "place": "14 km al noreste  de San Felipe",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-19-07-2026-17:58-7.06--73.18",
-    "time": "2026-07-19T21:58:00.000Z",
-    "mag": 2.6,
-    "depth": 5,
-    "lat": 7.06,
-    "lon": -73.18,
-    "place": "9 km al suroeste de Bucaramanga",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

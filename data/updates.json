@@ -60,6 +60,20 @@
     "sourceEn": "Efecto Cocuyo",
     "date": "2026-08-11",
     "conf": "med",
+    "titleEs": "Sube a 169 el número de muertos y a 668 el de heridos por el terremoto en Colombia",
+    "titleEn": "Sube a 169 el número de muertos y a 668 el de heridos por el terremoto en Colombia",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://efectococuyo.com/internacionales/sube-a-169-el-numero-de-muertos-y-a-668-el-de-heridos-por-el-terremoto-en-colombia/"
+  },
+  {
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
+    "date": "2026-08-11",
+    "conf": "med",
     "titleEs": "Terremoto en Colombia: un sismo “complejo” que comparte “contexto tectónico” con Venezuela",
     "titleEn": "Terremoto en Colombia: un sismo “complejo” que comparte “contexto tectónico” con Venezuela",
     "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -96,19 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://efectococuyo.com/politica/cabello-miserables-respuestas-gobierno-venezolano-colombiano-terremotos/"
-  },
-  {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-08-10",
-    "conf": "med",
-    "titleEs": "Actualizan cifra de fallecidos por el doble terremoto del 24 de junio: ya suman 6.301 víctimas",
-    "titleEn": "Actualizan cifra de fallecidos por el doble terremoto del 24 de junio: ya suman 6.301 víctimas",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/la-humanidad/actualizan-cifra-de-fallecidos-por-el-doble-terremoto-del-24-de-junio-ya-suman-6-301-victimas/"
   }
 ]

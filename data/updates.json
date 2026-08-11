@@ -4,6 +4,20 @@
     "sourceEn": "El Pitazo",
     "date": "2026-08-11",
     "conf": "med",
+    "titleEs": "Terremoto en Colombia: pareja venezolana muere atrapada al desplomarse una vivienda en Pereira",
+    "titleEn": "Terremoto en Colombia: pareja venezolana muere atrapada al desplomarse una vivienda en Pereira",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/sucesos/pareja-venezolana-murio-en-pereira-durante-el-terremoto-en-colombia/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-08-11",
+    "conf": "med",
     "titleEs": "Terremoto de Colombia: un sismo «complejo» que comparte «contexto tectónico» con Venezuela",
     "titleEn": "Terremoto de Colombia: un sismo «complejo» que comparte «contexto tectónico» con Venezuela",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -42,20 +56,6 @@
     "url": "https://elpitazo.net/internacional/colombia-autoridades-decretan-toque-de-queda-en-dos-ciudades-afectadas-por-terremoto/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-08-11",
-    "conf": "med",
-    "titleEs": "Terremoto en Colombia | Familia venezolana que sobrevivió a doblete sísmico revive el trauma en Cali",
-    "titleEn": "Terremoto en Colombia | Familia venezolana que sobrevivió a doblete sísmico revive el trauma en Cali",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/internacional/terremoto-en-colombia-familia-venezolana-que-sobrevivio-a-doblete-sismico-revive-el-trauma-en-cali/"
-  },
-  {
     "sourceEs": "Efecto Cocuyo",
     "sourceEn": "Efecto Cocuyo",
     "date": "2026-08-11",
@@ -67,7 +67,7 @@
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://efectococuyo.com/uncategorized/concierto-benefico-en-miami-para-venezuela-tambien-apoyara-a-colombia-tras-los-terremotos/"
+    "url": "https://efectococuyo.com/solaz/concierto-benefico-en-miami-para-venezuela-tambien-apoyara-a-colombia-tras-los-terremotos/"
   },
   {
     "sourceEs": "Efecto Cocuyo",
@@ -98,17 +98,17 @@
     "url": "https://efectococuyo.com/internacionales/terremoto-en-colombia-un-sismo-complejo-que-comparte-contexto-tectonico-con-venezuela/"
   },
   {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
     "date": "2026-08-11",
     "conf": "med",
-    "titleEs": "47 días después del doble terremoto en Venezuela, Abigail y Máximo vivieron otro en Bogotá",
-    "titleEn": "47 días después del doble terremoto en Venezuela, Abigail y Máximo vivieron otro en Bogotá",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
+    "titleEs": "Familia venezolana se encuentra desaparecida en Cali",
+    "titleEn": "Familia venezolana se encuentra desaparecida en Cali",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://efectococuyo.com/la-humanidad/47-dias-despues-del-doble-terremoto-en-venezuela-abigail-y-maximo-vivieron-otro-en-bogota/"
+    "url": "https://runrun.es/noticias/617348/familia-venezolana-se-encuentra-desaparecida-en-cali/"
   }
 ]

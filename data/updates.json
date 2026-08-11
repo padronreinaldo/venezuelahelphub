@@ -42,20 +42,6 @@
     "url": "https://elpitazo.net/economia/tres-bancos-activan-los-creditos-de-viviendas-para-afectados-por-terremotos-estos-son-los-pasos-para-solicitarlos/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-08-11",
-    "conf": "med",
-    "titleEs": "Catherine Fulop organizó un arepazo solidario para ayudar a los damnificados por los terremotos en Venezuela",
-    "titleEn": "Catherine Fulop organizó un arepazo solidario para ayudar a los damnificados por los terremotos en Venezuela",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/cultura/catherine-fulop-organizo-un-arepazo-solidario-para-ayudar-a-los-damnificados-por-los-terremotos-en-venezuela/"
-  },
-  {
     "sourceEs": "Efecto Cocuyo",
     "sourceEn": "Efecto Cocuyo",
     "date": "2026-08-11",
@@ -110,5 +96,19 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://runrun.es/noticias/617348/familia-venezolana-se-encuentra-desaparecida-en-cali/"
+  },
+  {
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
+    "date": "2026-08-11",
+    "conf": "med",
+    "titleEs": "Funvisis pasa a manos del Ministerio de Ciencia y Tecnología tras fallas en la red sísmica",
+    "titleEn": "Funvisis pasa a manos del Ministerio de Ciencia y Tecnología tras fallas en la red sísmica",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://runrun.es/noticias/617326/funvisis-pasa-a-manos-del-ministerio-de-ciencia-y-tecnologia-tras-fallas-en-la-red-sismica/"
   }
 ]

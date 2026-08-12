@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-12-08-2026-14:26-10.57--66.87",
+    "time": "2026-08-12T18:26:00.000Z",
+    "mag": 1.8,
+    "depth": 4.1,
+    "lat": 10.57,
+    "lon": -66.87,
+    "place": "8 km al sureste  de La Guaira",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-12-08-2026-11:16-10.52--67.24",
     "time": "2026-08-12T15:16:00.000Z",
     "mag": 2.2,
@@ -7477,21 +7492,6 @@
     "lat": 9.87,
     "lon": -68.88,
     "place": "40 km al noroeste de San Carlos",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-20-07-2026-08:45-10.05--69.33",
-    "time": "2026-07-20T12:45:00.000Z",
-    "mag": 2.5,
-    "depth": 6.7,
-    "lat": 10.05,
-    "lon": -69.33,
-    "place": "3 km al suroeste de Barquisimeto",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

@@ -14,34 +14,6 @@
     "url": "https://elpitazo.net/caracas/terremotos-entre-carpas-y-grietas-familias-de-la-mision-vivienda-anhelan-una-nueva-casa/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-08-11",
-    "conf": "med",
-    "titleEs": "Gremios del Táchira envían manifiesto con peticiones a presidente Abelardo de la Espriella",
-    "titleEn": "Gremios del Táchira envían manifiesto con peticiones a presidente Abelardo de la Espriella",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/regiones/gremios-del-tachira-envian-manifiesto-con-peticiones-a-presidente-abelardo-de-la-espriella/"
-  },
-  {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-08-11",
-    "conf": "med",
-    "titleEs": "Tres bancos activan los créditos de viviendas para afectados por terremotos: estos son los pasos para solicitarlos",
-    "titleEn": "Tres bancos activan los créditos de viviendas para afectados por terremotos: estos son los pasos para solicitarlos",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/economia/tres-bancos-activan-los-creditos-de-viviendas-para-afectados-por-terremotos-estos-son-los-pasos-para-solicitarlos/"
-  },
-  {
     "sourceEs": "Efecto Cocuyo",
     "sourceEn": "Efecto Cocuyo",
     "date": "2026-08-11",
@@ -110,5 +82,19 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://runrun.es/noticias/617326/funvisis-pasa-a-manos-del-ministerio-de-ciencia-y-tecnologia-tras-fallas-en-la-red-sismica/"
+  },
+  {
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
+    "date": "2026-08-11",
+    "conf": "med",
+    "titleEs": "Rodríguez ofrece rescatistas a Colombia mientras en La Guaira buscan personas bajo los escombros",
+    "titleEn": "Rodríguez ofrece rescatistas a Colombia mientras en La Guaira buscan personas bajo los escombros",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://runrun.es/noticias/617317/rodriguez-ofrece-rescatistas-a-colombia-mientras-en-la-guaira-buscan-personas-bajo-los-escombros/"
   }
 ]

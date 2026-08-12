@@ -3,6 +3,24 @@
     "source": "El Pitazo",
     "section": "Venezuela",
     "date": "2026-08-12",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/08/ICE-deportados-venezuela-2.jpg",
+    "titleEs": "Vuelos de deportación de EE. UU. ahora aterrizan en Barcelona: ya van dos desde los terremotos",
+    "titleEn": "Vuelos de deportación de EE. UU. ahora aterrizan en Barcelona: ya van dos desde los terremotos",
+    "url": "https://elpitazo.net/migracion/vuelos-de-deportacion-de-ee-uu-ahora-aterrizan-en-barcelona-ya-van-dos-desde-los-terremotos/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-08-12",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/08/9912deeaf84443f6cd3aa7eda299408ea6280b17-1024x682.jpg",
+    "titleEs": "Colombia declara «desastre nacional»: Autoridades confirman 239 muertos por el terremoto",
+    "titleEn": "Colombia declara «desastre nacional»: Autoridades confirman 239 muertos por el terremoto",
+    "url": "https://elpitazo.net/internacional/colombia-declara-desastre-nacional-reportan-al-menos-71-muertos-por-el-terremoto/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-08-12",
     "img": "https://elpitazo.net/wp-content/uploads/2026/08/topos-de-mexico.jpg",
     "titleEs": "Brigada de Los Topos mexicanos llega a Cali después de estar 41 días en Venezuela",
     "titleEn": "Brigada de Los Topos mexicanos llega a Cali después de estar 41 días en Venezuela",
@@ -16,15 +34,6 @@
     "titleEs": "Cáritas Venezuela recomienda evitar refugios improvisados luego del doblete sísmico",
     "titleEn": "Cáritas Venezuela recomienda evitar refugios improvisados luego del doblete sísmico",
     "url": "https://elpitazo.net/regiones/caritas-venezuela-recomienda-evitar-refugios-improvisados-luego-del-doblete-sismico/"
-  },
-  {
-    "source": "El Pitazo",
-    "section": "Venezuela",
-    "date": "2026-08-12",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/08/Playa-La-Guaira-EFE.jpg",
-    "titleEs": "Acceso a playas de La Guaira está restringido: ¿Qué pasará con los trabajadores de los balnearios?",
-    "titleEn": "Acceso a playas de La Guaira está restringido: ¿Qué pasará con los trabajadores de los balnearios?",
-    "url": "https://elpitazo.net/regiones/gran-caracas/acceso-a-playas-de-la-guaira-esta-restringido-que-pasara-con-los-trabajadores-de-los-balnearios/"
   },
   {
     "source": "Efecto Cocuyo",
@@ -43,23 +52,5 @@
     "titleEs": "Registran un sismo de magnitud 4 en provincia costera de Ecuador",
     "titleEn": "Registran un sismo de magnitud 4 en provincia costera de Ecuador",
     "url": "https://efectococuyo.com/internacionales/registran-un-sismo-de-magnitud-4-en-provincia-costera-de-ecuador/"
-  },
-  {
-    "source": "Efecto Cocuyo",
-    "section": "Venezuela",
-    "date": "2026-08-11",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/08/11175913/Banco-Digital-de-los-Trabajadores-1024x768.jpg",
-    "titleEs": "Tres bancos públicos habilitan créditos para damnificados por los terremotos",
-    "titleEn": "Tres bancos públicos habilitan créditos para damnificados por los terremotos",
-    "url": "https://efectococuyo.com/economia/tres-bancos-publicos-habilitan-creditos-para-damnificados-por-los-terremotos/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-08-11",
-    "img": "https://runrun.es/wp-content/uploads/2026/08/Diseno-sin-titulo-2026-08-11T141338.481.jpg",
-    "titleEs": "Familia venezolana se encuentra desaparecida en Cali",
-    "titleEn": "Familia venezolana se encuentra desaparecida en Cali",
-    "url": "https://runrun.es/noticias/617348/familia-venezolana-se-encuentra-desaparecida-en-cali/"
   }
 ]

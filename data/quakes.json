@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-12-08-2026-15:30-10.54--66.78",
+    "time": "2026-08-12T19:30:00.000Z",
+    "mag": 2,
+    "depth": 2.4,
+    "lat": 10.54,
+    "lon": -66.78,
+    "place": "10 km al suroeste de Naiguata",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-12-08-2026-14:26-10.57--66.87",
     "time": "2026-08-12T18:26:00.000Z",
     "mag": 1.8,
@@ -7477,21 +7492,6 @@
     "lat": 9.86,
     "lon": -68.88,
     "place": "39 km al noroeste de San Carlos",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-20-07-2026-11:11-9.87--68.88",
-    "time": "2026-07-20T15:11:00.000Z",
-    "mag": 4.3,
-    "depth": 5,
-    "lat": 9.87,
-    "lon": -68.88,
-    "place": "40 km al noroeste de San Carlos",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

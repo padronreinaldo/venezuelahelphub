@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-12-08-2026-07:50-7.61--71.9",
+    "time": "2026-08-12T11:50:00.000Z",
+    "mag": 3.3,
+    "depth": 21.9,
+    "lat": 7.61,
+    "lon": -71.9,
+    "place": "36 km al norte    de El Nula",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-12-08-2026-05:46-10.64--66.64",
     "time": "2026-08-12T09:46:00.000Z",
     "mag": 1.6,
@@ -7477,21 +7492,6 @@
     "lat": 10.7,
     "lon": -61.92,
     "place": "2. km al noreste  de Macuro",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-20-07-2026-06:11-10.61--66.81",
-    "time": "2026-07-20T10:11:00.000Z",
-    "mag": 2.5,
-    "depth": 4.3,
-    "lat": 10.61,
-    "lon": -66.81,
-    "place": "8. km al oeste    de Naiguata",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

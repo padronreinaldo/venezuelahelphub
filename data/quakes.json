@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-12-08-2026-10:03-10.71--69.18",
+    "time": "2026-08-12T14:03:00.000Z",
+    "mag": 2.1,
+    "depth": 6.1,
+    "lat": 10.71,
+    "lon": -69.18,
+    "place": "41 km al sureste  de Churuguara",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-12-08-2026-07:50-7.61--71.9",
     "time": "2026-08-12T11:50:00.000Z",
     "mag": 3.3,
@@ -7477,21 +7492,6 @@
     "lat": 10.05,
     "lon": -67.24,
     "place": "21. km al noreste  de San Juan de los Morros",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-20-07-2026-06:55-10.7--61.92",
-    "time": "2026-07-20T10:55:00.000Z",
-    "mag": 4.6,
-    "depth": 90.9,
-    "lat": 10.7,
-    "lon": -61.92,
-    "place": "2. km al noreste  de Macuro",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

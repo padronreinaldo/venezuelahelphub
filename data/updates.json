@@ -4,6 +4,20 @@
     "sourceEn": "El Pitazo",
     "date": "2026-08-12",
     "conf": "med",
+    "titleEs": "Médico venezolano sobrevive al terremoto en Colombia: “Pensé que sería mi último día”",
+    "titleEn": "Médico venezolano sobrevive al terremoto en Colombia: “Pensé que sería mi último día”",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/migracion/medico-venezolano-sobrevive-terremoto-colombia/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-08-12",
+    "conf": "med",
     "titleEs": "Rescatistas merideños viajan a Colombia para apoyar por el terremoto: «No nos pudimos quedar de brazos cruzados»",
     "titleEn": "Rescatistas merideños viajan a Colombia para apoyar por el terremoto: «No nos pudimos quedar de brazos cruzados»",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -28,18 +42,18 @@
     "url": "https://elpitazo.net/migracion/claves-autoridades-detallan-como-funcionara-el-aeropuerto-de-maiquetia-despues-de-los-terremotos/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
     "date": "2026-08-12",
     "conf": "med",
-    "titleEs": "Lactalis Venezuela crea «Un vaso de esperanza» para apoyar a familias afectadas por los terremotos",
-    "titleEn": "Lactalis Venezuela crea «Un vaso de esperanza» para apoyar a familias afectadas por los terremotos",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "titleEs": "Colombia solo acepta ayuda de EEUU, Israel, El Salvador y Ecuador por terremoto",
+    "titleEn": "Colombia solo acepta ayuda de EEUU, Israel, El Salvador y Ecuador por terremoto",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/regiones/lactalis-venezuela-crea-un-vaso-de-esperanza-para-apoyar-a-familias-afectadas-por-los-terremotos/"
+    "url": "https://efectococuyo.com/internacionales/colombia-solo-acepta-ayud-terremoto/"
   },
   {
     "sourceEs": "Efecto Cocuyo",

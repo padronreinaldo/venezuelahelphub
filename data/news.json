@@ -3,6 +3,15 @@
     "source": "El Pitazo",
     "section": "Venezuela",
     "date": "2026-08-12",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/08/image-16-1024x538.png",
+    "titleEs": "Rescatistas merideños viajan a Colombia para apoyar por el terremoto: «No nos pudimos quedar de brazos cruzados»",
+    "titleEn": "Rescatistas merideños viajan a Colombia para apoyar por el terremoto: «No nos pudimos quedar de brazos cruzados»",
+    "url": "https://elpitazo.net/regiones/rescatistas-meridenos-viajan-a-colombia-para-apoyar-por-el-terremoto-no-nos-pudimos-quedar-de-brazos-cruzados/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-08-12",
     "img": "https://elpitazo.net/wp-content/uploads/2026/08/9c9938d329dfc70e53cf7924af7323fc5a1ea1a8w.jpg",
     "titleEs": "Claves | Autoridades detallan cómo funcionará el Aeropuerto de Maiquetía después de los terremotos",
     "titleEn": "Claves | Autoridades detallan cómo funcionará el Aeropuerto de Maiquetía después de los terremotos",
@@ -18,24 +27,6 @@
     "url": "https://elpitazo.net/regiones/lactalis-venezuela-crea-un-vaso-de-esperanza-para-apoyar-a-familias-afectadas-por-los-terremotos/"
   },
   {
-    "source": "El Pitazo",
-    "section": "Venezuela",
-    "date": "2026-08-12",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/08/ICE-deportados-venezuela-2.jpg",
-    "titleEs": "Vuelos de deportación de EE. UU. ahora aterrizan en Barcelona: ya van dos desde los terremotos",
-    "titleEn": "Vuelos de deportación de EE. UU. ahora aterrizan en Barcelona: ya van dos desde los terremotos",
-    "url": "https://elpitazo.net/migracion/vuelos-de-deportacion-de-ee-uu-ahora-aterrizan-en-barcelona-ya-van-dos-desde-los-terremotos/"
-  },
-  {
-    "source": "El Pitazo",
-    "section": "Venezuela",
-    "date": "2026-08-12",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/08/9912deeaf84443f6cd3aa7eda299408ea6280b17-1024x682.jpg",
-    "titleEs": "Colombia declara «desastre nacional»: Autoridades confirman 239 muertos por el terremoto",
-    "titleEn": "Colombia declara «desastre nacional»: Autoridades confirman 239 muertos por el terremoto",
-    "url": "https://elpitazo.net/internacional/colombia-declara-desastre-nacional-reportan-al-menos-71-muertos-por-el-terremoto/"
-  },
-  {
     "source": "Efecto Cocuyo",
     "section": "Venezuela",
     "date": "2026-08-12",
@@ -43,14 +34,5 @@
     "titleEs": "EEUU envía rescatistas para apoyar a regiones de Colombia golpeadas por el sismo",
     "titleEn": "EEUU envía rescatistas para apoyar a regiones de Colombia golpeadas por el sismo",
     "url": "https://efectococuyo.com/internacionales/eeuu-envia-rescatistas-colombia/"
-  },
-  {
-    "source": "Efecto Cocuyo",
-    "section": "Venezuela",
-    "date": "2026-08-12",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/08/12092540/pkgCn1CX.jpg",
-    "titleEs": "Registran un sismo de magnitud 4 en provincia costera de Ecuador",
-    "titleEn": "Registran un sismo de magnitud 4 en provincia costera de Ecuador",
-    "url": "https://efectococuyo.com/internacionales/registran-un-sismo-de-magnitud-4-en-provincia-costera-de-ecuador/"
   }
 ]

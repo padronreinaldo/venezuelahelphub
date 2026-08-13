@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-13-08-2026-05:14-10.59--68.48",
+    "time": "2026-08-13T09:14:00.000Z",
+    "mag": 1.9,
+    "depth": 9.1,
+    "lat": 10.59,
+    "lon": -68.48,
+    "place": "22 km al suroeste de Boca de Aroa",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-13-08-2026-04:23-9.79--70.67",
     "time": "2026-08-13T08:23:00.000Z",
     "mag": 2.8,
@@ -7477,21 +7492,6 @@
     "lat": 10.25,
     "lon": -62.2,
     "place": "32 km al norte    de Pedernales",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-20-07-2026-15:02-9.8--68.9",
-    "time": "2026-07-20T19:02:00.000Z",
-    "mag": 2.2,
-    "depth": 1.8,
-    "lat": 9.8,
-    "lon": -68.9,
-    "place": "38 km al noroeste de San Carlos",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

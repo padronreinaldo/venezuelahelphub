@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-13-08-2026-04:23-9.79--70.67",
+    "time": "2026-08-13T08:23:00.000Z",
+    "mag": 2.8,
+    "depth": 5.2,
+    "lat": 9.79,
+    "lon": -70.67,
+    "place": "47 km al norte    de Isnotu",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-13-08-2026-02:32-10.62--68.25",
     "time": "2026-08-13T06:32:00.000Z",
     "mag": 2.2,
@@ -7477,21 +7492,6 @@
     "lat": 9.8,
     "lon": -68.9,
     "place": "38 km al noroeste de San Carlos",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-20-07-2026-14:44-10.34--67.23",
-    "time": "2026-07-20T18:44:00.000Z",
-    "mag": 2.1,
-    "depth": 16.5,
-    "lat": 10.34,
-    "lon": -67.23,
-    "place": "17 km al noreste  de La Victoria",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

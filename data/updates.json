@@ -4,6 +4,20 @@
     "sourceEn": "El Pitazo",
     "date": "2026-08-13",
     "conf": "med",
+    "titleEs": "Sismo de magnitud 5,7 sacude El Salvador: no deja víctimas ni daños",
+    "titleEn": "Sismo de magnitud 5,7 sacude El Salvador: no deja víctimas ni daños",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/internacional/sismo-de-magnitud-57-sacude-el-salvador-no-deja-victimas-ni-danos/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-08-13",
+    "conf": "med",
     "titleEs": "Banco N58 impulsa a emprendedores tras los terremotos",
     "titleEn": "Banco N58 impulsa a emprendedores tras los terremotos",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -44,6 +58,34 @@
   {
     "sourceEs": "Efecto Cocuyo",
     "sourceEn": "Efecto Cocuyo",
+    "date": "2026-08-13",
+    "conf": "med",
+    "titleEs": "Instalan placa en memoria de víctimas del colapso del edificio Rita en Caracas",
+    "titleEn": "Instalan placa en memoria de víctimas del colapso del edificio Rita en Caracas",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://efectococuyo.com/la-humanidad/instalan-placa-en-memoria-de-victimas/"
+  },
+  {
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
+    "date": "2026-08-13",
+    "conf": "med",
+    "titleEs": "Netanyahu ordena el envío inmediato de ayuda a Colombia tras el terremoto",
+    "titleEn": "Netanyahu ordena el envío inmediato de ayuda a Colombia tras el terremoto",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://efectococuyo.com/internacionales/netanyahu-ordena-el-envio-inmediato-de-ayuda-a-colombia-tras-el-terremoto/"
+  },
+  {
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
     "date": "2026-08-12",
     "conf": "med",
     "titleEs": "Colombia solo acepta ayuda de EEUU, Israel, El Salvador y Ecuador por terremoto",
@@ -54,19 +96,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://efectococuyo.com/internacionales/colombia-solo-acepta-ayud-terremoto/"
-  },
-  {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-08-12",
-    "conf": "med",
-    "titleEs": "EEUU envía rescatistas para apoyar a regiones de Colombia golpeadas por el sismo",
-    "titleEn": "EEUU envía rescatistas para apoyar a regiones de Colombia golpeadas por el sismo",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/internacionales/eeuu-envia-rescatistas-colombia/"
   }
 ]

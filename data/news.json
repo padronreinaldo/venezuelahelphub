@@ -3,6 +3,15 @@
     "source": "El Pitazo",
     "section": "Venezuela",
     "date": "2026-08-13",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/08/sismo-en-el-salvador.jpg",
+    "titleEs": "Sismo de magnitud 5,7 sacude El Salvador: no deja víctimas ni daños",
+    "titleEn": "Sismo de magnitud 5,7 sacude El Salvador: no deja víctimas ni daños",
+    "url": "https://elpitazo.net/internacional/sismo-de-magnitud-57-sacude-el-salvador-no-deja-victimas-ni-danos/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-08-13",
     "img": "https://elpitazo.net/wp-content/uploads/2026/08/Portada-EP.jpg",
     "titleEs": "Banco N58 impulsa a emprendedores tras los terremotos",
     "titleEn": "Banco N58 impulsa a emprendedores tras los terremotos",
@@ -29,19 +38,28 @@
   {
     "source": "Efecto Cocuyo",
     "section": "Venezuela",
-    "date": "2026-08-12",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/08/12173759/f61b6582ba63da8833b31f5efe68ca92f56f7a0e-1024x683.jpg",
-    "titleEs": "Colombia solo acepta ayuda de EEUU, Israel, El Salvador y Ecuador por terremoto",
-    "titleEn": "Colombia solo acepta ayuda de EEUU, Israel, El Salvador y Ecuador por terremoto",
-    "url": "https://efectococuyo.com/internacionales/colombia-solo-acepta-ayud-terremoto/"
+    "date": "2026-08-13",
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/08/13094620/Captura-de-pantalla-2026-08-13-092926.png",
+    "titleEs": "Instalan placa en memoria de víctimas del colapso del edificio Rita en Caracas",
+    "titleEn": "Instalan placa en memoria de víctimas del colapso del edificio Rita en Caracas",
+    "url": "https://efectococuyo.com/la-humanidad/instalan-placa-en-memoria-de-victimas/"
+  },
+  {
+    "source": "Efecto Cocuyo",
+    "section": "Venezuela",
+    "date": "2026-08-13",
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/08/13091258/474a089fe087908f2c26a32432a33ebffb7a8dd7-1024x683.jpg",
+    "titleEs": "Netanyahu ordena el envío inmediato de ayuda a Colombia tras el terremoto",
+    "titleEn": "Netanyahu ordena el envío inmediato de ayuda a Colombia tras el terremoto",
+    "url": "https://efectococuyo.com/internacionales/netanyahu-ordena-el-envio-inmediato-de-ayuda-a-colombia-tras-el-terremoto/"
   },
   {
     "source": "Efecto Cocuyo",
     "section": "Venezuela",
     "date": "2026-08-12",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/08/12112221/414447b33b2bcd994a7b4bd3a7cc71b07ad1fa23-1-1024x683.jpg",
-    "titleEs": "EEUU envía rescatistas para apoyar a regiones de Colombia golpeadas por el sismo",
-    "titleEn": "EEUU envía rescatistas para apoyar a regiones de Colombia golpeadas por el sismo",
-    "url": "https://efectococuyo.com/internacionales/eeuu-envia-rescatistas-colombia/"
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/08/12173759/f61b6582ba63da8833b31f5efe68ca92f56f7a0e-1024x683.jpg",
+    "titleEs": "Colombia solo acepta ayuda de EEUU, Israel, El Salvador y Ecuador por terremoto",
+    "titleEn": "Colombia solo acepta ayuda de EEUU, Israel, El Salvador y Ecuador por terremoto",
+    "url": "https://efectococuyo.com/internacionales/colombia-solo-acepta-ayud-terremoto/"
   }
 ]

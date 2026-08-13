@@ -3,37 +3,28 @@
     "source": "El Pitazo",
     "section": "Venezuela",
     "date": "2026-08-13",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/06/terremotos-venezuela-EFE.jpg",
+    "titleEs": "Evaluación de edificaciones afectadas por los terremotos entra en segunda fase con ingenieros más experimentados",
+    "titleEn": "Evaluación de edificaciones afectadas por los terremotos entra en segunda fase con ingenieros más experimentados",
+    "url": "https://elpitazo.net/regiones/gran-caracas/evaluacion-de-edificaciones-afectadas-por-los-terremotos-entra-en-segunda-fase-con-ingenieros-mas-experimentados/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-08-13",
     "img": "https://elpitazo.net/wp-content/uploads/2026/08/Diseno-sin-titulo_20260813_115058_0000.png",
     "titleEs": "Abuelos y su nieto beisbolista: tres venezolanos atrapados bajo los escombros de un edificio en Cali",
     "titleEn": "Abuelos y su nieto beisbolista: tres venezolanos atrapados bajo los escombros de un edificio en Cali",
     "url": "https://elpitazo.net/regiones/los-llanos/abuelos-y-su-nieto-beisbolista-tres-venezolanos-atrapados-bajo-los-escombros-de-un-edificio-en-cali/"
   },
   {
-    "source": "El Pitazo",
+    "source": "Efecto Cocuyo",
     "section": "Venezuela",
     "date": "2026-08-13",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/08/sismo-en-el-salvador.jpg",
-    "titleEs": "Sismo de magnitud 5,7 sacude El Salvador: no deja víctimas ni daños",
-    "titleEn": "Sismo de magnitud 5,7 sacude El Salvador: no deja víctimas ni daños",
-    "url": "https://elpitazo.net/internacional/sismo-de-magnitud-57-sacude-el-salvador-no-deja-victimas-ni-danos/"
-  },
-  {
-    "source": "El Pitazo",
-    "section": "Venezuela",
-    "date": "2026-08-13",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/08/Portada-EP.jpg",
-    "titleEs": "Banco N58 impulsa a emprendedores tras los terremotos",
-    "titleEn": "Banco N58 impulsa a emprendedores tras los terremotos",
-    "url": "https://elpitazo.net/economia/banco-n58-impulsa-a-emprendedores-tras-los-terremotos/"
-  },
-  {
-    "source": "El Pitazo",
-    "section": "Venezuela",
-    "date": "2026-08-13",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/08/mesa-dialogo-renovacion-tsj.jpg",
-    "titleEs": "Mesa de diálogo acuerda renovar el TSJ con designación de nuevo proceso de postulaciones con un comité «amplio»",
-    "titleEn": "Mesa de diálogo acuerda renovar el TSJ con designación de nuevo proceso de postulaciones con un comité «amplio»",
-    "url": "https://elpitazo.net/politica/mesa-de-dialogo-acuerda-renovar-el-tsj-con-designacion-de-nuevo-proceso-de-postulaciones-con-un-comite-amplio/"
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/08/13134756/Visita-FAOVE_MinPesca_LaGuaira-1-1024x768.jpeg",
+    "titleEs": "FAO: Pesca artesanal cae 40 % en La Guaira tras el sismo",
+    "titleEn": "FAO: Pesca artesanal cae 40 % en La Guaira tras el sismo",
+    "url": "https://efectococuyo.com/la-humanidad/fao-pesca-artesanal-cae-40-en-la-guaira-tras-el-sismo/"
   },
   {
     "source": "Efecto Cocuyo",
@@ -61,14 +52,5 @@
     "titleEs": "Instalan placa en memoria de víctimas del colapso del edificio Rita en Caracas",
     "titleEn": "Instalan placa en memoria de víctimas del colapso del edificio Rita en Caracas",
     "url": "https://efectococuyo.com/la-humanidad/instalan-placa-en-memoria-de-victimas/"
-  },
-  {
-    "source": "Efecto Cocuyo",
-    "section": "Venezuela",
-    "date": "2026-08-13",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/08/13091258/474a089fe087908f2c26a32432a33ebffb7a8dd7-1024x683.jpg",
-    "titleEs": "Netanyahu ordena el envío inmediato de ayuda a Colombia tras el terremoto",
-    "titleEn": "Netanyahu ordena el envío inmediato de ayuda a Colombia tras el terremoto",
-    "url": "https://efectococuyo.com/internacionales/netanyahu-ordena-el-envio-inmediato-de-ayuda-a-colombia-tras-el-terremoto/"
   }
 ]

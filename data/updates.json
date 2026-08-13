@@ -4,6 +4,20 @@
     "sourceEn": "El Pitazo",
     "date": "2026-08-13",
     "conf": "med",
+    "titleEs": "Evaluación de edificaciones afectadas por los terremotos entra en segunda fase con ingenieros más experimentados",
+    "titleEn": "Evaluación de edificaciones afectadas por los terremotos entra en segunda fase con ingenieros más experimentados",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/regiones/gran-caracas/evaluacion-de-edificaciones-afectadas-por-los-terremotos-entra-en-segunda-fase-con-ingenieros-mas-experimentados/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-08-13",
+    "conf": "med",
     "titleEs": "Abuelos y su nieto beisbolista: tres venezolanos atrapados bajo los escombros de un edificio en Cali",
     "titleEn": "Abuelos y su nieto beisbolista: tres venezolanos atrapados bajo los escombros de un edificio en Cali",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -14,46 +28,18 @@
     "url": "https://elpitazo.net/regiones/los-llanos/abuelos-y-su-nieto-beisbolista-tres-venezolanos-atrapados-bajo-los-escombros-de-un-edificio-en-cali/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
     "date": "2026-08-13",
     "conf": "med",
-    "titleEs": "Sismo de magnitud 5,7 sacude El Salvador: no deja víctimas ni daños",
-    "titleEn": "Sismo de magnitud 5,7 sacude El Salvador: no deja víctimas ni daños",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "titleEs": "FAO: Pesca artesanal cae 40 % en La Guaira tras el sismo",
+    "titleEn": "FAO: Pesca artesanal cae 40 % en La Guaira tras el sismo",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/internacional/sismo-de-magnitud-57-sacude-el-salvador-no-deja-victimas-ni-danos/"
-  },
-  {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-08-13",
-    "conf": "med",
-    "titleEs": "Banco N58 impulsa a emprendedores tras los terremotos",
-    "titleEn": "Banco N58 impulsa a emprendedores tras los terremotos",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/economia/banco-n58-impulsa-a-emprendedores-tras-los-terremotos/"
-  },
-  {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-08-13",
-    "conf": "med",
-    "titleEs": "Mesa de diálogo acuerda renovar el TSJ con designación de nuevo proceso de postulaciones con un comité «amplio»",
-    "titleEn": "Mesa de diálogo acuerda renovar el TSJ con designación de nuevo proceso de postulaciones con un comité «amplio»",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/politica/mesa-de-dialogo-acuerda-renovar-el-tsj-con-designacion-de-nuevo-proceso-de-postulaciones-con-un-comite-amplio/"
+    "url": "https://efectococuyo.com/la-humanidad/fao-pesca-artesanal-cae-40-en-la-guaira-tras-el-sismo/"
   },
   {
     "sourceEs": "Efecto Cocuyo",
@@ -96,19 +82,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://efectococuyo.com/la-humanidad/instalan-placa-en-memoria-de-victimas/"
-  },
-  {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-08-13",
-    "conf": "med",
-    "titleEs": "Netanyahu ordena el envío inmediato de ayuda a Colombia tras el terremoto",
-    "titleEn": "Netanyahu ordena el envío inmediato de ayuda a Colombia tras el terremoto",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/internacionales/netanyahu-ordena-el-envio-inmediato-de-ayuda-a-colombia-tras-el-terremoto/"
   }
 ]

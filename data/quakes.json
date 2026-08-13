@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-12-08-2026-21:41-10.67--72.56",
+    "time": "2026-08-13T01:41:00.000Z",
+    "mag": 2.8,
+    "depth": 17,
+    "lat": 10.67,
+    "lon": -72.56,
+    "place": "48 km al noroeste de Villa del Rosario",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-12-08-2026-19:29-10.49--67.51",
     "time": "2026-08-12T23:29:00.000Z",
     "mag": 1.9,
@@ -7477,21 +7492,6 @@
     "lat": 9.77,
     "lon": -68.94,
     "place": "37 km al noreste  de Acarigua",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-20-07-2026-12:44-10.61--67.11",
-    "time": "2026-07-20T16:44:00.000Z",
-    "mag": 2.1,
-    "depth": 5,
-    "lat": 10.61,
-    "lon": -67.11,
-    "place": "20 km al oeste    de La Guaira",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

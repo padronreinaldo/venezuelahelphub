@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-14-08-2026-06:37-10.53--65.61",
+    "time": "2026-08-14T10:37:00.000Z",
+    "mag": 2.4,
+    "depth": 2.9,
+    "lat": 10.53,
+    "lon": -65.61,
+    "place": "46 km al noreste  de Rio Chico",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-14-08-2026-02:28-7.05--73.42",
     "time": "2026-08-14T06:28:00.000Z",
     "mag": 2.8,
@@ -7477,21 +7492,6 @@
     "lat": 10.62,
     "lon": -66.79,
     "place": "6 km al oeste    de Naiguata",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-20-07-2026-23:16-10.16--67.27",
-    "time": "2026-07-21T03:16:00.000Z",
-    "mag": 2.2,
-    "depth": 5.2,
-    "lat": 10.16,
-    "lon": -67.27,
-    "place": "11 km al sureste  de La Victoria",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

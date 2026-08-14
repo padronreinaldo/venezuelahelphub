@@ -1,9 +1,36 @@
 [
   {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-08-14",
+    "img": "https://elpitazo.net/wp-content/uploads/2017/06/Temblor-Maicao.jpg",
+    "titleEs": "Funvisis contabiliza 122 sismos en Venezuela entre el 7 y el 13 de agosto",
+    "titleEn": "Funvisis contabiliza 122 sismos en Venezuela entre el 7 y el 13 de agosto",
+    "url": "https://elpitazo.net/regiones/funvisis-contabiliza-112-sismos-en-venezuela-entre-el-7-y-el-13-de-agosto/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-08-14",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/08/9912deeaf84443f6cd3aa7eda299408ea6280b17-1024x682.jpg",
+    "titleEs": "Colombia | Unidad de Gestión de Riesgos eleva a 285 la cifra de fallecidos por el terremoto",
+    "titleEn": "Colombia | Unidad de Gestión de Riesgos eleva a 285 la cifra de fallecidos por el terremoto",
+    "url": "https://elpitazo.net/internacional/colombia-declara-desastre-nacional-reportan-al-menos-71-muertos-por-el-terremoto/"
+  },
+  {
+    "source": "Efecto Cocuyo",
+    "section": "Venezuela",
+    "date": "2026-08-14",
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/08/14115124/15627712377899b490450c9a33b733827bf3a143-1024x683.jpg",
+    "titleEs": "Colombia suma 281 muertos tras el terremoto mientras la emergencia humanitaria persiste",
+    "titleEn": "Colombia suma 281 muertos tras el terremoto mientras la emergencia humanitaria persiste",
+    "url": "https://efectococuyo.com/internacionales/colombia-suma-281-muertos-tras-el-terremoto-mientras-la-emergencia-humanitaria-persiste/"
+  },
+  {
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-08-14",
-    "img": "",
+    "img": "https://runrun.es/wp-content/uploads/2026/08/campamentos-transitorios-escuelas.jpg",
     "titleEs": "Escuelas habilitadas como campamentos transitorios serán desocupadas antes del 14 de septiembre",
     "titleEn": "Escuelas habilitadas como campamentos transitorios serán desocupadas antes del 14 de septiembre",
     "url": "https://runrun.es/noticias/617569/escuelas-habilitadas-como-campamentos-transitorios-seran-desocupadas-antes-del-14-de-septiembre/"
@@ -12,7 +39,7 @@
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-08-13",
-    "img": "",
+    "img": "https://runrun.es/wp-content/uploads/2026/08/academias-terremotos-1.jpg",
     "titleEs": "Academias ofrecen apoyo científico y técnico para atender la emergencia causada por el doble terremoto",
     "titleEn": "Academias ofrecen apoyo científico y técnico para atender la emergencia causada por el doble terremoto",
     "url": "https://runrun.es/noticias/617503/academias-ofrecen-apoyo-cientifico-y-tecnico-para-atender-la-emergencia-causada-por-el-doble-terremoto/"

@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-14-08-2026-08:00-6.93--73.63",
+    "time": "2026-08-14T12:00:00.000Z",
+    "mag": 2.8,
+    "depth": 5,
+    "lat": 6.93,
+    "lon": -73.63,
+    "place": "60 km al suroeste de Bucaramanga",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-14-08-2026-06:37-10.53--65.61",
     "time": "2026-08-14T10:37:00.000Z",
     "mag": 2.4,
@@ -7477,21 +7492,6 @@
     "lat": 10.51,
     "lon": -66.64,
     "place": "4 km al noroeste de Guarenas",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-20-07-2026-23:36-10.62--66.79",
-    "time": "2026-07-21T03:36:00.000Z",
-    "mag": 2.7,
-    "depth": 1.7,
-    "lat": 10.62,
-    "lon": -66.79,
-    "place": "6 km al oeste    de Naiguata",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

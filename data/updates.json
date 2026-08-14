@@ -4,6 +4,20 @@
     "sourceEn": "El Pitazo",
     "date": "2026-08-14",
     "conf": "med",
+    "titleEs": "Cicpc desmiente secuestros infantiles luego de los terremotos en Venezuela",
+    "titleEn": "Cicpc desmiente secuestros infantiles luego de los terremotos en Venezuela",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/regiones/cicpc-desmiente-secuestros-infantiles-luego-de-los-terremotos-en-venezuela/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-08-14",
+    "conf": "med",
     "titleEs": "Funvisis contabiliza 122 sismos en Venezuela entre el 7 y el 13 de agosto",
     "titleEn": "Funvisis contabiliza 122 sismos en Venezuela entre el 7 y el 13 de agosto",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -26,20 +40,6 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://elpitazo.net/internacional/colombia-declara-desastre-nacional-reportan-al-menos-71-muertos-por-el-terremoto/"
-  },
-  {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-08-14",
-    "conf": "med",
-    "titleEs": "Colombia suma 281 muertos tras el terremoto mientras la emergencia humanitaria persiste",
-    "titleEn": "Colombia suma 281 muertos tras el terremoto mientras la emergencia humanitaria persiste",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/internacionales/colombia-suma-281-muertos-tras-el-terremoto-mientras-la-emergencia-humanitaria-persiste/"
   },
   {
     "sourceEs": "Runrun.es",

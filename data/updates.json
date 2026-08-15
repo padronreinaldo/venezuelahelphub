@@ -44,6 +44,20 @@
   {
     "sourceEs": "Runrun.es",
     "sourceEn": "Runrun.es",
+    "date": "2026-08-15",
+    "conf": "med",
+    "titleEs": "Cicpc desmiente secuestros de niños post terremotos",
+    "titleEn": "Cicpc desmiente secuestros de niños post terremotos",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://runrun.es/inicio/617637/cicpc-desmiente-secuestros-de-ninos-post-terremotos/"
+  },
+  {
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
     "date": "2026-08-14",
     "conf": "med",
     "titleEs": "La humanidad también se mide en tiempos de crisis",
@@ -54,19 +68,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://runrun.es/opinion/617605/tiempos-de-crisis/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-08-14",
-    "conf": "med",
-    "titleEs": "Terremoto en Colombia deja al menos cinco venezolanos fallecidos y varios desaparecidos",
-    "titleEn": "Terremoto en Colombia deja al menos cinco venezolanos fallecidos y varios desaparecidos",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/noticias/617582/terremoto-en-colombia-deja-al-menos-cinco-venezolanos-fallecidos-y-varios-desaparecidos/"
   }
 ]

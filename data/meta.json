@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T05:49:37.364Z",
+  "updatedAt": "2026-08-15T06:29:22.941Z",
   "stats": {
     "maxMagnitude": 4.5,
     "aftershocks": 0,
@@ -19,17 +19,17 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thk4"
     },
     "deaths": {
-      "seenAt": "2026-08-15T05:49:37.364Z",
+      "seenAt": "2026-08-15T06:29:22.941Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
     "injured": {
-      "seenAt": "2026-08-15T05:49:37.364Z",
+      "seenAt": "2026-08-15T06:29:22.941Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
     "missing": {
-      "seenAt": "2026-08-15T05:49:37.364Z",
+      "seenAt": "2026-08-15T06:29:22.941Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     }
@@ -59,7 +59,7 @@
     "reliefweb": 0,
     "press": 5,
     "wikipedia": 1,
-    "funvisis": 20
+    "funvisis": 0
   },
   "counts": {
     "updates": 5,

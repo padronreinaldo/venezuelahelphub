@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-14-08-2026-21:34-10.69--62.08",
+    "time": "2026-08-15T01:34:00.000Z",
+    "mag": 2.7,
+    "depth": 5,
+    "lat": 10.69,
+    "lon": -62.08,
+    "place": "17 km al oeste    de Macuro",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-14-08-2026-20:11-10.29--67.34",
     "time": "2026-08-15T00:11:00.000Z",
     "mag": 2.3,
@@ -7477,21 +7492,6 @@
     "lat": 10.55,
     "lon": -66.81,
     "place": "11 km al suroeste de Naiguata",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-21-07-2026-01:21-10.41--68.41",
-    "time": "2026-07-21T05:21:00.000Z",
-    "mag": 2.2,
-    "depth": 5,
-    "lat": 10.41,
-    "lon": -68.41,
-    "place": "35 km al suroeste de Boca de Aroa",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-15-08-2026-14:57-10.48--62.41",
+    "time": "2026-08-15T18:57:00.000Z",
+    "mag": 2.7,
+    "depth": 9.2,
+    "lat": 10.48,
+    "lon": -62.41,
+    "place": "22 km al sureste  de Irapa",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-15-08-2026-14:33-10.56--68.71",
     "time": "2026-08-15T18:33:00.000Z",
     "mag": 2.2,
@@ -7477,21 +7492,6 @@
     "lat": 10.6,
     "lon": -65.59,
     "place": "46 km al suroeste de Isla la Tortuga",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-21-07-2026-12:09-10.37--68.64",
-    "time": "2026-07-21T16:09:00.000Z",
-    "mag": 2,
-    "depth": 2.1,
-    "lat": 10.37,
-    "lon": -68.64,
-    "place": "12 km al noreste  de San Felipe",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

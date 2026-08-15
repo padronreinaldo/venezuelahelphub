@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-15-08-2026-19:15-10.59--67.17",
+    "time": "2026-08-15T23:15:00.000Z",
+    "mag": 1.9,
+    "depth": 23.6,
+    "lat": 10.59,
+    "lon": -67.17,
+    "place": "27 km al oeste    de La Guaira",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-15-08-2026-18:51-10.57--67.18",
     "time": "2026-08-15T22:51:00.000Z",
     "mag": 2.2,
@@ -7477,21 +7492,6 @@
     "lat": 10.66,
     "lon": -65.35,
     "place": "29 km al sur      de Isla la Tortuga",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-21-07-2026-13:24-10.59--67.54",
-    "time": "2026-07-21T17:24:00.000Z",
-    "mag": 2.1,
-    "depth": 5,
-    "lat": 10.59,
-    "lon": -67.54,
-    "place": "38 km al norte    de Maracay",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

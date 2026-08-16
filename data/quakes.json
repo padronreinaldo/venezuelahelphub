@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-16-08-2026-04:10-10.23--67.86",
+    "time": "2026-08-16T08:10:00.000Z",
+    "mag": 2,
+    "depth": 6.1,
+    "lat": 10.23,
+    "lon": -67.86,
+    "place": "17 km al noreste  de Valencia",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-16-08-2026-03:54-10.76--66.66",
     "time": "2026-08-16T07:54:00.000Z",
     "mag": 1.9,
@@ -7477,21 +7492,6 @@
     "lat": 9.79,
     "lon": -68.92,
     "place": "39. km al noroeste de San Carlos",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-21-07-2026-16:18-6.97--73.28",
-    "time": "2026-07-21T20:18:00.000Z",
-    "mag": 2.9,
-    "depth": 113.9,
-    "lat": 6.97,
-    "lon": -73.28,
-    "place": "24 km al suroeste de Bucaramanga",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

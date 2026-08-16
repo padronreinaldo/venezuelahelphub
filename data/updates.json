@@ -18,6 +18,20 @@
     "sourceEn": "Runrun.es",
     "date": "2026-08-16",
     "conf": "med",
+    "titleEs": "Las paredes destruidas por los terremotos no son invisibles en Ciudad Caribia",
+    "titleEn": "Las paredes destruidas por los terremotos no son invisibles en Ciudad Caribia",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://runrun.es/rr-es-plus/617675/las-paredes-destruidas-por-los-terremotos-no-son-invisibles-en-ciudad-caribia/"
+  },
+  {
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
+    "date": "2026-08-16",
+    "conf": "med",
     "titleEs": "La promesa de vivienda post-sismos luce cuesta arriba",
     "titleEn": "La promesa de vivienda post-sismos luce cuesta arriba",
     "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
@@ -26,19 +40,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://runrun.es/rr-es-plus/617588/la-promesa-de-vivienda-post-sismos-luce-cuesta-arriba/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-08-15",
-    "conf": "med",
-    "titleEs": "Cicpc desmiente secuestros de niños post terremotos",
-    "titleEn": "Cicpc desmiente secuestros de niños post terremotos",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/inicio/617637/cicpc-desmiente-secuestros-de-ninos-post-terremotos/"
   }
 ]

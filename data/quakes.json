@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-16-08-2026-12:03-10.39--68.56",
+    "time": "2026-08-16T16:03:00.000Z",
+    "mag": 2,
+    "depth": 2.3,
+    "lat": 10.39,
+    "lon": -68.56,
+    "place": "21 km al este     de San Felipe",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-16-08-2026-07:05-10.72--68.03",
     "time": "2026-08-16T11:05:00.000Z",
     "mag": 2.2,
@@ -7477,21 +7492,6 @@
     "lat": 10.19,
     "lon": -67.82,
     "place": "21 km al este     de Valencia",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-21-07-2026-19:33-10.38--68.65",
-    "time": "2026-07-21T23:33:00.000Z",
-    "mag": 2,
-    "depth": 5,
-    "lat": 10.38,
-    "lon": -68.65,
-    "place": "11 km al noreste  de San Felipe",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

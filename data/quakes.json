@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-16-08-2026-16:59-10.24--69.57",
+    "time": "2026-08-16T20:59:00.000Z",
+    "mag": 1.8,
+    "depth": 5,
+    "lat": 10.24,
+    "lon": -69.57,
+    "place": "33 km al noroeste de Barquisimeto",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-16-08-2026-16:48-10.48--68.45",
     "time": "2026-08-16T20:48:00.000Z",
     "mag": 2.1,
@@ -7477,21 +7492,6 @@
     "lat": 11.15,
     "lon": -73.97,
     "place": "5 km al suroeste de Santa Marta",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-21-07-2026-21:25-10.61--66.75",
-    "time": "2026-07-22T01:25:00.000Z",
-    "mag": 2.6,
-    "depth": 2.1,
-    "lat": 10.61,
-    "lon": -66.75,
-    "place": "2 km al suroeste de Naiguata",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

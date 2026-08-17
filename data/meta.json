@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-17T22:48:49.647Z",
+  "updatedAt": "2026-08-17T23:18:11.470Z",
   "stats": {
     "maxMagnitude": 4.5,
     "aftershocks": 0,
-    "deaths": 6301,
+    "deaths": 6438,
     "injured": 356,
     "missing": 500
   },
@@ -19,17 +19,17 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thk4"
     },
     "deaths": {
-      "seenAt": "2026-08-17T22:48:49.647Z",
+      "seenAt": "2026-08-17T23:18:11.470Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
     "injured": {
-      "seenAt": "2026-08-17T22:48:49.647Z",
+      "seenAt": "2026-08-17T23:18:11.470Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
     "missing": {
-      "seenAt": "2026-08-17T22:48:49.647Z",
+      "seenAt": "2026-08-17T23:18:11.470Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     }
@@ -39,7 +39,7 @@
       "value": 6300,
       "source": "El Pitazo",
       "url": "https://elpitazo.net/internacionales/estrellas-latinas-se-unieron-por-venezuela-y-colombia-en-concierto-unidos-por-los-nuestros/",
-      "seenAt": "2026-08-17T22:48:49.647Z"
+      "seenAt": "2026-08-17T23:18:11.470Z"
     },
     "injured": {
       "value": 32038,
@@ -57,13 +57,13 @@
   "sources": {
     "usgs": 0,
     "reliefweb": 0,
-    "press": 5,
+    "press": 6,
     "wikipedia": 1,
     "funvisis": 20
   },
   "counts": {
-    "updates": 5,
-    "news": 5,
+    "updates": 6,
+    "news": 6,
     "quakes": 500
   }
 }

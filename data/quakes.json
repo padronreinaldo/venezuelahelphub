@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-17-08-2026-17:56-10.57--67.28",
+    "time": "2026-08-17T21:56:00.000Z",
+    "mag": 2.7,
+    "depth": 5.3,
+    "lat": 10.57,
+    "lon": -67.28,
+    "place": "36 km al noroeste de Los Teques",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-17-08-2026-16:16-6.56--73.53",
     "time": "2026-08-17T20:16:00.000Z",
     "mag": 2.4,
@@ -7477,21 +7492,6 @@
     "lat": 10.47,
     "lon": -62.88,
     "place": "14 km al suroeste de Yaguaraparo",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-22-07-2026-05:57-10.25--67.44",
-    "time": "2026-07-22T09:57:00.000Z",
-    "mag": 1.7,
-    "depth": 11.2,
-    "lat": 10.25,
-    "lon": -67.44,
-    "place": "12 km al oeste    de La Victoria",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

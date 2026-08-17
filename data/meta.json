@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T22:19:08.899Z",
+  "updatedAt": "2026-08-17T22:48:49.647Z",
   "stats": {
     "maxMagnitude": 4.5,
     "aftershocks": 0,
@@ -19,27 +19,27 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thk4"
     },
     "deaths": {
-      "seenAt": "2026-08-17T22:19:08.899Z",
+      "seenAt": "2026-08-17T22:48:49.647Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
     "injured": {
-      "seenAt": "2026-08-17T22:19:08.899Z",
+      "seenAt": "2026-08-17T22:48:49.647Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
     "missing": {
-      "seenAt": "2026-08-17T22:19:08.899Z",
+      "seenAt": "2026-08-17T22:48:49.647Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     }
   },
   "alt": {
     "deaths": {
-      "value": 6125,
+      "value": 6300,
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/internacional/trump-insiste-en-que-venezuela-es-un-pais-muy-feliz-pese-a-la-tragedia-por-los-terremotos/",
-      "seenAt": "2026-08-05T18:40:33.628Z"
+      "url": "https://elpitazo.net/internacionales/estrellas-latinas-se-unieron-por-venezuela-y-colombia-en-concierto-unidos-por-los-nuestros/",
+      "seenAt": "2026-08-17T22:48:49.647Z"
     },
     "injured": {
       "value": 32038,
@@ -57,13 +57,13 @@
   "sources": {
     "usgs": 0,
     "reliefweb": 0,
-    "press": 3,
+    "press": 5,
     "wikipedia": 1,
     "funvisis": 20
   },
   "counts": {
-    "updates": 3,
-    "news": 3,
+    "updates": 5,
+    "news": 5,
     "quakes": 500
   }
 }

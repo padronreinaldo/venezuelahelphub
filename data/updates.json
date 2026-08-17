@@ -1,19 +1,5 @@
 [
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-08-17",
-    "conf": "med",
-    "titleEs": "Funvisis reporta dos réplicas durante la mañana de este lunes #17Ago",
-    "titleEn": "Funvisis reporta dos réplicas durante la mañana de este lunes #17Ago",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/regiones/funvisis-reporta-dos-replicas-durante-la-manana-de-este-lunes-17ago/"
-  },
-  {
     "sourceEs": "Efecto Cocuyo",
     "sourceEn": "Efecto Cocuyo",
     "date": "2026-08-17",
@@ -54,19 +40,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://runrun.es/rr-es-plus/617675/las-paredes-destruidas-por-los-terremotos-no-son-invisibles-en-ciudad-caribia/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-08-16",
-    "conf": "med",
-    "titleEs": "La promesa de vivienda post-sismos luce cuesta arriba",
-    "titleEn": "La promesa de vivienda post-sismos luce cuesta arriba",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/rr-es-plus/617588/la-promesa-de-vivienda-post-sismos-luce-cuesta-arriba/"
   }
 ]

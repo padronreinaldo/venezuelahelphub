@@ -60,6 +60,20 @@
     "sourceEn": "Efecto Cocuyo",
     "date": "2026-08-18",
     "conf": "med",
+    "titleEs": "Terremoto de magnitud 4,7 causa daños en el sur de España",
+    "titleEn": "Terremoto de magnitud 4,7 causa daños en el sur de España",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://efectococuyo.com/internacionales/terremoto-de-magnitud-47-causa-danos-en-el-sur-de-espana/"
+  },
+  {
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
+    "date": "2026-08-18",
+    "conf": "med",
     "titleEs": "Reportan sismo de magnitud 4 en Vargas y Caracas la madrugada de este martes",
     "titleEn": "Reportan sismo de magnitud 4 en Vargas y Caracas la madrugada de este martes",
     "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -96,19 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://runrun.es/rr-es-plus/617716/la-prisa-oficial-levanta-viviendas-temporales-en-ciudad-caribia-para-afectados-por-los-terremotos/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-08-18",
-    "conf": "med",
-    "titleEs": "El Mañanero del 18 de agosto: Volvió, volvió, volvió, volvió…el boletín oficial sobre los terremotos",
-    "titleEn": "El Mañanero del 18 de agosto: Volvió, volvió, volvió, volvió…el boletín oficial sobre los terremotos",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/noticias/617746/el-mananero-del-18-de-agosto-volvio-volvio-volvio-volvioel-boletin-oficial-sobre-los-terremotos/"
   }
 ]

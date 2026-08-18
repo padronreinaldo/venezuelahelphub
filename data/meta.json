@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-08-18T06:34:39.829Z",
+  "updatedAt": "2026-08-18T07:33:17.393Z",
   "stats": {
     "maxMagnitude": 4.5,
     "aftershocks": 0,
     "deaths": 6438,
-    "injured": 356,
+    "injured": 358,
     "missing": 500
   },
   "prov": {
@@ -19,17 +19,17 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thk4"
     },
     "deaths": {
-      "seenAt": "2026-08-18T06:34:39.829Z",
+      "seenAt": "2026-08-18T07:33:17.393Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
     "injured": {
-      "seenAt": "2026-08-18T06:34:39.829Z",
+      "seenAt": "2026-08-18T07:33:17.393Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
     "missing": {
-      "seenAt": "2026-08-18T06:34:39.829Z",
+      "seenAt": "2026-08-18T07:33:17.393Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     }
@@ -39,7 +39,7 @@
       "value": 6438,
       "source": "Runrun.es",
       "url": "https://runrun.es/noticias/617730/nuevo-balance-de-los-sismos-sigue-sin-reportar-la-cifra-de-desaparecidos/",
-      "seenAt": "2026-08-18T06:34:39.829Z"
+      "seenAt": "2026-08-18T07:33:17.393Z"
     },
     "injured": {
       "value": 32038,

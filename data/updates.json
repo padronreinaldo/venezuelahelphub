@@ -4,6 +4,20 @@
     "sourceEn": "El Pitazo",
     "date": "2026-08-18",
     "conf": "med",
+    "titleEs": "Adolescente que sobrevivió a terremotos necesita ayuda: GoFundMe bloqueó sus fondos y los cuerpos de tres familiares no aparecen",
+    "titleEn": "Adolescente que sobrevivió a terremotos necesita ayuda: GoFundMe bloqueó sus fondos y los cuerpos de tres familiares no aparecen",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/regiones/adolescente-que-sobrevivio-a-terremotos-necesita-ayuda-gofundme-bloqueo-sus-fondos-y-los-cuerpos-de-tres-familiares-no-aparecen/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-08-18",
+    "conf": "med",
     "titleEs": "Terremoto de magnitud 4,7 con epicentro en Granada obliga a desalojar la Alhambra en España",
     "titleEn": "Terremoto de magnitud 4,7 con epicentro en Granada obliga a desalojar la Alhambra en España",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -96,19 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://efectococuyo.com/la-humanidad/sismo-46-se-sintio-vargas-caracas/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-08-18",
-    "conf": "med",
-    "titleEs": "Transparencia Venezuela documenta ingreso de $1300 millones para atender a víctimas de terremotos",
-    "titleEn": "Transparencia Venezuela documenta ingreso de $1300 millones para atender a víctimas de terremotos",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/noticias/617777/transparencia-venezuela-documenta-ingreso-de-1300-millones-para-atender-a-victimas-de-terremotos/"
   }
 ]

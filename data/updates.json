@@ -4,6 +4,20 @@
     "sourceEn": "El Pitazo",
     "date": "2026-08-18",
     "conf": "med",
+    "titleEs": "Colapsó una vivienda en Carapita: sismo y lluvias en Caracas provocaron daños en la estructura",
+    "titleEn": "Colapsó una vivienda en Carapita: sismo y lluvias en Caracas provocaron daños en la estructura",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/regiones/colapso-una-vivienda-en-carapita-sismo-y-lluvias-en-caracas-provocaron-danos-en-la-estructura/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-08-18",
+    "conf": "med",
     "titleEs": "Nuevo sismo en Caracas y La Guaira: “Tembló muy fuerte”",
     "titleEn": "Nuevo sismo en Caracas y La Guaira: “Tembló muy fuerte”",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -26,34 +40,6 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://elpitazo.net/sucesos/balance-oficial-aumenta-el-saldo-de-fallecidos-por-los-terremotos-en-venezuela-6-438-fallecidos/"
-  },
-  {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-08-17",
-    "conf": "med",
-    "titleEs": "Del terremoto a la lluvia: familias en Caracas vuelven a quedar a la intemperie",
-    "titleEn": "Del terremoto a la lluvia: familias en Caracas vuelven a quedar a la intemperie",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/caracas/del-terremoto-a-la-lluvia-familias-en-caracas-vuelven-a-quedar-a-la-intemperie/"
-  },
-  {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-08-17",
-    "conf": "med",
-    "titleEs": "Fotos y videos | Estrellas latinas se unieron por Venezuela y Colombia en concierto «Unidos por los Nuestros»",
-    "titleEn": "Fotos y videos | Estrellas latinas se unieron por Venezuela y Colombia en concierto «Unidos por los Nuestros»",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/internacionales/estrellas-latinas-se-unieron-por-venezuela-y-colombia-en-concierto-unidos-por-los-nuestros/"
   },
   {
     "sourceEs": "Efecto Cocuyo",
@@ -110,5 +96,19 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://runrun.es/rr-es-plus/617716/la-prisa-oficial-levanta-viviendas-temporales-en-ciudad-caribia-para-afectados-por-los-terremotos/"
+  },
+  {
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
+    "date": "2026-08-18",
+    "conf": "med",
+    "titleEs": "El Mañanero del 18 de agosto: Volvió, volvió, volvió, volvió…el boletín oficial sobre los terremotos",
+    "titleEn": "El Mañanero del 18 de agosto: Volvió, volvió, volvió, volvió…el boletín oficial sobre los terremotos",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://runrun.es/noticias/617746/el-mananero-del-18-de-agosto-volvio-volvio-volvio-volvioel-boletin-oficial-sobre-los-terremotos/"
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T23:45:20.385Z",
+  "updatedAt": "2026-08-18T00:57:43.987Z",
   "stats": {
     "maxMagnitude": 4.5,
     "aftershocks": 0,
@@ -19,27 +19,27 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thk4"
     },
     "deaths": {
-      "seenAt": "2026-08-17T23:45:20.385Z",
+      "seenAt": "2026-08-18T00:57:43.987Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
     "injured": {
-      "seenAt": "2026-08-17T23:45:20.385Z",
+      "seenAt": "2026-08-18T00:57:43.987Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
     "missing": {
-      "seenAt": "2026-08-17T23:45:20.385Z",
+      "seenAt": "2026-08-18T00:57:43.987Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     }
   },
   "alt": {
     "deaths": {
-      "value": 6300,
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/internacionales/estrellas-latinas-se-unieron-por-venezuela-y-colombia-en-concierto-unidos-por-los-nuestros/",
-      "seenAt": "2026-08-17T23:45:20.385Z"
+      "value": 6438,
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/617730/nuevo-balance-de-los-sismos-sigue-sin-reportar-la-cifra-de-desaparecidos/",
+      "seenAt": "2026-08-18T00:57:43.987Z"
     },
     "injured": {
       "value": 32038,

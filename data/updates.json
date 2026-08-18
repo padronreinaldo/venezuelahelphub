@@ -58,6 +58,20 @@
   {
     "sourceEs": "Runrun.es",
     "sourceEn": "Runrun.es",
+    "date": "2026-08-18",
+    "conf": "med",
+    "titleEs": "Nuevo balance de los sismos sigue sin reportar la cifra de desaparecidos",
+    "titleEn": "Nuevo balance de los sismos sigue sin reportar la cifra de desaparecidos",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://runrun.es/noticias/617730/nuevo-balance-de-los-sismos-sigue-sin-reportar-la-cifra-de-desaparecidos/"
+  },
+  {
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
     "date": "2026-08-17",
     "conf": "med",
     "titleEs": "Dos terremotos, dos Estados",
@@ -68,19 +82,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://runrun.es/opinion/617697/terremotos-de-venezuela-y-colombia/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-08-16",
-    "conf": "med",
-    "titleEs": "Las paredes destruidas por los terremotos no son invisibles en Ciudad Caribia",
-    "titleEn": "Las paredes destruidas por los terremotos no son invisibles en Ciudad Caribia",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/rr-es-plus/617675/las-paredes-destruidas-por-los-terremotos-no-son-invisibles-en-ciudad-caribia/"
   }
 ]

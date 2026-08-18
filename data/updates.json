@@ -4,6 +4,20 @@
     "sourceEn": "El Pitazo",
     "date": "2026-08-18",
     "conf": "med",
+    "titleEs": "Terremoto de magnitud 4,7 con epicentro en Granada obliga a desalojar la Alhambra en España",
+    "titleEn": "Terremoto de magnitud 4,7 con epicentro en Granada obliga a desalojar la Alhambra en España",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/internacionales/terremoto-de-magnitud-47-con-epicentro-en-granada-obliga-a-desalojar-la-alhambra-en-espana/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-08-18",
+    "conf": "med",
     "titleEs": "Colapsó una vivienda en Carapita: sismo y lluvias en Caracas provocaron daños en la estructura",
     "titleEn": "Colapsó una vivienda en Carapita: sismo y lluvias en Caracas provocaron daños en la estructura",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -96,19 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://runrun.es/noticias/617777/transparencia-venezuela-documenta-ingreso-de-1300-millones-para-atender-a-victimas-de-terremotos/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-08-18",
-    "conf": "med",
-    "titleEs": "Temblor en la madrugada genera temor y evacuaciones en Caracas y La Guaira",
-    "titleEn": "Temblor en la madrugada genera temor y evacuaciones en Caracas y La Guaira",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/noticias/617766/temblor-en-la-madrugada-genera-temor-y-evacuaciones-en-caracas-y-la-guaira/"
   }
 ]

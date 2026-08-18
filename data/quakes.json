@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-18-08-2026-13:31-9.64--69.61",
+    "time": "2026-08-18T17:31:00.000Z",
+    "mag": 2,
+    "depth": 5.7,
+    "lat": 9.64,
+    "lon": -69.61,
+    "place": "26 km al sureste  de El Tocuyo",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-18-08-2026-11:45-10.63--67.45",
     "time": "2026-08-18T15:45:00.000Z",
     "mag": 2.2,
@@ -7477,21 +7492,6 @@
     "lat": 10.18,
     "lon": -67.25,
     "place": "10 km al sureste  de La Victoria",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-22-07-2026-23:00-10.45--68.45",
-    "time": "2026-07-23T03:00:00.000Z",
-    "mag": 2,
-    "depth": 5,
-    "lat": 10.45,
-    "lon": -68.45,
-    "place": "32 km al suroeste de Boca de Aroa",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

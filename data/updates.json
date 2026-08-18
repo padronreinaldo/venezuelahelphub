@@ -2,6 +2,20 @@
   {
     "sourceEs": "El Pitazo",
     "sourceEn": "El Pitazo",
+    "date": "2026-08-18",
+    "conf": "med",
+    "titleEs": "Nuevo sismo en Caracas y La Guaira: “Tembló muy fuerte”",
+    "titleEn": "Nuevo sismo en Caracas y La Guaira: “Tembló muy fuerte”",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/regiones/nuevo-sismo-en-caracas-y-la-guaira-temblo-muy-fuerte/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
     "date": "2026-08-17",
     "conf": "med",
     "titleEs": "Aumenta a 6.438 la cifra de fallecidos por los terremotos en Venezuela",
@@ -96,19 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://runrun.es/noticias/617746/el-mananero-del-18-de-agosto-volvio-volvio-volvio-volvioel-boletin-oficial-sobre-los-terremotos/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-08-18",
-    "conf": "med",
-    "titleEs": "Nuevo balance de los sismos sigue sin reportar la cifra de desaparecidos",
-    "titleEn": "Nuevo balance de los sismos sigue sin reportar la cifra de desaparecidos",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/noticias/617730/nuevo-balance-de-los-sismos-sigue-sin-reportar-la-cifra-de-desaparecidos/"
   }
 ]

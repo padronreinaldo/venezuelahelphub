@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-18-08-2026-17:18-10.62--66.96",
+    "time": "2026-08-18T21:18:00.000Z",
+    "mag": 2.1,
+    "depth": 4.8,
+    "lat": 10.62,
+    "lon": -66.96,
+    "place": "3 km al noroeste de La Guaira",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-18-08-2026-14:45-10.26--62.03",
     "time": "2026-08-18T18:45:00.000Z",
     "mag": 3.4,
@@ -7477,21 +7492,6 @@
     "lat": 10.25,
     "lon": -67.28,
     "place": "6 km al noreste  de La Victoria",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-23-07-2026-02:45-6.99--73.36",
-    "time": "2026-07-23T06:45:00.000Z",
-    "mag": 2.6,
-    "depth": 21.4,
-    "lat": 6.99,
-    "lon": -73.36,
-    "place": "29 km al suroeste de Bucaramanga",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

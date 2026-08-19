@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T21:20:38.222Z",
+  "updatedAt": "2026-08-19T21:49:21.805Z",
   "stats": {
     "maxMagnitude": 3.8,
     "aftershocks": 0,
@@ -9,27 +9,27 @@
   },
   "prov": {
     "maxMagnitude": {
-      "seenAt": "2026-08-19T21:20:38.222Z",
+      "seenAt": "2026-08-19T21:49:21.805Z",
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlva"
     },
     "aftershocks": {
-      "seenAt": "2026-08-19T21:20:38.222Z",
+      "seenAt": "2026-08-19T21:49:21.805Z",
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlva"
     },
     "deaths": {
-      "seenAt": "2026-08-19T21:20:38.222Z",
+      "seenAt": "2026-08-19T21:49:21.805Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
     "injured": {
-      "seenAt": "2026-08-19T21:20:38.222Z",
+      "seenAt": "2026-08-19T21:49:21.805Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
     "missing": {
-      "seenAt": "2026-08-19T21:20:38.222Z",
+      "seenAt": "2026-08-19T21:49:21.805Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     }
@@ -48,22 +48,22 @@
       "seenAt": "2026-06-27T19:14:37.075Z"
     },
     "missing": {
-      "value": 1500,
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/caracas/gobernador-de-la-guaira-contabiliza-mas-de-1-500-desaparecidos-luego-del-terremoto/",
-      "seenAt": "2026-08-04T20:49:44.690Z"
+      "value": 262,
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/internacionales/colombia-registra-314-fallecidos-diez-dias-despues-del-terremoto-de-magnitud-74/",
+      "seenAt": "2026-08-19T21:49:21.805Z"
     }
   },
   "sources": {
     "usgs": 0,
     "reliefweb": 0,
-    "press": 3,
+    "press": 4,
     "wikipedia": 1,
     "funvisis": 20
   },
   "counts": {
-    "updates": 3,
-    "news": 3,
+    "updates": 4,
+    "news": 4,
     "quakes": 500
   }
 }

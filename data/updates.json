@@ -60,6 +60,20 @@
     "sourceEn": "Runrun.es",
     "date": "2026-08-19",
     "conf": "med",
+    "titleEs": "Empresas Polar extiende su apoyo tras los sismos",
+    "titleEn": "Empresas Polar extiende su apoyo tras los sismos",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://runrun.es/noticias/con-proposito/617833/empresas-polar-extiende-su-apoyo-tras-los-sismos/"
+  },
+  {
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
+    "date": "2026-08-19",
+    "conf": "med",
     "titleEs": "Colombia y Venezuela tendrán una relación tutelada",
     "titleEn": "Colombia y Venezuela tendrán una relación tutelada",
     "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
@@ -68,19 +82,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://runrun.es/rr-es-plus/617823/colombia-y-venezuela-tendran-una-relacion-tutelada/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-08-18",
-    "conf": "med",
-    "titleEs": "Inestabilidad del terreno y lluvias provocan colapso de vivienda en Carapita",
-    "titleEn": "Inestabilidad del terreno y lluvias provocan colapso de vivienda en Carapita",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/noticias/617793/inestabilidad-del-terreno-y-lluvias-provocan-colapso-de-vivienda-en-carapita/"
   }
 ]

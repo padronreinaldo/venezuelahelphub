@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-19-08-2026-17:49-6.8--73.15",
+    "time": "2026-08-19T21:49:00.000Z",
+    "mag": 3.3,
+    "depth": 146.6,
+    "lat": 6.8,
+    "lon": -73.15,
+    "place": "35 km al sur      de Bucaramanga",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-19-08-2026-15:39-8.75--71.45",
     "time": "2026-08-19T19:39:00.000Z",
     "mag": 3.2,
@@ -7477,21 +7492,6 @@
     "lat": 10.58,
     "lon": -66.82,
     "place": "10 km al suroeste de Naiguata",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-24-07-2026-00:42-10.59--66.82",
-    "time": "2026-07-24T04:42:00.000Z",
-    "mag": 2.2,
-    "depth": 4.7,
-    "lat": 10.59,
-    "lon": -66.82,
-    "place": "9 km al suroeste de Naiguata",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

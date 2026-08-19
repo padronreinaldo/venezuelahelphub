@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-19-08-2026-10:01-9.74--70.19",
+    "time": "2026-08-19T14:01:00.000Z",
+    "mag": 2.1,
+    "depth": 10.6,
+    "lat": 9.74,
+    "lon": -70.19,
+    "place": "39 km al suroeste de Curarigua",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-19-08-2026-09:46-6.81--73.21",
     "time": "2026-08-19T13:46:00.000Z",
     "mag": 2.9,
@@ -7477,21 +7492,6 @@
     "lat": 10.42,
     "lon": -68.55,
     "place": "23 km al noreste  de San Felipe",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-23-07-2026-19:20-10.67--66.74",
-    "time": "2026-07-23T23:20:00.000Z",
-    "mag": 1.9,
-    "depth": 5,
-    "lat": 10.67,
-    "lon": -66.74,
-    "place": "5 km al norte    de Naiguata",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

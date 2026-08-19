@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-19-08-2026-15:39-8.75--71.45",
+    "time": "2026-08-19T19:39:00.000Z",
+    "mag": 3.2,
+    "depth": 5,
+    "lat": 8.75,
+    "lon": -71.45,
+    "place": "26 km al noreste  de El Vigia",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-19-08-2026-15:03-10.11--67.34",
     "time": "2026-08-19T19:03:00.000Z",
     "mag": 1.8,
@@ -7477,21 +7492,6 @@
     "lat": 10.59,
     "lon": -66.82,
     "place": "9 km al suroeste de Naiguata",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-24-07-2026-00:37-10.58--66.82",
-    "time": "2026-07-24T04:37:00.000Z",
-    "mag": 2.6,
-    "depth": 6,
-    "lat": 10.58,
-    "lon": -66.82,
-    "place": "10 km al suroeste de Naiguata",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

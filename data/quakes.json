@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-18-08-2026-22:50-9.92--73.14",
+    "time": "2026-08-19T02:50:00.000Z",
+    "mag": 1.8,
+    "depth": 8.1,
+    "lat": 9.92,
+    "lon": -73.14,
+    "place": "62 km al sur      de Valledupar",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-18-08-2026-19:55-9.74--69.71",
     "time": "2026-08-18T23:55:00.000Z",
     "mag": 1.9,
@@ -7477,21 +7492,6 @@
     "lat": 6.79,
     "lon": -73.13,
     "place": "36 km al sur      de Bucaramanga",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-23-07-2026-03:58-10.58--66.79",
-    "time": "2026-07-23T07:58:00.000Z",
-    "mag": 1.9,
-    "depth": 1.4,
-    "lat": 10.58,
-    "lon": -66.79,
-    "place": "7 km al suroeste de Naiguata",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

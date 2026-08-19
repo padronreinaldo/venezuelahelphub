@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-18-08-2026-19:55-9.74--69.71",
+    "time": "2026-08-18T23:55:00.000Z",
+    "mag": 1.9,
+    "depth": 1,
+    "lat": 9.74,
+    "lon": -69.71,
+    "place": "11 km al sureste  de El Tocuyo",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-18-08-2026-19:12-10.58--67.29",
     "time": "2026-08-18T23:12:00.000Z",
     "mag": 2,
@@ -7477,21 +7492,6 @@
     "lat": 10.58,
     "lon": -66.79,
     "place": "7 km al suroeste de Naiguata",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-23-07-2026-03:57-10.62--66.66",
-    "time": "2026-07-23T07:57:00.000Z",
-    "mag": 1.8,
-    "depth": 9.8,
-    "lat": 10.62,
-    "lon": -66.66,
-    "place": "9 km al oeste    de Los Caracas",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

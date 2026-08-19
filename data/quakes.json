@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-19-08-2026-09:46-6.81--73.21",
+    "time": "2026-08-19T13:46:00.000Z",
+    "mag": 2.9,
+    "depth": 130.4,
+    "lat": 6.81,
+    "lon": -73.21,
+    "place": "34 km al suroeste de Bucaramanga",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-19-08-2026-06:42-10.95--72.12",
     "time": "2026-08-19T10:42:00.000Z",
     "mag": 2.8,
@@ -315,19 +330,19 @@
     "source": "FUNVISIS"
   },
   {
-    "id": "fv-18-08-2026-03:07-10.64--67.01",
-    "time": "2026-08-18T07:07:00.000Z",
-    "mag": 4,
-    "depth": 10,
-    "lat": 10.64,
-    "lon": -67.01,
-    "place": "10 km al noroeste de La Guaira",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
+    "id": "us6000tlva",
+    "time": "2026-08-18T07:07:16.382Z",
+    "mag": 3.8,
+    "depth": 17.4,
+    "lat": 10.679,
+    "lon": -67.007,
+    "place": "8 km NNE of Catia La Mar, Venezuela",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlva",
+    "dyfi": 3.6,
     "alert": null,
     "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
+    "status": "reviewed",
+    "source": "USGS"
   },
   {
     "id": "fv-18-08-2026-02:26-10.6--68.79",
@@ -7477,21 +7492,6 @@
     "lat": 10.67,
     "lon": -66.74,
     "place": "5 km al norte    de Naiguata",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-23-07-2026-15:07-9.77--68.91",
-    "time": "2026-07-23T19:07:00.000Z",
-    "mag": 2.1,
-    "depth": 5,
-    "lat": 9.77,
-    "lon": -68.91,
-    "place": "37 km al noroeste de San Carlos",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

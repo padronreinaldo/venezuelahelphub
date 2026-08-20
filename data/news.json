@@ -11,6 +11,15 @@
   {
     "source": "Efecto Cocuyo",
     "section": "Venezuela",
+    "date": "2026-08-20",
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/08/12203508/seguro.jpeg",
+    "titleEs": "La red hospitalaria de La Guaira atrapada entre las ruinas y la improvisación (Serie 1/2)",
+    "titleEn": "La red hospitalaria de La Guaira atrapada entre las ruinas y la improvisación (Serie 1/2)",
+    "url": "https://efectococuyo.com/la-humanidad/la-red-hospitalaria-de-la-guaira-atrapada-entre-las-ruinas-y-la-improvisacion-serie-1-2/"
+  },
+  {
+    "source": "Efecto Cocuyo",
+    "section": "Venezuela",
     "date": "2026-08-19",
     "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/08/19172316/83829cb9a8196a9cdf8713f0805b709c5c91fec7-1024x683.jpg",
     "titleEs": "Colombia registra 314 fallecidos diez días después del terremoto de magnitud 7,4",
@@ -25,14 +34,5 @@
     "titleEs": "Empresas Polar extiende su apoyo tras los sismos",
     "titleEn": "Empresas Polar extiende su apoyo tras los sismos",
     "url": "https://runrun.es/noticias/con-proposito/617833/empresas-polar-extiende-su-apoyo-tras-los-sismos/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-08-19",
-    "img": "https://runrun.es/wp-content/uploads/2026/08/Diseno-sin-titulo-2026-08-19T062638.974.jpg",
-    "titleEs": "Colombia y Venezuela tendrán una relación tutelada",
-    "titleEn": "Colombia y Venezuela tendrán una relación tutelada",
-    "url": "https://runrun.es/rr-es-plus/617823/colombia-y-venezuela-tendran-una-relacion-tutelada/"
   }
 ]

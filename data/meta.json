@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T23:20:40.243Z",
+  "updatedAt": "2026-08-20T23:49:10.899Z",
   "stats": {
     "maxMagnitude": 3.8,
     "aftershocks": 0,
@@ -9,27 +9,27 @@
   },
   "prov": {
     "maxMagnitude": {
-      "seenAt": "2026-08-20T23:20:40.243Z",
+      "seenAt": "2026-08-20T23:49:10.899Z",
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlva"
     },
     "aftershocks": {
-      "seenAt": "2026-08-20T23:20:40.243Z",
+      "seenAt": "2026-08-20T23:49:10.899Z",
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlva"
     },
     "deaths": {
-      "seenAt": "2026-08-20T23:20:40.243Z",
+      "seenAt": "2026-08-20T23:49:10.899Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
     "injured": {
-      "seenAt": "2026-08-20T23:20:40.243Z",
+      "seenAt": "2026-08-20T23:49:10.899Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     },
     "missing": {
-      "seenAt": "2026-08-20T23:20:40.243Z",
+      "seenAt": "2026-08-20T23:49:10.899Z",
       "source": "Parte oficial (Wikipedia ES)",
       "url": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
     }
@@ -57,13 +57,13 @@
   "sources": {
     "usgs": 0,
     "reliefweb": 0,
-    "press": 7,
+    "press": 6,
     "wikipedia": 1,
     "funvisis": 20
   },
   "counts": {
-    "updates": 7,
-    "news": 7,
+    "updates": 6,
+    "news": 6,
     "quakes": 500
   }
 }

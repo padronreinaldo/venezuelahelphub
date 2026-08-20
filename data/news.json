@@ -3,10 +3,28 @@
     "source": "El Pitazo",
     "section": "Venezuela",
     "date": "2026-08-20",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/05/sismo-peru-9-1024x618-1.jpg",
+    "titleEs": "Terremoto de magnitud 7,2 sacude a Perú este #20Ago",
+    "titleEn": "Terremoto de magnitud 7,2 sacude a Perú este #20Ago",
+    "url": "https://elpitazo.net/internacional/terremoto-de-magnitud-72-sacude-a-peru-este-20ago/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-08-20",
     "img": "https://elpitazo.net/wp-content/uploads/2026/08/la-guaira-1.jpg",
     "titleEs": "«Cumplí mi misión de llevármelos conmigo»: mujer localiza a su familia atrapada en edificio de La Guaira",
     "titleEn": "«Cumplí mi misión de llevármelos conmigo»: mujer localiza a su familia atrapada en edificio de La Guaira",
     "url": "https://elpitazo.net/regiones/cumpli-mi-mision-de-llevarmelos-conmigo-mujer-localiza-a-su-familia-atrapada-en-edificio-de-la-guaira/"
+  },
+  {
+    "source": "Efecto Cocuyo",
+    "section": "Venezuela",
+    "date": "2026-08-20",
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/08/20150653/HQL0kePX0AA5uRO.jpg",
+    "titleEs": "Un terremoto de magnitud 7,2 sacude el sur de Perú",
+    "titleEn": "Un terremoto de magnitud 7,2 sacude el sur de Perú",
+    "url": "https://efectococuyo.com/internacionales/un-terremoto-de-magnitud-72-sacude-el-sur-de-peru/"
   },
   {
     "source": "Efecto Cocuyo",
@@ -34,15 +52,6 @@
     "titleEs": "La red hospitalaria de La Guaira atrapada entre las ruinas y la improvisación (Serie 1/2)",
     "titleEn": "La red hospitalaria de La Guaira atrapada entre las ruinas y la improvisación (Serie 1/2)",
     "url": "https://efectococuyo.com/la-humanidad/la-red-hospitalaria-de-la-guaira-atrapada-entre-las-ruinas-y-la-improvisacion-serie-1-2/"
-  },
-  {
-    "source": "Efecto Cocuyo",
-    "section": "Venezuela",
-    "date": "2026-08-19",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/08/19172316/83829cb9a8196a9cdf8713f0805b709c5c91fec7-1024x683.jpg",
-    "titleEs": "Colombia registra 314 fallecidos diez días después del terremoto de magnitud 7,4",
-    "titleEn": "Colombia registra 314 fallecidos diez días después del terremoto de magnitud 7,4",
-    "url": "https://efectococuyo.com/internacionales/colombia-registra-314-fallecidos-diez-dias-despues-del-terremoto-de-magnitud-74/"
   },
   {
     "source": "Runrun.es",

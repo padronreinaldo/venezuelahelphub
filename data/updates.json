@@ -4,6 +4,20 @@
     "sourceEn": "El Pitazo",
     "date": "2026-08-20",
     "conf": "med",
+    "titleEs": "Terremoto de magnitud 7,2 sacude a Perú este #20Ago",
+    "titleEn": "Terremoto de magnitud 7,2 sacude a Perú este #20Ago",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/internacional/terremoto-de-magnitud-72-sacude-a-peru-este-20ago/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-08-20",
+    "conf": "med",
     "titleEs": "«Cumplí mi misión de llevármelos conmigo»: mujer localiza a su familia atrapada en edificio de La Guaira",
     "titleEn": "«Cumplí mi misión de llevármelos conmigo»: mujer localiza a su familia atrapada en edificio de La Guaira",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -12,6 +26,20 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://elpitazo.net/regiones/cumpli-mi-mision-de-llevarmelos-conmigo-mujer-localiza-a-su-familia-atrapada-en-edificio-de-la-guaira/"
+  },
+  {
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
+    "date": "2026-08-20",
+    "conf": "med",
+    "titleEs": "Un terremoto de magnitud 7,2 sacude el sur de Perú",
+    "titleEn": "Un terremoto de magnitud 7,2 sacude el sur de Perú",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://efectococuyo.com/internacionales/un-terremoto-de-magnitud-72-sacude-el-sur-de-peru/"
   },
   {
     "sourceEs": "Efecto Cocuyo",
@@ -54,20 +82,6 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://efectococuyo.com/la-humanidad/la-red-hospitalaria-de-la-guaira-atrapada-entre-las-ruinas-y-la-improvisacion-serie-1-2/"
-  },
-  {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-08-19",
-    "conf": "med",
-    "titleEs": "Colombia registra 314 fallecidos diez días después del terremoto de magnitud 7,4",
-    "titleEn": "Colombia registra 314 fallecidos diez días después del terremoto de magnitud 7,4",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/internacionales/colombia-registra-314-fallecidos-diez-dias-despues-del-terremoto-de-magnitud-74/"
   },
   {
     "sourceEs": "Runrun.es",

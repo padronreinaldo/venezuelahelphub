@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-20-08-2026-20:03-10.53--67.21",
+    "time": "2026-08-21T00:03:00.000Z",
+    "mag": 2.6,
+    "depth": 5,
+    "lat": 10.53,
+    "lon": -67.21,
+    "place": "28 km al noroeste de Los Teques",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-20-08-2026-17:35-10.54--68.48",
     "time": "2026-08-20T21:35:00.000Z",
     "mag": 2.8,
@@ -7477,21 +7492,6 @@
     "lat": 10.53,
     "lon": -68.4,
     "place": "22 km al suroeste de Boca de Aroa",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-24-07-2026-10:15-10.61--67.31",
-    "time": "2026-07-24T14:15:00.000Z",
-    "mag": 2.6,
-    "depth": 3.4,
-    "lat": 10.61,
-    "lon": -67.31,
-    "place": "41 km al noroeste de Los Teques",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

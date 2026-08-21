@@ -14,34 +14,6 @@
     "url": "https://elpitazo.net/sucesos/rawayana-impulsa-campana-global-para-apoyar-la-recuperacion-tras-los-terremotos-en-venezuela/"
   },
   {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-08-20",
-    "conf": "med",
-    "titleEs": "Un terremoto de magnitud 7,2 sacude el sur de Perú",
-    "titleEn": "Un terremoto de magnitud 7,2 sacude el sur de Perú",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/internacionales/un-terremoto-de-magnitud-72-sacude-el-sur-de-peru/"
-  },
-  {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-08-20",
-    "conf": "med",
-    "titleEs": "Casi dos meses después de los sismos, La Guaira se debate entre precariedad y resistencia",
-    "titleEn": "Casi dos meses después de los sismos, La Guaira se debate entre precariedad y resistencia",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/la-humanidad/casi-dos-meses-despues-de-los-sismos-la-guaira-se-debate-entre-precariedad-y-resistencia/"
-  },
-  {
     "sourceEs": "Runrun.es",
     "sourceEn": "Runrun.es",
     "date": "2026-08-21",
@@ -54,19 +26,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://runrun.es/opinion/617994/terremotos-venezuela/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-08-20",
-    "conf": "med",
-    "titleEs": "Colegio de Ingenieros recomienda no modificar estructuras sin estudios previos",
-    "titleEn": "Colegio de Ingenieros recomienda no modificar estructuras sin estudios previos",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/inicio/617967/colegio-de-ingenieros-recomienda-no-modificar-estructuras-sin-estudios-previos/"
   }
 ]

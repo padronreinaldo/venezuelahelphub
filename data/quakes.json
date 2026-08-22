@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-22-08-2026-04:28-10.41--67.2",
+    "time": "2026-08-22T08:28:00.000Z",
+    "mag": 2.6,
+    "depth": 6,
+    "lat": 10.41,
+    "lon": -67.2,
+    "place": "19 km al noroeste de Los Teques",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-22-08-2026-02:31-10.21--67.37",
     "time": "2026-08-22T06:31:00.000Z",
     "mag": 1.8,
@@ -7477,21 +7492,6 @@
     "lat": 11.88,
     "lon": -68.98,
     "place": "35 km al sur      de Curazao",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-25-07-2026-11:26-10.45--68.53",
-    "time": "2026-07-25T15:26:00.000Z",
-    "mag": 2,
-    "depth": 2.1,
-    "lat": 10.45,
-    "lon": -68.53,
-    "place": "26 km al noreste  de San Felipe",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

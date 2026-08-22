@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-22-08-2026-06:15-10.67--66.86",
+    "time": "2026-08-22T10:15:00.000Z",
+    "mag": 2.2,
+    "depth": 11.2,
+    "lat": 10.67,
+    "lon": -66.86,
+    "place": "11 km al noreste  de La Guaira",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-22-08-2026-04:28-10.41--67.2",
     "time": "2026-08-22T08:28:00.000Z",
     "mag": 2.6,
@@ -7477,21 +7492,6 @@
     "lat": 10.54,
     "lon": -66.83,
     "place": "11 km al noreste  de Caracas",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-25-07-2026-12:18-11.88--68.98",
-    "time": "2026-07-25T16:18:00.000Z",
-    "mag": 3,
-    "depth": 35.1,
-    "lat": 11.88,
-    "lon": -68.98,
-    "place": "35 km al sur      de Curazao",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

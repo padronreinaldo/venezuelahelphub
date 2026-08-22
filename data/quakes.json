@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-21-08-2026-21:06-10.53--67.73",
+    "time": "2026-08-22T01:06:00.000Z",
+    "mag": 1.5,
+    "depth": 10.7,
+    "lat": 10.53,
+    "lon": -67.73,
+    "place": "32 km al este     de Puerto Cabello",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-21-08-2026-18:42-6.81--73.05",
     "time": "2026-08-21T22:42:00.000Z",
     "mag": 2.9,
@@ -7477,21 +7492,6 @@
     "lat": 10.62,
     "lon": -66.97,
     "place": "4 km al noroeste de La Guaira",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-25-07-2026-06:53-9.82--68.87",
-    "time": "2026-07-25T10:53:00.000Z",
-    "mag": 2.2,
-    "depth": 4.2,
-    "lat": 9.82,
-    "lon": -68.87,
-    "place": "35 km al noroeste de San Carlos",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

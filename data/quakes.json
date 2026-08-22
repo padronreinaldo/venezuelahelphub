@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-22-08-2026-10:45-10.79--62.41",
+    "time": "2026-08-22T14:45:00.000Z",
+    "mag": 3.1,
+    "depth": 22.8,
+    "lat": 10.79,
+    "lon": -62.41,
+    "place": "19 km al noroeste de Guiria",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-22-08-2026-09:58-10.5--67.46",
     "time": "2026-08-22T13:58:00.000Z",
     "mag": 2.4,
@@ -7477,21 +7492,6 @@
     "lat": 10.62,
     "lon": -66.77,
     "place": "4 km al oeste    de Naiguata",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-25-07-2026-17:29-10.65--66.83",
-    "time": "2026-07-25T21:29:00.000Z",
-    "mag": 1.9,
-    "depth": 10.1,
-    "lat": 10.65,
-    "lon": -66.83,
-    "place": "10 km al noroeste de Naiguata",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

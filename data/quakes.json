@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-23-08-2026-02:10-11.16--62.31",
+    "time": "2026-08-23T06:10:00.000Z",
+    "mag": 3.4,
+    "depth": 13.7,
+    "lat": 11.16,
+    "lon": -62.31,
+    "place": "56 km al norte    de Guiria",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-23-08-2026-02:08-11.33--62.2",
     "time": "2026-08-23T06:08:00.000Z",
     "mag": 4.1,
@@ -15,19 +30,19 @@
     "source": "FUNVISIS"
   },
   {
-    "id": "fv-23-08-2026-01:47-10.63--65.2",
-    "time": "2026-08-23T05:47:00.000Z",
-    "mag": 4.5,
-    "depth": 20,
-    "lat": 10.63,
-    "lon": -65.2,
-    "place": "36 km al sureste  de Isla la Tortuga",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
+    "id": "us6000tmx3",
+    "time": "2026-08-23T05:47:51.452Z",
+    "mag": 4,
+    "depth": 10,
+    "lat": 10.674,
+    "lon": -65.342,
+    "place": "60 km N of Boca de Uchire, Venezuela",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmx3",
+    "dyfi": 2.7,
     "alert": null,
     "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
+    "status": "reviewed",
+    "source": "USGS"
   },
   {
     "id": "fv-23-08-2026-00:53-9.97--67.55",
@@ -7477,21 +7492,6 @@
     "lat": 9.83,
     "lon": -68.9,
     "place": "39 km al noroeste de San Carlos",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-26-07-2026-03:28-10.55--67.28",
-    "time": "2026-07-26T07:28:00.000Z",
-    "mag": 2.5,
-    "depth": 3.2,
-    "lat": 10.55,
-    "lon": -67.28,
-    "place": "35 km al noroeste de Los Teques",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

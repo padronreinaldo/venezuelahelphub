@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-23-08-2026-05:30-11.68--62.09",
+    "time": "2026-08-23T09:30:00.000Z",
+    "mag": 3.1,
+    "depth": 65.3,
+    "lat": 11.68,
+    "lon": -62.09,
+    "place": "65 km al suroeste de Granada",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-23-08-2026-04:17-10.44--67.2",
     "time": "2026-08-23T08:17:00.000Z",
     "mag": 2,
@@ -7477,21 +7492,6 @@
     "lat": 9.13,
     "lon": -73.57,
     "place": "125 km al noroeste de Casigua",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-26-07-2026-04:21-10.58--73.17",
-    "time": "2026-07-26T08:21:00.000Z",
-    "mag": 2.6,
-    "depth": 66.9,
-    "lat": 10.58,
-    "lon": -73.17,
-    "place": "16 km al noreste  de Valledupar",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

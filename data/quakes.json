@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-23-08-2026-07:05-10.29--62.71",
+    "time": "2026-08-23T11:05:00.000Z",
+    "mag": 2.5,
+    "depth": 29.8,
+    "lat": 10.29,
+    "lon": -62.71,
+    "place": "30 km al noreste  de Guanoco",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-23-08-2026-05:36-10.33--67.42",
     "time": "2026-08-23T09:36:00.000Z",
     "mag": 2,
@@ -7477,21 +7492,6 @@
     "lat": 10.19,
     "lon": -64.63,
     "place": "3 km al sur      de Puerto La Cruz",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-26-07-2026-05:06-9.82--69.01",
-    "time": "2026-07-26T09:06:00.000Z",
-    "mag": 2,
-    "depth": 24.2,
-    "lat": 9.82,
-    "lon": -69.01,
-    "place": "36 km al noreste  de Acarigua",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-23-08-2026-09:30-10.58--67.35",
+    "time": "2026-08-23T13:30:00.000Z",
+    "mag": 3.1,
+    "depth": 4.5,
+    "lat": 10.58,
+    "lon": -67.35,
+    "place": "39 km al norte    de La Victoria",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-23-08-2026-07:05-10.29--62.71",
     "time": "2026-08-23T11:05:00.000Z",
     "mag": 2.5,
@@ -7477,21 +7492,6 @@
     "lat": 10.14,
     "lon": -64.59,
     "place": "10 km al sureste  de Puerto La Cruz",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-26-07-2026-05:59-10.19--64.63",
-    "time": "2026-07-26T09:59:00.000Z",
-    "mag": 2.6,
-    "depth": 26.1,
-    "lat": 10.19,
-    "lon": -64.63,
-    "place": "3 km al sur      de Puerto La Cruz",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

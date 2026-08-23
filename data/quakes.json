@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-23-08-2026-00:53-9.97--67.55",
+    "time": "2026-08-23T04:53:00.000Z",
+    "mag": 2.2,
+    "depth": 3.9,
+    "lat": 9.97,
+    "lon": -67.55,
+    "place": "21 km al noroeste de San Juan de los Morros",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-22-08-2026-21:20-10.33--68.67",
     "time": "2026-08-23T01:20:00.000Z",
     "mag": 2,
@@ -7477,21 +7492,6 @@
     "lat": 10.18,
     "lon": -64.55,
     "place": "9 km al sureste  de Puerto La Cruz",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-25-07-2026-23:55-10.59--66.82",
-    "time": "2026-07-26T03:55:00.000Z",
-    "mag": 1.9,
-    "depth": 4.5,
-    "lat": 10.59,
-    "lon": -66.82,
-    "place": "10 km al suroeste de Naiguata",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

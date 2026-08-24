@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-24-08-2026-07:18-10.59--66.79",
+    "time": "2026-08-24T11:18:00.000Z",
+    "mag": 2.2,
+    "depth": 2.8,
+    "lat": 10.59,
+    "lon": -66.79,
+    "place": "6 km al suroeste de Naiguata",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-24-08-2026-04:57-10.71--67.49",
     "time": "2026-08-24T08:57:00.000Z",
     "mag": 2.1,
@@ -7477,21 +7492,6 @@
     "lat": 10.64,
     "lon": -67.17,
     "place": "26 km al oeste    de La Guaira",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-26-07-2026-15:06-10.62--66.73",
-    "time": "2026-07-26T19:06:00.000Z",
-    "mag": 2.2,
-    "depth": 6.3,
-    "lat": 10.62,
-    "lon": -66.73,
-    "place": "2 km al este     de Naiguata",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

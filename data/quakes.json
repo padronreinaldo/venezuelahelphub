@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-24-08-2026-17:29-11.35--73.05",
+    "time": "2026-08-24T21:29:00.000Z",
+    "mag": 2.9,
+    "depth": 25.6,
+    "lat": 11.35,
+    "lon": -73.05,
+    "place": "91 km al oeste    de Maicao",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-24-08-2026-16:29-10.54--67.17",
     "time": "2026-08-24T20:29:00.000Z",
     "mag": 2.1,
@@ -7477,21 +7492,6 @@
     "lat": 6.93,
     "lon": -73.24,
     "place": "25 km al suroeste de Bucaramanga",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-26-07-2026-22:52-10.58--67.36",
-    "time": "2026-07-27T02:52:00.000Z",
-    "mag": 2.7,
-    "depth": 1.6,
-    "lat": 10.58,
-    "lon": -67.36,
-    "place": "39. km al norte    de La Victoria",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

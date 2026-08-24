@@ -4,6 +4,20 @@
     "sourceEn": "El Pitazo",
     "date": "2026-08-24",
     "conf": "med",
+    "titleEs": "“No queremos indemnización material, sino moral”: familiares de los deportados del vuelo 164 que murieron en los terremotos exigen respuestas",
+    "titleEn": "“No queremos indemnización material, sino moral”: familiares de los deportados del vuelo 164 que murieron en los terremotos exigen respuestas",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/otras-noticias/no-queremos-indemnizacion-material-sino-moral-familiares-de-los-deportados-del-vuelo-164-que-murieron-en-los-terremotos-exigen-respuestas/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-08-24",
+    "conf": "med",
     "titleEs": "La Guaira a dos meses del doble terremoto: entre la muerte, el dolor y la resurrección",
     "titleEn": "La Guaira a dos meses del doble terremoto: entre la muerte, el dolor y la resurrección",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -60,6 +74,20 @@
     "sourceEn": "Runrun.es",
     "date": "2026-08-24",
     "conf": "med",
+    "titleEs": "Un muerto, desaparecidos, daños materiales y colapso de vías dejaron lluvias del fin de semana",
+    "titleEn": "Un muerto, desaparecidos, daños materiales y colapso de vías dejaron lluvias del fin de semana",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://runrun.es/noticias/618208/un-muerto-desaparecidos-danos-materiales-y-colapso-de-vias-dejaron-lluvias-del-fin-de-semana/"
+  },
+  {
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
+    "date": "2026-08-24",
+    "conf": "med",
     "titleEs": "Vuelo 164: familiares de deportados fallecidos en los sismos del 24J exigen respuestas",
     "titleEn": "Vuelo 164: familiares de deportados fallecidos en los sismos del 24J exigen respuestas",
     "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
@@ -82,19 +110,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://runrun.es/noticias/con-proposito/618199/conexion-segura-e-isoc-llevan-internet-satelital-a-zonas-afectadas-por-los-sismos/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-08-24",
-    "conf": "med",
-    "titleEs": "El Mañanero del 24 de agosto: Se cumplen dos meses de los terremotos y el dolor aún está latente",
-    "titleEn": "El Mañanero del 24 de agosto: Se cumplen dos meses de los terremotos y el dolor aún está latente",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/noticias/618169/el-mananero-del-20-de-agosto-se-cumplen-dos-meses-de-los-terremotos-del-24-de-junio/"
   }
 ]

@@ -28,20 +28,6 @@
     "url": "https://elpitazo.net/cronicas/se-reseteo-mi-vida-alejandro-perdio-su-casa-y-su-negocio-en-el-terremoto-de-la-guaira-pero-encontro-una-razon-para-empezar-de-nuevo/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-08-24",
-    "conf": "med",
-    "titleEs": "El fútbol como refugio: semillero de La Guaira busca levantarse luego de los terremotos",
-    "titleEn": "El fútbol como refugio: semillero de La Guaira busca levantarse luego de los terremotos",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/deportes/el-futbol-como-refugio-semillero-de-la-guaira-busca-levantarse-luego-de-los-terremotos/"
-  },
-  {
     "sourceEs": "Efecto Cocuyo",
     "sourceEn": "Efecto Cocuyo",
     "date": "2026-08-24",
@@ -60,20 +46,6 @@
     "sourceEn": "Efecto Cocuyo",
     "date": "2026-08-24",
     "conf": "med",
-    "titleEs": "Venezuela a 2 meses del doblete sísmico: escombros, promesas y recuperación a media máquina",
-    "titleEn": "Venezuela a 2 meses del doblete sísmico: escombros, promesas y recuperación a media máquina",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/la-humanidad/venezuela-a-2-meses-del-doblete-sismico-escombros-promesas-y-recuperacion-a-media-maquina/"
-  },
-  {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-08-24",
-    "conf": "med",
     "titleEs": "Un sismo de magnitud 5 y réplicas sacuden la capital de Costa Rica sin daños",
     "titleEn": "Un sismo de magnitud 5 y réplicas sacuden la capital de Costa Rica sin daños",
     "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -84,18 +56,18 @@
     "url": "https://efectococuyo.com/internacionales/un-sismo-de-magnitud-5-y-replicas-sacuden-la-capital-de-costa-rica-sin-danos/"
   },
   {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
     "date": "2026-08-24",
     "conf": "med",
-    "titleEs": "“Tuvimos que irnos y no sabemos si volveremos”: maestras desplazadas por los dos terremotos",
-    "titleEn": "“Tuvimos que irnos y no sabemos si volveremos”: maestras desplazadas por los dos terremotos",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
+    "titleEs": "Vuelo 164: familiares de deportados fallecidos en los sismos del 24J exigen respuestas",
+    "titleEn": "Vuelo 164: familiares de deportados fallecidos en los sismos del 24J exigen respuestas",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://efectococuyo.com/la-humanidad/tuvimos-que-irnos-y-no-sabemos-si-volveremos-maestras-desplazadas-por-el-doble-terremoto/"
+    "url": "https://runrun.es/inicio/618198/vuelo-164-familiares-de-deportados-fallecidos-en-los-sismos-del-24j-exigen-respuestas/"
   },
   {
     "sourceEs": "Runrun.es",
@@ -110,5 +82,19 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://runrun.es/noticias/con-proposito/618199/conexion-segura-e-isoc-llevan-internet-satelital-a-zonas-afectadas-por-los-sismos/"
+  },
+  {
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
+    "date": "2026-08-24",
+    "conf": "med",
+    "titleEs": "El Mañanero del 24 de agosto: Se cumplen dos meses de los terremotos y el dolor aún está latente",
+    "titleEn": "El Mañanero del 24 de agosto: Se cumplen dos meses de los terremotos y el dolor aún está latente",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://runrun.es/noticias/618169/el-mananero-del-20-de-agosto-se-cumplen-dos-meses-de-los-terremotos-del-24-de-junio/"
   }
 ]

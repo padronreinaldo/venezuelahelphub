@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-24-08-2026-01:04-9.01--73.1",
+    "time": "2026-08-24T05:04:00.000Z",
+    "mag": 2.2,
+    "depth": 15.1,
+    "lat": 9.01,
+    "lon": -73.1,
+    "place": "72 km al noroeste de Casigua",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-24-08-2026-00:08-6.91--73.38",
     "time": "2026-08-24T04:08:00.000Z",
     "mag": 2.3,
@@ -7477,21 +7492,6 @@
     "lat": 10.83,
     "lon": -69.59,
     "place": "6 km al noroeste de Churuguara",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-26-07-2026-09:31-10.64--66.92",
-    "time": "2026-07-26T13:31:00.000Z",
-    "mag": 2,
-    "depth": 8.9,
-    "lat": 10.64,
-    "lon": -66.92,
-    "place": "3 km al norte    de La Guaira",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

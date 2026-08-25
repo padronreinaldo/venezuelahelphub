@@ -18,6 +18,20 @@
     "sourceEn": "Efecto Cocuyo",
     "date": "2026-08-25",
     "conf": "med",
+    "titleEs": "Se registra sismo de 3.0 en Caracas este martes",
+    "titleEn": "Se registra sismo de 3.0 en Caracas este martes",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://efectococuyo.com/la-humanidad/se-registra-sismo-de-3-0-en-caracas-este-martes/"
+  },
+  {
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
+    "date": "2026-08-25",
+    "conf": "med",
     "titleEs": "Dos meses después de los terremotos: familias acampan en plazas y calles de Caracas",
     "titleEn": "Dos meses después de los terremotos: familias acampan en plazas y calles de Caracas",
     "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -28,18 +42,18 @@
     "url": "https://efectococuyo.com/la-humanidad/dos-meses-despues-de-los-terremotos-familias-acampan-en-plazas-y-calles-de-caracas/"
   },
   {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-08-24",
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
+    "date": "2026-08-25",
     "conf": "med",
-    "titleEs": "Familiares exigen respuestas por deportados de EEUU muertos en hotel colapsado por sismos",
-    "titleEn": "Familiares exigen respuestas por deportados de EEUU muertos en hotel colapsado por sismos",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
+    "titleEs": "Sobrevivir no basta: el costo de reconstruir la vida tras los sismos del 24J",
+    "titleEn": "Sobrevivir no basta: el costo de reconstruir la vida tras los sismos del 24J",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://efectococuyo.com/la-humanidad/familiares-exigen-respuestas-por-deportados-de-eeuu-muertos-en-hotel-colapsado-por-sismos/"
+    "url": "https://runrun.es/inicio/618264/sobrevivir-no-basta-el-costo-de-reconstruir-la-vida-tras-los-sismos-del-24j/"
   },
   {
     "sourceEs": "Runrun.es",
@@ -54,19 +68,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://runrun.es/noticias/618239/cifra-de-fallecidos-por-los-terremotos-asciende-a-6509-y-sobrepasa-el-total-de-rescatados/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-08-24",
-    "conf": "med",
-    "titleEs": "Un muerto, desaparecidos, daños materiales y colapso de vías dejaron lluvias del fin de semana",
-    "titleEn": "Un muerto, desaparecidos, daños materiales y colapso de vías dejaron lluvias del fin de semana",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/noticias/618208/un-muerto-desaparecidos-danos-materiales-y-colapso-de-vias-dejaron-lluvias-del-fin-de-semana/"
   }
 ]

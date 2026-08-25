@@ -2,16 +2,30 @@
   {
     "sourceEs": "El Pitazo",
     "sourceEn": "El Pitazo",
-    "date": "2026-08-24",
+    "date": "2026-08-25",
     "conf": "med",
-    "titleEs": "La Guaira a dos meses del doble terremoto: entre la muerte, el dolor y la resurrección",
-    "titleEn": "La Guaira a dos meses del doble terremoto: entre la muerte, el dolor y la resurrección",
+    "titleEs": "A dos meses de los terremotos en Venezuela: más de 6.500 muertos y silencio sobre la cifra de desaparecidos",
+    "titleEn": "A dos meses de los terremotos en Venezuela: más de 6.500 muertos y silencio sobre la cifra de desaparecidos",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
     "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/cronicas/la-guaira-a-dos-meses-del-doble-terremoto-entre-la-muerte-el-dolor-y-la-resurreccion/"
+    "url": "https://elpitazo.net/politica/a-dos-meses-de-los-terremotos-en-venezuela-mas-de-6-500-muertos-y-silencio-sobre-la-cifra-de-desaparecidos/"
+  },
+  {
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
+    "date": "2026-08-25",
+    "conf": "med",
+    "titleEs": "Dos meses después de los terremotos: familias acampan en plazas y calles de Caracas",
+    "titleEn": "Dos meses después de los terremotos: familias acampan en plazas y calles de Caracas",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://efectococuyo.com/la-humanidad/dos-meses-despues-de-los-terremotos-familias-acampan-en-plazas-y-calles-de-caracas/"
   },
   {
     "sourceEs": "Efecto Cocuyo",
@@ -28,18 +42,18 @@
     "url": "https://efectococuyo.com/la-humanidad/familiares-exigen-respuestas-por-deportados-de-eeuu-muertos-en-hotel-colapsado-por-sismos/"
   },
   {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-08-24",
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
+    "date": "2026-08-25",
     "conf": "med",
-    "titleEs": "Un sismo de magnitud 5 y réplicas sacuden la capital de Costa Rica sin daños",
-    "titleEn": "Un sismo de magnitud 5 y réplicas sacuden la capital de Costa Rica sin daños",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
+    "titleEs": "Cifra de fallecidos por los terremotos asciende a 6509 y sobrepasa el total de rescatados",
+    "titleEn": "Cifra de fallecidos por los terremotos asciende a 6509 y sobrepasa el total de rescatados",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://efectococuyo.com/internacionales/un-sismo-de-magnitud-5-y-replicas-sacuden-la-capital-de-costa-rica-sin-danos/"
+    "url": "https://runrun.es/noticias/618239/cifra-de-fallecidos-por-los-terremotos-asciende-a-6509-y-sobrepasa-el-total-de-rescatados/"
   },
   {
     "sourceEs": "Runrun.es",

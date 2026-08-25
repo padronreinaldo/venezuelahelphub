@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-25-08-2026-02:37-10.62--66.86",
+    "time": "2026-08-25T06:37:00.000Z",
+    "mag": 1.8,
+    "depth": 12.5,
+    "lat": 10.62,
+    "lon": -66.86,
+    "place": "8 km al este     de La Guaira",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-24-08-2026-22:47-10.89--62.2",
     "time": "2026-08-25T02:47:00.000Z",
     "mag": 3.3,
@@ -7477,21 +7492,6 @@
     "lat": 11.62,
     "lon": -60.64,
     "place": "48 km al norte    de Scarborough, Tobago",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-27-07-2026-07:15-10.63--67.02",
-    "time": "2026-07-27T11:15:00.000Z",
-    "mag": 3.1,
-    "depth": 11.7,
-    "lat": 10.63,
-    "lon": -67.02,
-    "place": "10 km al oeste    de La Guaira",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T03:25:20.108Z",
+  "updatedAt": "2026-08-25T04:07:19.566Z",
   "stats": {
     "maxMagnitude": 4,
     "aftershocks": 1,
@@ -9,27 +9,27 @@
   },
   "prov": {
     "maxMagnitude": {
-      "seenAt": "2026-08-25T03:25:20.108Z",
+      "seenAt": "2026-08-25T04:07:19.566Z",
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmx3"
     },
     "aftershocks": {
-      "seenAt": "2026-08-25T03:25:20.108Z",
+      "seenAt": "2026-08-25T04:07:19.566Z",
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmx3"
     },
     "deaths": {
-      "seenAt": "2026-08-25T03:25:20.108Z",
+      "seenAt": "2026-08-25T04:07:19.566Z",
       "source": "ONU/OCHA · ref. internacional (Wikipedia EN)",
       "url": "https://en.wikipedia.org/wiki/2026_Venezuela_earthquakes"
     },
     "injured": {
-      "seenAt": "2026-08-25T03:25:20.108Z",
+      "seenAt": "2026-08-25T04:07:19.566Z",
       "source": "ONU/OCHA · ref. internacional (Wikipedia EN)",
       "url": "https://en.wikipedia.org/wiki/2026_Venezuela_earthquakes"
     },
     "missing": {
-      "seenAt": "2026-08-25T03:25:20.108Z",
+      "seenAt": "2026-08-25T04:07:19.566Z",
       "source": "ONU/OCHA · ref. internacional (Wikipedia EN)",
       "url": "https://en.wikipedia.org/wiki/2026_Venezuela_earthquakes"
     }
@@ -39,7 +39,7 @@
       "value": 6500,
       "source": "El Pitazo",
       "url": "https://elpitazo.net/politica/a-dos-meses-de-los-terremotos-en-venezuela-mas-de-6-500-muertos-y-silencio-sobre-la-cifra-de-desaparecidos/",
-      "seenAt": "2026-08-25T03:25:20.108Z"
+      "seenAt": "2026-08-25T04:07:19.566Z"
     },
     "injured": {
       "value": 32038,

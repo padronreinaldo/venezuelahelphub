@@ -46,6 +46,20 @@
     "sourceEn": "Runrun.es",
     "date": "2026-08-25",
     "conf": "med",
+    "titleEs": "Cecodap: No hay lineamientos claros para el regreso a clases tras los terremotos",
+    "titleEn": "Cecodap: No hay lineamientos claros para el regreso a clases tras los terremotos",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://runrun.es/inicio/618322/cecodap-no-hay-lineamientos-claros-para-el-regreso-a-clases-tras-los-terremotos/"
+  },
+  {
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
+    "date": "2026-08-25",
+    "conf": "med",
     "titleEs": "Promesas de Delcy Rodríguez y anuncios de mejoría son una realidad a medias",
     "titleEn": "Promesas de Delcy Rodríguez y anuncios de mejoría son una realidad a medias",
     "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
@@ -68,19 +82,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://runrun.es/inicio/618264/sobrevivir-no-basta-el-costo-de-reconstruir-la-vida-tras-los-sismos-del-24j/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-08-25",
-    "conf": "med",
-    "titleEs": "Cifra de fallecidos por los terremotos asciende a 6509 y sobrepasa el total de rescatados",
-    "titleEn": "Cifra de fallecidos por los terremotos asciende a 6509 y sobrepasa el total de rescatados",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/noticias/618239/cifra-de-fallecidos-por-los-terremotos-asciende-a-6509-y-sobrepasa-el-total-de-rescatados/"
   }
 ]

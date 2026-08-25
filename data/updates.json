@@ -4,6 +4,20 @@
     "sourceEn": "El Pitazo",
     "date": "2026-08-25",
     "conf": "med",
+    "titleEs": "Remover escombros por los terremotos puede tardar hasta un año dice presidente de la Cámara de la Construcción",
+    "titleEn": "Remover escombros por los terremotos puede tardar hasta un año dice presidente de la Cámara de la Construcción",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/regiones/gran-caracas/remover-escombros-por-los-terremotos-puede-tardar-hasta-un-ano-dice-presidente-de-la-camara-de-la-construccion/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-08-25",
+    "conf": "med",
     "titleEs": "Qué es verdad y qué no del discurso de Delcy Rodríguez a dos meses del doble terremoto en Venezuela",
     "titleEn": "Qué es verdad y qué no del discurso de Delcy Rodríguez a dos meses del doble terremoto en Venezuela",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -26,20 +40,6 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://elpitazo.net/regiones/gran-caracas/replica-de-magnitud-3-se-sintio-en-zonas-de-caracas-y-la-guaira-este-25ago/"
-  },
-  {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-08-25",
-    "conf": "med",
-    "titleEs": "A dos meses de los terremotos en Venezuela: más de 6.500 muertos y silencio sobre la cifra de desaparecidos",
-    "titleEn": "A dos meses de los terremotos en Venezuela: más de 6.500 muertos y silencio sobre la cifra de desaparecidos",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/politica/a-dos-meses-de-los-terremotos-en-venezuela-mas-de-6-500-muertos-y-silencio-sobre-la-cifra-de-desaparecidos/"
   },
   {
     "sourceEs": "Efecto Cocuyo",
@@ -68,6 +68,20 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://efectococuyo.com/la-humanidad/dos-meses-despues-de-los-terremotos-familias-acampan-en-plazas-y-calles-de-caracas/"
+  },
+  {
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
+    "date": "2026-08-25",
+    "conf": "med",
+    "titleEs": "Promesas de Delcy Rodríguez y anuncios de mejoría son una realidad a medias",
+    "titleEn": "Promesas de Delcy Rodríguez y anuncios de mejoría son una realidad a medias",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://runrun.es/noticias/618277/promesas-de-delcy-rodriguez-y-anuncios-de-mejoria-son-una-realidad-a-medias/"
   },
   {
     "sourceEs": "Runrun.es",

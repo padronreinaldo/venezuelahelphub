@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-24-08-2026-20:40-8.75--70.68",
+    "time": "2026-08-25T00:40:00.000Z",
+    "mag": 2.6,
+    "depth": 2.1,
+    "lat": 8.75,
+    "lon": -70.68,
+    "place": "12 km al sur      de Santo Domingo",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-24-08-2026-20:38-10.14--67.35",
     "time": "2026-08-25T00:38:00.000Z",
     "mag": 2.3,
@@ -7477,21 +7492,6 @@
     "lat": 10.53,
     "lon": -73.99,
     "place": "71 km al sur      de Santa Marta",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-27-07-2026-04:51-9.85--70.68",
-    "time": "2026-07-27T08:51:00.000Z",
-    "mag": 3,
-    "depth": 5,
-    "lat": 9.85,
-    "lon": -70.68,
-    "place": "49 km al este     de Bachaquero",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

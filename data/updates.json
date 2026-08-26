@@ -30,16 +30,30 @@
   {
     "sourceEs": "Efecto Cocuyo",
     "sourceEn": "Efecto Cocuyo",
-    "date": "2026-08-25",
+    "date": "2026-08-26",
     "conf": "med",
-    "titleEs": "Se registra sismo de 3.0 en Caracas este martes",
-    "titleEn": "Se registra sismo de 3.0 en Caracas este martes",
+    "titleEs": "Cecodap y Redhnna advierten peligros de reabrir aulas tras los sismos sin evaluación pública",
+    "titleEn": "Cecodap y Redhnna advierten peligros de reabrir aulas tras los sismos sin evaluación pública",
     "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
     "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://efectococuyo.com/la-humanidad/se-registra-sismo-de-3-0-en-caracas-este-martes/"
+    "url": "https://efectococuyo.com/la-humanidad/cecodap-y-redhnna-advierten-peligros-de-reabrir-aulas-tras-los-sismos-sin-evaluacion-publica/"
+  },
+  {
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
+    "date": "2026-08-26",
+    "conf": "med",
+    "titleEs": "ONG chilena Techo construye primeras diecisiete casas para víctimas de sismos en Venezuela",
+    "titleEn": "ONG chilena Techo construye primeras diecisiete casas para víctimas de sismos en Venezuela",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://efectococuyo.com/la-humanidad/ong-chilena-techo-construye-primeras-diecisiete-casas-para-victimas-de-sismos-en-venezuela/"
   },
   {
     "sourceEs": "Runrun.es",

@@ -1,17 +1,17 @@
 [
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
     "date": "2026-08-26",
     "conf": "med",
-    "titleEs": "Temblor de magnitud 5,1 con epicentro en Colombia se sintió en Táchira este #26Ago",
-    "titleEn": "Temblor de magnitud 5,1 con epicentro en Colombia se sintió en Táchira este #26Ago",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "titleEs": "Autoridades solo han podido rescatar 3 cuerpos de 6 personas arrastradas por lluvias",
+    "titleEn": "Autoridades solo han podido rescatar 3 cuerpos de 6 personas arrastradas por lluvias",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/internacional/temblor-de-magnitud-5-1-con-epicentro-en-colombia-se-sintio-en-tachira-este-26ago/"
+    "url": "https://efectococuyo.com/sucesos/autoridades-solo-han-podido-rescatar-3-cuerpos-de-6-personas-arrastradas-por-lluvias/"
   },
   {
     "sourceEs": "Efecto Cocuyo",
@@ -60,6 +60,20 @@
     "sourceEn": "Runrun.es",
     "date": "2026-08-26",
     "conf": "med",
+    "titleEs": "Gobierno comienza a desocupar escuelas convertidas en refugios para el regreso a clases",
+    "titleEn": "Gobierno comienza a desocupar escuelas convertidas en refugios para el regreso a clases",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://runrun.es/noticias/618426/gobierno-comienza-a-desocupar-escuelas-convertidas-en-refugios-para-el-regreso-a-clases/"
+  },
+  {
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
+    "date": "2026-08-26",
+    "conf": "med",
     "titleEs": "La Conversa | Qué es lo que se debe hacer luego de los terremotos",
     "titleEn": "La Conversa | Qué es lo que se debe hacer luego de los terremotos",
     "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
@@ -68,19 +82,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://runrun.es/noticias/618420/que-es-lo-que-se-debe-hacer-luego-de-los-terremotos/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-08-26",
-    "conf": "med",
-    "titleEs": "A dos meses de los terremotos | El estruendo de la tierra sigue grabado en la memoria",
-    "titleEn": "A dos meses de los terremotos | El estruendo de la tierra sigue grabado en la memoria",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/rr-es-plus/618353/a-dos-meses-de-los-terremotos-el-estruendo-de-la-tierra-sigue-grabado-en-la-memoria/"
   }
 ]

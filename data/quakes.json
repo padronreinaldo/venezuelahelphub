@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-26-08-2026-18:07-10.11--67.18",
+    "time": "2026-08-26T22:07:00.000Z",
+    "mag": 2.2,
+    "depth": 1,
+    "lat": 10.11,
+    "lon": -67.18,
+    "place": "22 km al sureste  de La Victoria",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-26-08-2026-15:29-10.36--67.27",
     "time": "2026-08-26T19:29:00.000Z",
     "mag": 2.4,
@@ -7477,21 +7492,6 @@
     "lat": 10.18,
     "lon": -67.26,
     "place": "9 km al sureste  de La Victoria",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-28-07-2026-10:37-8.76--73.08",
-    "time": "2026-07-28T14:37:00.000Z",
-    "mag": 2.7,
-    "depth": 146,
-    "lat": 8.76,
-    "lon": -73.08,
-    "place": "63 km al oeste    de Casigua",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

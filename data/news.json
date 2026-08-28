@@ -2,37 +2,46 @@
   {
     "source": "El Pitazo",
     "section": "Venezuela",
+    "date": "2026-08-28",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/08/Screenshot_3.jpg",
+    "titleEs": "Tembló en Caracas, Miranda y Aragua: nueva réplica alertó a los ciudadanos este #27Ago",
+    "titleEn": "Tembló en Caracas, Miranda y Aragua: nueva réplica alertó a los ciudadanos este #27Ago",
+    "url": "https://elpitazo.net/regiones/temblo-en-caracas-miranda-y-aragua-nueva-replica-alerto-a-los-ciudadanos-este-27ago/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-08-28",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/06/la-guaira.jpg",
+    "titleEs": "La Gran Aldea cumple siete años y presenta especial sobre los terremotos en La Guaira",
+    "titleEn": "La Gran Aldea cumple siete años y presenta especial sobre los terremotos en La Guaira",
+    "url": "https://elpitazo.net/regiones/la-gran-aldea-cumple-siete-anos-y-presenta-especial-sobre-los-terremotos-en-la-guaira/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
     "date": "2026-08-27",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/07/latam.jpg",
-    "titleEs": "Latam Airlines confirma su ruta Bogotá-Caracas desde Maiquetía a partir del #4Sep",
-    "titleEn": "Latam Airlines confirma su ruta Bogotá-Caracas desde Maiquetía a partir del #4Sep",
-    "url": "https://elpitazo.net/internacionales/latam-airlines-confirma-su-ruta-bogota-caracas-desde-maiquetia-a-partir-del-4sep/"
+    "img": "https://elpitazo.net/wp-content/uploads/2026/08/imagen_2026-08-27_191245517.png",
+    "titleEs": "Nuevo sismo se registra en Aragua este #27Ago",
+    "titleEn": "Nuevo sismo se registra en Aragua este #27Ago",
+    "url": "https://elpitazo.net/regiones/nuevo-sismo-se-registra-en-aragua-este-27ago/"
+  },
+  {
+    "source": "Efecto Cocuyo",
+    "section": "Venezuela",
+    "date": "2026-08-28",
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/08/27215016/SISMO-MERIDA-270826.jpg",
+    "titleEs": "Cuatro sismos de diferentes magnitudes se registraron este jueves",
+    "titleEn": "Cuatro sismos de diferentes magnitudes se registraron este jueves",
+    "url": "https://efectococuyo.com/la-humanidad/cuatro-sismos-reporto-funvisis/"
   },
   {
     "source": "Efecto Cocuyo",
     "section": "Venezuela",
     "date": "2026-08-27",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/08/27114427/hope.webp",
-    "titleEs": "Fundación Hope destina $200.000 para centros médicos en Venezuela tras terremotos",
-    "titleEn": "Fundación Hope destina $200.000 para centros médicos en Venezuela tras terremotos",
-    "url": "https://efectococuyo.com/la-humanidad/fundacion-hope-destina-200-000-para-centros-medicos-en-venezuela-tras-terremotos/"
-  },
-  {
-    "source": "Efecto Cocuyo",
-    "section": "Venezuela",
-    "date": "2026-08-27",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/08/27094914/images-12.jpg",
-    "titleEs": "Funvisis registra sismo de 4.2 en el estado Sucre",
-    "titleEn": "Funvisis registra sismo de 4.2 en el estado Sucre",
-    "url": "https://efectococuyo.com/la-humanidad/funvisis-registra-sismo-de-4-2-en-el-estado-sucre/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-08-27",
-    "img": "https://runrun.es/wp-content/uploads/2026/07/edificacion.jpg",
-    "titleEs": "Vulneración de derechos humanos constituye otro terremoto",
-    "titleEn": "Vulneración de derechos humanos constituye otro terremoto",
-    "url": "https://runrun.es/noticias/618459/vulneracion-de-derechos-humanos-constituye-otro-terremoto/"
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/08/27165332/Gemini_Generated_Image_fpoh0efpoh0efpoh-1024x600.jpg",
+    "titleEs": "Tres aerolíneas, por ahora, confirman  operaciones en terminal provisional de Maiquetía",
+    "titleEn": "Tres aerolíneas, por ahora, confirman  operaciones en terminal provisional de Maiquetía",
+    "url": "https://efectococuyo.com/economia/tres-aerolineas-por-ahora-confirman-reanudacion/"
   }
 ]

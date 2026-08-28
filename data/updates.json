@@ -28,20 +28,6 @@
     "url": "https://elpitazo.net/regiones/la-gran-aldea-cumple-siete-anos-y-presenta-especial-sobre-los-terremotos-en-la-guaira/"
   },
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-08-27",
-    "conf": "med",
-    "titleEs": "Nuevo sismo se registra en Aragua este #27Ago",
-    "titleEn": "Nuevo sismo se registra en Aragua este #27Ago",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/regiones/nuevo-sismo-se-registra-en-aragua-este-27ago/"
-  },
-  {
     "sourceEs": "Efecto Cocuyo",
     "sourceEn": "Efecto Cocuyo",
     "date": "2026-08-28",
@@ -68,5 +54,19 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://efectococuyo.com/economia/tres-aerolineas-por-ahora-confirman-reanudacion/"
+  },
+  {
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
+    "date": "2026-08-28",
+    "conf": "med",
+    "titleEs": "Cómo se vive en un refugio de La Guaira después de los terremotos",
+    "titleEn": "Cómo se vive en un refugio de La Guaira después de los terremotos",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://runrun.es/rr-es-plus/como-se-vive/618516/como-se-vive-en-un-refugio-de-la-guaira-despues-de-los-terremotos/"
   }
 ]

@@ -18,15 +18,6 @@
     "url": "https://elpitazo.net/regiones/la-gran-aldea-cumple-siete-anos-y-presenta-especial-sobre-los-terremotos-en-la-guaira/"
   },
   {
-    "source": "El Pitazo",
-    "section": "Venezuela",
-    "date": "2026-08-27",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/08/imagen_2026-08-27_191245517.png",
-    "titleEs": "Nuevo sismo se registra en Aragua este #27Ago",
-    "titleEn": "Nuevo sismo se registra en Aragua este #27Ago",
-    "url": "https://elpitazo.net/regiones/nuevo-sismo-se-registra-en-aragua-este-27ago/"
-  },
-  {
     "source": "Efecto Cocuyo",
     "section": "Venezuela",
     "date": "2026-08-28",
@@ -43,5 +34,14 @@
     "titleEs": "Tres aerolíneas, por ahora, confirman  operaciones en terminal provisional de Maiquetía",
     "titleEn": "Tres aerolíneas, por ahora, confirman  operaciones en terminal provisional de Maiquetía",
     "url": "https://efectococuyo.com/economia/tres-aerolineas-por-ahora-confirman-reanudacion/"
+  },
+  {
+    "source": "Runrun.es",
+    "section": "Venezuela",
+    "date": "2026-08-28",
+    "img": "https://runrun.es/wp-content/uploads/2026/08/Portada-RunrunesPlus.jpg",
+    "titleEs": "Cómo se vive en un refugio de La Guaira después de los terremotos",
+    "titleEn": "Cómo se vive en un refugio de La Guaira después de los terremotos",
+    "url": "https://runrun.es/rr-es-plus/como-se-vive/618516/como-se-vive-en-un-refugio-de-la-guaira-despues-de-los-terremotos/"
   }
 ]

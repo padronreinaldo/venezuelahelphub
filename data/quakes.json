@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-30-08-2026-08:19-10.75--65.48",
+    "time": "2026-08-30T12:19:00.000Z",
+    "mag": 2.4,
+    "depth": 22.6,
+    "lat": 10.75,
+    "lon": -65.48,
+    "place": "25 km al suroeste de Isla la Tortuga",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-30-08-2026-05:17-11.23--73.38",
     "time": "2026-08-30T09:17:00.000Z",
     "mag": 2.8,
@@ -7477,21 +7492,6 @@
     "lat": 6.91,
     "lon": -73.21,
     "place": "25 km al suroeste de Bucaramanga",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-31-07-2026-17:05-10.83--62.36",
-    "time": "2026-07-31T21:05:00.000Z",
-    "mag": 2.9,
-    "depth": 23.1,
-    "lat": 10.83,
-    "lon": -62.36,
-    "place": "21 km al noroeste de Guiria",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

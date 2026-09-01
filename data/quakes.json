@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-01-09-2026-13:42-10.56--68.51",
+    "time": "2026-09-01T17:42:00.000Z",
+    "mag": 2.2,
+    "depth": 9.7,
+    "lat": 10.56,
+    "lon": -68.51,
+    "place": "28 km al suroeste de Boca de Aroa",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-01-09-2026-10:06-10.12--69.29",
     "time": "2026-09-01T14:06:00.000Z",
     "mag": 2.1,
@@ -7477,21 +7492,6 @@
     "lat": 9.48,
     "lon": -69.98,
     "place": "13 km al norte    de Biscucuy",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-02-08-2026-01:51-6.84--73.15",
-    "time": "2026-08-02T05:51:00.000Z",
-    "mag": 3.4,
-    "depth": 153.2,
-    "lat": 6.84,
-    "lon": -73.15,
-    "place": "31 km al sur      de Bucaramanga",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

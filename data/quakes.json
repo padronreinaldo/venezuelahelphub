@@ -1,5 +1,35 @@
 [
   {
+    "id": "fv-01-09-2026-10:06-10.12--69.29",
+    "time": "2026-09-01T14:06:00.000Z",
+    "mag": 2.1,
+    "depth": 2.7,
+    "lat": 10.12,
+    "lon": -69.29,
+    "place": "6 km al noreste  de Barquisimeto",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
+    "id": "fv-01-09-2026-06:41-7.08--73.26",
+    "time": "2026-09-01T10:41:00.000Z",
+    "mag": 3.2,
+    "depth": 18,
+    "lat": 7.08,
+    "lon": -73.26,
+    "place": "16 km al oeste    de Bucaramanga",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-01-09-2026-04:36-10.41--67.25",
     "time": "2026-09-01T08:36:00.000Z",
     "mag": 1.9,
@@ -7468,35 +7498,5 @@
     "tsunami": false,
     "status": null,
     "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-02-08-2026-00:47-10.18--65.58",
-    "time": "2026-08-02T04:47:00.000Z",
-    "mag": 2.7,
-    "depth": 5,
-    "lat": 10.18,
-    "lon": -65.58,
-    "place": "18 km al noroeste de Boca de Uchire",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "us6000thk4",
-    "time": "2026-08-02T03:16:45.100Z",
-    "mag": 4.5,
-    "depth": 10,
-    "lat": 10.533,
-    "lon": -68.69,
-    "place": "7 km SSW of Yumare, Venezuela",
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thk4",
-    "dyfi": 4.1,
-    "alert": null,
-    "tsunami": false,
-    "status": "reviewed",
-    "source": "USGS"
   }
 ]

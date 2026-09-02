@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-01-09-2026-21:46-6.87--72.18",
+    "time": "2026-09-02T01:46:00.000Z",
+    "mag": 2.5,
+    "depth": 1.5,
+    "lat": 6.87,
+    "lon": -72.18,
+    "place": "54 km al suroeste de El Nula",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-01-09-2026-18:46-10.29--67.24",
     "time": "2026-09-01T22:46:00.000Z",
     "mag": 1.8,
@@ -7477,21 +7492,6 @@
     "lat": 7.11,
     "lon": -73.2,
     "place": "9 km al oeste    de Bucaramanga",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-02-08-2026-04:36-11.77--66.66",
-    "time": "2026-08-02T08:36:00.000Z",
-    "mag": 3.2,
-    "depth": 9.9,
-    "lat": 11.77,
-    "lon": -66.66,
-    "place": "12 km al sureste  de Isla los Roques",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

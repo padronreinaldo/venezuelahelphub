@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-02-09-2026-18:21-10.51--67.38",
+    "time": "2026-09-02T22:21:00.000Z",
+    "mag": 2,
+    "depth": 2.7,
+    "lat": 10.51,
+    "lon": -67.38,
+    "place": "31 km al norte    de La Victoria",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-02-09-2026-17:32-7.18--73.17",
     "time": "2026-09-02T21:32:00.000Z",
     "mag": 2.5,
@@ -7477,21 +7492,6 @@
     "lat": 10.49,
     "lon": -68.49,
     "place": "32 km al suroeste de Boca de Aroa",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-02-08-2026-13:17-10.64--67.6",
-    "time": "2026-08-02T17:17:00.000Z",
-    "mag": 2.1,
-    "depth": 6.6,
-    "lat": 10.64,
-    "lon": -67.6,
-    "place": "44 km al norte    de Maracay",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-04-09-2026-14:52-9.79--70.8",
+    "time": "2026-09-04T18:52:00.000Z",
+    "mag": 2.7,
+    "depth": 4.6,
+    "lat": 9.79,
+    "lon": -70.8,
+    "place": "39 km al sureste  de Bachaquero",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-04-09-2026-11:21-9.4--70.13",
     "time": "2026-09-04T15:21:00.000Z",
     "mag": 2.4,
@@ -7477,21 +7492,6 @@
     "lat": 10.6,
     "lon": -67.2,
     "place": "30 km al oeste    de La Guaira",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-03-08-2026-21:01-9.81--69.32",
-    "time": "2026-08-04T01:01:00.000Z",
-    "mag": 2.1,
-    "depth": 5,
-    "lat": 9.81,
-    "lon": -69.32,
-    "place": "29 km al sur      de Barquisimeto",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

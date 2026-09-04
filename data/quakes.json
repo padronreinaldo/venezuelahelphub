@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-04-09-2026-11:21-9.4--70.13",
+    "time": "2026-09-04T15:21:00.000Z",
+    "mag": 2.4,
+    "depth": 5,
+    "lat": 9.4,
+    "lon": -70.13,
+    "place": "17 km al oeste    de Biscucuy",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-04-09-2026-08:55-9.96--71.35",
     "time": "2026-09-04T12:55:00.000Z",
     "mag": 2.5,
@@ -7477,21 +7492,6 @@
     "lat": 9.81,
     "lon": -69.32,
     "place": "29 km al sur      de Barquisimeto",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-03-08-2026-18:42-10.68--67.82",
-    "time": "2026-08-03T22:42:00.000Z",
-    "mag": 2,
-    "depth": 2.7,
-    "lat": 10.68,
-    "lon": -67.82,
-    "place": "31 km al noreste  de Moron",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-04-09-2026-18:00-10.46--68.63",
+    "time": "2026-09-04T22:00:00.000Z",
+    "mag": 2.4,
+    "depth": 2.5,
+    "lat": 10.46,
+    "lon": -68.63,
+    "place": "18 km al noreste  de San Felipe",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-04-09-2026-16:09-10.54--68.46",
     "time": "2026-09-04T20:09:00.000Z",
     "mag": 2.5,
@@ -7477,21 +7492,6 @@
     "lat": 10.56,
     "lon": -67.02,
     "place": "11 km al suroeste de La Guaira",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-03-08-2026-21:57-10.71--66.19",
-    "time": "2026-08-04T01:57:00.000Z",
-    "mag": 2.2,
-    "depth": 5,
-    "lat": 10.71,
-    "lon": -66.19,
-    "place": "19 km al noroeste de Cabo Codera",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-05-09-2026-14:49-10.51--68.54",
+    "time": "2026-09-05T18:49:00.000Z",
+    "mag": 2.7,
+    "depth": 7.9,
+    "lat": 10.51,
+    "lon": -68.54,
+    "place": "30 km al noreste  de San Felipe",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-05-09-2026-12:09-10.61--68.05",
     "time": "2026-09-05T16:09:00.000Z",
     "mag": 2.9,
@@ -7477,21 +7492,6 @@
     "lat": 10.56,
     "lon": -66.55,
     "place": "7 km al sureste  de Los Caracas",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-04-08-2026-05:10-11.06--72.77",
-    "time": "2026-08-04T09:10:00.000Z",
-    "mag": 2.7,
-    "depth": 43.2,
-    "lat": 11.06,
-    "lon": -72.77,
-    "place": "69 km al suroeste de Maicao",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

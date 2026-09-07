@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-06-09-2026-19:45-10.46--68.73",
+    "time": "2026-09-06T23:45:00.000Z",
+    "mag": 1.9,
+    "depth": 1.2,
+    "lat": 10.46,
+    "lon": -68.73,
+    "place": "13 km al norte    de San Felipe",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-06-09-2026-17:04-10.52--67.5",
     "time": "2026-09-06T21:04:00.000Z",
     "mag": 2,
@@ -7477,21 +7492,6 @@
     "lat": 7.19,
     "lon": -71.7,
     "place": "26 km al sureste  de El Nula",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-05-08-2026-05:54-6.89--73.11",
-    "time": "2026-08-05T09:54:00.000Z",
-    "mag": 3.1,
-    "depth": 145.9,
-    "lat": 6.89,
-    "lon": -73.11,
-    "place": "24 km al sur      de Bucaramanga",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

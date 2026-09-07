@@ -1,16 +1,30 @@
 [
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-09-06",
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
+    "date": "2026-09-07",
     "conf": "med",
-    "titleEs": "«¡Mi torre!»: Sobrevivientes de terremotos reaccionan con llanto ante la demolición controlada en La Guaira",
-    "titleEn": "«¡Mi torre!»: Sobrevivientes de terremotos reaccionan con llanto ante la demolición controlada en La Guaira",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "titleEs": "Anuncian demolición de 39 edificios dañados en La Guaira tras los terremotos de junio",
+    "titleEn": "Anuncian demolición de 39 edificios dañados en La Guaira tras los terremotos de junio",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/regiones/gran-caracas/sobrevivientes-de-terremotos-reaccionan-con-llanto-ante-la-demolicion-controlada-de-dos-torres-en-la-guaira/"
+    "url": "https://efectococuyo.com/la-humanidad/anuncian-demolicion-de-39-edificios-danados-en-la-guaira-tras-los-terremotos-de-junio/"
+  },
+  {
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
+    "date": "2026-09-07",
+    "conf": "med",
+    "titleEs": "Unidades Clínicas Móviles de la SAV llevan exámenes de cáncer a comunidades afectadas por los sismos",
+    "titleEn": "Unidades Clínicas Móviles de la SAV llevan exámenes de cáncer a comunidades afectadas por los sismos",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://runrun.es/noticias/con-proposito/619407/unidades-clinicas-moviles-de-la-sav-llevan-examenes-de-cancer-a-comunidades-afectadas-por-los-sismos/"
   }
 ]

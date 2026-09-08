@@ -2,19 +2,46 @@
   {
     "source": "El Pitazo",
     "section": "Venezuela",
-    "date": "2026-09-07",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/09/Francia-visado.jpg",
-    "titleEs": "Embajada de Francia en Venezuela restablece su servicio de visados",
-    "titleEn": "Embajada de Francia en Venezuela restablece su servicio de visados",
-    "url": "https://elpitazo.net/migracion/embajada-de-francia-en-venezuela-restablece-su-servicio-de-visados/"
+    "date": "2026-09-08",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/09/sismos.jpg",
+    "titleEs": "Dos réplicas de magnitudes 4,4 y 3,4 asustaron a venezolanos este #8Sep",
+    "titleEn": "Dos réplicas de magnitudes 4,4 y 3,4 asustaron a venezolanos este #8Sep",
+    "url": "https://elpitazo.net/regiones/dos-replicas-de-magnitudes-44-y-34-asustaron-a-venezolanos-este-8sep/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-09-08",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/09/fake-2.png",
+    "titleEs": "Autoridades desmienten la demolición de 39 edificios en La Guaira",
+    "titleEn": "Autoridades desmienten la demolición de 39 edificios en La Guaira",
+    "url": "https://elpitazo.net/regiones/gran-caracas/autoridades-desmienten-la-demolicion-de-39-edificios-en-la-guaira/"
   },
   {
     "source": "Efecto Cocuyo",
     "section": "Venezuela",
-    "date": "2026-09-07",
-    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/07/15202205/WhatsApp-Image-2026-07-15-at-8.19.42-PM-1-1024x576.jpeg",
-    "titleEs": "Anuncian demolición de 39 edificios dañados en La Guaira tras los terremotos de junio",
-    "titleEn": "Anuncian demolición de 39 edificios dañados en La Guaira tras los terremotos de junio",
-    "url": "https://efectococuyo.com/la-humanidad/anuncian-demolicion-de-39-edificios-danados-en-la-guaira-tras-los-terremotos-de-junio/"
+    "date": "2026-09-08",
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/09/08095745/Funvisis-1024x628.jpg",
+    "titleEs": "Dos sismos de magnitud 4,4 y 3,4 sacudieron occidente de Venezuela en la madrugada",
+    "titleEn": "Dos sismos de magnitud 4,4 y 3,4 sacudieron occidente de Venezuela en la madrugada",
+    "url": "https://efectococuyo.com/la-humanidad/dos-sismos-de-magnitud-44-y-34-sacudieron-occidente-de-venezuela-en-la-madrugada/"
+  },
+  {
+    "source": "Runrun.es",
+    "section": "Venezuela",
+    "date": "2026-09-08",
+    "img": "https://runrun.es/wp-content/uploads/2026/09/sismofunvisis.jpg",
+    "titleEs": "Registran cuatro sismos la madrugada de este #8Sep, el mayor de magnitud 4,4 en Churuguara",
+    "titleEn": "Registran cuatro sismos la madrugada de este #8Sep, el mayor de magnitud 4,4 en Churuguara",
+    "url": "https://runrun.es/noticias/619472/registran-cuatro-sismos-la-madrugada-de-este-8sep-el-mayor-de-magnitud-44-en-churuguara/"
+  },
+  {
+    "source": "Runrun.es",
+    "section": "Venezuela",
+    "date": "2026-09-08",
+    "img": "https://runrun.es/wp-content/uploads/2026/07/boletin-epidemiologico-sismos.jpg",
+    "titleEs": "Ya son quince días sin difusión de reporte semanal sobre sismos de junio",
+    "titleEn": "Ya son quince días sin difusión de reporte semanal sobre sismos de junio",
+    "url": "https://runrun.es/noticias/619466/ya-son-quince-dias-sin-difusion-de-reporte-semanal-sobre-sismos-de-junio/"
   }
 ]

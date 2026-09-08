@@ -1,5 +1,22 @@
 [
   {
+    "sourceEs": "USGS",
+    "sourceEn": "USGS",
+    "date": "2026-09-08",
+    "titleEs": "Sismo M4.7: 43 km NW of Aroa, Venezuela",
+    "titleEn": "M4.7 earthquake: 43 km NW of Aroa, Venezuela",
+    "sumEs": "El USGS reporta un sismo de magnitud 4.7. 43 km NW of Aroa, Venezuela.",
+    "sumEn": "USGS reports a magnitude 4.7 earthquake. 43 km NW of Aroa, Venezuela.",
+    "areas": [],
+    "needsEs": [
+      "Evaluación de daños"
+    ],
+    "needsEn": [
+      "Damage assessment"
+    ],
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfs1"
+  },
+  {
     "sourceEs": "El Pitazo",
     "sourceEn": "El Pitazo",
     "date": "2026-09-07",

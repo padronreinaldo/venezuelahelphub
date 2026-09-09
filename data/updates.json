@@ -21,14 +21,28 @@
     "sourceEn": "Efecto Cocuyo",
     "date": "2026-09-09",
     "conf": "med",
-    "titleEs": "Ucab prevé 6,5% de crecimiento en 2026, pero alerta: sin estabilidad política no habrá recuperación sostenida",
-    "titleEn": "Ucab prevé 6,5% de crecimiento en 2026, pero alerta: sin estabilidad política no habrá recuperación sostenida",
+    "titleEs": "Ucab prevé 6,5% de crecimiento, pero alerta: sin estabilidad política no habrá recuperación sostenida",
+    "titleEn": "Ucab prevé 6,5% de crecimiento, pero alerta: sin estabilidad política no habrá recuperación sostenida",
     "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
     "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
     "url": "https://efectococuyo.com/economia/ucab-preve-65-de-crecimiento-en-2026/"
+  },
+  {
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
+    "date": "2026-09-09",
+    "conf": "med",
+    "titleEs": "Claves | A 74 días de los terremotos la verdad sigue bajo los escombros",
+    "titleEn": "Claves | A 74 días de los terremotos la verdad sigue bajo los escombros",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://runrun.es/noticias/619571/claves-a-74-dias-de-los-terremotos-la-verdad-sigue-bajo-los-escombros/"
   },
   {
     "sourceEs": "Runrun.es",
@@ -43,19 +57,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://runrun.es/noticias/con-proposito/619513/paz-activa-desplego-atencion-psicosocial-para-adultos-en-refugios/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-09-08",
-    "conf": "med",
-    "titleEs": "Los detalles del plan de Unicef junto a autoridades para rehabilitar sistemas de agua en La Guaira",
-    "titleEn": "Los detalles del plan de Unicef junto a autoridades para rehabilitar sistemas de agua en La Guaira",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/noticias/619475/los-detalles-del-plan-unicef-junto-a-autoridades-para-rehabilitar-sistemas-de-agua-en-la-guaira/"
   }
 ]

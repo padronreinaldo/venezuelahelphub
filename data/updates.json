@@ -17,6 +17,20 @@
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfs1"
   },
   {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-09-08",
+    "conf": "med",
+    "titleEs": "Unicef comenzará a rehabilitar infraestructuras clave de agua en Venezuela en octubre",
+    "titleEn": "Unicef comenzará a rehabilitar infraestructuras clave de agua en Venezuela en octubre",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/sucesos/unicef-comenzara-a-rehabilitar-infraestructuras-clave-de-agua-en-venezuela-en-octubre/"
+  },
+  {
     "sourceEs": "Runrun.es",
     "sourceEn": "Runrun.es",
     "date": "2026-09-08",

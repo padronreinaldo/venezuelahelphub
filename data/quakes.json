@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-09-09-2026-20:43-10.97--72.77",
+    "time": "2026-09-10T00:43:00.000Z",
+    "mag": 3.5,
+    "depth": 5,
+    "lat": 10.97,
+    "lon": -72.77,
+    "place": "75 km al suroeste de Maicao",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-09-09-2026-18:16-10.34--70.18",
     "time": "2026-09-09T22:16:00.000Z",
     "mag": 2.7,
@@ -7477,21 +7492,6 @@
     "lat": 10.96,
     "lon": -66.29,
     "place": "48 km al noroeste de Cabo Codera",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-08-08-2026-04:44-10.35--67.32",
-    "time": "2026-08-08T08:44:00.000Z",
-    "mag": 2.1,
-    "depth": 4.5,
-    "lat": 10.35,
-    "lon": -67.32,
-    "place": "13 km al norte    de La Victoria",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

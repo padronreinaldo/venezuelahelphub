@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-12-09-2026-12:15-10.56--67.15",
+    "time": "2026-09-12T16:15:00.000Z",
+    "mag": 2.2,
+    "depth": 22.4,
+    "lat": 10.56,
+    "lon": -67.15,
+    "place": "25 km al oeste    de La Guaira",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-12-09-2026-07:52-10.56--66.95",
     "time": "2026-09-12T11:52:00.000Z",
     "mag": 1.9,
@@ -7477,21 +7492,6 @@
     "lat": 10.57,
     "lon": -72.81,
     "place": "50 km al este     de Valledupar",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-09-08-2026-21:18-10.8--64.51",
-    "time": "2026-08-10T01:18:00.000Z",
-    "mag": 2.8,
-    "depth": 69,
-    "lat": 10.8,
-    "lon": -64.51,
-    "place": "23 km al suroeste de Punta Arenas",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

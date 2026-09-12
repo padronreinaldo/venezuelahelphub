@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-11-09-2026-20:46-10.33--62.24",
+    "time": "2026-09-12T00:46:00.000Z",
+    "mag": 3.4,
+    "depth": 26.6,
+    "lat": 10.33,
+    "lon": -62.24,
+    "place": "37 km al sur      de Guiria",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-11-09-2026-17:20-10.6--66.81",
     "time": "2026-09-11T21:20:00.000Z",
     "mag": 3.3,
@@ -7477,21 +7492,6 @@
     "lat": 10.68,
     "lon": -67.3,
     "place": "42 km al oeste    de La Guaira",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-09-08-2026-11:09-10.1--73.87",
-    "time": "2026-08-09T15:09:00.000Z",
-    "mag": 3.2,
-    "depth": 31.2,
-    "lat": 10.1,
-    "lon": -73.87,
-    "place": "80. km al suroeste de Valledupar",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

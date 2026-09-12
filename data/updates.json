@@ -1,19 +1,16 @@
 [
   {
-    "sourceEs": "USGS",
-    "sourceEn": "USGS",
-    "date": "2026-09-08",
-    "titleEs": "Sismo M4.7: 43 km NW of Aroa, Venezuela",
-    "titleEn": "M4.7 earthquake: 43 km NW of Aroa, Venezuela",
-    "sumEs": "El USGS reporta un sismo de magnitud 4.7. 43 km NW of Aroa, Venezuela.",
-    "sumEn": "USGS reports a magnitude 4.7 earthquake. 43 km NW of Aroa, Venezuela.",
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
+    "date": "2026-09-12",
+    "conf": "med",
+    "titleEs": "Créditos hipotecarios en Venezuela: ¿qué hace falta para su reactivación?",
+    "titleEn": "Créditos hipotecarios en Venezuela: ¿qué hace falta para su reactivación?",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],
-    "needsEs": [
-      "Evaluación de daños"
-    ],
-    "needsEn": [
-      "Damage assessment"
-    ],
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfs1"
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://efectococuyo.com/economia/creditos-hipotecarios-en-venezuela-reactivacion/"
   }
 ]

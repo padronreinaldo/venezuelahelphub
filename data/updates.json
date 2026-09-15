@@ -1,5 +1,33 @@
 [
   {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-09-15",
+    "conf": "med",
+    "titleEs": "Maestros de pie entre ruinas: el reto de volver a clases luego de perderlo todo",
+    "titleEn": "Maestros de pie entre ruinas: el reto de volver a clases luego de perderlo todo",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/reportajes/maestros-de-pie-entre-ruinas-el-reto-de-volver-a-clases-luego-de-perderlo-todo/"
+  },
+  {
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
+    "date": "2026-09-15",
+    "conf": "med",
+    "titleEs": "Volver a trabajar para recuperar lo que el sismo rompió",
+    "titleEn": "Volver a trabajar para recuperar lo que el sismo rompió",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://runrun.es/rr-es-plus/619964/volver-a-trabajar-para-recuperar-lo-que-el-sismo-rompio/"
+  },
+  {
     "sourceEs": "Runrun.es",
     "sourceEn": "Runrun.es",
     "date": "2026-09-14",

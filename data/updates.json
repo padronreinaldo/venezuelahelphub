@@ -1,19 +1,5 @@
 [
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-09-15",
-    "conf": "med",
-    "titleEs": "ONG registra colapso de servicios y déficit alimentario tras terremotos e inundaciones en Yaracuy",
-    "titleEn": "ONG registra colapso de servicios y déficit alimentario tras terremotos e inundaciones en Yaracuy",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/regiones/crisis-en-veroes-servicios-alimentacion-terremotos/"
-  },
-  {
     "sourceEs": "Runrun.es",
     "sourceEn": "Runrun.es",
     "date": "2026-09-15",
@@ -26,19 +12,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://runrun.es/rr-es-plus/619964/volver-a-trabajar-para-recuperar-lo-que-el-sismo-rompio/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-09-14",
-    "conf": "med",
-    "titleEs": "Ausentismo escolar fue el protagonista en inicio de clases",
-    "titleEn": "Ausentismo escolar fue el protagonista en inicio de clases",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/noticias/619923/ausentismo-escolar-fue-el-protagonista-en-inicio-de-clases/"
   }
 ]

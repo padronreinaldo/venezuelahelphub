@@ -1,5 +1,22 @@
 [
   {
+    "sourceEs": "USGS",
+    "sourceEn": "USGS",
+    "date": "2026-09-16",
+    "titleEs": "Sismo M4.5: 45 km NNW of Duaca, Venezuela",
+    "titleEn": "M4.5 earthquake: 45 km NNW of Duaca, Venezuela",
+    "sumEs": "El USGS reporta un sismo de magnitud 4.5. 45 km NNW of Duaca, Venezuela.",
+    "sumEn": "USGS reports a magnitude 4.5 earthquake. 45 km NNW of Duaca, Venezuela.",
+    "areas": [],
+    "needsEs": [
+      "Evaluación de daños"
+    ],
+    "needsEn": [
+      "Damage assessment"
+    ],
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thrm"
+  },
+  {
     "sourceEs": "Runrun.es",
     "sourceEn": "Runrun.es",
     "date": "2026-09-15",

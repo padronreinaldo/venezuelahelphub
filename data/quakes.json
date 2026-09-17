@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-17-09-2026-17:39-10.37--68.66",
+    "time": "2026-09-17T21:39:00.000Z",
+    "mag": 2.1,
+    "depth": 5.7,
+    "lat": 10.37,
+    "lon": -68.66,
+    "place": "10 km al noreste  de San Felipe",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-17-09-2026-09:43-10.56--69.27",
     "time": "2026-09-17T13:43:00.000Z",
     "mag": 2.2,
@@ -7477,21 +7492,6 @@
     "lat": 6.93,
     "lon": -73.63,
     "place": "60 km al suroeste de Bucaramanga",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-14-08-2026-06:37-10.53--65.61",
-    "time": "2026-08-14T10:37:00.000Z",
-    "mag": 2.4,
-    "depth": 2.9,
-    "lat": 10.53,
-    "lon": -65.61,
-    "place": "46 km al noreste  de Rio Chico",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

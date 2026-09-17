@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-17-09-2026-09:43-10.56--69.27",
+    "time": "2026-09-17T13:43:00.000Z",
+    "mag": 2.2,
+    "depth": 10.3,
+    "lat": 10.56,
+    "lon": -69.27,
+    "place": "41 km al sureste  de Churuguara",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-17-09-2026-09:05-10.5--67.17",
     "time": "2026-09-17T13:05:00.000Z",
     "mag": 2,
@@ -7477,21 +7492,6 @@
     "lat": 10.53,
     "lon": -65.61,
     "place": "46 km al noreste  de Rio Chico",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-14-08-2026-02:28-7.05--73.42",
-    "time": "2026-08-14T06:28:00.000Z",
-    "mag": 2.8,
-    "depth": 3.1,
-    "lat": 7.05,
-    "lon": -73.42,
-    "place": "34 km al oeste    de Bucaramanga",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

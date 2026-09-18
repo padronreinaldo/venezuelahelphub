@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-18-09-2026-15:18-9.87--73.03",
+    "time": "2026-09-18T19:18:00.000Z",
+    "mag": 2.6,
+    "depth": 17.1,
+    "lat": 9.87,
+    "lon": -73.03,
+    "place": "58 km al suroeste de Machiques",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-18-09-2026-11:13-10.47--62.64",
     "time": "2026-09-18T15:13:00.000Z",
     "mag": 2.4,
@@ -7477,21 +7492,6 @@
     "lat": 10.5,
     "lon": -67.42,
     "place": "31 km al noroeste de La Victoria",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-15-08-2026-01:35-12--66.65",
-    "time": "2026-08-15T05:35:00.000Z",
-    "mag": 3.2,
-    "depth": 5,
-    "lat": 12,
-    "lon": -66.65,
-    "place": "21 km al noreste  de Isla los Roques",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T18:31:35.035Z",
+  "updatedAt": "2026-09-19T21:14:17.026Z",
   "stats": {
     "maxMagnitude": 4.5,
     "aftershocks": 0,
@@ -9,27 +9,27 @@
   },
   "prov": {
     "maxMagnitude": {
-      "seenAt": "2026-09-19T18:31:35.035Z",
+      "seenAt": "2026-09-19T21:14:17.026Z",
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thrm"
     },
     "aftershocks": {
-      "seenAt": "2026-09-19T18:31:35.035Z",
+      "seenAt": "2026-09-19T21:14:17.026Z",
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thrm"
     },
     "deaths": {
-      "seenAt": "2026-09-19T18:31:35.035Z",
+      "seenAt": "2026-09-19T21:14:17.026Z",
       "source": "ONU/OCHA · ref. internacional (Wikipedia EN)",
       "url": "https://en.wikipedia.org/wiki/2026_Venezuela_earthquakes"
     },
     "injured": {
-      "seenAt": "2026-09-19T18:31:35.035Z",
+      "seenAt": "2026-09-19T21:14:17.026Z",
       "source": "ONU/OCHA · ref. internacional (Wikipedia EN)",
       "url": "https://en.wikipedia.org/wiki/2026_Venezuela_earthquakes"
     },
     "missing": {
-      "seenAt": "2026-09-19T18:31:35.035Z",
+      "seenAt": "2026-09-19T21:14:17.026Z",
       "source": "ONU/OCHA · ref. internacional (Wikipedia EN)",
       "url": "https://en.wikipedia.org/wiki/2026_Venezuela_earthquakes"
     }
@@ -59,7 +59,7 @@
     "reliefweb": 0,
     "press": 0,
     "wikipedia": 1,
-    "funvisis": 20
+    "funvisis": 0
   },
   "counts": {
     "updates": 1,

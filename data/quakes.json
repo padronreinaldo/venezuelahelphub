@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-19-09-2026-04:36-11.13--61.86",
+    "time": "2026-09-19T08:36:00.000Z",
+    "mag": 4,
+    "depth": 22.5,
+    "lat": 11.13,
+    "lon": -61.86,
+    "place": "51 km al norte    de Macuro",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-19-09-2026-02:28-6.79--73.02",
     "time": "2026-09-19T06:28:00.000Z",
     "mag": 2.4,
@@ -7477,21 +7492,6 @@
     "lat": 9.57,
     "lon": -63.49,
     "place": "31 km al sureste  de Caicara de Maturin",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-15-08-2026-13:48-6.86--73.17",
-    "time": "2026-08-15T17:48:00.000Z",
-    "mag": 3.2,
-    "depth": 154,
-    "lat": 6.86,
-    "lon": -73.17,
-    "place": "28. km al sur      de Bucaramanga",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

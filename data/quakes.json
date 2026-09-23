@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-23-09-2026-03:48-10.8--62.21",
+    "time": "2026-09-23T07:48:00.000Z",
+    "mag": 3.2,
+    "depth": 101.1,
+    "lat": 10.8,
+    "lon": -62.21,
+    "place": "18 km al noreste  de Guiria",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-23-09-2026-02:32-10.33--68.64",
     "time": "2026-09-23T06:32:00.000Z",
     "mag": 2.1,
@@ -7477,21 +7492,6 @@
     "lat": 10.57,
     "lon": -68.53,
     "place": "29 km al suroeste de Boca de Aroa",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-21-08-2026-23:40-6.79--73.34",
-    "time": "2026-08-22T03:40:00.000Z",
-    "mag": 3.2,
-    "depth": 118,
-    "lat": 6.79,
-    "lon": -73.34,
-    "place": "43 km al suroeste de Bucaramanga",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

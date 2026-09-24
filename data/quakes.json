@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-23-09-2026-22:13-10.59--62.7",
+    "time": "2026-09-24T02:13:00.000Z",
+    "mag": 3.6,
+    "depth": 12.9,
+    "lat": 10.59,
+    "lon": -62.7,
+    "place": "13 km al oeste    de Irapa",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-23-09-2026-17:00-10.66--72.38",
     "time": "2026-09-23T21:00:00.000Z",
     "mag": 2.7,
@@ -7477,21 +7492,6 @@
     "lat": 6.87,
     "lon": -73.15,
     "place": "27 km al sur      de Bucaramanga",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-22-08-2026-15:10-7.02--73.18",
-    "time": "2026-08-22T19:10:00.000Z",
-    "mag": 2.8,
-    "depth": 26.4,
-    "lat": 7.02,
-    "lon": -73.18,
-    "place": "12 km al suroeste de Bucaramanga",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

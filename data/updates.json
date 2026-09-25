@@ -1,5 +1,33 @@
 [
   {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-09-25",
+    "conf": "med",
+    "titleEs": "Más de 800 funcionarios fueron galardonados con la orden “Héroes de Chacao”",
+    "titleEn": "Más de 800 funcionarios fueron galardonados con la orden “Héroes de Chacao”",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/politica/mas-de-800-funcionarios-fueron-galardonados-con-la-orden-heroes-de-chacao/"
+  },
+  {
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
+    "date": "2026-09-25",
+    "conf": "med",
+    "titleEs": "Vacíos y propaganda: ProBox analizó la respuesta comunicacional estatal tras el doble terremoto",
+    "titleEn": "Vacíos y propaganda: ProBox analizó la respuesta comunicacional estatal tras el doble terremoto",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://runrun.es/noticias/620870/vacios-y-propaganda-probox-analizo-la-respuesta-comunicacional-estatal-tras-el-doble-terremoto/"
+  },
+  {
     "sourceEs": "Runrun.es",
     "sourceEn": "Runrun.es",
     "date": "2026-09-25",
@@ -26,19 +54,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://runrun.es/reportajes-especiales/620818/las-opppe-de-caracas-no-se-cayeron-pero-14-de-ellas-quedaron-con-destrozos-a-la-vista/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-09-24",
-    "conf": "med",
-    "titleEs": "Las perlas de Delcy ante la ONU: «La democracia no se mide solo por la existencia de elecciones»",
-    "titleEn": "Las perlas de Delcy ante la ONU: «La democracia no se mide solo por la existencia de elecciones»",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/noticias/620783/las-perlas-de-delcy-ante-la-onu-la-democracia-no-se-mide-solo-por-la-existencia-de-elecciones/"
   }
 ]

@@ -1,5 +1,23 @@
 [
   {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-09-25",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/09/imagen_2026-09-25_155227908.png",
+    "titleEs": "Más de 800 funcionarios fueron galardonados con la orden “Héroes de Chacao”",
+    "titleEn": "Más de 800 funcionarios fueron galardonados con la orden “Héroes de Chacao”",
+    "url": "https://elpitazo.net/politica/mas-de-800-funcionarios-fueron-galardonados-con-la-orden-heroes-de-chacao/"
+  },
+  {
+    "source": "Runrun.es",
+    "section": "Venezuela",
+    "date": "2026-09-25",
+    "img": "https://runrun.es/wp-content/uploads/2026/09/Diseno-sin-titulo-2-1-1-1.png",
+    "titleEs": "Vacíos y propaganda: ProBox analizó la respuesta comunicacional estatal tras el doble terremoto",
+    "titleEn": "Vacíos y propaganda: ProBox analizó la respuesta comunicacional estatal tras el doble terremoto",
+    "url": "https://runrun.es/noticias/620870/vacios-y-propaganda-probox-analizo-la-respuesta-comunicacional-estatal-tras-el-doble-terremoto/"
+  },
+  {
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-09-25",
@@ -16,14 +34,5 @@
     "titleEs": "Las Opppe de Caracas no se cayeron, pero 14 de ellas quedaron con destrozos a la vista",
     "titleEn": "Las Opppe de Caracas no se cayeron, pero 14 de ellas quedaron con destrozos a la vista",
     "url": "https://runrun.es/reportajes-especiales/620818/las-opppe-de-caracas-no-se-cayeron-pero-14-de-ellas-quedaron-con-destrozos-a-la-vista/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-09-24",
-    "img": "https://runrun.es/wp-content/uploads/2026/09/Las-perlas-de-Delcy-ante-la-ONU-La-democracia-no-se-mide-solo-por-la-existencia-de-elecciones.png",
-    "titleEs": "Las perlas de Delcy ante la ONU: «La democracia no se mide solo por la existencia de elecciones»",
-    "titleEn": "Las perlas de Delcy ante la ONU: «La democracia no se mide solo por la existencia de elecciones»",
-    "url": "https://runrun.es/noticias/620783/las-perlas-de-delcy-ante-la-onu-la-democracia-no-se-mide-solo-por-la-existencia-de-elecciones/"
   }
 ]

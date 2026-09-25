@@ -1,31 +1,17 @@
 [
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-09-24",
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
+    "date": "2026-09-25",
     "conf": "med",
-    "titleEs": "Terremoto | La Guaira enfrenta la transformación urbana con las heridas abiertas",
-    "titleEn": "Terremoto | La Guaira enfrenta la transformación urbana con las heridas abiertas",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "titleEs": "World Visión continúa asistiendo a familias y niños afectados por terremotos",
+    "titleEn": "World Visión continúa asistiendo a familias y niños afectados por terremotos",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/reportajes/terremoto-la-guaira-enfrenta-la-transformacion-urbana-con-las-heridas-abiertas/"
-  },
-  {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-09-24",
-    "conf": "med",
-    "titleEs": "A 3 meses de los sismos: Caraballeda entre terrenos planos, refugios vulnerables y la espera por viviendas",
-    "titleEn": "A 3 meses de los sismos: Caraballeda entre terrenos planos, refugios vulnerables y la espera por viviendas",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/la-humanidad/a-3-meses-de-los-sismos-caraballeda-entre-terrenos-planos-refugios-vulnerables-y-la-espera-por-viviendas/"
+    "url": "https://runrun.es/noticias/620825/world-vision-continua-asistiendo-a-familias-y-ninos-afectados-por-terremotos/"
   },
   {
     "sourceEs": "Runrun.es",

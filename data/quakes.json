@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-27-09-2026-13:51-7.14--73.19",
+    "time": "2026-09-27T17:51:00.000Z",
+    "mag": 3.1,
+    "depth": 11.8,
+    "lat": 7.14,
+    "lon": -73.19,
+    "place": "8 km al noroeste de Bucaramanga",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-27-09-2026-07:02-9.01--73.46",
     "time": "2026-09-27T11:02:00.000Z",
     "mag": 2.9,
@@ -7477,21 +7492,6 @@
     "lat": 11.35,
     "lon": -73.05,
     "place": "91 km al oeste    de Maicao",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-24-08-2026-16:29-10.54--67.17",
-    "time": "2026-08-24T20:29:00.000Z",
-    "mag": 2.1,
-    "depth": 40.7,
-    "lat": 10.54,
-    "lon": -67.17,
-    "place": "26 km al noroeste de Los Teques",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-27-09-2026-07:02-9.01--73.46",
+    "time": "2026-09-27T11:02:00.000Z",
+    "mag": 2.9,
+    "depth": 4.4,
+    "lat": 9.01,
+    "lon": -73.46,
+    "place": "109 km al oeste    de Casigua",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-27-09-2026-02:04-10.78--69.16",
     "time": "2026-09-27T06:04:00.000Z",
     "mag": 2.4,
@@ -7477,21 +7492,6 @@
     "lat": 10.54,
     "lon": -67.17,
     "place": "26 km al noroeste de Los Teques",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-24-08-2026-13:32-9.98--70.91",
-    "time": "2026-08-24T17:32:00.000Z",
-    "mag": 2.8,
-    "depth": 25.1,
-    "lat": 9.98,
-    "lon": -70.91,
-    "place": "22 km al este     de Bachaquero",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

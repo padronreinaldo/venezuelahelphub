@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-28-09-2026-18:04-10.52--69.06",
+    "time": "2026-09-28T22:04:00.000Z",
+    "mag": 2.3,
+    "depth": 3,
+    "lat": 10.52,
+    "lon": -69.06,
+    "place": "21 km al noroeste de Aroa",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-28-09-2026-16:51-10.42--68.49",
     "time": "2026-09-28T20:51:00.000Z",
     "mag": 1.9,
@@ -7477,21 +7492,6 @@
     "lat": 6.99,
     "lon": -73.07,
     "place": "15 km al sureste  de Bucaramanga",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-25-08-2026-10:31-10.54--67.49",
-    "time": "2026-08-25T14:31:00.000Z",
-    "mag": 1.9,
-    "depth": 12.2,
-    "lat": 10.54,
-    "lon": -67.49,
-    "place": "34 km al noreste  de Maracay",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

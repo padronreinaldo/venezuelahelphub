@@ -1,5 +1,19 @@
 [
   {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-10-01",
+    "conf": "med",
+    "titleEs": "Ciudadanos salen a las calles a exigir fin de los apagones: GN reprime a manifestantes en Zulia",
+    "titleEn": "Ciudadanos salen a las calles a exigir fin de los apagones: GN reprime a manifestantes en Zulia",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/regiones/ciudadanos-salen-a-las-calles-a-exigir-fin-de-los-apagones-gn-reprime-a-manifestantes-en-zulia/"
+  },
+  {
     "sourceEs": "Runrun.es",
     "sourceEn": "Runrun.es",
     "date": "2026-09-30",
@@ -12,19 +26,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://runrun.es/noticias/621428/culparon-a-terremotos-sanciones-supuesto-repunte-economico-y-al-calor-por-los-cortes-electricos/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-09-30",
-    "conf": "med",
-    "titleEs": "Casi 40 días sin datos: exigen al gobierno actualizar cifras de muertos y desaparecidos en sismos",
-    "titleEn": "Casi 40 días sin datos: exigen al gobierno actualizar cifras de muertos y desaparecidos en sismos",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/noticias/621374/casi-40-dias-sin-datos-exigen-al-gobierno-actualizar-cifras-de-muertos-y-desaparecidos-en-sismos/"
   }
 ]

@@ -1,5 +1,14 @@
 [
   {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-10-01",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/10/Pieza-tips_Mesa-de-trabajo-1-copia-13-819x1024.jpg",
+    "titleEs": "Ciudadanos salen a las calles a exigir fin de los apagones: GN reprime a manifestantes en Zulia",
+    "titleEn": "Ciudadanos salen a las calles a exigir fin de los apagones: GN reprime a manifestantes en Zulia",
+    "url": "https://elpitazo.net/regiones/ciudadanos-salen-a-las-calles-a-exigir-fin-de-los-apagones-gn-reprime-a-manifestantes-en-zulia/"
+  },
+  {
     "source": "Runrun.es",
     "section": "Venezuela",
     "date": "2026-09-30",
@@ -7,14 +16,5 @@
     "titleEs": "Culparon a terremotos, sanciones, supuesto repunte económico y al calor por los cortes eléctricos",
     "titleEn": "Culparon a terremotos, sanciones, supuesto repunte económico y al calor por los cortes eléctricos",
     "url": "https://runrun.es/noticias/621428/culparon-a-terremotos-sanciones-supuesto-repunte-economico-y-al-calor-por-los-cortes-electricos/"
-  },
-  {
-    "source": "Runrun.es",
-    "section": "Venezuela",
-    "date": "2026-09-30",
-    "img": "https://runrun.es/wp-content/uploads/2026/09/memorial.jpg",
-    "titleEs": "Casi 40 días sin datos: exigen al gobierno actualizar cifras de muertos y desaparecidos en sismos",
-    "titleEn": "Casi 40 días sin datos: exigen al gobierno actualizar cifras de muertos y desaparecidos en sismos",
-    "url": "https://runrun.es/noticias/621374/casi-40-dias-sin-datos-exigen-al-gobierno-actualizar-cifras-de-muertos-y-desaparecidos-en-sismos/"
   }
 ]

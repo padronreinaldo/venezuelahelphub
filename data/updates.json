@@ -2,29 +2,57 @@
   {
     "sourceEs": "El Pitazo",
     "sourceEn": "El Pitazo",
-    "date": "2026-10-01",
+    "date": "2026-10-02",
     "conf": "med",
-    "titleEs": "Cecodap registró 3.267 niños y adolescentes afectados por los terremotos en Venezuela: 144 continúan desaparecidos",
-    "titleEn": "Cecodap registró 3.267 niños y adolescentes afectados por los terremotos en Venezuela: 144 continúan desaparecidos",
+    "titleEs": "Cazadores de Fake News da 11 recomendaciones para enfrentar la desinformación",
+    "titleEn": "Cazadores de Fake News da 11 recomendaciones para enfrentar la desinformación",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
     "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/regiones/gran-caracas/cecodap-registro-3-267-ninos-y-adolescentes-afectados-por-los-terremotos-en-venezuela-144-continuan-desaparecidos/"
+    "url": "https://elpitazo.net/alianzas/cazadores-de-fake-news-da-11-recomendaciones-para-enfrentar-la-desinformacion/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-10-02",
+    "conf": "med",
+    "titleEs": "Caracas | Afectados por terremotos protestaron en la Av. Bolívar: exigen reparaciones y el bono de contingencia",
+    "titleEn": "Caracas | Afectados por terremotos protestaron en la Av. Bolívar: exigen reparaciones y el bono de contingencia",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/regiones/gran-caracas/caracas-afectados-por-los-terremotos-protestaron-en-la-avenida-bolivar-piden-reparaciones-en-sus-viviendas-y-el-pago-del-bono-de-contingencia/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-10-02",
+    "conf": "med",
+    "titleEs": "Funvisis reporta nuevos temblores este #2Oct: el de mayor magnitud fue en Güiria",
+    "titleEn": "Funvisis reporta nuevos temblores este #2Oct: el de mayor magnitud fue en Güiria",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/regiones/funvisis-reporta-nuevos-temblores-este-2oct-el-de-mayor-magnitud-fue-en-guiria/"
   },
   {
     "sourceEs": "Runrun.es",
     "sourceEn": "Runrun.es",
-    "date": "2026-10-01",
+    "date": "2026-10-02",
     "conf": "med",
-    "titleEs": "A 100 días de los sismos honrarán a las víctimas con un “haz de luz”",
-    "titleEn": "A 100 días de los sismos honrarán a las víctimas con un “haz de luz”",
+    "titleEs": "A 100 días de los terremotos, MSF alerta sobre el desgaste físico y emocional de los desplazados",
+    "titleEn": "A 100 días de los terremotos, MSF alerta sobre el desgaste físico y emocional de los desplazados",
     "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
     "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://runrun.es/noticias/con-proposito/621563/a-100-dias-de-los-sismos-honraran-a-las-victimas-con-un-haz-de-luz/"
+    "url": "https://runrun.es/noticias/621630/a-100-dias-de-los-terremotos-msf-alerta-sobre-el-desgaste-fisico-y-emocional-de-los-desplazados/"
   }
 ]

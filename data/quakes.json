@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-02-10-2026-03:38-10.41--72.51",
+    "time": "2026-10-02T07:38:00.000Z",
+    "mag": 3,
+    "depth": 5,
+    "lat": 10.41,
+    "lon": -72.51,
+    "place": "24 km al noroeste de Villa del Rosario",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-01-10-2026-19:28-10.65--67.31",
     "time": "2026-10-01T23:28:00.000Z",
     "mag": 2.2,
@@ -7477,21 +7492,6 @@
     "lat": 10.62,
     "lon": -66.78,
     "place": "5 km al oeste    de Naiguata",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-29-08-2026-02:29-10.79--62.38",
-    "time": "2026-08-29T06:29:00.000Z",
-    "mag": 2.9,
-    "depth": 53.9,
-    "lat": 10.79,
-    "lon": -62.38,
-    "place": "17 km al noroeste de Guiria",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

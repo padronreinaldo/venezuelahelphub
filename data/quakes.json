@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-03-10-2026-13:28-9.8--73.47",
+    "time": "2026-10-03T17:28:00.000Z",
+    "mag": 2.3,
+    "depth": 4.2,
+    "lat": 9.8,
+    "lon": -73.47,
+    "place": "77 km al suroeste de Valledupar",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-03-10-2026-09:55-6.96--73.33",
     "time": "2026-10-03T13:55:00.000Z",
     "mag": 3.3,
@@ -7477,21 +7492,6 @@
     "lat": 8.06,
     "lon": -72.81,
     "place": "49 km al noroeste de San Antonio del Tachira",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-30-08-2026-00:43-10.61--66.79",
-    "time": "2026-08-30T04:43:00.000Z",
-    "mag": 2,
-    "depth": 13.1,
-    "lat": 10.61,
-    "lon": -66.79,
-    "place": "5 km al oeste    de Naiguata",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

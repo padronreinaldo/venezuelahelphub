@@ -1,33 +1,5 @@
 [
   {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-10-02",
-    "conf": "med",
-    "titleEs": "Funvisis reporta sismo de magnitud 4.8 en el estado Sucre",
-    "titleEn": "Funvisis reporta sismo de magnitud 4.8 en el estado Sucre",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/la-humanidad/funvisis-reporta-sismo-de-magnitud-4-8-en-el-estado-sucre/"
-  },
-  {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-10-02",
-    "conf": "med",
-    "titleEs": "Cecodap: 144 niños y adolescentes siguen desaparecidos a 100 días del doble terremoto en Venezuela",
-    "titleEn": "Cecodap: 144 niños y adolescentes siguen desaparecidos a 100 días del doble terremoto en Venezuela",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/la-humanidad/cecodap-144-ninos-y-adolescentes-siguen-desaparecidos-a-100-dias-del-doble-terremoto-en-venezuela/"
-  },
-  {
     "sourceEs": "Runrun.es",
     "sourceEn": "Runrun.es",
     "date": "2026-10-02",

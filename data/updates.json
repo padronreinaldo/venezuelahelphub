@@ -1,33 +1,5 @@
 [
   {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-10-03",
-    "conf": "med",
-    "titleEs": "Alto comisionado de ACNUR  habló con Delcy Rodríguez sobre retorno de migrantes y terremotos",
-    "titleEn": "Alto comisionado de ACNUR  habló con Delcy Rodríguez sobre retorno de migrantes y terremotos",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/politica/alto-comisionado-de-acnur-hablo-con-delcy-rodriguez-sobre-retorno-de-migrantes-y-terremotos/"
-  },
-  {
-    "sourceEs": "Efecto Cocuyo",
-    "sourceEn": "Efecto Cocuyo",
-    "date": "2026-10-03",
-    "conf": "med",
-    "titleEs": "Con una vigilia venezolanos rindieron homenaje a las víctimas tras 100 días del doble terremoto",
-    "titleEn": "Con una vigilia venezolanos rindieron homenaje a las víctimas tras 100 días del doble terremoto",
-    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://efectococuyo.com/la-humanidad/con-una-vigilia-venezolanos-rindieron-homenaje-a-las-victimas-tras-100-dias-del-doble-terremoto/"
-  },
-  {
     "sourceEs": "Runrun.es",
     "sourceEn": "Runrun.es",
     "date": "2026-10-03",
@@ -40,19 +12,5 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://runrun.es/rr-es-plus/621541/cecodap-no-tener-informacion-publica-a-mas-de-100-dias-de-los-terremotos-es-un-riesgo-de-proteccion/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-10-02",
-    "conf": "med",
-    "titleEs": "A 100 días de los terremotos, MSF alerta sobre el desgaste físico y emocional de los desplazados",
-    "titleEn": "A 100 días de los terremotos, MSF alerta sobre el desgaste físico y emocional de los desplazados",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/noticias/621630/a-100-dias-de-los-terremotos-msf-alerta-sobre-el-desgaste-fisico-y-emocional-de-los-desplazados/"
   }
 ]

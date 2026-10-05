@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-04-10-2026-19:10-10.69--65.73",
+    "time": "2026-10-04T23:10:00.000Z",
+    "mag": 2.7,
+    "depth": 5,
+    "lat": 10.69,
+    "lon": -65.73,
+    "place": "39. km al noreste  de Cabo Codera",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-04-10-2026-17:12-10.62--67.04",
     "time": "2026-10-04T21:12:00.000Z",
     "mag": 2.4,
@@ -7477,21 +7492,6 @@
     "lat": 9.72,
     "lon": -69.06,
     "place": "24 km al noreste  de Acarigua",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-31-08-2026-05:50-7.03--71.85",
-    "time": "2026-08-31T09:50:00.000Z",
-    "mag": 2.3,
-    "depth": 15.7,
-    "lat": 7.03,
-    "lon": -71.85,
-    "place": "29 km al sureste  de El Nula",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

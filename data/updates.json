@@ -2,15 +2,29 @@
   {
     "sourceEs": "El Pitazo",
     "sourceEn": "El Pitazo",
-    "date": "2026-10-07",
+    "date": "2026-10-09",
     "conf": "med",
-    "titleEs": "La Guaira Filma: un directorio que promueve talentos locales como apoyo post terremotos",
-    "titleEn": "La Guaira Filma: un directorio que promueve talentos locales como apoyo post terremotos",
+    "titleEs": "Terremoto de magnitud 7,6 se registra en Panamá este #9Oct",
+    "titleEn": "Terremoto de magnitud 7,6 se registra en Panamá este #9Oct",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
     "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/regiones/gran-caracas/la-guaira-filma-un-directorio-que-promueve-talentos-locales-como-apoyo-post-terremotos/"
+    "url": "https://elpitazo.net/internacionales/terremoto-de-magnitud-76-se-registra-en-panama-este-9oct/"
+  },
+  {
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
+    "date": "2026-10-09",
+    "conf": "med",
+    "titleEs": "Terremoto de 7.7 sacude Panamá este 9 de octubre",
+    "titleEn": "Terremoto de 7.7 sacude Panamá este 9 de octubre",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://efectococuyo.com/internacionales/terremoto-de-7-7-sacude-panama-este-9-de-octubre/"
   }
 ]

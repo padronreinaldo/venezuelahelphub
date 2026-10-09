@@ -2,10 +2,19 @@
   {
     "source": "El Pitazo",
     "section": "Venezuela",
-    "date": "2026-10-07",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/10/La-guaira-filma.jpeg",
-    "titleEs": "La Guaira Filma: un directorio que promueve talentos locales como apoyo post terremotos",
-    "titleEn": "La Guaira Filma: un directorio que promueve talentos locales como apoyo post terremotos",
-    "url": "https://elpitazo.net/regiones/gran-caracas/la-guaira-filma-un-directorio-que-promueve-talentos-locales-como-apoyo-post-terremotos/"
+    "date": "2026-10-09",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/10/terremoto.jpg",
+    "titleEs": "Terremoto de magnitud 7,6 se registra en Panamá este #9Oct",
+    "titleEn": "Terremoto de magnitud 7,6 se registra en Panamá este #9Oct",
+    "url": "https://elpitazo.net/internacionales/terremoto-de-magnitud-76-se-registra-en-panama-este-9oct/"
+  },
+  {
+    "source": "Efecto Cocuyo",
+    "section": "Venezuela",
+    "date": "2026-10-09",
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/10/09145633/HUNTV-pWUAEmw8P.jpg",
+    "titleEs": "Terremoto de 7.7 sacude Panamá este 9 de octubre",
+    "titleEn": "Terremoto de 7.7 sacude Panamá este 9 de octubre",
+    "url": "https://efectococuyo.com/internacionales/terremoto-de-7-7-sacude-panama-este-9-de-octubre/"
   }
 ]

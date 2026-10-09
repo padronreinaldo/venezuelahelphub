@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-08-10-2026-21:22-9.95--70.69",
+    "time": "2026-10-09T01:22:00.000Z",
+    "mag": 2.6,
+    "depth": 2.2,
+    "lat": 9.95,
+    "lon": -70.69,
+    "place": "47 km al este     de Bachaquero",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-08-10-2026-15:34-10.59--67.35",
     "time": "2026-10-08T19:34:00.000Z",
     "mag": 1.6,
@@ -7477,21 +7492,6 @@
     "lat": 10.56,
     "lon": -63.15,
     "place": "1 km al noreste  de El Pilar",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-03-09-2026-02:09-10.6--66.87",
-    "time": "2026-09-03T06:09:00.000Z",
-    "mag": 2.6,
-    "depth": 21.4,
-    "lat": 10.6,
-    "lon": -66.87,
-    "place": "7 km al este     de La Guaira",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

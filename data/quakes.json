@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-11-10-2026-14:52-10.71--69.02",
+    "time": "2026-10-11T18:52:00.000Z",
+    "mag": 2.4,
+    "depth": 10.4,
+    "lat": 10.71,
+    "lon": -69.02,
+    "place": "33 km al noroeste de Aroa",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-11-10-2026-11:36-10.77--62.39",
     "time": "2026-10-11T15:36:00.000Z",
     "mag": 2.7,
@@ -7477,21 +7492,6 @@
     "lat": 10.49,
     "lon": -66.75,
     "place": "14 km al sur      de Naiguata",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-05-09-2026-15:36-10.2--66.92",
-    "time": "2026-09-05T19:36:00.000Z",
-    "mag": 1.7,
-    "depth": 1.7,
-    "lat": 10.2,
-    "lon": -66.92,
-    "place": "6 km al noroeste de Cua",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

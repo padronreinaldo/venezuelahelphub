@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-10-10-2026-19:51-6.87--73.15",
+    "time": "2026-10-10T23:51:00.000Z",
+    "mag": 3.3,
+    "depth": 150.7,
+    "lat": 6.87,
+    "lon": -73.15,
+    "place": "27 km al sur      de Bucaramanga",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-10-10-2026-11:59-10.19--60.31",
     "time": "2026-10-10T15:59:00.000Z",
     "mag": 3.6,
@@ -7477,21 +7492,6 @@
     "lat": 9.68,
     "lon": -71.78,
     "place": "76 km al norte    de Santa Barbara",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-05-09-2026-02:10-8.31--73.58",
-    "time": "2026-09-05T06:10:00.000Z",
-    "mag": 3,
-    "depth": 91.5,
-    "lat": 8.31,
-    "lon": -73.58,
-    "place": "129 km al suroeste de Casigua",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

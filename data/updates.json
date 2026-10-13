@@ -2,15 +2,29 @@
   {
     "sourceEs": "El Pitazo",
     "sourceEn": "El Pitazo",
-    "date": "2026-10-10",
+    "date": "2026-10-13",
     "conf": "med",
-    "titleEs": "María Corina Machado: el régimen de Delcy Rodríguez teme a mi regreso",
-    "titleEn": "María Corina Machado: el régimen de Delcy Rodríguez teme a mi regreso",
+    "titleEs": "Fiestas de la Virgen de Chiquinquirá se celebrarán honor y solidaridad con víctimas de los terremotos",
+    "titleEn": "Fiestas de la Virgen de Chiquinquirá se celebrarán honor y solidaridad con víctimas de los terremotos",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
     "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/politica/maria-corina-machado-el-regimen-de-delcy-rodriguez-teme-a-mi-regreso/"
+    "url": "https://elpitazo.net/regiones/occidente/fiestas-de-la-virgen-de-chiquinquira-se-celebraran-honor-y-solidaridad-con-victimas-de-los-terremotos/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-10-13",
+    "conf": "med",
+    "titleEs": "Víctimas de los terremotos de la tercera edad quedan sin opción para créditos de Venezuela Renace en La Guaira",
+    "titleEn": "Víctimas de los terremotos de la tercera edad quedan sin opción para créditos de Venezuela Renace en La Guaira",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/reportajes/victimas-de-los-terremotos-de-la-tercera-edad-quedan-sin-opcion-para-creditos-de-venezuela-renace-en-la-guaira/"
   }
 ]

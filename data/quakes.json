@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-14-10-2026-12:12-6.77--73.24",
+    "time": "2026-10-14T16:12:00.000Z",
+    "mag": 3.8,
+    "depth": 168.9,
+    "lat": 6.77,
+    "lon": -73.24,
+    "place": "40 km al suroeste de Bucaramanga",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-14-10-2026-04:06-10.42--72.48",
     "time": "2026-10-14T08:06:00.000Z",
     "mag": 2.1,
@@ -7477,21 +7492,6 @@
     "lat": 10.77,
     "lon": -69.18,
     "place": "41 km al este     de Churuguara",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-08-09-2026-03:23-10.68--69.03",
-    "time": "2026-09-08T07:23:00.000Z",
-    "mag": 2.3,
-    "depth": 9.8,
-    "lat": 10.68,
-    "lon": -69.03,
-    "place": "31 km al noroeste de Aroa",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

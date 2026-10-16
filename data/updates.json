@@ -2,29 +2,15 @@
   {
     "sourceEs": "El Pitazo",
     "sourceEn": "El Pitazo",
-    "date": "2026-10-15",
+    "date": "2026-10-16",
     "conf": "med",
-    "titleEs": "Terremotos | Vecinos de Playa Grande reportan daños tras implosión en residencias La Llovizna",
-    "titleEn": "Terremotos | Vecinos de Playa Grande reportan daños tras implosión en residencias La Llovizna",
+    "titleEs": "Temblor de magnitud 3.3 se sintió en Caracas, Miranda y La Guaira este #15Oct",
+    "titleEn": "Temblor de magnitud 3.3 se sintió en Caracas, Miranda y La Guaira este #15Oct",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
     "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/regiones/gran-caracas/terremotos-vecinos-de-playa-grande-reportan-danos-tras-implosion-en-residencias-la-llovizna/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-10-15",
-    "conf": "med",
-    "titleEs": "Gracias de corazón 2026 destinará fondos a los afectados por los sismos en Venezuela",
-    "titleEn": "Gracias de corazón 2026 destinará fondos a los afectados por los sismos en Venezuela",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/noticias/con-proposito/622726/gracias-de-corazon-2026-destinara-fondos-a-los-afectados-por-los-sismos-en-venezuela/"
+    "url": "https://elpitazo.net/regiones/temblor-de-magnitud-3-3-se-sintio-en-caracas-miranda-y-la-guaira-este-15oct/"
   }
 ]

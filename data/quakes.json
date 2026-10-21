@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-20-10-2026-23:02-6.88--73.37",
+    "time": "2026-10-21T03:02:00.000Z",
+    "mag": 3.3,
+    "depth": 127.3,
+    "lat": 6.88,
+    "lon": -73.37,
+    "place": "37 km al suroeste de Bucaramanga",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-20-10-2026-18:48-10.42--68.63",
     "time": "2026-10-20T22:48:00.000Z",
     "mag": 1.8,
@@ -7477,21 +7492,6 @@
     "lat": 8.38,
     "lon": -72.14,
     "place": "21 km al noreste  de La Fria",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-14-09-2026-21:15-10.62--67.57",
-    "time": "2026-09-15T01:15:00.000Z",
-    "mag": 2.6,
-    "depth": 15.5,
-    "lat": 10.62,
-    "lon": -67.57,
-    "place": "41 km al norte    de Maracay",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

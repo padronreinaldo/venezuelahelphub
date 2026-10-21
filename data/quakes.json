@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-21-10-2026-04:30-10.36--68.63",
+    "time": "2026-10-21T08:30:00.000Z",
+    "mag": 1.6,
+    "depth": 10.2,
+    "lat": 10.36,
+    "lon": -68.63,
+    "place": "12 km al este     de San Felipe",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-20-10-2026-23:02-6.88--73.37",
     "time": "2026-10-21T03:02:00.000Z",
     "mag": 3.3,
@@ -7477,21 +7492,6 @@
     "lat": 6.86,
     "lon": -73.03,
     "place": "30 km al sureste  de Bucaramanga",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-14-09-2026-22:44-8.38--72.14",
-    "time": "2026-09-15T02:44:00.000Z",
-    "mag": 2.9,
-    "depth": 7.6,
-    "lat": 8.38,
-    "lon": -72.14,
-    "place": "21 km al noreste  de La Fria",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

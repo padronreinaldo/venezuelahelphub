@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T21:10:01.368Z",
+  "updatedAt": "2026-10-22T00:05:24.465Z",
   "stats": {
     "maxMagnitude": 4.5,
     "aftershocks": 0,
@@ -19,17 +19,17 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thrm"
     },
     "deaths": {
-      "seenAt": "2026-10-21T21:10:01.368Z",
+      "seenAt": "2026-10-22T00:05:24.465Z",
       "source": "ONU/OCHA · ref. internacional (Wikipedia EN)",
       "url": "https://en.wikipedia.org/wiki/2026_Venezuela_earthquakes"
     },
     "injured": {
-      "seenAt": "2026-10-21T21:10:01.368Z",
+      "seenAt": "2026-10-22T00:05:24.465Z",
       "source": "ONU/OCHA · ref. internacional (Wikipedia EN)",
       "url": "https://en.wikipedia.org/wiki/2026_Venezuela_earthquakes"
     },
     "missing": {
-      "seenAt": "2026-10-21T21:10:01.368Z",
+      "seenAt": "2026-10-22T00:05:24.465Z",
       "source": "ONU/OCHA · ref. internacional (Wikipedia EN)",
       "url": "https://en.wikipedia.org/wiki/2026_Venezuela_earthquakes"
     }
@@ -39,7 +39,7 @@
       "value": 6509,
       "source": "Runrun.es",
       "url": "https://runrun.es/inicio/623144/analisis-del-nyt-con-datos-del-usgs-cifra-en-mas-de-10-000-las-muertes-en-sismos-del-24-de-junio/",
-      "seenAt": "2026-10-21T21:10:01.368Z"
+      "seenAt": "2026-10-22T00:05:24.465Z"
     },
     "injured": {
       "value": 32038,

@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-22-10-2026-22:12-6.8--73.09",
+    "time": "2026-10-23T02:12:00.000Z",
+    "mag": 3.9,
+    "depth": 146,
+    "lat": 6.8,
+    "lon": -73.09,
+    "place": "34 km al sur      de Bucaramanga",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-22-10-2026-18:34-10.21--72.66",
     "time": "2026-10-22T22:34:00.000Z",
     "mag": 3.3,
@@ -7483,20 +7498,5 @@
     "tsunami": false,
     "status": null,
     "source": "FUNVISIS"
-  },
-  {
-    "id": "us7000thrm",
-    "time": "2026-09-16T01:37:17.171Z",
-    "mag": 4.5,
-    "depth": 10,
-    "lat": 10.684,
-    "lon": -69.278,
-    "place": "45 km NNW of Duaca, Venezuela",
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thrm",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": "reviewed",
-    "source": "USGS"
   }
 ]

@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-24-10-2026-07:50-9.84--70.76",
+    "time": "2026-10-24T11:50:00.000Z",
+    "mag": 2.3,
+    "depth": 14.2,
+    "lat": 9.84,
+    "lon": -70.76,
+    "place": "42 km al sureste  de Bachaquero",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-24-10-2026-03:56-9.48--67.77",
     "time": "2026-10-24T07:56:00.000Z",
     "mag": 2.3,
@@ -7477,21 +7492,6 @@
     "lat": 10.56,
     "lon": -60.87,
     "place": "23 km al este     de Sangre Grande",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-16-09-2026-19:23-11.35--73.57",
-    "time": "2026-09-16T23:23:00.000Z",
-    "mag": 3.3,
-    "depth": 12.2,
-    "lat": 11.35,
-    "lon": -73.57,
-    "place": "45 km al noreste  de Santa Marta",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

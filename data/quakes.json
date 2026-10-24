@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-24-10-2026-18:13-6.75--73.14",
+    "time": "2026-10-24T22:13:00.000Z",
+    "mag": 2.9,
+    "depth": 151,
+    "lat": 6.75,
+    "lon": -73.14,
+    "place": "40 km al sur      de Bucaramanga",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-24-10-2026-07:50-9.84--70.76",
     "time": "2026-10-24T11:50:00.000Z",
     "mag": 2.3,
@@ -7477,21 +7492,6 @@
     "lat": 10.85,
     "lon": -62.36,
     "place": "22 km al noroeste de Guiria",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-16-09-2026-22:24-10.56--60.87",
-    "time": "2026-09-17T02:24:00.000Z",
-    "mag": 3.2,
-    "depth": 79.1,
-    "lat": 10.56,
-    "lon": -60.87,
-    "place": "23 km al este     de Sangre Grande",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

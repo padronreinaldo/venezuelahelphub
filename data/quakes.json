@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-25-10-2026-15:07-9.65--70.63",
+    "time": "2026-10-25T19:07:00.000Z",
+    "mag": 1.9,
+    "depth": 1.8,
+    "lat": 9.65,
+    "lon": -70.63,
+    "place": "32 km al norte    de Isnotu",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-25-10-2026-11:17-6.81--73.27",
     "time": "2026-10-25T15:17:00.000Z",
     "mag": 3.2,
@@ -7477,21 +7492,6 @@
     "lat": 11.56,
     "lon": -61.09,
     "place": "56 km al noroeste de Scarborough, Tobago",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-17-09-2026-23:44-9.92--70.96",
-    "time": "2026-09-18T03:44:00.000Z",
-    "mag": 3.1,
-    "depth": 19.6,
-    "lat": 9.92,
-    "lon": -70.96,
-    "place": "17 km al sureste  de Bachaquero",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

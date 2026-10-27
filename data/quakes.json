@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-26-10-2026-23:10-10.45--67.54",
+    "time": "2026-10-27T03:10:00.000Z",
+    "mag": 1.7,
+    "depth": 6.9,
+    "lat": 10.45,
+    "lon": -67.54,
+    "place": "23 km al noreste  de Maracay",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-26-10-2026-14:30-11.41--61.97",
     "time": "2026-10-26T18:30:00.000Z",
     "mag": 3.2,
@@ -7477,21 +7492,6 @@
     "lat": 10.61,
     "lon": -62.55,
     "place": "5 km al noreste  de Irapa",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-18-09-2026-22:44-10.29--71.48",
-    "time": "2026-09-19T02:44:00.000Z",
-    "mag": 2.2,
-    "depth": 20.7,
-    "lat": 10.29,
-    "lon": -71.48,
-    "place": "12 km al suroeste de Cabimas",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

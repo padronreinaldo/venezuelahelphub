@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-27-10-2026-21:01-6.78--73.16",
+    "time": "2026-10-28T01:01:00.000Z",
+    "mag": 3,
+    "depth": 150.8,
+    "lat": 6.78,
+    "lon": -73.16,
+    "place": "37 km al sur      de Bucaramanga",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-27-10-2026-13:52-10.59--66.78",
     "time": "2026-10-27T17:52:00.000Z",
     "mag": 2.3,
@@ -7477,21 +7492,6 @@
     "lat": 10.3,
     "lon": -62.39,
     "place": "37 km al sureste  de Irapa",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-19-09-2026-09:41-11.85--60.9",
-    "time": "2026-09-19T13:41:00.000Z",
-    "mag": 3,
-    "depth": 32.1,
-    "lat": 11.85,
-    "lon": -60.9,
-    "place": "75 km al norte    de Scarborough, Tobago",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

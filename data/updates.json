@@ -1,44 +1,16 @@
 [
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
-    "date": "2026-10-28",
-    "conf": "med",
-    "titleEs": "Escuchar el dolor del terremoto marcó la visita sorpresa de María Corina Machado a La Guaira",
-    "titleEn": "Escuchar el dolor del terremoto marcó la visita sorpresa de María Corina Machado a La Guaira",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://elpitazo.net/cronicas/escuchar-el-dolor-del-terremoto-marco-la-visita-sorpresa-de-maria-corina-machado-a-la-guaira/"
-  },
-  {
     "sourceEs": "Runrun.es",
     "sourceEn": "Runrun.es",
     "date": "2026-10-28",
     "conf": "med",
-    "titleEs": "Machado visitó la zona cero en La Guaira y afectados le pidieron ayuda: “Este gobierno no sirve”",
-    "titleEn": "Machado visitó la zona cero en La Guaira y afectados le pidieron ayuda: “Este gobierno no sirve”",
+    "titleEs": "Denuncian ante la CIDH la falta de protocolos estatales y la obstaculización de ayuda tras sismos en Venezuela",
+    "titleEn": "Denuncian ante la CIDH la falta de protocolos estatales y la obstaculización de ayuda tras sismos en Venezuela",
     "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
     "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://runrun.es/noticias/624007/machado-visito-la-zona-cero-en-la-guaira-y-afectados-le-pidieron-ayuda-este-gobierno-no-sirve/"
-  },
-  {
-    "sourceEs": "Runrun.es",
-    "sourceEn": "Runrun.es",
-    "date": "2026-10-28",
-    "conf": "med",
-    "titleEs": "“Allí van 20 con fe”",
-    "titleEn": "“Allí van 20 con fe”",
-    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
-    "areas": [],
-    "needsEs": [],
-    "needsEn": [],
-    "url": "https://runrun.es/inicio/623769/alli-van-20-con-fe/"
+    "url": "https://runrun.es/noticias/623999/denuncian-ante-la-cidh-la-falta-de-protocolos-estatales-y-la-obstaculizacion-de-ayuda-tras-sismos-en-venezuela/"
   }
 ]

@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-30-10-2026-13:32-9.66--70.11",
+    "time": "2026-10-30T17:32:00.000Z",
+    "mag": 2.1,
+    "depth": 4.3,
+    "lat": 9.66,
+    "lon": -70.11,
+    "place": "37 km al noroeste de Biscucuy",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-30-10-2026-09:38-9.98--72.9",
     "time": "2026-10-30T13:38:00.000Z",
     "mag": 3,
@@ -7477,21 +7492,6 @@
     "lat": 10.54,
     "lon": -66.75,
     "place": "9 km al sur      de Naiguata",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-20-09-2026-11:56-10.28--67.31",
-    "time": "2026-09-20T15:56:00.000Z",
-    "mag": 1.6,
-    "depth": 14.7,
-    "lat": 10.28,
-    "lon": -67.31,
-    "place": "6 km al noreste  de La Victoria",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

@@ -2,15 +2,43 @@
   {
     "sourceEs": "El Pitazo",
     "sourceEn": "El Pitazo",
-    "date": "2026-10-30",
+    "date": "2026-10-31",
     "conf": "med",
-    "titleEs": "Chacao suspende el «Nocturneando» de este año para enfocar esfuerzos en los hogares afectados por los terremotos",
-    "titleEn": "Chacao suspende el «Nocturneando» de este año para enfocar esfuerzos en los hogares afectados por los terremotos",
+    "titleEs": "“Estamos a punto de un colapso total”: autoridades exigen a familias de La Pastora probar que la Alcaldía demolió su edificio",
+    "titleEn": "“Estamos a punto de un colapso total”: autoridades exigen a familias de La Pastora probar que la Alcaldía demolió su edificio",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
     "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/regiones/chacao-suspende-el-nocturneando-de-este-ano-para-enfocar-esfuerzos-en-los-hogares-afectados-por-los-terremotos/"
+    "url": "https://elpitazo.net/gran-caracas-2/estamos-a-punto-de-un-colapso-total-autoridades-exigen-a-familias-de-la-pastora-probar-que-la-alcaldia-demolio-su-edificio/"
+  },
+  {
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
+    "date": "2026-10-31",
+    "conf": "med",
+    "titleEs": "China envía maquinaria y materiales al país para la recolección de escombros tras sismos",
+    "titleEn": "China envía maquinaria y materiales al país para la recolección de escombros tras sismos",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://efectococuyo.com/politica/china-envia-maquinaria-materiales-para-recoleccion-escombros/"
+  },
+  {
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
+    "date": "2026-10-31",
+    "conf": "med",
+    "titleEs": "Un sismo de magnitud 5,9 revive el temor en Panamá tras el terremoto de octubre",
+    "titleEn": "Un sismo de magnitud 5,9 revive el temor en Panamá tras el terremoto de octubre",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://efectococuyo.com/internacionales/sismo-magnitud-59-revive-temor-panama/"
   }
 ]

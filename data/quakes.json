@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-06-11-2026-08:07-10.41--68.42",
+    "time": "2026-11-06T12:07:00.000Z",
+    "mag": 2.4,
+    "depth": 22.2,
+    "lat": 10.41,
+    "lon": -68.42,
+    "place": "36 km al suroeste de Boca de Aroa",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-06-11-2026-07:06-10.5--68.42",
     "time": "2026-11-06T11:06:00.000Z",
     "mag": 3.2,
@@ -7477,21 +7492,6 @@
     "lat": 10.05,
     "lon": -67.27,
     "place": "19 km al noreste  de San Juan de los Morros",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-23-09-2026-03:48-10.8--62.21",
-    "time": "2026-09-23T07:48:00.000Z",
-    "mag": 3.2,
-    "depth": 101.1,
-    "lat": 10.8,
-    "lon": -62.21,
-    "place": "18 km al noreste  de Guiria",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

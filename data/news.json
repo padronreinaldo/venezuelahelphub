@@ -3,6 +3,15 @@
     "source": "El Pitazo",
     "section": "Venezuela",
     "date": "2026-11-07",
+    "img": "https://elpitazo.net/wp-content/uploads/2026/11/QRfallido1-1024x585.jpg",
+    "titleEs": "El QR da error: damnificados de los terremotos denuncian falla para obtener crédito del plan Venezuela Renace",
+    "titleEn": "El QR da error: damnificados de los terremotos denuncian falla para obtener crédito del plan Venezuela Renace",
+    "url": "https://elpitazo.net/reportajes/el-qr-da-error-damnificados-de-los-terremotos-denuncian-falla-para-obtener-credito-del-plan-venezuela-renace/"
+  },
+  {
+    "source": "El Pitazo",
+    "section": "Venezuela",
+    "date": "2026-11-07",
     "img": "https://elpitazo.net/wp-content/uploads/2026/11/ED2CCC31-CBDC-4E06-9355-A9E743B4FF42.jpeg",
     "titleEs": "Voluntarios de Todos con Venezuela entregan nueva motobomba a los Cascos Rojos en La Guaira",
     "titleEn": "Voluntarios de Todos con Venezuela entregan nueva motobomba a los Cascos Rojos en La Guaira",
@@ -16,5 +25,14 @@
     "titleEs": "«Tenemos un tremendo problema eléctrico»: Jorge Rodríguez reconoce fallas y anuncia nueva ley para incluir al sector privado",
     "titleEn": "«Tenemos un tremendo problema eléctrico»: Jorge Rodríguez reconoce fallas y anuncia nueva ley para incluir al sector privado",
     "url": "https://elpitazo.net/politica/tenemos-un-tremendo-problema-electrico-jorge-rodriguez-reconoce-fallas-y-anuncia-nueva-ley-para-incluir-al-sector-privado/"
+  },
+  {
+    "source": "Runrun.es",
+    "section": "Venezuela",
+    "date": "2026-11-07",
+    "img": "https://runrun.es/wp-content/uploads/2026/11/tribunales.jpg",
+    "titleEs": "OVP denuncia que sismos agravaron el retardo procesal en La Guaira",
+    "titleEn": "OVP denuncia que sismos agravaron el retardo procesal en La Guaira",
+    "url": "https://runrun.es/noticias/624910/ovp-denuncia-que-sismos-agravaron-el-retardo-procesal-en-la-guaira/"
   }
 ]

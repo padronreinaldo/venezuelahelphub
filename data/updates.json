@@ -4,6 +4,20 @@
     "sourceEn": "El Pitazo",
     "date": "2026-11-07",
     "conf": "med",
+    "titleEs": "El QR da error: damnificados de los terremotos denuncian falla para obtener crédito del plan Venezuela Renace",
+    "titleEn": "El QR da error: damnificados de los terremotos denuncian falla para obtener crédito del plan Venezuela Renace",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/reportajes/el-qr-da-error-damnificados-de-los-terremotos-denuncian-falla-para-obtener-credito-del-plan-venezuela-renace/"
+  },
+  {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-11-07",
+    "conf": "med",
     "titleEs": "Voluntarios de Todos con Venezuela entregan nueva motobomba a los Cascos Rojos en La Guaira",
     "titleEn": "Voluntarios de Todos con Venezuela entregan nueva motobomba a los Cascos Rojos en La Guaira",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
@@ -26,5 +40,19 @@
     "needsEs": [],
     "needsEn": [],
     "url": "https://elpitazo.net/politica/tenemos-un-tremendo-problema-electrico-jorge-rodriguez-reconoce-fallas-y-anuncia-nueva-ley-para-incluir-al-sector-privado/"
+  },
+  {
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
+    "date": "2026-11-07",
+    "conf": "med",
+    "titleEs": "OVP denuncia que sismos agravaron el retardo procesal en La Guaira",
+    "titleEn": "OVP denuncia que sismos agravaron el retardo procesal en La Guaira",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://runrun.es/noticias/624910/ovp-denuncia-que-sismos-agravaron-el-retardo-procesal-en-la-guaira/"
   }
 ]

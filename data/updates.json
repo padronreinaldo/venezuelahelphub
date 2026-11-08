@@ -1,5 +1,33 @@
 [
   {
+    "sourceEs": "El Pitazo",
+    "sourceEn": "El Pitazo",
+    "date": "2026-11-08",
+    "conf": "med",
+    "titleEs": "María Corina Machado visita una de las zonas de Caracas más afectadas por el doblete sísmico",
+    "titleEn": "María Corina Machado visita una de las zonas de Caracas más afectadas por el doblete sísmico",
+    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://elpitazo.net/politica/maria-corina-machado-visita-una-de-las-zonas-de-caracas-mas-afectadas-por-el-doblete-sismico/"
+  },
+  {
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
+    "date": "2026-11-08",
+    "conf": "med",
+    "titleEs": "Machado se reunió con afectados por terremotos en San Bernardino",
+    "titleEn": "Machado se reunió con afectados por terremotos en San Bernardino",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://runrun.es/noticias/624963/machado-se-reune-con-afectados-por-terremotos-en-san-bernardino/"
+  },
+  {
     "sourceEs": "Runrun.es",
     "sourceEn": "Runrun.es",
     "date": "2026-11-07",

@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-08-11-2026-14:58-10.31--73.36",
+    "time": "2026-11-08T18:58:00.000Z",
+    "mag": 2.7,
+    "depth": 20.6,
+    "lat": 10.31,
+    "lon": -73.36,
+    "place": "21 km al suroeste de Valledupar",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-08-11-2026-08:07-10.54--67.35",
     "time": "2026-11-08T12:07:00.000Z",
     "mag": 2,
@@ -7477,21 +7492,6 @@
     "lat": 9.8,
     "lon": -70.13,
     "place": "29 km al suroeste de Curarigua",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-24-09-2026-08:16-6.26--73.58",
-    "time": "2026-09-24T12:16:00.000Z",
-    "mag": 4,
-    "depth": 124.7,
-    "lat": 6.26,
-    "lon": -73.58,
-    "place": "107 km al suroeste de Bucaramanga",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

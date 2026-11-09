@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T22:37:54.643Z",
+  "updatedAt": "2026-11-09T02:19:22.014Z",
   "stats": {
     "maxMagnitude": 4.5,
     "aftershocks": 0,
@@ -19,17 +19,17 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thrm"
     },
     "deaths": {
-      "seenAt": "2026-11-08T22:37:54.643Z",
+      "seenAt": "2026-11-09T02:19:22.014Z",
       "source": "ONU/OCHA · ref. internacional (Wikipedia EN)",
       "url": "https://en.wikipedia.org/wiki/2026_Venezuela_earthquakes"
     },
     "injured": {
-      "seenAt": "2026-11-08T22:37:54.643Z",
+      "seenAt": "2026-11-09T02:19:22.014Z",
       "source": "ONU/OCHA · ref. internacional (Wikipedia EN)",
       "url": "https://en.wikipedia.org/wiki/2026_Venezuela_earthquakes"
     },
     "missing": {
-      "seenAt": "2026-11-08T22:37:54.643Z",
+      "seenAt": "2026-11-09T02:19:22.014Z",
       "source": "ONU/OCHA · ref. internacional (Wikipedia EN)",
       "url": "https://en.wikipedia.org/wiki/2026_Venezuela_earthquakes"
     }
@@ -39,7 +39,7 @@
       "value": 6509,
       "source": "El Pitazo",
       "url": "https://elpitazo.net/politica/maria-corina-machado-visita-una-de-las-zonas-de-caracas-mas-afectadas-por-el-doblete-sismico/",
-      "seenAt": "2026-11-08T22:37:54.643Z"
+      "seenAt": "2026-11-09T02:19:22.014Z"
     },
     "injured": {
       "value": 32038,

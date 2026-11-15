@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-15-11-2026-15:10-7.04--73.16",
+    "time": "2026-11-15T19:10:00.000Z",
+    "mag": 2.6,
+    "depth": 19.5,
+    "lat": 7.04,
+    "lon": -73.16,
+    "place": "9 km al suroeste de Bucaramanga",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-15-11-2026-10:06-6.86--73.15",
     "time": "2026-11-15T14:06:00.000Z",
     "mag": 3.4,
@@ -7477,21 +7492,6 @@
     "lat": 10.96,
     "lon": -62.34,
     "place": "34 km al norte    de Guiria",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-01-10-2026-08:42-11.04--72.57",
-    "time": "2026-10-01T12:42:00.000Z",
-    "mag": 3.3,
-    "depth": 47.2,
-    "lat": 11.04,
-    "lon": -72.57,
-    "place": "53 km al suroeste de Maicao",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

@@ -1,5 +1,20 @@
 [
   {
+    "id": "fv-19-11-2026-06:32-6.88--73.39",
+    "time": "2026-11-19T10:32:00.000Z",
+    "mag": 2.7,
+    "depth": 127,
+    "lat": 6.88,
+    "lon": -73.39,
+    "place": "40 km al suroeste de Bucaramanga",
+    "url": "http://www.funvisis.gob.ve/recientes.php",
+    "dyfi": null,
+    "alert": null,
+    "tsunami": false,
+    "status": null,
+    "source": "FUNVISIS"
+  },
+  {
     "id": "fv-19-11-2026-04:07-8.37--73.44",
     "time": "2026-11-19T08:07:00.000Z",
     "mag": 3.1,
@@ -7477,21 +7492,6 @@
     "lat": 10.49,
     "lon": -69.45,
     "place": "29. km al sureste  de Siquisique",
-    "url": "http://www.funvisis.gob.ve/recientes.php",
-    "dyfi": null,
-    "alert": null,
-    "tsunami": false,
-    "status": null,
-    "source": "FUNVISIS"
-  },
-  {
-    "id": "fv-04-10-2026-03:41-6.79--72.91",
-    "time": "2026-10-04T07:41:00.000Z",
-    "mag": 2.9,
-    "depth": 155.3,
-    "lat": 6.79,
-    "lon": -72.91,
-    "place": "42. km al sureste  de Bucaramanga",
     "url": "http://www.funvisis.gob.ve/recientes.php",
     "dyfi": null,
     "alert": null,

@@ -2,15 +2,29 @@
   {
     "sourceEs": "El Pitazo",
     "sourceEn": "El Pitazo",
-    "date": "2026-11-18",
+    "date": "2026-11-19",
     "conf": "med",
-    "titleEs": "Terremotos | Autoridades y vecinos preparan implosión de residencias Costabella en Caraballeda",
-    "titleEn": "Terremotos | Autoridades y vecinos preparan implosión de residencias Costabella en Caraballeda",
+    "titleEs": "Terremotos | Recuperan cuerpos de tía y sobrino abrazados entre los escombros de Residencias El Jurel",
+    "titleEn": "Terremotos | Recuperan cuerpos de tía y sobrino abrazados entre los escombros de Residencias El Jurel",
     "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
     "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/ultimas-noticias/terremotos-autoridades-y-vecinos-preparan-implosion-de-residencias-costabella-en-caraballeda/"
+    "url": "https://elpitazo.net/zzdestacado_2/terremotos-recuperan-cuerpos-de-tia-y-sobrino-abrazados-entre-los-escombros-de-residencias-el-jurel/"
+  },
+  {
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
+    "date": "2026-11-19",
+    "conf": "med",
+    "titleEs": "Banco Alimentar atendió a más de 63 900 personas en 2026 y busca almacén para ampliar su capacidad",
+    "titleEn": "Banco Alimentar atendió a más de 63 900 personas en 2026 y busca almacén para ampliar su capacidad",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://runrun.es/noticias/626014/banco-alimentar-atendio-a-mas-de-63-900-personas-en-2026-y-busca-almacen-para-ampliar-su-capacidad/"
   }
 ]

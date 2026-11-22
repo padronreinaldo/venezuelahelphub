@@ -1,16 +1,30 @@
 [
   {
-    "sourceEs": "El Pitazo",
-    "sourceEn": "El Pitazo",
+    "sourceEs": "Efecto Cocuyo",
+    "sourceEn": "Efecto Cocuyo",
     "date": "2026-11-21",
     "conf": "med",
-    "titleEs": "Sismo de 6.7 sacude al centro de Perú: autoridades reportan afectaciones leves",
-    "titleEn": "Sismo de 6.7 sacude al centro de Perú: autoridades reportan afectaciones leves",
-    "sumEs": "Cobertura de El Pitazo sobre el sismo. Lee la nota completa en la fuente original.",
-    "sumEn": "Coverage from El Pitazo about the earthquake. Read the full story at the original source.",
+    "titleEs": "#A5Meses del doble terremoto: Marlon Paz está en Residencias Caribe desde el día uno buscando a su familia",
+    "titleEn": "#A5Meses del doble terremoto: Marlon Paz está en Residencias Caribe desde el día uno buscando a su familia",
+    "sumEs": "Cobertura de Efecto Cocuyo sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Efecto Cocuyo about the earthquake. Read the full story at the original source.",
     "areas": [],
     "needsEs": [],
     "needsEn": [],
-    "url": "https://elpitazo.net/internacionales/sismo-de-6-7-sacude-al-centro-de-peru-autoridades-reportan-afectaciones-leves/"
+    "url": "https://efectococuyo.com/la-humanidad/a5meses-del-doble-terremoto-marlon-paz-esta-en-residencias-caribe-desde-el-dia-uno-buscando-a-su-familia/"
+  },
+  {
+    "sourceEs": "Runrun.es",
+    "sourceEn": "Runrun.es",
+    "date": "2026-11-21",
+    "conf": "med",
+    "titleEs": "María Corina Machado llama a “replicar el 28 de julio con mayoría absoluta”",
+    "titleEn": "María Corina Machado llama a “replicar el 28 de julio con mayoría absoluta”",
+    "sumEs": "Cobertura de Runrun.es sobre el sismo. Lee la nota completa en la fuente original.",
+    "sumEn": "Coverage from Runrun.es about the earthquake. Read the full story at the original source.",
+    "areas": [],
+    "needsEs": [],
+    "needsEn": [],
+    "url": "https://runrun.es/noticias/626195/maria-corina-machado-llama-a-replicar-el-28-de-julio-con-mayoria-absoluta/"
   }
 ]

@@ -1,11 +1,20 @@
 [
   {
-    "source": "El Pitazo",
+    "source": "Efecto Cocuyo",
     "section": "Venezuela",
     "date": "2026-11-21",
-    "img": "https://elpitazo.net/wp-content/uploads/2026/09/sismos.jpg",
-    "titleEs": "Sismo de 6.7 sacude al centro de Perú: autoridades reportan afectaciones leves",
-    "titleEn": "Sismo de 6.7 sacude al centro de Perú: autoridades reportan afectaciones leves",
-    "url": "https://elpitazo.net/internacionales/sismo-de-6-7-sacude-al-centro-de-peru-autoridades-reportan-afectaciones-leves/"
+    "img": "https://d29q9358y6twq3.cloudfront.net/wp-content/uploads/2026/11/18115555/BeFunky-collage-6-1024x620.jpg",
+    "titleEs": "#A5Meses del doble terremoto: Marlon Paz está en Residencias Caribe desde el día uno buscando a su familia",
+    "titleEn": "#A5Meses del doble terremoto: Marlon Paz está en Residencias Caribe desde el día uno buscando a su familia",
+    "url": "https://efectococuyo.com/la-humanidad/a5meses-del-doble-terremoto-marlon-paz-esta-en-residencias-caribe-desde-el-dia-uno-buscando-a-su-familia/"
+  },
+  {
+    "source": "Runrun.es",
+    "section": "Venezuela",
+    "date": "2026-11-21",
+    "img": "https://runrun.es/wp-content/uploads/2025/12/Maria-Corina-Machado.jpg",
+    "titleEs": "María Corina Machado llama a “replicar el 28 de julio con mayoría absoluta”",
+    "titleEn": "María Corina Machado llama a “replicar el 28 de julio con mayoría absoluta”",
+    "url": "https://runrun.es/noticias/626195/maria-corina-machado-llama-a-replicar-el-28-de-julio-con-mayoria-absoluta/"
   }
 ]
